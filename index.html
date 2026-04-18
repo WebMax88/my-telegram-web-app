@@ -1,18 +1,37 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <script src="https://telegram.org"></script>
-    <style>
-        table { width: 100%; border-collapse: collapse; }
-        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-    </style>
-</head>
 <body>
-    <h3>Моя таблица</h3>
-    <table>
-        <tr><th>ID</th><th>Наименование</th></tr>
-        <tr><td>1</td><td>Товар А</td></tr>
-        <tr><td>2</td><td>Товар Б</td></tr>
-    </table>
+  <table border="1" id="myTable">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Имя</th>
+        <th>Город</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Сюда JavaScript добавит данные -->
+    </tbody>
+  </table>
+
+  <script>
+    // Загружаем данные из файла
+    fetch('data.json')
+      .then(response => response.json()) // Преобразуем ответ в JSON
+      .then(data => {
+        const tbody = document.querySelector('#myTable tbody');
+        
+        // Проходим циклом по массиву объектов
+        data.forEach(item => {
+          const row = `<tr>
+            <td>${item.id}</td>
+            <td>${item.name}</td>
+            <td>${item.city}</td>
+          </tr>`;
+          tbody.innerHTML += row; // Добавляем строку в таблицу
+        });
+      })
+      .catch(error => console.error('Ошибка загрузки:', error));
+  </script>
 </body>
 </html>
