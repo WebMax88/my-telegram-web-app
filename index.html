@@ -1,37 +1,261 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Render Queue</title>
+  <style>
+    :root {
+      --bg: #111827;
+      --panel: #1f2937;
+      --panel-2: #374151;
+      --text: #f9fafb;
+      --muted: #9ca3af;
+      --border: #4b5563;
+      --green: #10b981;
+      --yellow: #f59e0b;
+      --red: #ef4444;
+      --blue: #3b82f6;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: 24px;
+    }
+
+    h1 {
+      margin: 0 0 24px;
+      font-size: 28px;
+    }
+
+    .project {
+      margin-bottom: 32px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .project-header {
+      padding: 16px 20px;
+      background: var(--panel-2);
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 1100px;
+    }
+
+    th, td {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+      text-align: left;
+      white-space: nowrap;
+      font-size: 14px;
+    }
+
+    th {
+      position: sticky;
+      top: 0;
+      background: var(--panel-2);
+      z-index: 1;
+    }
+
+    tr:hover td {
+      background: rgba(255,255,255,0.03);
+    }
+
+    .status {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    .status-queued {
+      background: rgba(245, 158, 11, 0.15);
+      color: #fbbf24;
+    }
+
+    .status-rendering {
+      background: rgba(59, 130, 246, 0.15);
+      color: #60a5fa;
+    }
+
+    .status-done {
+      background: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+    }
+
+    .progress-bar {
+      width: 120px;
+      height: 8px;
+      background: #0b1220;
+      border-radius: 999px;
+      overflow: hidden;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 8px;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: var(--green);
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+  </style>
+</head>
 <body>
-  <table border="1" id="myTable">
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Имя</th>
-        <th>Город</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Сюда JavaScript добавит данные -->
-    </tbody>
-  </table>
+  <h1>Render Queue</h1>
+  <div id="app"></div>
 
   <script>
-    // Загружаем данные из файла
-    fetch('data.json')
-      .then(response => response.json()) // Преобразуем ответ в JSON
-      .then(data => {
-        const tbody = document.querySelector('#myTable tbody');
-        
-        // Проходим циклом по массиву объектов
-        data.forEach(item => {
-          const row = `<tr>
-            <td>${item.id}</td>
-            <td>${item.name}</td>
-            <td>${item.city}</td>
-          </tr>`;
-          tbody.innerHTML += row; // Добавляем строку в таблицу
-        });
-      })
-      .catch(error => console.error('Ошибка загрузки:', error));
+    const data = {
+      "WINLINE_BELARUS": [
+        {
+          "Task_Progress": "0%",
+          "Name": "WLB_050_w_v31-/o",
+          "User": "druz",
+          "Plugin": "Houdini",
+          "Progress": "0%",
+          "Tasks": "(0/37)",
+          "Status": "Queued",
+          "Project": "WINLINE_BELARUS",
+          "Render": "Lightnings_hand",
+          "est.": "unknown",
+          "Priority": "60"
+        },
+        {
+          "Task_Progress": "100%",
+          "Name": "WLB_010_v34-/out",
+          "User": "shashkov",
+          "Plugin": "Houdini",
+          "Progress": "34%",
+          "Tasks": "(15/44)",
+          "Status": "Rendering (2)",
+          "Project": "WINLINE_BELARUS",
+          "Render": "lightning",
+          "est.": "04:16:30",
+          "Priority": "60"
+        }
+      ],
+      "T2_INSTRUCTION": [
+        {
+          "Task_Progress": "100%",
+          "Name": "TTI_010_v50-/obj",
+          "User": "goncharov",
+          "Plugin": "Houdini",
+          "Progress": "6%",
+          "Tasks": "(4/61)",
+          "Status": "Queued",
+          "Project": "T2_INSTRUCTION",
+          "Render": "usdrender_rop",
+          "est.": "unknown",
+          "Priority": "60"
+        }
+      ]
+    };
+
+    const columns = [
+      "Name",
+      "User",
+      "Plugin",
+      "Render",
+      "Status",
+      "Progress",
+      "Task_Progress",
+      "Tasks",
+      "est.",
+      "Priority"
+    ];
+
+    function getStatusClass(status) {
+      if (status.toLowerCase().includes("rendering")) return "status-rendering";
+      if (status.toLowerCase().includes("queued")) return "status-queued";
+      if (status.toLowerCase().includes("done")) return "status-done";
+      return "";
+    }
+
+    function percentToNumber(value) {
+      return parseInt(String(value).replace("%", ""), 10) || 0;
+    }
+
+    function renderProgress(value) {
+      const num = percentToNumber(value);
+      return `
+        <div class="progress-bar">
+          <div class="progress-fill" style="width:${num}%"></div>
+        </div>
+        <span>${value}</span>
+      `;
+    }
+
+    function renderCell(column, row) {
+      if (column === "Status") {
+        return `<span class="status ${getStatusClass(row[column])}">${row[column]}</span>`;
+      }
+
+      if (column === "Progress" || column === "Task_Progress") {
+        return renderProgress(row[column]);
+      }
+
+      if (column === "est." && row[column] === "unknown") {
+        return `<span class="muted">${row[column]}</span>`;
+      }
+
+      return row[column] ?? "";
+    }
+
+    function createTable(projectName, rows) {
+      return `
+        <section class="project">
+          <div class="project-header">${projectName} <span class="muted">(${rows.length} jobs)</span></div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  ${columns.map(col => `<th>${col}</th>`).join("")}
+                </tr>
+              </thead>
+              <tbody>
+                ${rows.map(row => `
+                  <tr>
+                    ${columns.map(col => `<td>${renderCell(col, row)}</td>`).join("")}
+                  </tr>
+                `).join("")}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      `;
+    }
+
+    function renderAllProjects(data) {
+      const app = document.getElementById("app");
+      app.innerHTML = Object.entries(data)
+        .map(([projectName, rows]) => createTable(projectName, rows))
+        .join("");
+    }
+
+    renderAllProjects(data);
   </script>
 </body>
 </html>
