@@ -231,7 +231,7 @@
   <script>
     const columns = [
       "Name", "User", "Status",
-      "Progress", "Task_Progress", "Tasks", "est.", "Priority"
+      "Progress", "Tasks", "est.", "Priority"
     ];
 
     function getStatusClass(status) {
@@ -308,7 +308,7 @@
             return `
               <div class="m-row">
                 <div class="m-top">
-                  <div class="m-name">${row.Task_name} / ${row.Render}</div>
+                  <div class="m-name">${row.Task_name}</div>
                   <div class="m-status ${getStatusTextClass(row.Status)}">${row.Status}</div>
                 </div>
 
