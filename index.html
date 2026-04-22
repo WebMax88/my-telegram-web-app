@@ -270,6 +270,9 @@
       if (column === "Status") {
         return `<span class="status ${getStatusClass(row[column])}">${row[column]}</span>`;
       }
+      if (column === "Name") {
+        return row["Task_name"];  // вместо row["Name"]
+      }
       if (column === "Progress" || column === "Task_Progress") {
         return renderDesktopProgress(row[column]);
       }
@@ -305,7 +308,7 @@
             return `
               <div class="m-row">
                 <div class="m-top">
-                  <div class="m-name">${row.Task_name} / ${row.Render}</div>
+                  <div class="m-name">${row.Name} / ${row.Render}</div>
                   <div class="m-status ${getStatusTextClass(row.Status)}">${row.Status}</div>
                 </div>
 
