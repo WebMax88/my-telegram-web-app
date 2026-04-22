@@ -349,18 +349,18 @@
     }
 
     async function loadData() {
-        try {
-                const response = await fetch("./data.json?_=" + Date.now(), {
-                cache: "no-store"
-            });
-            if (!response.ok) {
-                throw new Error("HTTP " + response.status);
-                }
-                const data = await response.json();
-                renderAllProjects(data);
-            } catch (e) {
-                console.error("Failed to load data.json", e);
+      try {
+        const response = await fetch("./data.json?_=" + Date.now(), {
+          cache: "no-store"
+        });
+        if (!response.ok) {
+          throw new Error("HTTP " + response.status);
         }
+        const data = await response.json();
+        renderAllProjects(data);
+      } catch (e) {
+        console.error("Failed to load data.json", e);
+      }
     }
 
     loadData();
