@@ -327,20 +327,21 @@
               <div class="m-row">
                 <div class="m-top">
                   <div class="m-name">${row.Task_name}</div>
-                  <div class="m-status ${getStatusTextClass(row.Status)}">${row.Status}</div>
+                  
                 </div>
 
                 <div class="m-progress-line">
                   <div class="progress-bar">
                     <div class="progress-fill" style="width:${progressNum}%"></div>
                   </div>
-                  <div class="m-progress-text">${row.Progress} ${row.Tasks}</div>
+                  <div class="m-progress-text">${row.Progress}</div>
                 </div>
 
                 <div class="m-meta">
                   <span><strong>${row.User}</strong></span>
                   <span class="${getPriorityClass(row.Priority)}">Priority: ${row.Priority}</span>
                   <span>ETA ${row["est."]}</span>
+                  <div class="m-status ${getStatusTextClass(row.Status)}">${row.Status} ${row.Tasks}</div>
                 </div>
               </div>
             `;
