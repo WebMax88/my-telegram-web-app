@@ -338,10 +338,10 @@
                 </div>
 
                 <div class="m-meta">
-                  <span><strong>${row.User}</strong></span>
+                  <div class="m-status ${getStatusTextClass(row.Status)}">${row.Status}</div>
                   <span class="${getPriorityClass(row.Priority)}">Priority: ${row.Priority}</span>
                   <span>ETA ${row["est."]}</span>
-                  <div class="m-status ${getStatusTextClass(row.Status)}">${row.Status}</div>
+                  <span><strong>${row.User}</strong></span>
                 </div>
               </div>
             `;
