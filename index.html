@@ -6,233 +6,220 @@
   <title>Render Queue</title>
   <style>
     :root {
-      --bg: #111827;
-      --panel: #1f2937;
-      --panel-2: #374151;
-      --panel-3: #0f172a;
-      --text: #f9fafb;
-      --muted: #9ca3af;
-      --border: #4b5563;
-      --green: #10b981;
-      --yellow: #f59e0b;
-      --red: #ef4444;
-      --blue: #3b82f6;
+      --bg: #0b0f14;
+      --panel: #111827;
+      --panel-2: #1f2937;
+      --row-a: #0f172a;
+      --row-b: #111827;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+      --border: #273244;
+      --green: #4ade80;
+      --blue: #60a5fa;
+      --yellow: #fbbf24;
+      --red: #f87171;
+      --bar-bg: #0a0f18;
       --radius: 10px;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
-      font-family: Courier New, monospace;
       background: var(--bg);
       color: var(--text);
-      padding: 10px;
+      font-family: Arial, sans-serif;
+      padding: 12px;
     }
 
     h1 {
-      margin: 0 0 20px;
-      font-size: 18px;
+      margin: 0 0 14px;
+      font-size: 20px;
     }
 
     .project {
-      margin-bottom: 24px;
-      background: var(--panel);
+      margin-bottom: 18px;
       border: 1px solid var(--border);
       border-radius: var(--radius);
       overflow: hidden;
+      background: var(--panel);
     }
 
     .project-header {
-      padding: 14px 16px;
+      padding: 10px 12px;
       background: var(--panel-2);
-      font-size: 18px;
+      font-size: 15px;
       font-weight: bold;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: center;
     }
 
-    .project-count {
+    .project-meta {
+      font-size: 12px;
       color: var(--muted);
       font-weight: normal;
-      font-size: 14px;
-      margin-left: 8px;
     }
 
     .table-wrap {
       overflow-x: auto;
-      display: block;
     }
 
     table {
       width: 100%;
-      min-width: 1050px;
+      min-width: 980px;
       border-collapse: collapse;
     }
 
     th, td {
-      padding: 12px 14px;
+      padding: 10px 12px;
       border-bottom: 1px solid var(--border);
       text-align: left;
       white-space: nowrap;
-      font-size: 14px;
+      font-size: 13px;
     }
 
     th {
+      background: var(--panel-2);
       position: sticky;
       top: 0;
-      background: var(--panel-2);
       z-index: 1;
     }
 
-    tr:hover td {
-      background: rgba(255,255,255,0.03);
-    }
-
-    .cards {
+    .mobile-list {
       display: none;
-      padding: 10px;
-      gap: 10px;
     }
 
-    .job-card {
-      background: var(--panel-3);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 12px;
+    .m-row {
+      padding: 8px 10px;
+      border-bottom: 1px solid var(--border);
+      background: var(--row-a);
     }
 
-    .job-top {
+    .m-row:nth-child(even) {
+      background: var(--row-b);
+    }
+
+    .m-top {
       display: flex;
-      justify-content: space-between;
-      gap: 10px;
-      align-items: flex-start;
-      margin-bottom: 12px;
-    }
-
-    .job-name {
-      font-size: 15px;
-      font-weight: bold;
-      line-height: 1.2;
-    }
-
-    .job-render {
-      font-size: 13px;
-      color: var(--muted);
-      margin-top: 4px;
-    }
-
-    .status {
-      display: inline-block;
-      padding: 4px 10px;
-      border-radius: 999px;
-      font-size: 12px;
-      font-weight: bold;
-      white-space: nowrap;
-    }
-
-    .status-queued {
-      background: rgba(245, 158, 11, 0.15);
-      color: #fbbf24;
-    }
-
-    .status-rendering {
-      background: rgba(59, 130, 246, 0.15);
-      color: #60a5fa;
-    }
-
-    .status-done {
-      background: rgba(16, 185, 129, 0.15);
-      color: #34d399;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px 14px;
-      margin-bottom: 12px;
-    }
-
-    .field-label {
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      color: var(--muted);
-      margin-bottom: 4px;
-    }
-
-    .field-value {
-      font-size: 14px;
-      line-height: 1.3;
-    }
-
-    .progress-block {
-      margin-top: 10px;
-    }
-
-    .progress-row {
-      margin-bottom: 10px;
-    }
-
-    .progress-row:last-child {
-      margin-bottom: 0;
-    }
-
-    .progress-meta {
-      display: flex;
+      align-items: center;
       justify-content: space-between;
       gap: 8px;
-      font-size: 13px;
-      margin-bottom: 6px;
+      margin-bottom: 5px;
+    }
+
+    .m-name {
+      min-width: 0;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 1.2;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      flex: 1;
+    }
+
+    .m-status {
+      font-size: 12px;
+      font-weight: 700;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .queued { color: #f8fafc; }
+    .rendering { color: var(--green); }
+    .done { color: #86efac; }
+
+    .m-progress-line {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 5px;
     }
 
     .progress-bar {
       width: 100%;
       height: 8px;
-      background: #0b1220;
+      background: var(--bar-bg);
       border-radius: 999px;
       overflow: hidden;
     }
 
     .progress-fill {
       height: 100%;
-      background: var(--green);
+      background: linear-gradient(90deg, #7dd3fc, #60a5fa);
     }
 
-    .muted {
+    .m-progress-text {
+      font-size: 12px;
+      color: var(--text);
+      white-space: nowrap;
+    }
+
+    .m-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 10px;
+      font-size: 12px;
       color: var(--muted);
+      line-height: 1.2;
     }
 
-    @media (max-width: 768px) {
+    .m-meta strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .status {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .status-queued {
+      background: rgba(251, 191, 36, 0.14);
+      color: #fbbf24;
+    }
+
+    .status-rendering {
+      background: rgba(96, 165, 250, 0.14);
+      color: #60a5fa;
+    }
+
+    .status-done {
+      background: rgba(74, 222, 128, 0.14);
+      color: #86efac;
+    }
+
+    @media (max-width: 720px) {
       body {
-        padding: 12px;
+        padding: 8px;
       }
 
       h1 {
-        font-size: 20px;
+        font-size: 18px;
+        margin-bottom: 10px;
       }
 
       .table-wrap {
         display: none;
       }
 
-      .cards {
-        display: grid;
+      .mobile-list {
+        display: block;
       }
 
-      .grid {
-        grid-template-columns: 1fr 1fr;
-      }
-    }
-
-    @media (max-width: 480px) {
-      .grid {
-        grid-template-columns: 1fr;
+      .project-header {
+        padding: 8px 10px;
+        font-size: 14px;
       }
 
-      .job-top {
-        flex-direction: column;
-        align-items: flex-start;
+      .project-meta {
+        font-size: 11px;
       }
     }
   </style>
@@ -245,19 +232,6 @@
     const data = {
       "WINLINE_BELARUS": [
         {
-          "Task_Progress": "0%",
-          "Name": "WLB_050_w_v31-/o",
-          "User": "druz",
-          "Plugin": "Houdini",
-          "Progress": "0%",
-          "Tasks": "(0/37)",
-          "Status": "Queued",
-          "Project": "WINLINE_BELARUS",
-          "Render": "Lightnings_hand",
-          "est.": "unknown",
-          "Priority": "60"
-        },
-        {
           "Task_Progress": "100%",
           "Name": "WLB_010_v34-/out",
           "User": "shashkov",
@@ -269,19 +243,30 @@
           "Render": "lightning",
           "est.": "04:16:30",
           "Priority": "60"
-        }
-      ],
-      "T2_INSTRUCTION": [
+        },
         {
           "Task_Progress": "100%",
-          "Name": "TTI_010_v50-/obj",
-          "User": "goncharov",
+          "Name": "WLB_050_w_v31-/o",
+          "User": "druz",
           "Plugin": "Houdini",
-          "Progress": "6%",
-          "Tasks": "(4/61)",
+          "Progress": "27%",
+          "Tasks": "(10/37)",
+          "Status": "Rendering (1)",
+          "Project": "WINLINE_BELARUS",
+          "Render": "volume",
+          "est.": "04:31:55",
+          "Priority": "60"
+        },
+        {
+          "Task_Progress": "0%",
+          "Name": "WLB_030_v011-/ou",
+          "User": "syslov",
+          "Plugin": "Houdini",
+          "Progress": "0%",
+          "Tasks": "(0/8)",
           "Status": "Queued",
-          "Project": "T2_INSTRUCTION",
-          "Render": "usdrender_rop",
+          "Project": "WINLINE_BELARUS",
+          "Render": "main",
           "est.": "unknown",
           "Priority": "60"
         }
@@ -289,16 +274,8 @@
     };
 
     const columns = [
-      "Name",
-      "User",
-      "Plugin",
-      "Render",
-      "Status",
-      "Progress",
-      "Task_Progress",
-      "Tasks",
-      "est.",
-      "Priority"
+      "Name", "User", "Plugin", "Render", "Status",
+      "Progress", "Task_Progress", "Tasks", "est.", "Priority"
     ];
 
     function getStatusClass(status) {
@@ -309,15 +286,26 @@
       return "";
     }
 
+    function getStatusTextClass(status) {
+      const s = status.toLowerCase();
+      if (s.includes("rendering")) return "rendering";
+      if (s.includes("queued")) return "queued";
+      if (s.includes("done")) return "done";
+      return "";
+    }
+
     function percentToNumber(value) {
       return parseInt(String(value).replace("%", ""), 10) || 0;
     }
 
-    function renderProgress(value) {
+    function renderDesktopProgress(value) {
       const num = percentToNumber(value);
       return `
-        <div class="progress-bar">
-          <div class="progress-fill" style="width:${num}%"></div>
+        <div style="display:flex;align-items:center;gap:8px;min-width:140px;">
+          <div class="progress-bar" style="width:90px;">
+            <div class="progress-fill" style="width:${num}%"></div>
+          </div>
+          <span>${value}</span>
         </div>
       `;
     }
@@ -326,20 +314,9 @@
       if (column === "Status") {
         return `<span class="status ${getStatusClass(row[column])}">${row[column]}</span>`;
       }
-
       if (column === "Progress" || column === "Task_Progress") {
-        return `
-          <div style="min-width:140px">
-            <div style="margin-bottom:6px">${row[column]}</div>
-            ${renderProgress(row[column])}
-          </div>
-        `;
+        return renderDesktopProgress(row[column]);
       }
-
-      if (column === "est." && row[column] === "unknown") {
-        return `<span class="muted">${row[column]}</span>`;
-      }
-
       return row[column] ?? "";
     }
 
@@ -364,65 +341,34 @@
       `;
     }
 
-    function createMobileCards(rows) {
+    function createMobileList(rows) {
       return `
-        <div class="cards">
-          ${rows.map(row => `
-            <article class="job-card">
-              <div class="job-top">
-                <div>
-                  <div class="job-name">${row.Name}</div>
-                  <div class="job-render">${row.Render}</div>
+        <div class="mobile-list">
+          ${rows.map(row => {
+            const progressNum = percentToNumber(row.Progress);
+            return `
+              <div class="m-row">
+                <div class="m-top">
+                  <div class="m-name">${row.Name} / ${row.Render}</div>
+                  <div class="m-status ${getStatusTextClass(row.Status)}">${row.Status}</div>
                 </div>
-                <span class="status ${getStatusClass(row.Status)}">${row.Status}</span>
-              </div>
 
-              <div class="grid">
-                <div>
-                  <div class="field-label">User</div>
-                  <div class="field-value">${row.User}</div>
-                </div>
-                <div>
-                  <div class="field-label">Plugin</div>
-                  <div class="field-value">${row.Plugin}</div>
-                </div>
-                <div>
-                  <div class="field-label">Tasks</div>
-                  <div class="field-value">${row.Tasks}</div>
-                </div>
-                <div>
-                  <div class="field-label">ETA</div>
-                  <div class="field-value ${row["est."] === "unknown" ? "muted" : ""}">${row["est."]}</div>
-                </div>
-                <div>
-                  <div class="field-label">Priority</div>
-                  <div class="field-value">${row.Priority}</div>
-                </div>
-                <div>
-                  <div class="field-label">Project</div>
-                  <div class="field-value">${row.Project}</div>
-                </div>
-              </div>
-
-              <div class="progress-block">
-                <div class="progress-row">
-                  <div class="progress-meta">
-                    <span>Progress</span>
-                    <span>${row.Progress}</span>
+                <div class="m-progress-line">
+                  <div class="progress-bar">
+                    <div class="progress-fill" style="width:${progressNum}%"></div>
                   </div>
-                  ${renderProgress(row.Progress)}
+                  <div class="m-progress-text">${row.Progress} ${row.Tasks}</div>
                 </div>
 
-                <div class="progress-row">
-                  <div class="progress-meta">
-                    <span>Task Progress</span>
-                    <span>${row.Task_Progress}</span>
-                  </div>
-                  ${renderProgress(row.Task_Progress)}
+                <div class="m-meta">
+                  <span><strong>${row.User}</strong></span>
+                  <span>prio ${row.Priority}</span>
+                  <span>ETA ${row["est."]}</span>
+                  <span>${row.Plugin}</span>
                 </div>
               </div>
-            </article>
-          `).join("")}
+            `;
+          }).join("")}
         </div>
       `;
     }
@@ -431,18 +377,17 @@
       return `
         <section class="project">
           <div class="project-header">
-            ${projectName}
-            <span class="project-count">${rows.length} jobs</span>
+            <span>${projectName}</span>
+            <span class="project-meta">${rows.length} jobs</span>
           </div>
           ${createDesktopTable(rows)}
-          ${createMobileCards(rows)}
+          ${createMobileList(rows)}
         </section>
       `;
     }
 
     function renderAllProjects(data) {
-      const app = document.getElementById("app");
-      app.innerHTML = Object.entries(data)
+      document.getElementById("app").innerHTML = Object.entries(data)
         .map(([projectName, rows]) => createProject(projectName, rows))
         .join("");
     }
