@@ -194,6 +194,15 @@
       background: rgba(74, 222, 128, 0.14);
       color: #86efac;
     }
+    .prio-yellow {
+      color: var(--yellow);
+      font-weight: 700;
+    }
+
+    .prio-red {
+      color: var(--red);
+      font-weight: 700;
+    }
 
     @media (max-width: 720px) {
       body {
@@ -265,6 +274,13 @@
         </div>
       `;
     }
+    
+    function getPriorityClass(priority) {
+      const p = parseInt(priority, 10) || 0;
+      if (p > 75) return "prio-red";
+      if (p > 60) return "prio-yellow";
+      return "";
+    }
 
     function renderCell(column, row) {
       if (column === "Status") {
@@ -275,6 +291,10 @@
       }
       if (column === "Progress" || column === "Task_Progress") {
         return renderDesktopProgress(row[column]);
+      }
+      if (column === "Priority") {
+        const cls = getPriorityClass(row.Priority);
+        return `<span class="${cls}">${row.Priority}</span>`;
       }
       return row[column] ?? "";
     }
@@ -321,7 +341,7 @@
 
                 <div class="m-meta">
                   <span><strong>${row.User}</strong></span>
-                  <span>Priority: ${row.Priority}</span>
+                  <span class="${getPriorityClass(row.Priority)}">Priority: ${row.Priority}</span>
                   <span>ETA ${row["est."]}</span>
                 </div>
               </div>
