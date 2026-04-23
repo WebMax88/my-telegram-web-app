@@ -1,65 +1,5 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFD_010_v16-/out",
-            "Task_name": "CFD_010_v16 - /out/main",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(110/277)",
-            "Status": "Rendering (7)",
-            "Project": "CFI_DJV",
-            "Render": "main",
-            "est.": "02:48:44",
-            "Priority": "60"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_100_comp_v22",
-            "Task_name": "CHG_100_comp_v22.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(23/26)",
-            "Status": "Rendering (3)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_100_comp_v22.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "CHG_095_comp_v01",
-            "Task_name": "CHG_095_comp_v01.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/17)",
-            "Status": "Rendering (5)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_095_comp_v01.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v45-/out",
-            "Task_name": "WLB_010_v45 - /out/lightning_ball",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/44)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning_ball",
-            "est.": "00:19:45",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "WLB_040_v11-/sta",
@@ -89,14 +29,14 @@
             "Priority": "65"
         },
         {
-            "Task_Progress": "5%",
+            "Task_Progress": "12%",
             "Name": "WLB_010_v45-/out",
             "Task_name": "WLB_010_v45 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/44)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (6)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
             "est.": "unknown",
@@ -108,9 +48,9 @@
             "Task_name": "WLB_010_v44 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(41/44)",
-            "Status": "Rendering (3)",
+            "Progress": "95%",
+            "Tasks": "(42/44)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
             "est.": "00:00:01",
@@ -122,44 +62,44 @@
             "Task_name": "WLB_040_v11 - /out/volume",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(5/14)",
+            "Progress": "50%",
+            "Tasks": "(7/14)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_BELARUS",
             "Render": "volume",
-            "est.": "00:57:45",
+            "est.": "00:35:27",
             "Priority": "75"
         },
         {
-            "Task_Progress": "13%",
+            "Task_Progress": "20%",
             "Name": "WLB_010_v45-/out",
             "Task_name": "WLB_010_v45 - /out/lightning",
             "User": "shashkov",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/44)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "lightning",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v45-/out",
+            "Task_name": "WLB_010_v45 - /out/lightning_ball",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "11%",
+            "Tasks": "(5/44)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "lightning_ball",
+            "est.": "00:16:09",
+            "Priority": "60"
         }
     ],
     "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_031_comp_v17",
-            "Task_name": "TTI_031_comp_v17.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(57/57)",
-            "Status": "Completed",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_031_comp_v17.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        },
         {
             "Task_Progress": "100%",
             "Name": "TTI_005_comp_doo",
@@ -185,6 +125,38 @@
             "Status": "Rendering (5)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_005_comp_dooh_6sec_v35.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFD_010_v16-/out",
+            "Task_name": "CFD_010_v16 - /out/main",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "41%",
+            "Tasks": "(116/277)",
+            "Status": "Rendering (7)",
+            "Project": "CFI_DJV",
+            "Render": "main",
+            "est.": "02:42:23",
+            "Priority": "60"
+        }
+    ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_100_comp_v22",
+            "Task_name": "CHG_100_comp_v22.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(25/26)",
+            "Status": "Rendering (1)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_100_comp_v22.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
