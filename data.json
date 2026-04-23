@@ -1,94 +1,4 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFD_010_v16-/out",
-            "Task_name": "CFD_010_v16 - /out/main",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(78/277)",
-            "Status": "Rendering (7)",
-            "Project": "CFI_DJV",
-            "Render": "main",
-            "est.": "03:24:09",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_020_comp_v06",
-            "Task_name": "TST_020_comp_v06.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "40%",
-            "Tasks": "(4/10)",
-            "Status": "Rendering (6)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_020_comp_v06.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v1",
-            "Task_name": "TST_055_Wheel_v18 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(40/44)",
-            "Status": "Rendering (4)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_v89-/obj",
-            "Task_name": "TTI_005_v89 - /obj/lopnet1/airplane/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(66/68)",
-            "Status": "Rendering (2)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v35.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "81%",
-            "Tasks": "(31/38)",
-            "Status": "Rendering (7)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v35.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "60%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v36.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "55%",
-            "Tasks": "(21/38)",
-            "Status": "Rendering (15)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v36.nk",
-            "est.": "00:00:46",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
@@ -96,12 +6,12 @@
             "Task_name": "WLB_010_v44 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(33/44)",
-            "Status": "Rendering (7)",
+            "Progress": "77%",
+            "Tasks": "(34/44)",
+            "Status": "Rendering (9)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
-            "est.": "00:12:40",
+            "est.": "00:02:26",
             "Priority": "60"
         },
         {
@@ -147,6 +57,80 @@
             "Priority": "60"
         }
     ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v36.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "65%",
+            "Tasks": "(25/38)",
+            "Status": "Rendering (13)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v36.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_v89-/obj",
+            "Task_name": "TTI_005_v89 - /obj/lopnet1/airplane/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(67/68)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v35.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "84%",
+            "Tasks": "(32/38)",
+            "Status": "Rendering (6)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v35.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v1",
+            "Task_name": "TST_055_Wheel_v18 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "90%",
+            "Tasks": "(40/44)",
+            "Status": "Rendering (4)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "TST_020_comp_v06",
+            "Task_name": "TST_020_comp_v06.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/10)",
+            "Status": "Rendering (6)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_020_comp_v06.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "CHERNOGOLOVKA_AI": [
         {
             "Task_Progress": "100%",
@@ -161,6 +145,22 @@
             "Render": "CHG_100_comp_v22.nk",
             "est.": "00:00:01",
             "Priority": "90"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFD_010_v16-/out",
+            "Task_name": "CFD_010_v16 - /out/main",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "29%",
+            "Tasks": "(82/277)",
+            "Status": "Rendering (7)",
+            "Project": "CFI_DJV",
+            "Render": "main",
+            "est.": "03:18:29",
+            "Priority": "60"
         }
     ]
 }
