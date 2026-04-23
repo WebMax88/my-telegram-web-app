@@ -1,18 +1,18 @@
 {
-    "CFI_DJV": [
+    "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "100%",
-            "Name": "CFD_010_v16-/out",
-            "Task_name": "CFD_010_v16 - /out/main",
-            "User": "gridasov",
+            "Task_Progress": "10%",
+            "Name": "Generic_v140-/ob",
+            "Task_name": "Generic_v140 - /obj/lopnet1/DSG_510_ground_atmo/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(97/277)",
-            "Status": "Rendering (11)",
-            "Project": "CFI_DJV",
-            "Render": "main",
-            "est.": "01:53:27",
-            "Priority": "60"
+            "Progress": "10%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
         }
     ],
     "WINLINE_BELARUS": [
@@ -29,6 +29,20 @@
             "Render": "uv",
             "est.": "unknown",
             "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_040_v11-/sta",
+            "Task_name": "WLB_040_v11 - /stage/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "18%",
+            "Tasks": "(12/66)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "usdrender_rop",
+            "est.": "03:03:59",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -50,55 +64,11 @@
             "Task_name": "WLB_010_v44 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(39/44)",
-            "Status": "Rendering (5)",
+            "Progress": "90%",
+            "Tasks": "(40/44)",
+            "Status": "Rendering (4)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_040_title_v0",
-            "Task_name": "WLB_040_title_v07 - /stage/bolts_trans_small_rop/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(18/66)",
-            "Status": "Rendering (14)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "usdrender_rop",
-            "est.": "00:01:41",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_040_v11-/sta",
-            "Task_name": "WLB_040_v11 - /stage/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(10/66)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "usdrender_rop",
-            "est.": "03:13:53",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v1",
-            "Task_name": "TST_055_Wheel_v18 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -140,12 +110,12 @@
             "Task_name": "CHG_010_comp_v09.nk",
             "User": "f.smirnov",
             "Plugin": "Nuke",
-            "Progress": "2%",
-            "Tasks": "(1/45)",
-            "Status": "Rendering (1)",
+            "Progress": "33%",
+            "Tasks": "(15/45)",
+            "Status": "Rendering (5)",
             "Project": "CHERNOGOLOVKA_AI",
             "Render": "CHG_010_comp_v09.nk",
-            "est.": "00:39:29",
+            "est.": "00:03:04",
             "Priority": "90"
         },
         {
@@ -154,13 +124,45 @@
             "Task_name": "CHG_100_comp_v22.nk",
             "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "34%",
-            "Tasks": "(9/26)",
-            "Status": "Rendering (14)",
+            "Progress": "69%",
+            "Tasks": "(18/26)",
+            "Status": "Rendering (8)",
             "Project": "CHERNOGOLOVKA_AI",
             "Render": "CHG_100_comp_v22.nk",
-            "est.": "00:00:12",
+            "est.": "00:00:01",
             "Priority": "90"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v1",
+            "Task_name": "TST_055_Wheel_v18 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "100%",
+            "Tasks": "(44/44)",
+            "Status": "Completed",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:00:00",
+            "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFD_010_v16-/out",
+            "Task_name": "CFD_010_v16 - /out/main",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "36%",
+            "Tasks": "(101/277)",
+            "Status": "Rendering (12)",
+            "Project": "CFI_DJV",
+            "Render": "main",
+            "est.": "01:41:01",
+            "Priority": "60"
         }
     ]
 }
