@@ -7,27 +7,27 @@
             "User": "gridasov",
             "Plugin": "Houdini",
             "Progress": "44%",
-            "Tasks": "(122/277)",
+            "Tasks": "(123/277)",
             "Status": "Rendering (5)",
             "Project": "CFI_DJV",
             "Render": "main",
-            "est.": "03:41:15",
+            "est.": "03:40:26",
             "Priority": "60"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "CHG_100_comp_v22",
-            "Task_name": "CHG_100_comp_v22.nk",
-            "User": "loktev",
+            "Name": "TST_025_comp_v02",
+            "Task_name": "TST_025_comp_v02.nk",
+            "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(25/26)",
-            "Status": "Rendering (1)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_100_comp_v22.nk",
-            "est.": "00:00:01",
+            "Progress": "33%",
+            "Tasks": "(3/9)",
+            "Status": "Rendering (4)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_025_comp_v02.nk",
+            "est.": "00:00:17",
             "Priority": "90"
         }
     ],
@@ -38,41 +38,27 @@
             "Task_name": "WLB_040_v11 - /out/volume",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(7/14)",
+            "Progress": "57%",
+            "Tasks": "(8/14)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_BELARUS",
             "Render": "volume",
-            "est.": "00:35:27",
+            "est.": "00:24:55",
             "Priority": "75"
         },
         {
-            "Task_Progress": "67%",
+            "Task_Progress": "100%",
             "Name": "WLB_010_v45-/out",
             "Task_name": "WLB_010_v45 - /out/lightning",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/44)",
+            "Progress": "6%",
+            "Tasks": "(3/44)",
             "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "lightning",
-            "est.": "00:59:07",
+            "est.": "01:14:27",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "WLB_050_comp_v09",
-            "Task_name": "WLB_050_comp_v09.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/37)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "WLB_050_comp_v09.nk",
-            "est.": "unknown",
-            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -108,13 +94,27 @@
             "Task_name": "WLB_010_v45 - /out/lightning_ball",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(13/44)",
+            "Progress": "36%",
+            "Tasks": "(16/44)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_BELARUS",
             "Render": "lightning_ball",
-            "est.": "00:26:45",
+            "est.": "00:23:45",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_comp_v09",
+            "Task_name": "WLB_050_comp_v09.nk",
+            "User": "sidenina",
+            "Plugin": "Nuke",
+            "Progress": "18%",
+            "Tasks": "(7/37)",
+            "Status": "Rendering (6)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "WLB_050_comp_v09.nk",
+            "est.": "00:08:45",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -131,7 +131,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "35%",
+            "Task_Progress": "51%",
             "Name": "WLB_010_v45-/out",
             "Task_name": "WLB_010_v45 - /out/main_assemble",
             "User": "shashkov",
@@ -143,55 +143,25 @@
             "Render": "main_assemble",
             "est.": "unknown",
             "Priority": "60"
-        }
-    ],
-    "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "0%",
-            "Name": "Generic_v140-/ob",
-            "Task_name": "Generic_v140 - /obj/lopnet1/DSG_510_ground_atmo/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
         },
         {
-            "Task_Progress": "0%",
-            "Name": "Generic_v140-/ob",
-            "Task_name": "Generic_v140 - /obj/lopnet1/DSG_510_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
+            "Task_Progress": "100%",
+            "Name": "WLB_040_comp_v09",
+            "Task_name": "WLB_040_comp_v09.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "60%",
+            "Tasks": "(40/66)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "WLB_040_comp_v09.nk",
+            "est.": "00:02:31",
+            "Priority": "90"
         }
     ],
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v35.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "86%",
-            "Tasks": "(33/38)",
-            "Status": "Rendering (5)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v35.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "0%",
+            "Task_Progress": "60%",
             "Name": "TTI_005_comp_6se",
             "Task_name": "TTI_005_comp_6sec_v34.nk",
             "User": "lebedevich",
@@ -217,6 +187,50 @@
             "Render": "TTI_005_comp_dooh_6sec_v36.nk",
             "est.": "00:00:01",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v35.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "86%",
+            "Tasks": "(33/38)",
+            "Status": "Rendering (5)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v35.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "ADIDAS_DICKS_PRLM": [
+        {
+            "Task_Progress": "1%",
+            "Name": "Generic_v140-/ob",
+            "Task_name": "Generic_v140 - /obj/lopnet1/DSG_510_ground_atmo/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "1%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
+        },
+        {
+            "Task_Progress": "3%",
+            "Name": "Generic_v140-/ob",
+            "Task_name": "Generic_v140 - /obj/lopnet1/DSG_510_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
         }
     ]
 }
