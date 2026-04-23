@@ -15,17 +15,17 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "23%",
+            "Task_Progress": "27%",
             "Name": "WLB_020_v25-/out",
             "Task_name": "WLB_020_v25 - /out/main_Table",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(23/47)",
-            "Status": "Rendering (6)",
+            "Progress": "68%",
+            "Tasks": "(32/47)",
+            "Status": "Rendering (7)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_Table",
-            "est.": "00:11:12",
+            "est.": "00:03:44",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WLB_010_v45 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(29/44)",
+            "Progress": "68%",
+            "Tasks": "(30/44)",
             "Status": "Rendering (9)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
-            "est.": "00:12:58",
+            "est.": "00:11:16",
             "Priority": "60"
         },
         {
@@ -76,12 +76,12 @@
             "Task_name": "WLB_030_v014 - /out/main",
             "User": "syslov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(5/8)",
+            "Progress": "75%",
+            "Tasks": "(6/8)",
             "Status": "Rendering (2)",
             "Project": "WINLINE_BELARUS",
             "Render": "main",
-            "est.": "00:02:47",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -92,12 +92,12 @@
             "Task_name": "CFD_010_v16 - /out/main",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(220/277)",
+            "Progress": "80%",
+            "Tasks": "(224/277)",
             "Status": "Rendering (8)",
             "Project": "CFI_DJV",
             "Render": "main",
-            "est.": "00:41:51",
+            "est.": "00:38:13",
             "Priority": "60"
         }
     ]
