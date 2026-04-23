@@ -70,6 +70,7 @@
       width: 100%;
       min-width: 980px;
       border-collapse: collapse;
+      table-layout: fixed;
     }
 
     th, td {
@@ -78,6 +79,14 @@
       text-align: left;
       white-space: nowrap;
       font-size: 10px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .cell-name {
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
     th {
@@ -282,7 +291,7 @@
         return `<span class="status ${getStatusClass(row[column])}">${row[column]}</span>`;
       }
       if (column === "Name") {
-        return row["Task_name"];  // вместо row["Name"]
+        return `<div class="cell-name">${row["Task_name"] ?? ""}</div>`;
       }
       if (column === "Progress" || column === "Task_Progress") {
         return renderDesktopProgress(row[column]);
@@ -298,6 +307,15 @@
       return `
         <div class="table-wrap">
           <table>
+            <colgroup>
+              <col style="width: 42%">
+              <col style="width: 10%">
+              <col style="width: 15%">
+              <col style="width: 18%">
+              <col style="width: 7%">
+              <col style="width: 6%">
+              <col style="width: 6%">
+            </colgroup>
             <thead>
               <tr>
                 ${columns.map(col => `<th>${col}</th>`).join("")}
