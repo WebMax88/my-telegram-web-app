@@ -1,18 +1,62 @@
 {
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFD_010_v16-/out",
+            "Task_name": "CFD_010_v16 - /out/main",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "19%",
+            "Tasks": "(53/277)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "main",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
-            "Name": "WLB_010_comp_v06",
-            "Task_name": "WLB_010_comp_v06.nk",
-            "User": "raznov",
-            "Plugin": "Nuke",
-            "Progress": "22%",
-            "Tasks": "(10/44)",
-            "Status": "Rendering (5)",
+            "Name": "WLB_010_v44-/out",
+            "Task_name": "WLB_010_v44 - /out/lightning",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(41/44)",
+            "Status": "Rendering (3)",
             "Project": "WINLINE_BELARUS",
-            "Render": "WLB_010_comp_v06.nk",
-            "est.": "00:01:49",
-            "Priority": "90"
+            "Render": "lightning",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_020_v24-/out",
+            "Task_name": "WLB_020_v24 - /out/Zeus_Aura",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(12/47)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Zeus_Aura",
+            "est.": "00:07:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v44-/out",
+            "Task_name": "WLB_010_v44 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "59%",
+            "Tasks": "(26/44)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "01:10:48",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -27,6 +71,20 @@
             "Render": "uv",
             "est.": "unknown",
             "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_040_title_v0",
+            "Task_name": "WLB_040_title_v07 - /stage/bolts_trans_rop/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(18/66)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "usdrender_rop",
+            "est.": "00:29:22",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -55,105 +113,21 @@
             "Render": "volume",
             "est.": "unknown",
             "Priority": "75"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_020_v24-/out",
-            "Task_name": "WLB_020_v24 - /out/Zeus_Aura",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(10/47)",
-            "Status": "Queued",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Zeus_Aura",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v44-/out",
-            "Task_name": "WLB_010_v44 - /out/lightning",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(40/44)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v44-/out",
-            "Task_name": "WLB_010_v44 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(26/44)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "01:10:48",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_040_title_v0",
-            "Task_name": "WLB_040_title_v07 - /stage/bolts_trans_rop/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(10/66)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "usdrender_rop",
-            "est.": "00:16:38",
-            "Priority": "60"
         }
     ],
     "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_6se",
-            "Task_name": "TTI_005_comp_6sec_v34.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(36/38)",
-            "Status": "Rendering (2)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_6sec_v34.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_045_comp_v29",
-            "Task_name": "TTI_045_comp_v29.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "81%",
-            "Tasks": "(13/16)",
-            "Status": "Rendering (3)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_045_comp_v29.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
         {
             "Task_Progress": "100%",
             "Name": "TTI_005_v89-/obj",
             "Task_name": "TTI_005_v89 - /obj/lopnet1/airplane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(14/68)",
-            "Status": "Rendering (19)",
+            "Progress": "22%",
+            "Tasks": "(15/68)",
+            "Status": "Rendering (24)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:22:10",
+            "est.": "00:14:23",
             "Priority": "65"
         },
         {
@@ -176,9 +150,9 @@
             "Task_name": "TTI_005_v89 - /obj/lopnet1/airplane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(10/26)",
-            "Status": "Rendering (16)",
+            "Progress": "53%",
+            "Tasks": "(14/26)",
+            "Status": "Rendering (12)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -197,6 +171,20 @@
             "Render": "TTI_005_comp_dooh_6sec_v35.nk",
             "est.": "00:00:01",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_6se",
+            "Task_name": "TTI_005_comp_6sec_v34.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "97%",
+            "Tasks": "(37/38)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_6sec_v34.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -212,22 +200,6 @@
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "main",
             "est.": "02:28:46",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFD_010_v16-/out",
-            "Task_name": "CFD_010_v16 - /out/main",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(53/277)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "main",
-            "est.": "unknown",
             "Priority": "60"
         }
     ]
