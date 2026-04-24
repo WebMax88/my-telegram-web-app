@@ -1,19 +1,37 @@
 {
-    "BETPLAY_OF": [
+    "T2_INSTRUCTION": [
         {
-            "Task_Progress": "29%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v38.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "54%",
+            "Tasks": "(102/186)",
+            "Status": "Rendering (10)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v38.nk",
+            "est.": "00:15:25",
+            "Priority": "90"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_040_v13-/sta",
+            "Task_name": "WLB_040_v13 - /stage/main/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/97)",
-            "Status": "Rendering (5)",
-            "Project": "BETPLAY_OF",
+            "Progress": "57%",
+            "Tasks": "(38/66)",
+            "Status": "Rendering (13)",
+            "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:37:37",
             "Priority": "60"
-        },
+        }
+    ],
+    "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
             "Name": "BTP_150_v67-/obj",
@@ -27,23 +45,39 @@
             "Render": "usdrender_rop",
             "est.": "04:14:08",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "31%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/97)",
+            "Status": "Rendering (5)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "TRAVELERS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TOR_390_comp_v13",
+            "Task_name": "TOR_390_comp_v13.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "55%",
+            "Tasks": "(20/36)",
+            "Status": "Rendering (6)",
+            "Project": "TRAVELERS_PRLM",
+            "Render": "TOR_390_comp_v13.nk",
+            "est.": "00:02:19",
+            "Priority": "90"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "23%",
-            "Name": "Generic_v150-/ob",
-            "Task_name": "Generic_v150 - /obj/lopnet1/DSG_520_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v151-/ob",
@@ -66,73 +100,39 @@
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(1/179)",
-            "Status": "Rendering (4)",
+            "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "06:35:33",
+            "est.": "05:14:38",
             "Priority": "60"
         },
         {
-            "Task_Progress": "34%",
+            "Task_Progress": "45%",
             "Name": "Generic_v151-/ob",
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(1/179)",
-            "Status": "Rendering (4)",
+            "Progress": "1%",
+            "Tasks": "(2/179)",
+            "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "07:21:49",
+            "est.": "05:40:07",
             "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
+        },
         {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v38.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(88/186)",
-            "Status": "Rendering (10)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v38.nk",
-            "est.": "00:18:48",
-            "Priority": "90"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_040_v13-/sta",
-            "Task_name": "WLB_040_v13 - /stage/main/usdrender_rop",
-            "User": "veber",
+            "Task_Progress": "28%",
+            "Name": "Generic_v150-/ob",
+            "Task_name": "Generic_v150 - /obj/lopnet1/DSG_520_main/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(36/66)",
-            "Status": "Rendering (15)",
-            "Project": "WINLINE_BELARUS",
+            "Progress": "28%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:32:50",
-            "Priority": "60"
-        }
-    ],
-    "TRAVELERS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v13",
-            "Task_name": "TOR_390_comp_v13.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "13%",
-            "Tasks": "(5/36)",
-            "Status": "Rendering (6)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v13.nk",
-            "est.": "00:07:03",
-            "Priority": "90"
+            "est.": "unknown",
+            "Priority": "100"
         }
     ]
 }
