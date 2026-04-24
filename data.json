@@ -1,20 +1,4 @@
 {
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v38.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "71%",
-            "Tasks": "(27/38)",
-            "Status": "Rendering (9)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v38.nk",
-            "est.": "00:00:39",
-            "Priority": "100"
-        }
-    ],
     "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
@@ -22,27 +6,13 @@
             "Task_name": "TST_055_Wheel_v19 - /out/main",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(15/44)",
+            "Progress": "36%",
+            "Tasks": "(16/44)",
             "Status": "Rendering (12)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "main",
-            "est.": "00:05:36",
+            "est.": "00:05:43",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "80%",
-            "Name": "TST_051_comp_v01",
-            "Task_name": "TST_051_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "61%",
-            "Tasks": "(11/18)",
-            "Status": "Rendering (7)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_051_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -50,56 +20,28 @@
             "Task_name": "TST_055_Wheel_v19 - /out/floor",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(24/44)",
+            "Progress": "61%",
+            "Tasks": "(27/44)",
             "Status": "Rendering (13)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "floor",
-            "est.": "00:01:43",
+            "est.": "00:01:05",
             "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
-            "Name": "BTP_100_v09-/out",
-            "Task_name": "BTP_100_v09 - /out/main",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(57/126)",
-            "Status": "Rendering (3)",
-            "Project": "BETPLAY_OF",
-            "Render": "main",
-            "est.": "01:40:46",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "Name": "BTP_130_v06-/sta",
+            "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/97)",
-            "Status": "Rendering (2)",
+            "Progress": "97%",
+            "Tasks": "(39/40)",
+            "Status": "Rendering (1)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_023_v38-/sta",
-            "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(18/45)",
-            "Status": "Rendering (3)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "01:21:31",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -118,6 +60,34 @@
         },
         {
             "Task_Progress": "0%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/97)",
+            "Status": "Rendering (2)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_100_v09-/out",
+            "Task_name": "BTP_100_v09 - /out/main",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(58/126)",
+            "Status": "Rendering (3)",
+            "Project": "BETPLAY_OF",
+            "Render": "main",
+            "est.": "01:39:31",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
             "Name": "BTP_150_v67-/obj",
             "Task_name": "BTP_150_v67 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -132,17 +102,33 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "BTP_130_v06-/sta",
-            "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
-            "User": "korukaev",
+            "Name": "TST_023_v38-/sta",
+            "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(39/40)",
-            "Status": "Rendering (1)",
+            "Progress": "40%",
+            "Tasks": "(18/45)",
+            "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "01:21:31",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v38.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "86%",
+            "Tasks": "(33/38)",
+            "Status": "Rendering (5)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v38.nk",
+            "est.": "00:00:01",
+            "Priority": "100"
         }
     ]
 }
