@@ -6,12 +6,12 @@
             "Task_name": "WLB_010_v50 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(24/44)",
+            "Progress": "61%",
+            "Tasks": "(27/44)",
             "Status": "Rendering (17)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
-            "est.": "00:03:27",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -80,9 +80,9 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(170/179)",
-            "Status": "Rendering (9)",
+            "Progress": "98%",
+            "Tasks": "(176/179)",
+            "Status": "Rendering (3)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -96,10 +96,10 @@
             "Plugin": "Houdini",
             "Progress": "50%",
             "Tasks": "(91/179)",
-            "Status": "Rendering (18)",
+            "Status": "Rendering (24)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:36:03",
+            "est.": "01:05:52",
             "Priority": "60"
         }
     ]
