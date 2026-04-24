@@ -1,7 +1,7 @@
 {
     "BETPLAY_OF": [
         {
-            "Task_Progress": "38%",
+            "Task_Progress": "39%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -20,12 +20,12 @@
             "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(29/45)",
-            "Status": "Rendering (3)",
+            "Progress": "68%",
+            "Tasks": "(31/45)",
+            "Status": "Rendering (2)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:44:15",
+            "est.": "01:01:27",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "BTP_100_v09 - /out/main",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(78/126)",
+            "Progress": "63%",
+            "Tasks": "(80/126)",
             "Status": "Rendering (4)",
             "Project": "BETPLAY_OF",
             "Render": "main",
-            "est.": "00:49:28",
+            "est.": "00:47:16",
             "Priority": "60"
         },
         {
@@ -94,12 +94,12 @@
             "Task_name": "WLB_050_w_v51 - /out/Lightnings_self",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(138/183)",
-            "Status": "Rendering (29)",
+            "Progress": "100%",
+            "Tasks": "(183/183)",
+            "Status": "Completed",
             "Project": "WINLINE_BELARUS",
             "Render": "Lightnings_self",
-            "est.": "00:00:50",
+            "est.": "00:00:00",
             "Priority": "60"
         },
         {
@@ -117,20 +117,20 @@
             "Priority": "60"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
+    "GOODYEAR_BS": [
         {
             "Task_Progress": "100%",
-            "Name": "CHG_010_comp_v14",
-            "Task_name": "CHG_010_comp_v14.nk",
-            "User": "f.smirnov",
-            "Plugin": "Nuke",
-            "Progress": "86%",
-            "Tasks": "(39/45)",
-            "Status": "Rendering (6)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Name": "GDY_0370_v02-/ob",
+            "Task_name": "GDY_0370_v02 - /obj/Constr_Volume/SIM_Volume_Cache/render",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "100%",
+            "Tasks": "(1/1)",
+            "Status": "Completed",
+            "Project": "GOODYEAR_BS",
+            "Render": "render",
+            "est.": "00:00:00",
+            "Priority": "100"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -151,32 +151,16 @@
     ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "61%",
+            "Task_Progress": "81%",
             "Name": "Generic_v145-/ob",
             "Task_name": "Generic_v145 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "61%",
+            "Progress": "81%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        }
-    ],
-    "GOODYEAR_BS": [
-        {
-            "Task_Progress": "49%",
-            "Name": "GDY_0370_v02-/ob",
-            "Task_name": "GDY_0370_v02 - /obj/Constr_Volume/SIM_Volume_Cache/render",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "GOODYEAR_BS",
-            "Render": "render",
             "est.": "unknown",
             "Priority": "100"
         }
