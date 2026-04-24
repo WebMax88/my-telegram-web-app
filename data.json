@@ -6,12 +6,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(72/179)",
+            "Progress": "43%",
+            "Tasks": "(78/179)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:11:55",
+            "est.": "01:05:54",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(28/179)",
-            "Status": "Rendering (7)",
+            "Progress": "16%",
+            "Tasks": "(29/179)",
+            "Status": "Rendering (8)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:37:44",
+            "est.": "04:02:40",
             "Priority": "60"
         },
         {
@@ -36,16 +36,16 @@
             "Plugin": "Houdini",
             "Progress": "22%",
             "Tasks": "(41/179)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:50:42",
+            "est.": "02:30:34",
             "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "73%",
+            "Task_Progress": "75%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -82,10 +82,10 @@
             "Plugin": "Houdini",
             "Progress": "81%",
             "Tasks": "(54/66)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (7)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:17:26",
+            "est.": "00:24:54",
             "Priority": "60"
         }
     ]
