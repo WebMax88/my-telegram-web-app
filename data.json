@@ -34,9 +34,9 @@
             "Task_name": "WLB_010_v50 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(34/44)",
-            "Status": "Rendering (10)",
+            "Progress": "79%",
+            "Tasks": "(35/44)",
+            "Status": "Rendering (9)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
             "est.": "00:00:01",
@@ -45,7 +45,7 @@
     ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "19%",
+            "Task_Progress": "22%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -80,12 +80,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(93/179)",
+            "Progress": "53%",
+            "Tasks": "(96/179)",
             "Status": "Rendering (31)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:43:51",
+            "est.": "00:42:05",
             "Priority": "60"
         }
     ]
