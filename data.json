@@ -64,10 +64,10 @@
             "Plugin": "Nuke",
             "Progress": "90%",
             "Tasks": "(18/20)",
-            "Status": "Rendering (2)",
+            "Status": "Queued",
             "Project": "WINLINE_BELARUS",
             "Render": "WLB_050_comp_v12_30.nk",
-            "est.": "00:00:01",
+            "est.": "unknown",
             "Priority": "90"
         }
     ],
@@ -92,12 +92,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(155/179)",
+            "Progress": "89%",
+            "Tasks": "(161/179)",
             "Status": "Rendering (13)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:13:58",
+            "est.": "00:06:14",
             "Priority": "60"
         }
     ],
