@@ -80,12 +80,12 @@
             "Task_name": "WLB_010_v50 - /out/lightning",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(23/44)",
+            "Progress": "56%",
+            "Tasks": "(25/44)",
             "Status": "Rendering (10)",
             "Project": "WINLINE_BELARUS",
             "Render": "lightning",
-            "est.": "00:09:17",
+            "est.": "00:07:30",
             "Priority": "60"
         },
         {
@@ -94,12 +94,12 @@
             "Task_name": "WLB_050_comp_v12_30.nk",
             "User": "sidenina",
             "Plugin": "Nuke",
-            "Progress": "51%",
-            "Tasks": "(19/37)",
-            "Status": "Rendering (7)",
+            "Progress": "67%",
+            "Tasks": "(25/37)",
+            "Status": "Rendering (3)",
             "Project": "WINLINE_BELARUS",
             "Render": "WLB_050_comp_v12_30.nk",
-            "est.": "00:04:02",
+            "est.": "00:07:17",
             "Priority": "90"
         },
         {
@@ -108,12 +108,12 @@
             "Task_name": "WLB_010_v50 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(8/44)",
+            "Progress": "22%",
+            "Tasks": "(10/44)",
             "Status": "Rendering (10)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
-            "est.": "00:47:47",
+            "est.": "00:42:04",
             "Priority": "60"
         },
         {
@@ -122,12 +122,12 @@
             "Task_name": "WLB_010_v50 - /out/main_separate",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(26/44)",
+            "Progress": "63%",
+            "Tasks": "(28/44)",
             "Status": "Rendering (9)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_separate",
-            "est.": "00:07:23",
+            "est.": "00:05:42",
             "Priority": "60"
         }
     ]
