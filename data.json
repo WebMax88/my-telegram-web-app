@@ -6,12 +6,12 @@
             "Task_name": "WLB_040_v13 - /stage/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(55/66)",
+            "Progress": "87%",
+            "Tasks": "(58/66)",
             "Status": "Rendering (7)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:20:00",
+            "est.": "00:04:58",
             "Priority": "60"
         }
     ],
@@ -52,12 +52,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(87/179)",
+            "Progress": "50%",
+            "Tasks": "(91/179)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:58:08",
+            "est.": "00:54:33",
             "Priority": "60"
         },
         {
@@ -66,12 +66,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(33/179)",
+            "Progress": "19%",
+            "Tasks": "(35/179)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:34:11",
+            "est.": "03:31:51",
             "Priority": "60"
         },
         {
@@ -80,12 +80,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(44/179)",
+            "Progress": "25%",
+            "Tasks": "(45/179)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:31:37",
+            "est.": "02:32:29",
             "Priority": "60"
         }
     ]
