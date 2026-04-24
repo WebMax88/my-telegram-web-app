@@ -1,20 +1,6 @@
 {
     "BETPLAY_OF": [
         {
-            "Task_Progress": "0%",
-            "Name": "BTP_130_comp_v13",
-            "Task_name": "BTP_130_comp_v13.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "87%",
-            "Tasks": "(70/80)",
-            "Status": "Rendering (10)",
-            "Project": "BETPLAY_OF",
-            "Render": "BTP_130_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "BTP_100_v09-/out",
             "Task_name": "BTP_100_v09 - /out/main",
@@ -69,16 +55,30 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "BTP_130_comp_v13",
+            "Task_name": "BTP_130_comp_v13.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(74/80)",
+            "Status": "Rendering (6)",
+            "Project": "BETPLAY_OF",
+            "Render": "BTP_130_comp_v13.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "59%",
+            "Task_Progress": "71%",
             "Name": "Generic_v146-/ob",
             "Task_name": "Generic_v146 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "59%",
+            "Progress": "71%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
@@ -89,7 +89,7 @@
     ],
     "WINLINE_BELARUS": [
         {
-            "Task_Progress": "17%",
+            "Task_Progress": "22%",
             "Name": "WLB_040_v13-/sta",
             "Task_name": "WLB_040_v13 - /stage/main/usdrender_rop",
             "User": "veber",
