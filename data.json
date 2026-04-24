@@ -1,47 +1,31 @@
 {
-    "ADIDAS_DICKS_PRLM": [
+    "BETPLAY_OF": [
         {
-            "Task_Progress": "52%",
-            "Name": "Generic_v144-/ob",
-            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_680_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
-        {
-            "Task_Progress": "91%",
-            "Name": "Generic_v144-/ob",
-            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
-            "User": "glavatskih",
+            "Task_Progress": "100%",
+            "Name": "BTP_300_v10-/out",
+            "Task_name": "BTP_300_v10 - /out/main",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "91%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        }
-    ],
-    "BETPLAY_OF": [
+            "Tasks": "(84/92)",
+            "Status": "Rendering (4)",
+            "Project": "BETPLAY_OF",
+            "Render": "main",
+            "est.": "00:05:22",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "TST_023_v38-/sta",
             "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(7/45)",
-            "Status": "Rendering (3)",
+            "Progress": "20%",
+            "Tasks": "(9/45)",
+            "Status": "Rendering (2)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "01:55:16",
+            "est.": "02:50:08",
             "Priority": "60"
         },
         {
@@ -50,26 +34,12 @@
             "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(17/40)",
-            "Status": "Rendering (2)",
+            "Progress": "45%",
+            "Tasks": "(18/40)",
+            "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "01:05:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_300_v10-/out",
-            "Task_name": "BTP_300_v10 - /out/main",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(83/92)",
-            "Status": "Rendering (4)",
-            "Project": "BETPLAY_OF",
-            "Render": "main",
-            "est.": "00:05:29",
+            "est.": "00:39:27",
             "Priority": "60"
         },
         {
@@ -78,29 +48,29 @@
             "Task_name": "BTP_100_v09 - /out/main",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(30/126)",
+            "Progress": "24%",
+            "Tasks": "(31/126)",
             "Status": "Rendering (4)",
             "Project": "BETPLAY_OF",
             "Render": "main",
-            "est.": "01:50:40",
+            "est.": "01:48:56",
             "Priority": "60"
         }
     ],
-    "WINLINE_BELARUS": [
+    "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_v50-/o",
-            "Task_name": "WLB_050_w_v50 - /out/Reflects_glove_2",
-            "User": "druz",
+            "Task_Progress": "71%",
+            "Name": "Generic_v144-/ob",
+            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_680_main/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(25/70)",
-            "Status": "Rendering (37)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Reflects_glove_2",
-            "est.": "00:00:17",
-            "Priority": "60"
+            "Progress": "71%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
         }
     ],
     "CHERNOGOLOVKA_AI": [
@@ -110,28 +80,12 @@
             "Task_name": "CHG_010_comp_v13.nk",
             "User": "f.smirnov",
             "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(42/45)",
-            "Status": "Rendering (3)",
+            "Progress": "97%",
+            "Tasks": "(44/45)",
+            "Status": "Rendering (1)",
             "Project": "CHERNOGOLOVKA_AI",
             "Render": "CHG_010_comp_v13.nk",
             "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "TRAVELERS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v12",
-            "Task_name": "TOR_390_comp_v12.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "52%",
-            "Tasks": "(19/36)",
-            "Status": "Rendering (7)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v12.nk",
-            "est.": "00:01:32",
             "Priority": "90"
         }
     ]
