@@ -1,4 +1,34 @@
 {
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_w_v51-/o",
+            "Task_name": "WLB_050_w_v51 - /out/Lightnings_self",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "65%",
+            "Tasks": "(119/183)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Lightnings_self",
+            "est.": "00:08:52",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_w_v51-/o",
+            "Task_name": "WLB_050_w_v51 - /out/Reflects_chips",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "83%",
+            "Tasks": "(153/183)",
+            "Status": "Rendering (13)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Reflects_chips",
+            "est.": "00:01:40",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -20,12 +50,12 @@
             "Task_name": "BTP_100_v09 - /out/main",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(75/126)",
-            "Status": "Rendering (3)",
+            "Progress": "60%",
+            "Tasks": "(76/126)",
+            "Status": "Rendering (4)",
             "Project": "BETPLAY_OF",
             "Render": "main",
-            "est.": "01:12:14",
+            "est.": "00:51:45",
             "Priority": "60"
         },
         {
@@ -43,7 +73,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "35%",
+            "Task_Progress": "36%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -62,43 +92,29 @@
             "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(28/45)",
+            "Progress": "64%",
+            "Tasks": "(29/45)",
             "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:47:39",
+            "est.": "00:44:15",
             "Priority": "60"
         }
     ],
-    "WINLINE_BELARUS": [
+    "CHERNOGOLOVKA_AI": [
         {
             "Task_Progress": "100%",
-            "Name": "WLB_050_w_v51-/o",
-            "Task_name": "WLB_050_w_v51 - /out/Reflects_chips",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(113/183)",
-            "Status": "Rendering (17)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Reflects_chips",
-            "est.": "00:04:05",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_v51-/o",
-            "Task_name": "WLB_050_w_v51 - /out/Lightnings_self",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(88/183)",
+            "Name": "CHG_010_comp_v14",
+            "Task_name": "CHG_010_comp_v14.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "4%",
+            "Tasks": "(2/45)",
             "Status": "Rendering (16)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Lightnings_self",
-            "est.": "00:07:56",
-            "Priority": "60"
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_010_comp_v14.nk",
+            "est.": "00:01:34",
+            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -108,9 +124,9 @@
             "Task_name": "TST_055_Wheel_v19 - /out/main",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(39/44)",
-            "Status": "Rendering (5)",
+            "Progress": "93%",
+            "Tasks": "(41/44)",
+            "Status": "Rendering (3)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "main",
             "est.": "00:00:01",
@@ -119,12 +135,12 @@
     ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "23%",
+            "Task_Progress": "42%",
             "Name": "Generic_v145-/ob",
             "Task_name": "Generic_v145 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "23%",
+            "Progress": "42%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
