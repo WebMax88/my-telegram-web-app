@@ -1,21 +1,47 @@
 {
-    "T2_INSTRUCTION": [
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_130_v06-/sta",
+            "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "75%",
+            "Tasks": "(30/40)",
+            "Status": "Rendering (3)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "00:14:54",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "0%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v38.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
+            "Name": "BTP_150_v67-/obj",
+            "Task_name": "BTP_150_v67 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
             "Progress": "0%",
-            "Tasks": "(0/38)",
-            "Status": "Queued",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v38.nk",
+            "Tasks": "(0/44)",
+            "Status": "Rendering (2)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
             "est.": "unknown",
-            "Priority": "100"
-        }
-    ],
-    "BETPLAY_OF": [
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_023_v38-/sta",
+            "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "31%",
+            "Tasks": "(14/45)",
+            "Status": "Rendering (2)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "02:26:53",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "BTP_300_v10-/out",
@@ -50,54 +76,12 @@
             "Task_name": "BTP_100_v09 - /out/main",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(46/126)",
+            "Progress": "38%",
+            "Tasks": "(48/126)",
             "Status": "Rendering (2)",
             "Project": "BETPLAY_OF",
             "Render": "main",
-            "est.": "03:02:43",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_130_v06-/sta",
-            "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(27/40)",
-            "Status": "Rendering (3)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "00:20:58",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "BTP_150_v67-/obj",
-            "Task_name": "BTP_150_v67 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/44)",
-            "Status": "Rendering (2)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_023_v38-/sta",
-            "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(13/45)",
-            "Status": "Rendering (2)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "02:31:40",
+            "est.": "02:57:35",
             "Priority": "60"
         }
     ],
@@ -117,20 +101,36 @@
             "Priority": "90"
         }
     ],
-    "TRAVELERS_PRLM": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "TOR_390_v11-/out",
-            "Task_name": "TOR_390_v11 - /out/Dirt_field",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(35/36)",
-            "Status": "Rendering (1)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "Dirt_field",
+            "Name": "TST_051_comp_v01",
+            "Task_name": "TST_051_comp_v01.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "55%",
+            "Tasks": "(10/18)",
+            "Status": "Rendering (8)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_051_comp_v01.nk",
             "est.": "00:00:01",
-            "Priority": "60"
+            "Priority": "90"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "0%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v38.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/38)",
+            "Status": "Queued",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v38.nk",
+            "est.": "unknown",
+            "Priority": "100"
         }
     ]
 }
