@@ -6,12 +6,12 @@
             "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(21/45)",
+            "Progress": "48%",
+            "Tasks": "(22/45)",
             "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "01:11:22",
+            "est.": "01:07:59",
             "Priority": "60"
         },
         {
@@ -29,7 +29,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "21%",
+            "Task_Progress": "23%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -62,25 +62,55 @@
             "Task_name": "BTP_100_v09 - /out/main",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(64/126)",
+            "Progress": "52%",
+            "Tasks": "(66/126)",
             "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "main",
-            "est.": "01:29:27",
+            "est.": "01:26:20",
             "Priority": "60"
+        }
+    ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "40%",
+            "Name": "CHG_090_comp_v11",
+            "Task_name": "CHG_090_comp_v11.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "57%",
+            "Tasks": "(8/14)",
+            "Status": "Rendering (6)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_090_comp_v11.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_100_comp_v26",
+            "Task_name": "CHG_100_comp_v26.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "84%",
+            "Tasks": "(22/26)",
+            "Status": "Rendering (4)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_100_comp_v26.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "GOODYEAR_BS": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "40%",
             "Name": "GDY_0370_v02-/ob",
             "Task_name": "GDY_0370_v02 - /obj/Constr_Volume/SIM_Volume_Cache/render",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "0%",
+            "Progress": "40%",
             "Tasks": "(0/1)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "GOODYEAR_BS",
             "Render": "render",
             "est.": "unknown",
@@ -89,12 +119,12 @@
     ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "13%",
+            "Task_Progress": "28%",
             "Name": "Generic_v145-/ob",
             "Task_name": "Generic_v145 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "13%",
+            "Progress": "28%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
@@ -124,9 +154,9 @@
             "Task_name": "TST_055_Wheel_v19 - /out/floor",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(42/44)",
-            "Status": "Rendering (2)",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "floor",
             "est.": "00:00:01",
@@ -145,22 +175,6 @@
             "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_100_comp_v26",
-            "Task_name": "CHG_100_comp_v26.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "46%",
-            "Tasks": "(12/26)",
-            "Status": "Rendering (14)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_100_comp_v26.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
