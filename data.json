@@ -20,12 +20,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(81/179)",
+            "Progress": "48%",
+            "Tasks": "(86/179)",
             "Status": "Rendering (16)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:25:13",
+            "est.": "01:21:48",
             "Priority": "60"
         }
     ],
@@ -36,18 +36,18 @@
             "Task_name": "WLB_050_w_v56 - /out/Hero_chips",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(151/183)",
-            "Status": "Rendering (23)",
+            "Progress": "100%",
+            "Tasks": "(183/183)",
+            "Status": "Completed",
             "Project": "WINLINE_BELARUS",
             "Render": "Hero_chips",
-            "est.": "00:00:44",
+            "est.": "00:00:00",
             "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "51%",
+            "Task_Progress": "53%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -66,12 +66,12 @@
             "Task_name": "BTP_150_v67 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(16/44)",
+            "Progress": "38%",
+            "Tasks": "(17/44)",
             "Status": "Rendering (5)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "03:59:15",
+            "est.": "04:04:04",
             "Priority": "60"
         }
     ]
