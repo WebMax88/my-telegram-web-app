@@ -6,12 +6,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(67/179)",
+            "Progress": "40%",
+            "Tasks": "(72/179)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:17:57",
+            "est.": "01:11:55",
             "Priority": "60"
         },
         {
@@ -21,11 +21,11 @@
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "15%",
-            "Tasks": "(27/179)",
-            "Status": "Rendering (8)",
+            "Tasks": "(28/179)",
+            "Status": "Rendering (7)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:05:37",
+            "est.": "04:37:44",
             "Priority": "60"
         },
         {
@@ -34,18 +34,18 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(39/179)",
+            "Progress": "22%",
+            "Tasks": "(41/179)",
             "Status": "Rendering (8)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:53:08",
+            "est.": "02:50:42",
             "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "70%",
+            "Task_Progress": "73%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -71,22 +71,6 @@
             "Render": "usdrender_rop",
             "est.": "04:19:14",
             "Priority": "60"
-        }
-    ],
-    "DANISSIMO_MAGNAT": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DAN_110_comp_v02",
-            "Task_name": "DAN_110_comp_v02.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(45/50)",
-            "Status": "Rendering (5)",
-            "Project": "DANISSIMO_MAGNAT",
-            "Render": "DAN_110_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "WINLINE_BELARUS": [
