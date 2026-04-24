@@ -1,35 +1,51 @@
 {
-    "GOODYEAR_BS": [
+    "DANISSIMO_MAGNAT": [
         {
             "Task_Progress": "100%",
-            "Name": "GDY_0370_v05-/ou",
-            "Task_name": "GDY_0370_v05 - /out/main",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(107/114)",
-            "Status": "Rendering (7)",
-            "Project": "GOODYEAR_BS",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
+            "Name": "DAN_090_comp_v02",
+            "Task_name": "DAN_090_comp_v02.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "25%",
+            "Tasks": "(7/28)",
+            "Status": "Rendering (4)",
+            "Project": "DANISSIMO_MAGNAT",
+            "Render": "DAN_090_comp_v02.nk",
+            "est.": "00:02:06",
+            "Priority": "90"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "0%",
-            "Name": "GDY_0460_v01-/ou",
-            "Task_name": "GDY_0460_v01 - /out/main",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/63)",
-            "Status": "Rendering (19)",
-            "Project": "GOODYEAR_BS",
-            "Render": "main",
-            "est.": "unknown",
-            "Priority": "60"
+            "Task_Progress": "100%",
+            "Name": "TST_050_comp_v04",
+            "Task_name": "TST_050_comp_v04.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(13/13)",
+            "Status": "Completed",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_050_comp_v04.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
+        {
+            "Task_Progress": "61%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/97)",
+            "Status": "Rendering (5)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "BTP_130_comp_v13",
@@ -43,20 +59,6 @@
             "Render": "BTP_130_comp_v13.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "59%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/97)",
-            "Status": "Rendering (5)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -73,6 +75,38 @@
             "Priority": "60"
         }
     ],
+    "GOODYEAR_BS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "GDY_0460_v01-/ou",
+            "Task_name": "GDY_0460_v01 - /out/main",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "68%",
+            "Tasks": "(43/63)",
+            "Status": "Rendering (20)",
+            "Project": "GOODYEAR_BS",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "TRAVELERS_PRLM": [
+        {
+            "Task_Progress": "20%",
+            "Name": "TOR_390_comp_v13",
+            "Task_name": "TOR_390_comp_v13.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/36)",
+            "Status": "Rendering (3)",
+            "Project": "TRAVELERS_PRLM",
+            "Render": "TOR_390_comp_v13.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
@@ -80,44 +114,16 @@
             "Task_name": "WLB_040_v13 - /stage/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(11/66)",
+            "Progress": "18%",
+            "Tasks": "(12/66)",
             "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "06:25:06",
+            "est.": "06:16:46",
             "Priority": "75"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "15%",
-            "Name": "Generic_v148-/ob",
-            "Task_name": "Generic_v148 - /obj/lopnet1/DSG_510_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
-        {
-            "Task_Progress": "1%",
-            "Name": "Generic_v148-/ob",
-            "Task_name": "Generic_v148 - /obj/lopnet1/DSG_510_ground_atmo/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
         {
             "Task_Progress": "0%",
             "Name": "Generic_v160d-/o",
@@ -133,12 +139,12 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "92%",
-            "Name": "Generic_v148-/ob",
-            "Task_name": "Generic_v148 - /obj/lopnet1/DSG_520_main/usdrender_rop",
+            "Task_Progress": "0%",
+            "Name": "Generic_v160d-/o",
+            "Task_name": "Generic_v160d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "92%",
+            "Progress": "0%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
@@ -147,34 +153,32 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "100%",
+            "Task_Progress": "3%",
             "Name": "Generic_v148-/ob",
-            "Task_name": "Generic_v148 - /obj/lopnet1/DSG_510_main/usdrender_rop",
+            "Task_name": "Generic_v148 - /obj/lopnet1/DSG_510_ground_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "100%",
+            "Progress": "3%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "100"
-        }
-    ],
-    "DANISSIMO_MAGNAT": [
+        },
         {
-            "Task_Progress": "50%",
-            "Name": "DAN_090_comp_v02",
-            "Task_name": "DAN_090_comp_v02.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/28)",
-            "Status": "Rendering (6)",
-            "Project": "DANISSIMO_MAGNAT",
-            "Render": "DAN_090_comp_v02.nk",
+            "Task_Progress": "20%",
+            "Name": "Generic_v148-/ob",
+            "Task_name": "Generic_v148 - /obj/lopnet1/DSG_510_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
             "est.": "unknown",
-            "Priority": "90"
+            "Priority": "100"
         }
     ]
 }
