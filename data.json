@@ -1,31 +1,61 @@
 {
-    "BETPLAY_OF": [
+    "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "100%",
-            "Name": "BTP_130_v06-/sta",
-            "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
-            "User": "korukaev",
+            "Task_Progress": "20%",
+            "Name": "Generic_v144-/ob",
+            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_680_main/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(13/40)",
-            "Status": "Rendering (3)",
-            "Project": "BETPLAY_OF",
+            "Progress": "20%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:49:25",
-            "Priority": "60"
+            "est.": "unknown",
+            "Priority": "100"
         },
+        {
+            "Task_Progress": "58%",
+            "Name": "Generic_v144-/ob",
+            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
+        },
+        {
+            "Task_Progress": "77%",
+            "Name": "Generic_v144-/ob",
+            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_520_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "77%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
+        }
+    ],
+    "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
             "Name": "TST_023_v38-/sta",
             "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(4/45)",
+            "Progress": "15%",
+            "Tasks": "(7/45)",
             "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "02:01:12",
+            "est.": "01:55:16",
             "Priority": "60"
         },
         {
@@ -44,61 +74,31 @@
         },
         {
             "Task_Progress": "100%",
+            "Name": "BTP_130_v06-/sta",
+            "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "35%",
+            "Tasks": "(14/40)",
+            "Status": "Rendering (3)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "00:47:22",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "BTP_100_v09-/out",
             "Task_name": "BTP_100_v09 - /out/main",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(22/126)",
+            "Progress": "19%",
+            "Tasks": "(25/126)",
             "Status": "Rendering (4)",
             "Project": "BETPLAY_OF",
             "Render": "main",
-            "est.": "02:00:23",
+            "est.": "01:57:10",
             "Priority": "60"
-        }
-    ],
-    "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "9%",
-            "Name": "Generic_v144-/ob",
-            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_680_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
-        {
-            "Task_Progress": "46%",
-            "Name": "Generic_v144-/ob",
-            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
-        {
-            "Task_Progress": "69%",
-            "Name": "Generic_v144-/ob",
-            "Task_name": "Generic_v144 - /obj/lopnet1/DSG_520_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -108,28 +108,12 @@
             "Task_name": "TST_051_comp_v01.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "66%",
-            "Tasks": "(12/18)",
-            "Status": "Rendering (6)",
+            "Progress": "94%",
+            "Tasks": "(17/18)",
+            "Status": "Rendering (1)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST_051_comp_v01.nk",
             "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "DANISSIMO_MAGNAT": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DAN_120_comp_v02",
-            "Task_name": "DAN_120_comp_v02.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(76/76)",
-            "Status": "Completed",
-            "Project": "DANISSIMO_MAGNAT",
-            "Render": "DAN_120_comp_v02.nk",
-            "est.": "00:00:00",
             "Priority": "90"
         }
     ]
