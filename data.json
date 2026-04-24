@@ -20,9 +20,9 @@
             "Task_name": "WLB_010_v50 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(30/44)",
-            "Status": "Rendering (14)",
+            "Progress": "70%",
+            "Tasks": "(31/44)",
+            "Status": "Rendering (13)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
             "est.": "00:00:01",
@@ -59,7 +59,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "16%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
