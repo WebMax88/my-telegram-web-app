@@ -1,7 +1,51 @@
 {
+    "ADIDAS_DICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v151-/ob",
+            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_atmo/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "37%",
+            "Tasks": "(67/179)",
+            "Status": "Rendering (9)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "01:17:57",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v151-/ob",
+            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "15%",
+            "Tasks": "(27/179)",
+            "Status": "Rendering (8)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "04:05:37",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v151-/ob",
+            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "21%",
+            "Tasks": "(39/179)",
+            "Status": "Rendering (8)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "02:53:08",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "69%",
+            "Task_Progress": "70%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -29,48 +73,20 @@
             "Priority": "60"
         }
     ],
-    "ADIDAS_DICKS_PRLM": [
+    "DANISSIMO_MAGNAT": [
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v151-/ob",
-            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(38/179)",
-            "Status": "Rendering (8)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "02:47:57",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v151-/ob",
-            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_atmo/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(64/179)",
-            "Status": "Rendering (8)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "01:32:50",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v151-/ob",
-            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(26/179)",
-            "Status": "Rendering (8)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "04:03:12",
-            "Priority": "60"
+            "Name": "DAN_110_comp_v02",
+            "Task_name": "DAN_110_comp_v02.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "90%",
+            "Tasks": "(45/50)",
+            "Status": "Rendering (5)",
+            "Project": "DANISSIMO_MAGNAT",
+            "Render": "DAN_110_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "WINLINE_BELARUS": [
@@ -82,10 +98,10 @@
             "Plugin": "Houdini",
             "Progress": "81%",
             "Tasks": "(54/66)",
-            "Status": "Rendering (9)",
+            "Status": "Rendering (8)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:11:37",
+            "est.": "00:17:26",
             "Priority": "60"
         }
     ]
