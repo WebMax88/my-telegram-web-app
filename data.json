@@ -1,1 +1,64 @@
-{}
+{
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "0%",
+            "Name": "CHG_010_comp_v11",
+            "Task_name": "CHG_010_comp_v11.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/45)",
+            "Status": "Rendering (17)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_010_comp_v11.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "20%",
+            "Name": "CHG_090_comp_v10",
+            "Task_name": "CHG_090_comp_v10.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(13/14)",
+            "Status": "Rendering (1)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_090_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "TRAVELERS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TOR_390_comp_v12",
+            "Task_name": "TOR_390_comp_v12.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "55%",
+            "Tasks": "(20/36)",
+            "Status": "Rendering (7)",
+            "Project": "TRAVELERS_PRLM",
+            "Render": "TOR_390_comp_v12.nk",
+            "est.": "00:01:14",
+            "Priority": "90"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "34%",
+            "Name": "BTP_300_v10-/out",
+            "Task_name": "BTP_300_v10 - /out/main",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/92)",
+            "Status": "Rendering (15)",
+            "Project": "BETPLAY_OF",
+            "Render": "main",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ]
+}
