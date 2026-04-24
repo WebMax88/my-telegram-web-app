@@ -3,51 +3,35 @@
         {
             "Task_Progress": "100%",
             "Name": "Generic_v151-/ob",
-            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
+            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(66/179)",
+            "Progress": "49%",
+            "Tasks": "(88/179)",
             "Status": "Rendering (16)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:42:10",
+            "est.": "01:19:45",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v151-/ob",
-            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
+            "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(86/179)",
+            "Progress": "37%",
+            "Tasks": "(68/179)",
             "Status": "Rendering (16)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:21:48",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_v56-/o",
-            "Task_name": "WLB_050_w_v56 - /out/Hero_chips",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(183/183)",
-            "Status": "Completed",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Hero_chips",
-            "est.": "00:00:00",
+            "est.": "01:42:18",
             "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "53%",
+            "Task_Progress": "56%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
