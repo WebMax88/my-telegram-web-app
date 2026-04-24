@@ -6,12 +6,12 @@
             "Task_name": "WLB_010_v50 - /out/main_assemble",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(19/44)",
+            "Progress": "45%",
+            "Tasks": "(20/44)",
             "Status": "Rendering (14)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
-            "est.": "00:15:26",
+            "est.": "00:14:24",
             "Priority": "60"
         },
         {
@@ -57,17 +57,17 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "20%",
+            "Task_Progress": "0%",
             "Name": "WLB_050_comp_v12",
             "Task_name": "WLB_050_comp_v12_30.nk",
             "User": "sidenina",
             "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(16/20)",
-            "Status": "Rendering (3)",
+            "Progress": "85%",
+            "Tasks": "(17/20)",
+            "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
             "Render": "WLB_050_comp_v12_30.nk",
-            "est.": "00:00:31",
+            "est.": "00:03:13",
             "Priority": "90"
         }
     ],
@@ -79,11 +79,11 @@
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "49%",
-            "Tasks": "(88/179)",
+            "Tasks": "(89/179)",
             "Status": "Rendering (14)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:13:11",
+            "est.": "02:14:22",
             "Priority": "60"
         },
         {
@@ -92,12 +92,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(146/179)",
-            "Status": "Rendering (14)",
+            "Progress": "83%",
+            "Tasks": "(150/179)",
+            "Status": "Rendering (13)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:23:07",
+            "est.": "00:20:42",
             "Priority": "60"
         }
     ],
