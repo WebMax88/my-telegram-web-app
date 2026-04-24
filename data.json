@@ -6,12 +6,12 @@
             "Task_name": "Generic_v151 - /obj/lopnet1/DSG_520_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(156/179)",
-            "Status": "Rendering (10)",
+            "Progress": "97%",
+            "Tasks": "(174/179)",
+            "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:06:48",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -21,11 +21,11 @@
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "25%",
-            "Tasks": "(45/179)",
-            "Status": "Rendering (9)",
+            "Tasks": "(46/179)",
+            "Status": "Rendering (11)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:23:01",
+            "est.": "02:45:14",
             "Priority": "60"
         },
         {
@@ -36,10 +36,10 @@
             "Plugin": "Houdini",
             "Progress": "29%",
             "Tasks": "(53/179)",
-            "Status": "Rendering (9)",
+            "Status": "Rendering (12)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:47:36",
+            "est.": "02:02:28",
             "Priority": "60"
         }
     ],
@@ -64,12 +64,12 @@
             "Task_name": "BTP_150_v67 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(14/44)",
+            "Progress": "34%",
+            "Tasks": "(15/44)",
             "Status": "Rendering (5)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "04:19:14",
+            "est.": "04:09:22",
             "Priority": "60"
         }
     ],
