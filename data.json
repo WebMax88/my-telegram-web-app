@@ -1,65 +1,35 @@
 {
-    "T2_INSTRUCTION": [
+    "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v38.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(37/38)",
+            "Task_Progress": "0%",
+            "Name": "Generic_v145-/ob",
+            "Task_name": "Generic_v145 - /obj/lopnet1/DSG_520_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
             "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v38.nk",
-            "est.": "00:00:01",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Generic_v145-/ob",
+            "Task_name": "Generic_v145 - /obj/lopnet1/DSG_520_atmo/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
             "Priority": "100"
         }
     ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v1",
-            "Task_name": "TST_055_Wheel_v19 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(19/44)",
-            "Status": "Rendering (16)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:03:06",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v1",
-            "Task_name": "TST_055_Wheel_v19 - /out/floor",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(35/44)",
-            "Status": "Rendering (9)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "floor",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_100_v09-/out",
-            "Task_name": "BTP_100_v09 - /out/main",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(60/126)",
-            "Status": "Rendering (3)",
-            "Project": "BETPLAY_OF",
-            "Render": "main",
-            "est.": "01:36:19",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "BTP_300_v10-/out",
@@ -94,12 +64,12 @@
             "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(18/45)",
+            "Progress": "46%",
+            "Tasks": "(21/45)",
             "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "01:21:31",
+            "est.": "01:11:22",
             "Priority": "60"
         },
         {
@@ -114,6 +84,50 @@
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_100_v09-/out",
+            "Task_name": "BTP_100_v09 - /out/main",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "48%",
+            "Tasks": "(61/126)",
+            "Status": "Rendering (3)",
+            "Project": "BETPLAY_OF",
+            "Render": "main",
+            "est.": "01:34:24",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v1",
+            "Task_name": "TST_055_Wheel_v19 - /out/floor",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "81%",
+            "Tasks": "(36/44)",
+            "Status": "Rendering (8)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "floor",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v1",
+            "Task_name": "TST_055_Wheel_v19 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(20/44)",
+            "Status": "Rendering (15)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:03:31",
             "Priority": "60"
         }
     ]
