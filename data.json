@@ -1,34 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_v51-/o",
-            "Task_name": "WLB_050_w_v51 - /out/Lightnings_self",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(65/183)",
-            "Status": "Rendering (13)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Lightnings_self",
-            "est.": "00:12:50",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_v51-/o",
-            "Task_name": "WLB_050_w_v51 - /out/Reflects_chips",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(82/183)",
-            "Status": "Rendering (14)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Reflects_chips",
-            "est.": "00:08:32",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -46,30 +16,16 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "TST_023_v38-/sta",
-            "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
+            "Name": "BTP_100_v09-/out",
+            "Task_name": "BTP_100_v09 - /out/main",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(27/45)",
-            "Status": "Rendering (2)",
+            "Progress": "59%",
+            "Tasks": "(75/126)",
+            "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "01:21:37",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_130_v06-/sta",
-            "Task_name": "BTP_130_v06 - /stage/main/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(39/40)",
-            "Status": "Rendering (1)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "Render": "main",
+            "est.": "01:12:14",
             "Priority": "60"
         },
         {
@@ -87,7 +43,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "33%",
+            "Task_Progress": "35%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -102,17 +58,79 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "BTP_100_v09-/out",
-            "Task_name": "BTP_100_v09 - /out/main",
+            "Name": "TST_023_v38-/sta",
+            "Task_name": "TST_023_v38 - /stage/stadium_main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(73/126)",
+            "Progress": "62%",
+            "Tasks": "(28/45)",
             "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
-            "Render": "main",
-            "est.": "01:15:18",
+            "Render": "usdrender_rop",
+            "est.": "00:47:39",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_w_v51-/o",
+            "Task_name": "WLB_050_w_v51 - /out/Reflects_chips",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "61%",
+            "Tasks": "(113/183)",
+            "Status": "Rendering (17)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Reflects_chips",
+            "est.": "00:04:05",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_w_v51-/o",
+            "Task_name": "WLB_050_w_v51 - /out/Lightnings_self",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "48%",
+            "Tasks": "(88/183)",
+            "Status": "Rendering (16)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Lightnings_self",
+            "est.": "00:07:56",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v1",
+            "Task_name": "TST_055_Wheel_v19 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "88%",
+            "Tasks": "(39/44)",
+            "Status": "Rendering (5)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "ADIDAS_DICKS_PRLM": [
+        {
+            "Task_Progress": "23%",
+            "Name": "Generic_v145-/ob",
+            "Task_name": "Generic_v145 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
         }
     ],
     "TRAVELERS_PRLM": [
@@ -129,68 +147,6 @@
             "Render": "Dirt_field",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v1",
-            "Task_name": "TST_055_Wheel_v19 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(35/44)",
-            "Status": "Rendering (9)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v20 - /obj/Car_construct/Tire_smoke_cache/render",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(1/1)",
-            "Status": "Completed",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "render",
-            "est.": "00:00:00",
-            "Priority": "100"
-        }
-    ],
-    "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "9%",
-            "Name": "Generic_v145-/ob",
-            "Task_name": "Generic_v145 - /obj/lopnet1/DSG_520_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFD_010_comp_v37",
-            "Task_name": "CFD_010_comp_v37.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "78%",
-            "Tasks": "(33/42)",
-            "Status": "Rendering (9)",
-            "Project": "CFI_DJV",
-            "Render": "CFD_010_comp_v37.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
