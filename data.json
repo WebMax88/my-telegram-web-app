@@ -1,20 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -31,18 +15,18 @@
             "Priority": "60"
         }
     ],
-    "T2_INSTRUCTION": [
+    "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_030_v15-/out",
-            "Task_name": "TTI_030_v15 - /out/ceiling",
-            "User": "chernovbrovyj",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/main_assemble",
+            "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(109/110)",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
             "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "ceiling",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
             "est.": "00:00:01",
             "Priority": "60"
         }
