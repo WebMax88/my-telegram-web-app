@@ -18,6 +18,20 @@
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
+            "Name": "WLB_050_comp_v13",
+            "Task_name": "WLB_050_comp_v13.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "5%",
+            "Tasks": "(2/37)",
+            "Status": "Rendering (9)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "WLB_050_comp_v13.nk",
+            "est.": "00:05:26",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WLB_010_v51-/out",
             "Task_name": "WLB_010_v51 - /out/main_assemble",
             "User": "shashkov",
