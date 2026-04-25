@@ -1,34 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/lightning",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(40/44)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(23/44)",
-            "Status": "Rendering (21)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "0%",
@@ -42,6 +12,36 @@
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/lightning",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(42/44)",
+            "Status": "Rendering (2)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "lightning",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "61%",
+            "Tasks": "(27/44)",
+            "Status": "Rendering (17)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
