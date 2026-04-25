@@ -1,4 +1,34 @@
 {
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_105_comp_v07",
+            "Task_name": "CHG_105_comp_v07.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "94%",
+            "Tasks": "(32/34)",
+            "Status": "Rendering (2)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_105_comp_v07.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "60%",
+            "Name": "CHG_090_comp_v13",
+            "Task_name": "CHG_090_comp_v13.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(13/14)",
+            "Status": "Rendering (1)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_090_comp_v13.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -22,12 +52,26 @@
             "Task_name": "TTI_005_v92 - /obj/lopnet1/light_wheels/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(17/186)",
-            "Status": "Rendering (17)",
+            "Progress": "18%",
+            "Tasks": "(34/186)",
+            "Status": "Rendering (15)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:33:39",
+            "est.": "00:33:06",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "TTI_005_v93-/obj",
+            "Task_name": "TTI_005_v93 - /obj/lopnet1/light_wheels/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/186)",
+            "Status": "Rendering (2)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
             "Priority": "60"
         }
     ],
@@ -45,22 +89,6 @@
             "Render": "main_assemble",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "0%",
-            "Name": "CHG_090_comp_v13",
-            "Task_name": "CHG_090_comp_v13.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/14)",
-            "Status": "Rendering (14)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_090_comp_v13.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ]
 }
