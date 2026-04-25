@@ -6,12 +6,12 @@
             "Task_name": "TTI_005_v92 - /obj/lopnet1/light_wheels/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(92/186)",
+            "Progress": "51%",
+            "Tasks": "(96/186)",
             "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "01:18:28",
+            "est.": "01:14:38",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "TTI_005_v94 - /obj/lopnet1/light_wheels/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(21/93)",
+            "Progress": "26%",
+            "Tasks": "(25/93)",
             "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:50:46",
+            "est.": "00:47:39",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane_refl/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(13/61)",
+            "Progress": "27%",
+            "Tasks": "(17/61)",
             "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:36:45",
+            "est.": "00:33:02",
             "Priority": "60"
         },
         {
@@ -76,12 +76,12 @@
             "Task_name": "TTI_005_v93 - /obj/lopnet1/light_wheels/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(53/186)",
+            "Progress": "30%",
+            "Tasks": "(57/186)",
             "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "01:31:51",
+            "est.": "01:28:48",
             "Priority": "60"
         }
     ],
