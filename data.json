@@ -1,50 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ABC_010_v40-/obj",
-            "Task_name": "ABC_010_v40 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(69/117)",
-            "Status": "Rendering (16)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:03:18",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_030_v15-/out",
-            "Task_name": "TTI_030_v15 - /out/ceiling",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(109/110)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "ceiling",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -58,6 +12,52 @@
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "02:47:18",
+            "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_030_v15-/out",
+            "Task_name": "TTI_030_v15 - /out/ceiling",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(103/110)",
+            "Status": "Rendering (7)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "ceiling",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "ABC_010_v40-/obj",
+            "Task_name": "ABC_010_v40 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "79%",
+            "Tasks": "(93/117)",
+            "Status": "Rendering (13)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:01:28",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
