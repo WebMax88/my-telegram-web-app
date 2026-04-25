@@ -32,16 +32,16 @@
     "CHERNOGOLOVKA_AI": [
         {
             "Task_Progress": "100%",
-            "Name": "CHG_010_comp_v17",
-            "Task_name": "CHG_010_comp_v17.nk",
-            "User": "loktev",
+            "Name": "CHG_130_comp_v02",
+            "Task_name": "CHG_130_comp_v02.nk",
+            "User": "pankova",
             "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(27/27)",
-            "Status": "Completed",
+            "Progress": "32%",
+            "Tasks": "(12/37)",
+            "Status": "Rendering (21)",
             "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_comp_v17.nk",
-            "est.": "00:00:00",
+            "Render": "CHG_130_comp_v02.nk",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
@@ -52,12 +52,12 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(17/97)",
+            "Progress": "18%",
+            "Tasks": "(18/97)",
             "Status": "Rendering (5)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "23:12:49",
+            "est.": "22:45:42",
             "Priority": "60"
         }
     ]
