@@ -15,6 +15,22 @@
             "Priority": "60"
         }
     ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_105_comp_v05",
+            "Task_name": "CHG_105_comp_v05.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "25%",
+            "Tasks": "(13/51)",
+            "Status": "Rendering (34)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_105_comp_v05.nk",
+            "est.": "00:00:03",
+            "Priority": "90"
+        }
+    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
