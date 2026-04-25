@@ -1,35 +1,5 @@
 {
-    "BETPLAY_OF": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(2/97)",
-            "Status": "Rendering (5)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "03:39:18",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_v61-/o",
-            "Task_name": "WLB_050_w_v61 - /out/Reflects_glove",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(69/70)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Reflects_glove",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v51-/out",
@@ -43,19 +13,21 @@
             "Render": "main_assemble",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "BETPLAY_OF": [
         {
-            "Task_Progress": "41%",
-            "Name": "WLB_050_w_v62-/o",
-            "Task_name": "WLB_050_w_v62 - /out/Reflects_glove",
-            "User": "druz",
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
             "Progress": "2%",
-            "Tasks": "(2/70)",
-            "Status": "Rendering (56)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Reflects_glove",
-            "est.": "00:00:14",
+            "Tasks": "(2/97)",
+            "Status": "Rendering (5)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "03:39:18",
             "Priority": "60"
         }
     ]
