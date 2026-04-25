@@ -1,20 +1,4 @@
 {
-    "BETPLAY_OF": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(6/97)",
-            "Status": "Rendering (5)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "02:47:18",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
@@ -28,6 +12,22 @@
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "7%",
+            "Tasks": "(7/97)",
+            "Status": "Rendering (5)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "02:25:43",
             "Priority": "60"
         }
     ]
