@@ -1,51 +1,7 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_020_v28-/out",
-            "Task_name": "WLB_020_v28 - /out/main_Table",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(29/47)",
-            "Status": "Rendering (18)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_Table",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_020_v28-/out",
-            "Task_name": "WLB_020_v28 - /out/main_scene_2",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(32/43)",
-            "Status": "Rendering (11)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_scene_2",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(36/44)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "29%",
+            "Task_Progress": "33%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -56,6 +12,22 @@
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "84%",
+            "Tasks": "(37/44)",
+            "Status": "Rendering (7)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
