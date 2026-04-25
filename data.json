@@ -1,50 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_030_v15-/out",
-            "Task_name": "TTI_030_v15 - /out/ceiling",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(47/110)",
-            "Status": "Rendering (25)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "ceiling",
-            "est.": "00:15:06",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_055_v12-/out",
-            "Task_name": "TTI_055_v12 - /out/ceiling",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(226/227)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "ceiling",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -58,6 +12,38 @@
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "02:47:18",
+            "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_030_v15-/out",
+            "Task_name": "TTI_030_v15 - /out/ceiling",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "52%",
+            "Tasks": "(58/110)",
+            "Status": "Rendering (26)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "ceiling",
+            "est.": "00:09:09",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
