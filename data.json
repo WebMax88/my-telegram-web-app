@@ -3,20 +3,6 @@
         {
             "Task_Progress": "100%",
             "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane_refl/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(2/61)",
-            "Status": "Queued",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v55-/obj",
             "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
@@ -31,16 +17,16 @@
         {
             "Task_Progress": "100%",
             "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane_windows/usdrender_rop",
+            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane_refl/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(45/61)",
-            "Status": "Rendering (5)",
+            "Progress": "3%",
+            "Tasks": "(2/61)",
+            "Status": "Queued",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:05:33",
-            "Priority": "65"
+            "est.": "unknown",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -55,6 +41,34 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_010_v55-/obj",
+            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane_windows/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "80%",
+            "Tasks": "(49/61)",
+            "Status": "Rendering (5)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:03:49",
+            "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_010_v55-/obj",
+            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "16%",
+            "Tasks": "(10/61)",
+            "Status": "Rendering (4)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "01:50:57",
+            "Priority": "65"
         },
         {
             "Task_Progress": "100%",
@@ -90,43 +104,13 @@
             "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/shadow/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(39/61)",
+            "Progress": "72%",
+            "Tasks": "(44/61)",
             "Status": "Rendering (5)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:10:13",
+            "est.": "00:07:15",
             "Priority": "65"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(8/61)",
-            "Status": "Rendering (4)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "01:58:39",
-            "Priority": "65"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
@@ -142,6 +126,22 @@
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:44:06",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
