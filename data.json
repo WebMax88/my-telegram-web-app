@@ -15,22 +15,6 @@
             "Priority": "60"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_010_comp_v16",
-            "Task_name": "CHG_010_comp_v16.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(26/27)",
-            "Status": "Rendering (1)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_comp_v16.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
