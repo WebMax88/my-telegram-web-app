@@ -18,20 +18,6 @@
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
-            "Name": "WLB_050_w_v59-/o",
-            "Task_name": "WLB_050_w_v59 - /out/Lightnings_hand",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(40/60)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Lightnings_hand",
-            "est.": "00:01:53",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WLB_010_v51-/out",
             "Task_name": "WLB_010_v51 - /out/main_assemble",
             "User": "shashkov",
@@ -41,6 +27,34 @@
             "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_w_v60-/o",
+            "Task_name": "WLB_050_w_v60 - /out/Reflects_glove",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "44%",
+            "Tasks": "(31/70)",
+            "Status": "Rendering (39)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Reflects_glove",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_w_v59-/o",
+            "Task_name": "WLB_050_w_v59 - /out/Lightnings_hand",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(56/60)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Lightnings_hand",
             "est.": "00:00:01",
             "Priority": "60"
         }
