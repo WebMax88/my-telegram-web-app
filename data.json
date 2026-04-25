@@ -6,12 +6,12 @@
             "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(25/61)",
-            "Status": "Rendering (9)",
+            "Progress": "45%",
+            "Tasks": "(28/61)",
+            "Status": "Rendering (10)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:34:20",
+            "est.": "00:26:11",
             "Priority": "65"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(49/61)",
-            "Status": "Rendering (9)",
+            "Progress": "86%",
+            "Tasks": "(53/61)",
+            "Status": "Rendering (8)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:02:26",
+            "est.": "00:00:01",
             "Priority": "65"
         },
         {
