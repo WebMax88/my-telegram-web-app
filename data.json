@@ -1,36 +1,4 @@
 {
-    "BETPLAY_OF": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(8/97)",
-            "Status": "Rendering (5)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "02:08:22",
-            "Priority": "60"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_105_comp_v02",
-            "Task_name": "CHG_105_comp_v02.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "9%",
-            "Tasks": "(5/51)",
-            "Status": "Rendering (10)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_105_comp_v02.nk",
-            "est.": "00:02:18",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
@@ -44,6 +12,22 @@
             "Project": "WINLINE_BELARUS",
             "Render": "main_assemble",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "8%",
+            "Tasks": "(8/97)",
+            "Status": "Rendering (5)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "02:08:22",
             "Priority": "60"
         }
     ]
