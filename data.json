@@ -1,19 +1,21 @@
 {
-    "T2_INSTRUCTION": [
+    "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
-            "User": "goncharov",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(60/61)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
+            "Progress": "19%",
+            "Tasks": "(19/97)",
+            "Status": "Rendering (5)",
+            "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
-        },
+            "est.": "22:26:19",
+            "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
             "Name": "TTI_010_v55-/obj",
@@ -27,22 +29,20 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
-        }
-    ],
-    "BETPLAY_OF": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
+            "Name": "TTI_010_v55-/obj",
+            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(18/97)",
-            "Status": "Rendering (5)",
-            "Project": "BETPLAY_OF",
+            "Progress": "98%",
+            "Tasks": "(60/61)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "22:45:42",
-            "Priority": "60"
+            "est.": "00:00:01",
+            "Priority": "65"
         }
     ]
 }
