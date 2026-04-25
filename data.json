@@ -6,12 +6,12 @@
             "Task_name": "TTI_005_v92 - /obj/lopnet1/light_wheels/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(128/186)",
+            "Progress": "70%",
+            "Tasks": "(132/186)",
             "Status": "Rendering (5)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:35:58",
+            "est.": "00:33:12",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "TTI_005_v94 - /obj/lopnet1/light_wheels/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(58/93)",
+            "Progress": "66%",
+            "Tasks": "(62/93)",
             "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:22:47",
+            "est.": "00:19:50",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane_refl/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(48/61)",
+            "Progress": "81%",
+            "Tasks": "(50/61)",
             "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:05:43",
+            "est.": "00:04:29",
             "Priority": "60"
         },
         {
@@ -76,12 +76,12 @@
             "Task_name": "TTI_005_v93 - /obj/lopnet1/light_wheels/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(92/186)",
+            "Progress": "51%",
+            "Tasks": "(96/186)",
             "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "01:03:28",
+            "est.": "01:00:39",
             "Priority": "60"
         }
     ],
