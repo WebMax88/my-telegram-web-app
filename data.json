@@ -2,20 +2,6 @@
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_005_v93-/obj",
-            "Task_name": "TTI_005_v93 - /obj/lopnet1/light_wheels/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(163/186)",
-            "Status": "Rendering (16)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:01:15",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TTI_010_v55-/obj",
             "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
             "User": "goncharov",
@@ -41,6 +27,20 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_v93-/obj",
+            "Task_name": "TTI_005_v93 - /obj/lopnet1/light_wheels/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(177/186)",
+            "Status": "Rendering (9)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
