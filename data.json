@@ -1,7 +1,7 @@
 {
     "BETPLAY_OF": [
         {
-            "Task_Progress": "65%",
+            "Task_Progress": "67%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -20,9 +20,9 @@
             "Task_name": "BTP_150_v67 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(40/44)",
-            "Status": "Rendering (4)",
+            "Progress": "95%",
+            "Tasks": "(42/44)",
+            "Status": "Rendering (2)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
