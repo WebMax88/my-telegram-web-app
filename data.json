@@ -1,7 +1,23 @@
 {
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v50-/out",
+            "Task_name": "WLB_010_v50 - /out/lightning_ball",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "lightning_ball",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
-            "Task_Progress": "81%",
+            "Task_Progress": "83%",
             "Name": "BTP_160_v58-/obj",
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
@@ -12,20 +28,6 @@
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_150_v67-/obj",
-            "Task_name": "BTP_150_v67 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -41,22 +43,6 @@
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v50-/out",
-            "Task_name": "WLB_010_v50 - /out/lightning_ball",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning_ball",
             "est.": "00:00:01",
             "Priority": "60"
         }
