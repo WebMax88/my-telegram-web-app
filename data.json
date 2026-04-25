@@ -1,36 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v51-/out",
-            "Task_name": "WLB_010_v51 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/RENDER_airplane/airplane/render",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/14)",
-            "Status": "Rendering (13)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -49,18 +17,34 @@
     ],
     "CHERNOGOLOVKA_AI": [
         {
-            "Task_Progress": "40%",
+            "Task_Progress": "100%",
             "Name": "CHG_010_comp_v16",
             "Task_name": "CHG_010_comp_v16.nk",
             "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/27)",
-            "Status": "Rendering (22)",
+            "Progress": "96%",
+            "Tasks": "(26/27)",
+            "Status": "Rendering (1)",
             "Project": "CHERNOGOLOVKA_AI",
             "Render": "CHG_010_comp_v16.nk",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "90"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v51-/out",
+            "Task_name": "WLB_010_v51 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
