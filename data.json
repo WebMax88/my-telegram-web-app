@@ -1,32 +1,18 @@
 {
-    "T2_INSTRUCTION": [
+    "CHERNOGOLOVKA_AI": [
         {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(60/61)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(60/61)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
+            "Task_Progress": "60%",
+            "Name": "CHG_010_comp_v17",
+            "Task_name": "CHG_010_comp_v17.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "22%",
+            "Tasks": "(6/27)",
+            "Status": "Rendering (19)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_010_comp_v17.nk",
+            "est.": "00:00:07",
+            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
@@ -43,6 +29,36 @@
             "Render": "usdrender_rop",
             "est.": "22:26:19",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_010_v55-/obj",
+            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(60/61)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_010_v55-/obj",
+            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(60/61)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "65"
         }
     ]
 }
