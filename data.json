@@ -1,17 +1,17 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "78%",
+            "Task_Progress": "100%",
             "Name": "TTI_040_v10-/out",
             "Task_name": "TTI_040_v10 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(6/96)",
-            "Status": "Rendering (15)",
+            "Progress": "17%",
+            "Tasks": "(17/96)",
+            "Status": "Rendering (16)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:31:33",
+            "est.": "00:35:46",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TTI_035_v13 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(80/117)",
-            "Status": "Rendering (13)",
+            "Progress": "70%",
+            "Tasks": "(83/117)",
+            "Status": "Rendering (14)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:14:57",
+            "est.": "00:11:55",
             "Priority": "60"
         },
         {
@@ -63,11 +63,11 @@
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
             "Progress": "6%",
-            "Tasks": "(14/215)",
+            "Tasks": "(15/215)",
             "Status": "Rendering (13)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "02:56:15",
+            "est.": "02:53:11",
             "Priority": "60"
         }
     ],
