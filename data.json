@@ -6,12 +6,12 @@
             "Task_name": "TTI_020_v13 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(102/215)",
+            "Progress": "50%",
+            "Tasks": "(109/215)",
             "Status": "Rendering (21)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "00:40:26",
+            "est.": "00:36:40",
             "Priority": "80"
         }
     ],
@@ -24,10 +24,10 @@
             "Plugin": "Houdini",
             "Progress": "48%",
             "Tasks": "(47/97)",
-            "Status": "Rendering (16)",
+            "Status": "Rendering (17)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "03:06:41",
+            "est.": "02:50:32",
             "Priority": "60"
         }
     ],
@@ -38,12 +38,12 @@
             "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(3/22)",
+            "Progress": "31%",
+            "Tasks": "(7/22)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:17:04",
+            "est.": "00:12:22",
             "Priority": "75"
         }
     ]
