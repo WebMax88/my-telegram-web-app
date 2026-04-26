@@ -15,22 +15,6 @@
             "Priority": "60"
         }
     ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ABC_010_comp_v33",
-            "Task_name": "ABC_010_comp_v33.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "91%",
-            "Tasks": "(22/24)",
-            "Status": "Rendering (2)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "ABC_010_comp_v33.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
@@ -38,12 +22,12 @@
             "Task_name": "WLB_050_comp_v15.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "51%",
-            "Tasks": "(19/37)",
-            "Status": "Rendering (8)",
+            "Progress": "86%",
+            "Tasks": "(32/37)",
+            "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "WLB_050_comp_v15.nk",
-            "est.": "00:02:19",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
