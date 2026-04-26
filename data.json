@@ -8,26 +8,40 @@
             "Plugin": "Houdini",
             "Progress": "47%",
             "Tasks": "(46/97)",
-            "Status": "Rendering (19)",
+            "Status": "Rendering (17)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "02:28:15",
+            "est.": "02:56:03",
             "Priority": "60"
         }
     ],
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
+            "Name": "TTI_040_comp_v19",
+            "Task_name": "TTI_040_comp_v19.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "95%",
+            "Tasks": "(19/20)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_040_comp_v19.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "TTI_020_v13-/out",
             "Task_name": "TTI_020_v13 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(57/215)",
-            "Status": "Rendering (16)",
+            "Progress": "30%",
+            "Tasks": "(66/215)",
+            "Status": "Rendering (17)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "01:34:56",
+            "est.": "01:20:37",
             "Priority": "80"
         }
     ]
