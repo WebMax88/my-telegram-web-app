@@ -1,20 +1,4 @@
 {
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_100_comp_v25",
-            "Task_name": "CHG_100_comp_v25_PS.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(60/64)",
-            "Status": "Rendering (4)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_100_comp_v25_PS.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -59,6 +43,22 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
+        }
+    ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_100_comp_v25",
+            "Task_name": "CHG_100_comp_v25_PS.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(63/64)",
+            "Status": "Rendering (1)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_100_comp_v25_PS.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
