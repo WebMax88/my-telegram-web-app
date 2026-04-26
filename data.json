@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "75%",
             "Tasks": "(73/97)",
-            "Status": "Rendering (23)",
+            "Status": "Rendering (22)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:03:53",
+            "est.": "00:08:08",
             "Priority": "60"
         }
     ],
@@ -22,11 +22,25 @@
             "Task_name": "ABC_010_comp_v33.nk",
             "User": "a.ivanov",
             "Plugin": "Nuke",
-            "Progress": "70%",
-            "Tasks": "(17/24)",
-            "Status": "Rendering (7)",
+            "Progress": "91%",
+            "Tasks": "(22/24)",
+            "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "ABC_010_comp_v33.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_047_comp_v05",
+            "Task_name": "TTI_047_comp_v05.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "54%",
+            "Tasks": "(13/24)",
+            "Status": "Rendering (11)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_047_comp_v05.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
