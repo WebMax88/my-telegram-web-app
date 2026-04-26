@@ -1,32 +1,16 @@
 {
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "30%",
-            "Tasks": "(57/186)",
-            "Status": "Rendering (10)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v39.nk",
-            "est.": "00:33:26",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/lightning_ball",
+            "Task_name": "WLB_010_v52 - /out/main_separate",
             "User": "shashkov",
             "Plugin": "Houdini",
             "Progress": "97%",
             "Tasks": "(43/44)",
             "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
-            "Render": "lightning_ball",
+            "Render": "main_separate",
             "est.": "00:00:01",
             "Priority": "60"
         },
@@ -47,14 +31,14 @@
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_separate",
+            "Task_name": "WLB_010_v52 - /out/lightning_ball",
             "User": "shashkov",
             "Plugin": "Houdini",
             "Progress": "97%",
             "Tasks": "(43/44)",
             "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
+            "Render": "lightning_ball",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -73,6 +57,22 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "36%",
+            "Tasks": "(67/186)",
+            "Status": "Rendering (9)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v39.nk",
+            "est.": "00:34:10",
+            "Priority": "90"
         }
     ]
 }
