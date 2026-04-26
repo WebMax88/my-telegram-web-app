@@ -6,12 +6,12 @@
             "Task_name": "TTI_030_v16 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(2/110)",
-            "Status": "Rendering (29)",
+            "Progress": "35%",
+            "Tasks": "(39/110)",
+            "Status": "Rendering (23)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:08:07",
+            "est.": "00:07:00",
             "Priority": "60"
         },
         {
@@ -57,22 +57,6 @@
             "Render": "usdrender_rop",
             "est.": "20:02:36",
             "Priority": "60"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_010_comp_v19",
-            "Task_name": "CHG_010_comp_v19.nk",
-            "User": "levendyan",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(24/27)",
-            "Status": "Rendering (3)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_comp_v19.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
