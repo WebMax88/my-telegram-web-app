@@ -1,19 +1,21 @@
 {
-    "T2_INSTRUCTION": [
+    "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_010_v56-/obj",
-            "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
-            "User": "goncharov",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(59/61)",
-            "Status": "Rendering (2)",
-            "Project": "T2_INSTRUCTION",
+            "Progress": "93%",
+            "Tasks": "(91/97)",
+            "Status": "Rendering (6)",
+            "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "65"
-        },
+            "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "0%",
             "Name": "TTI_005_comp_v36",
@@ -27,22 +29,20 @@
             "Render": "TTI_005_comp_v36.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "BETPLAY_OF": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
+            "Name": "TTI_010_v56-/obj",
+            "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(90/97)",
-            "Status": "Rendering (7)",
-            "Project": "BETPLAY_OF",
+            "Progress": "96%",
+            "Tasks": "(59/61)",
+            "Status": "Rendering (2)",
+            "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "60"
+            "Priority": "65"
         }
     ]
 }
