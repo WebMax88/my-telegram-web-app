@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "47%",
             "Tasks": "(46/97)",
-            "Status": "Rendering (17)",
+            "Status": "Rendering (19)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "02:56:03",
+            "est.": "02:28:15",
             "Priority": "60"
         }
     ],
@@ -22,13 +22,13 @@
             "Task_name": "TTI_020_v13 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(49/215)",
+            "Progress": "26%",
+            "Tasks": "(57/215)",
             "Status": "Rendering (16)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "01:46:21",
-            "Priority": "75"
+            "est.": "01:34:56",
+            "Priority": "80"
         }
     ]
 }
