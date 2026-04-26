@@ -20,12 +20,12 @@
             "Task_name": "TTI_035_v13 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(32/117)",
-            "Status": "Rendering (27)",
+            "Progress": "29%",
+            "Tasks": "(34/117)",
+            "Status": "Rendering (26)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:08:22",
+            "est.": "00:09:02",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(28/97)",
+            "Progress": "29%",
+            "Tasks": "(29/97)",
             "Status": "Rendering (5)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "18:58:25",
+            "est.": "18:38:43",
             "Priority": "60"
         }
     ]
