@@ -16,20 +16,6 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "TTI_030_comp_v19",
-            "Task_name": "TTI_030_comp_v19.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "95%",
-            "Tasks": "(21/22)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_030_comp_v19.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TTI_040_v10-/out",
             "Task_name": "TTI_040_v10 - /out/ceiling",
             "User": "chernovbrovyj",
@@ -64,10 +50,10 @@
             "Plugin": "Houdini",
             "Progress": "15%",
             "Tasks": "(34/215)",
-            "Status": "Rendering (4)",
+            "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "09:50:09",
+            "est.": "13:11:19",
             "Priority": "60"
         }
     ],
