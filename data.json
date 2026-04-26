@@ -21,11 +21,11 @@
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
             "Progress": "10%",
-            "Tasks": "(22/215)",
-            "Status": "Rendering (8)",
+            "Tasks": "(23/215)",
+            "Status": "Rendering (9)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "04:57:20",
+            "est.": "04:15:45",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TTI_040_v10 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(61/96)",
-            "Status": "Rendering (17)",
+            "Progress": "75%",
+            "Tasks": "(72/96)",
+            "Status": "Rendering (8)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:05:10",
+            "est.": "00:08:52",
             "Priority": "60"
         },
         {
@@ -62,13 +62,29 @@
             "Task_name": "TTI_035_v13 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(87/117)",
-            "Status": "Rendering (15)",
+            "Progress": "76%",
+            "Tasks": "(90/117)",
+            "Status": "Rendering (11)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:08:20",
+            "est.": "00:12:26",
             "Priority": "60"
+        }
+    ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_100_comp_v25",
+            "Task_name": "CHG_100_comp_v25_PS.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(49/49)",
+            "Status": "Completed",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_100_comp_v25_PS.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
