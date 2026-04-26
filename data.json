@@ -8,43 +8,11 @@
             "Plugin": "Houdini",
             "Progress": "53%",
             "Tasks": "(52/97)",
-            "Status": "Rendering (30)",
+            "Status": "Rendering (28)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:44:01",
+            "est.": "00:53:27",
             "Priority": "60"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_040_lightnin",
-            "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(21/22)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_040_comp_v19",
-            "Task_name": "TTI_040_comp_v19.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "70%",
-            "Tasks": "(14/20)",
-            "Status": "Rendering (6)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_040_comp_v19.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
