@@ -1,4 +1,34 @@
 {
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_010_v56-/obj",
+            "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(60/61)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_comp_6se",
+            "Task_name": "TTI_005_comp_6sec_v36.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "97%",
+            "Tasks": "(37/38)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_6sec_v36.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -13,36 +43,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_6se",
-            "Task_name": "TTI_005_comp_6sec_v36.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "65%",
-            "Tasks": "(25/38)",
-            "Status": "Rendering (13)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_6sec_v36.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v56-/obj",
-            "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(60/61)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
         }
     ]
 }
