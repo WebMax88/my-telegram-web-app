@@ -1,20 +1,4 @@
 {
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_031_comp_v19",
-            "Task_name": "TTI_031_comp_v19.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "14%",
-            "Tasks": "(8/57)",
-            "Status": "Rendering (21)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_031_comp_v19.nk",
-            "est.": "00:00:40",
-            "Priority": "90"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(67/97)",
+            "Progress": "70%",
+            "Tasks": "(68/97)",
             "Status": "Rendering (29)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:03:04",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
