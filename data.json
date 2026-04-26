@@ -8,54 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "48%",
             "Tasks": "(47/97)",
-            "Status": "Rendering (18)",
+            "Status": "Rendering (21)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "02:36:11",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ABC_010_v42-/obj",
-            "Task_name": "ABC_010_v42 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(108/117)",
-            "Status": "Rendering (5)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:01:14",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_020_v13-/out",
-            "Task_name": "TTI_020_v13 - /out/main",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(206/215)",
-            "Status": "Rendering (9)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "80"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "ABC_010_v43-/obj",
-            "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(44/117)",
-            "Status": "Rendering (5)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:19:44",
+            "est.": "02:01:19",
             "Priority": "60"
         }
     ],
@@ -66,13 +22,43 @@
             "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(18/22)",
-            "Status": "Rendering (4)",
+            "Progress": "95%",
+            "Tasks": "(21/22)",
+            "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ABC_010_v43-/obj",
+            "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "47%",
+            "Tasks": "(55/117)",
+            "Status": "Rendering (9)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:08:37",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_020_v13-/out",
+            "Task_name": "TTI_020_v13 - /out/main",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(214/215)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "80"
         }
     ]
 }
