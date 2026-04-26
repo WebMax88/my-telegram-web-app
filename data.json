@@ -1,12 +1,12 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "87%",
+            "Task_Progress": "91%",
             "Name": "TTI_020_v13-/out",
             "Task_name": "TTI_020_v13 - /out/high_rez",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "87%",
+            "Progress": "91%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "T2_INSTRUCTION",
@@ -24,10 +24,10 @@
             "Plugin": "Houdini",
             "Progress": "62%",
             "Tasks": "(61/97)",
-            "Status": "Rendering (30)",
+            "Status": "Rendering (31)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:17:48",
+            "est.": "00:14:21",
             "Priority": "60"
         }
     ]
