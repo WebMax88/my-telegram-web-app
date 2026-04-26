@@ -18,30 +18,16 @@
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_047_comp_v05",
-            "Task_name": "TTI_047_comp_v05.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "70%",
-            "Tasks": "(17/24)",
-            "Status": "Rendering (7)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_047_comp_v05.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TTI_010_v56-/obj",
             "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(59/61)",
-            "Status": "Rendering (2)",
+            "Progress": "100%",
+            "Tasks": "(61/61)",
+            "Status": "Completed",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "00:00:00",
             "Priority": "65"
         },
         {
