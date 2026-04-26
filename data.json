@@ -1,4 +1,20 @@
 {
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_031_comp_v19",
+            "Task_name": "TTI_031_comp_v19.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "14%",
+            "Tasks": "(8/57)",
+            "Status": "Rendering (21)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_031_comp_v19.nk",
+            "est.": "00:00:40",
+            "Priority": "90"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -8,27 +24,11 @@
             "Plugin": "Houdini",
             "Progress": "69%",
             "Tasks": "(67/97)",
-            "Status": "Rendering (30)",
+            "Status": "Rendering (29)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "00:03:04",
             "Priority": "60"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_comp_v15",
-            "Task_name": "WLB_050_comp_v15.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "70%",
-            "Tasks": "(26/37)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "WLB_050_comp_v15.nk",
-            "est.": "00:00:41",
-            "Priority": "90"
         }
     ]
 }
