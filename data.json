@@ -1,21 +1,19 @@
 {
-    "BETPLAY_OF": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(88/97)",
-            "Status": "Rendering (9)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "40%",
+            "Name": "TTI_005_comp_v36",
+            "Task_name": "TTI_005_comp_v36.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/19)",
+            "Status": "Rendering (19)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_v36.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "0%",
             "Name": "TTI_005_comp_v36",
@@ -36,13 +34,29 @@
             "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(34/61)",
-            "Status": "Rendering (16)",
+            "Progress": "77%",
+            "Tasks": "(47/61)",
+            "Status": "Rendering (14)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:05:44",
+            "est.": "00:00:01",
             "Priority": "65"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "90%",
+            "Tasks": "(88/97)",
+            "Status": "Rendering (9)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
