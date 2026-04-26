@@ -3,26 +3,12 @@
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(26/44)",
-            "Status": "Rendering (18)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
             "Task_name": "WLB_010_v52 - /out/main_separate",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(42/44)",
-            "Status": "Rendering (2)",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
             "Render": "main_separate",
             "est.": "00:00:01",
@@ -39,6 +25,20 @@
             "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
             "Render": "lightning_ball",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "75%",
+            "Tasks": "(33/44)",
+            "Status": "Rendering (11)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -66,12 +66,12 @@
             "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "15%",
-            "Tasks": "(29/186)",
-            "Status": "Rendering (7)",
+            "Progress": "19%",
+            "Tasks": "(37/186)",
+            "Status": "Rendering (9)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_005_comp_dooh_6sec_v39.nk",
-            "est.": "01:02:00",
+            "est.": "00:44:28",
             "Priority": "90"
         }
     ]
