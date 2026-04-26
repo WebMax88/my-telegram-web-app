@@ -1,12 +1,12 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "47%",
+            "Task_Progress": "52%",
             "Name": "TTI_020_v13-/out",
             "Task_name": "TTI_020_v13 - /out/high_rez",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "47%",
+            "Progress": "52%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "T2_INSTRUCTION",
@@ -20,12 +20,12 @@
             "Task_name": "TTI_020_comp_v14.nk",
             "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "39%",
-            "Tasks": "(17/43)",
-            "Status": "Rendering (11)",
+            "Progress": "83%",
+            "Tasks": "(36/43)",
+            "Status": "Rendering (7)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_020_comp_v14.nk",
-            "est.": "00:03:15",
+            "est.": "00:00:01",
             "Priority": "90"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TTI_020_comp_v15.nk",
             "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "4%",
-            "Tasks": "(2/43)",
-            "Status": "Rendering (10)",
+            "Progress": "46%",
+            "Tasks": "(20/43)",
+            "Status": "Rendering (14)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_020_comp_v15.nk",
-            "est.": "00:05:26",
+            "est.": "00:01:16",
             "Priority": "90"
         }
     ],
