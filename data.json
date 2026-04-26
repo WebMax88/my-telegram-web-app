@@ -14,21 +14,5 @@
             "est.": "00:00:01",
             "Priority": "60"
         }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_047_comp_v05",
-            "Task_name": "TTI_047_comp_v05.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "83%",
-            "Tasks": "(20/24)",
-            "Status": "Rendering (4)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_047_comp_v05.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
