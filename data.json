@@ -1,4 +1,20 @@
 {
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "50%",
+            "Name": "CHG_100_comp_v25",
+            "Task_name": "CHG_100_comp_v25_PS.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "85%",
+            "Tasks": "(55/64)",
+            "Status": "Rendering (9)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_100_comp_v25_PS.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
