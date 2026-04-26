@@ -1,17 +1,31 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "40%",
+            "Task_Progress": "100%",
+            "Name": "TTI_010_v56-/obj",
+            "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "78%",
+            "Tasks": "(48/61)",
+            "Status": "Rendering (13)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "TTI_005_comp_v36",
             "Task_name": "TTI_005_comp_v36.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/19)",
-            "Status": "Rendering (19)",
+            "Progress": "57%",
+            "Tasks": "(11/19)",
+            "Status": "Rendering (8)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_005_comp_v36.nk",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "90"
         },
         {
@@ -27,20 +41,6 @@
             "Render": "TTI_005_comp_v36.nk",
             "est.": "unknown",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v56-/obj",
-            "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(47/61)",
-            "Status": "Rendering (14)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
         }
     ],
     "BETPLAY_OF": [
@@ -50,9 +50,9 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(88/97)",
-            "Status": "Rendering (9)",
+            "Progress": "91%",
+            "Tasks": "(89/97)",
+            "Status": "Rendering (8)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
