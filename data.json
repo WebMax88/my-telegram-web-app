@@ -6,13 +6,27 @@
             "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(10/61)",
+            "Progress": "21%",
+            "Tasks": "(13/61)",
             "Status": "Rendering (15)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:19:05",
+            "est.": "00:17:13",
             "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_047_comp_v05",
+            "Task_name": "TTI_047_comp_v05.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "66%",
+            "Tasks": "(16/24)",
+            "Status": "Rendering (8)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_047_comp_v05.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
@@ -38,12 +52,12 @@
             "Task_name": "WLB_040_lightning_v21 - /stage/lightning/usdrender_rop",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(27/66)",
+            "Progress": "48%",
+            "Tasks": "(32/66)",
             "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:13:02",
+            "est.": "00:11:44",
             "Priority": "60"
         }
     ]
