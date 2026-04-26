@@ -1,20 +1,4 @@
 {
-    "BETPLAY_OF": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(96/97)",
-            "Status": "Rendering (1)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "CHERNOGOLOVKA_AI": [
         {
             "Task_Progress": "100%",
@@ -32,20 +16,6 @@
         }
     ],
     "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_separate",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(39/44)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
@@ -77,14 +47,14 @@
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/lightning",
+            "Task_name": "WLB_010_v52 - /out/main_separate",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
+            "Progress": "95%",
+            "Tasks": "(42/44)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_BELARUS",
-            "Render": "lightning",
+            "Render": "main_separate",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -96,13 +66,29 @@
             "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "4%",
-            "Tasks": "(8/186)",
-            "Status": "Rendering (5)",
+            "Progress": "8%",
+            "Tasks": "(16/186)",
+            "Status": "Rendering (7)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_005_comp_dooh_6sec_v39.nk",
-            "est.": "01:48:37",
+            "est.": "01:09:33",
             "Priority": "90"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(96/97)",
+            "Status": "Rendering (1)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
