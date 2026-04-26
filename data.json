@@ -6,12 +6,12 @@
             "Task_name": "TTI_030_v16 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(39/110)",
-            "Status": "Rendering (15)",
+            "Progress": "36%",
+            "Tasks": "(40/110)",
+            "Status": "Rendering (22)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:48:51",
+            "est.": "00:28:17",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TTI_055_v13 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(191/227)",
-            "Status": "Rendering (11)",
+            "Progress": "98%",
+            "Tasks": "(223/227)",
+            "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:03:05",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
