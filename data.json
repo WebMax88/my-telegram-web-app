@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "90%",
             "Tasks": "(87/96)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:30:28",
+            "est.": "00:13:19",
             "Priority": "60"
         },
         {
@@ -50,10 +50,10 @@
             "Plugin": "Houdini",
             "Progress": "15%",
             "Tasks": "(34/215)",
-            "Status": "Rendering (2)",
+            "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "19:53:38",
+            "est.": "13:11:19",
             "Priority": "60"
         }
     ],
