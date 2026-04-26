@@ -6,13 +6,27 @@
             "Task_name": "TTI_020_v13 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(181/215)",
+            "Progress": "86%",
+            "Tasks": "(187/215)",
             "Status": "Rendering (21)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "00:05:08",
+            "est.": "00:02:45",
             "Priority": "80"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_031_comp_v19",
+            "Task_name": "TTI_031_comp_v19.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(56/57)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_031_comp_v19.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -20,12 +34,12 @@
             "Task_name": "ABC_010_v42 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(75/117)",
+            "Progress": "76%",
+            "Tasks": "(89/117)",
             "Status": "Rendering (6)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:09:04",
+            "est.": "00:05:30",
             "Priority": "60"
         },
         {
@@ -34,12 +48,12 @@
             "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(13/117)",
+            "Progress": "21%",
+            "Tasks": "(25/117)",
             "Status": "Rendering (5)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:28:33",
+            "est.": "00:24:20",
             "Priority": "60"
         }
     ],
@@ -66,12 +80,12 @@
             "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(9/22)",
+            "Progress": "50%",
+            "Tasks": "(11/22)",
             "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:08:55",
+            "est.": "00:06:50",
             "Priority": "60"
         }
     ]
