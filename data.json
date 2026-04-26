@@ -1,4 +1,20 @@
 {
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "25%",
+            "Name": "TTI_020_v13-/out",
+            "Task_name": "TTI_020_v13 - /out/high_rez",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "high_rez",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -8,27 +24,11 @@
             "Plugin": "Houdini",
             "Progress": "58%",
             "Tasks": "(57/97)",
-            "Status": "Rendering (35)",
+            "Status": "Rendering (33)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:12:30",
+            "est.": "00:18:34",
             "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "20%",
-            "Name": "TTI_020_v13-/out",
-            "Task_name": "TTI_020_v13 - /out/high_rez",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "high_rez",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ]
 }
