@@ -8,27 +8,11 @@
             "Plugin": "Houdini",
             "Progress": "69%",
             "Tasks": "(67/97)",
-            "Status": "Rendering (28)",
+            "Status": "Rendering (30)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:06:21",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_CleanUp_",
-            "Task_name": "TTI_005_CleanUp_v10.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "92%",
-            "Tasks": "(35/38)",
-            "Status": "Rendering (3)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_CleanUp_v10.nk",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "60"
         }
     ]
 }
