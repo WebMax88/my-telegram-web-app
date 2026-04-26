@@ -1,20 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "0%",
-            "Name": "WLB_040_lightnin",
-            "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/22)",
-            "Status": "Queued",
-            "Project": "WINLINE_BELARUS",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "75"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -33,17 +17,17 @@
     ],
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "20%",
+            "Task_Progress": "100%",
             "Name": "TTI_040_comp_v19",
             "Task_name": "TTI_040_comp_v19.nk",
             "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/20)",
-            "Status": "Rendering (20)",
+            "Progress": "95%",
+            "Tasks": "(19/20)",
+            "Status": "Rendering (1)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_040_comp_v19.nk",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "90"
         },
         {
@@ -52,13 +36,29 @@
             "Task_name": "TTI_020_v13 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(87/215)",
+            "Progress": "45%",
+            "Tasks": "(97/215)",
             "Status": "Rendering (21)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "00:48:55",
+            "est.": "00:43:27",
             "Priority": "80"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "0%",
+            "Name": "WLB_040_lightnin",
+            "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/22)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "75"
         }
     ]
 }
