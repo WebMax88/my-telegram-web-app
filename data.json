@@ -6,12 +6,12 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(47/97)",
-            "Status": "Rendering (22)",
+            "Progress": "49%",
+            "Tasks": "(48/97)",
+            "Status": "Rendering (23)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "01:51:48",
+            "est.": "01:39:09",
             "Priority": "60"
         }
     ],
@@ -22,12 +22,12 @@
             "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(69/117)",
-            "Status": "Rendering (11)",
+            "Progress": "73%",
+            "Tasks": "(86/117)",
+            "Status": "Rendering (10)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:04:56",
+            "est.": "00:03:07",
             "Priority": "60"
         }
     ],
