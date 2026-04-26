@@ -14,21 +14,5 @@
             "est.": "00:00:01",
             "Priority": "60"
         }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_comp_v15",
-            "Task_name": "WLB_050_comp_v15.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(36/37)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "WLB_050_comp_v15.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
