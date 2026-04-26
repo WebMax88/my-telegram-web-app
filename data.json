@@ -1,17 +1,17 @@
 {
-    "T2_INSTRUCTION": [
+    "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
-            "Name": "ABC_010_v43-/obj",
-            "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(105/117)",
-            "Status": "Rendering (10)",
-            "Project": "T2_INSTRUCTION",
+            "Progress": "50%",
+            "Tasks": "(49/97)",
+            "Status": "Rendering (29)",
+            "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:00:18",
+            "est.": "00:57:26",
             "Priority": "60"
         }
     ],
@@ -31,20 +31,34 @@
             "Priority": "60"
         }
     ],
-    "BETPLAY_OF": [
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
+            "Name": "ABC_010_v43-/obj",
+            "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(49/97)",
-            "Status": "Rendering (25)",
-            "Project": "BETPLAY_OF",
+            "Progress": "99%",
+            "Tasks": "(116/117)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "01:20:39",
+            "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_020_v13-/out",
+            "Task_name": "TTI_020_v13 - /out/main",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(214/215)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "80"
         }
     ]
 }
