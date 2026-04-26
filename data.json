@@ -6,13 +6,29 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(62/97)",
-            "Status": "Rendering (32)",
+            "Progress": "64%",
+            "Tasks": "(63/97)",
+            "Status": "Rendering (31)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:08:23",
+            "est.": "00:08:39",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ABC_010_comp_v33",
+            "Task_name": "ABC_010_comp_v33.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "41%",
+            "Tasks": "(10/24)",
+            "Status": "Rendering (14)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "ABC_010_comp_v33.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
