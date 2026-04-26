@@ -1,34 +1,4 @@
 {
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "16%",
-            "Name": "TTI_020_v13-/out",
-            "Task_name": "TTI_020_v13 - /out/high_rez",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "high_rez",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "60%",
-            "Name": "TTI_020_comp_v14",
-            "Task_name": "TTI_020_comp_v14.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "95%",
-            "Tasks": "(41/43)",
-            "Status": "Rendering (2)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_020_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -36,13 +6,29 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(56/97)",
+            "Progress": "58%",
+            "Tasks": "(57/97)",
             "Status": "Rendering (35)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:15:02",
+            "est.": "00:12:30",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "20%",
+            "Name": "TTI_020_v13-/out",
+            "Task_name": "TTI_020_v13 - /out/high_rez",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "high_rez",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
