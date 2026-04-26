@@ -6,12 +6,12 @@
             "Task_name": "TTI_020_v13 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(34/215)",
-            "Status": "Rendering (20)",
+            "Progress": "17%",
+            "Tasks": "(37/215)",
+            "Status": "Rendering (17)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "01:47:21",
+            "est.": "02:00:40",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "ABC_010_v41 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(57/117)",
-            "Status": "Rendering (16)",
+            "Progress": "75%",
+            "Tasks": "(88/117)",
+            "Status": "Rendering (15)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:04:25",
+            "est.": "00:01:27",
             "Priority": "60"
         },
         {
@@ -66,10 +66,10 @@
             "Plugin": "Houdini",
             "Progress": "46%",
             "Tasks": "(45/97)",
-            "Status": "Rendering (14)",
+            "Status": "Rendering (15)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "03:59:15",
+            "est.": "03:37:25",
             "Priority": "60"
         }
     ]
