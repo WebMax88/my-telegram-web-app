@@ -1,5 +1,49 @@
 {
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_010_comp_v22",
+            "Task_name": "CHG_010_comp_v22.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "58%",
+            "Tasks": "(39/67)",
+            "Status": "Rendering (9)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_010_comp_v22.nk",
+            "est.": "00:01:49",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_100_comp_v28",
+            "Task_name": "CHG_100_comp_v28_PS.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "97%",
+            "Tasks": "(48/49)",
+            "Status": "Rendering (1)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_100_comp_v28_PS.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "88%",
+            "Tasks": "(39/44)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
@@ -13,36 +57,6 @@
             "Render": "main_separate",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(38/44)",
-            "Status": "Rendering (6)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(88/186)",
-            "Status": "Rendering (9)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v39.nk",
-            "est.": "00:27:38",
-            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
@@ -61,19 +75,19 @@
             "Priority": "60"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "CHG_010_comp_v22",
-            "Task_name": "CHG_010_comp_v22.nk",
-            "User": "pankova",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "19%",
-            "Tasks": "(13/67)",
-            "Status": "Rendering (8)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_comp_v22.nk",
-            "est.": "00:04:59",
+            "Progress": "52%",
+            "Tasks": "(97/186)",
+            "Status": "Rendering (9)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v39.nk",
+            "est.": "00:24:55",
             "Priority": "90"
         }
     ]
