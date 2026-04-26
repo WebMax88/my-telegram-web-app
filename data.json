@@ -1,21 +1,19 @@
 {
-    "BETPLAY_OF": [
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
+            "Name": "TTI_030_v16-/out",
+            "Task_name": "TTI_030_v16 - /out/ceiling",
+            "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(26/97)",
-            "Status": "Rendering (5)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "19:40:45",
+            "Progress": "98%",
+            "Tasks": "(108/110)",
+            "Status": "Rendering (2)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "ceiling",
+            "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "TTI_010_v55-/obj",
@@ -43,36 +41,22 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_030_v16-/out",
-            "Task_name": "TTI_030_v16 - /out/ceiling",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(108/110)",
-            "Status": "Rendering (2)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "ceiling",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
+    "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
-            "Name": "CHG_010_comp_v19",
-            "Task_name": "CHG_010_comp_v19.nk",
-            "User": "levendyan",
-            "Plugin": "Nuke",
-            "Progress": "81%",
-            "Tasks": "(22/27)",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(26/97)",
             "Status": "Rendering (5)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_comp_v19.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "19:40:45",
+            "Priority": "60"
         }
     ]
 }
