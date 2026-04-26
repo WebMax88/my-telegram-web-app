@@ -1,36 +1,4 @@
 {
-    "BETPLAY_OF": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_160_v58-/obj",
-            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(49/97)",
-            "Status": "Rendering (29)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "00:57:26",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_040_lightnin",
-            "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(21/22)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
@@ -59,6 +27,38 @@
             "Render": "main",
             "est.": "00:00:01",
             "Priority": "80"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v58-/obj",
+            "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "51%",
+            "Tasks": "(50/97)",
+            "Status": "Rendering (30)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "00:49:38",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_040_lightnin",
+            "Task_name": "WLB_040_lightning_v20 - /stage/lightning/usdrender_rop",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(21/22)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
