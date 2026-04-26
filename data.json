@@ -1,4 +1,20 @@
 {
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_040_lightnin",
+            "Task_name": "WLB_040_lightning_v21 - /stage/lightning/usdrender_rop",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "7%",
+            "Tasks": "(5/66)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "usdrender_rop",
+            "est.": "00:17:10",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -6,9 +22,9 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(77/97)",
-            "Status": "Rendering (20)",
+            "Progress": "80%",
+            "Tasks": "(78/97)",
+            "Status": "Rendering (19)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
