@@ -1,17 +1,17 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "5%",
+            "Task_Progress": "100%",
             "Name": "TTI_010_v56-/obj",
             "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/61)",
-            "Status": "Rendering (15)",
+            "Progress": "8%",
+            "Tasks": "(5/61)",
+            "Status": "Rendering (16)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:16:47",
             "Priority": "65"
         }
     ],
@@ -24,10 +24,10 @@
             "Plugin": "Houdini",
             "Progress": "80%",
             "Tasks": "(78/97)",
-            "Status": "Rendering (18)",
+            "Status": "Rendering (17)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:04:56",
+            "est.": "00:10:28",
             "Priority": "60"
         }
     ],
@@ -38,12 +38,12 @@
             "Task_name": "WLB_040_lightning_v21 - /stage/lightning/usdrender_rop",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(14/66)",
-            "Status": "Rendering (5)",
+            "Progress": "34%",
+            "Tasks": "(23/66)",
+            "Status": "Rendering (3)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:20:14",
+            "est.": "00:26:11",
             "Priority": "60"
         }
     ]
