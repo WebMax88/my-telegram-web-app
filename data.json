@@ -6,12 +6,12 @@
             "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(26/61)",
+            "Progress": "49%",
+            "Tasks": "(30/61)",
             "Status": "Rendering (15)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "00:10:47",
+            "est.": "00:08:29",
             "Priority": "65"
         }
     ],
@@ -38,12 +38,12 @@
             "Task_name": "WLB_040_lightning_v21 - /stage/lightning/usdrender_rop",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(41/66)",
+            "Progress": "71%",
+            "Tasks": "(47/66)",
             "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:08:24",
+            "est.": "00:05:56",
             "Priority": "60"
         }
     ]
