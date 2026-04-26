@@ -1,4 +1,90 @@
 {
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "96%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/main_assemble",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "13%",
+            "Tasks": "(6/44)",
+            "Status": "Rendering (9)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_assemble",
+            "est.": "00:40:45",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/lightning_ball",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "79%",
+            "Tasks": "(35/44)",
+            "Status": "Rendering (8)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "lightning_ball",
+            "est.": "00:00:23",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/BG",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "88%",
+            "Tasks": "(39/44)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "BG",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/main_separate",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "36%",
+            "Tasks": "(16/44)",
+            "Status": "Rendering (8)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_separate",
+            "est.": "00:14:47",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/dust",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(32/44)",
+            "Status": "Rendering (8)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "dust",
+            "est.": "00:01:44",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/lightning",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "40%",
+            "Tasks": "(18/44)",
+            "Status": "Rendering (9)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "lightning",
+            "est.": "00:11:41",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -13,108 +99,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/lightning",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(14/44)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning",
-            "est.": "00:17:40",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/BG",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(30/44)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "BG",
-            "est.": "00:02:30",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/dust",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(24/44)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "dust",
-            "est.": "00:05:14",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_separate",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(15/44)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
-            "est.": "00:18:50",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/lightning_ball",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(29/44)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning_ball",
-            "est.": "00:02:42",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "64%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(5/44)",
-            "Status": "Rendering (9)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:38:17",
-            "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v56-/obj",
-            "Task_name": "TTI_010_v56 - /obj/lopnet_outdoor/main_plane/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(60/61)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
         }
     ]
 }
