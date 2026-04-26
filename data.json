@@ -2,6 +2,20 @@
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
+            "Name": "TTI_010_v55-/obj",
+            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(60/61)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "TTI_040_v10-/out",
             "Task_name": "TTI_040_v10 - /out/ceiling",
             "User": "chernovbrovyj",
@@ -36,25 +50,11 @@
             "Plugin": "Houdini",
             "Progress": "15%",
             "Tasks": "(34/215)",
-            "Status": "Rendering (2)",
+            "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "19:53:38",
+            "est.": "13:11:19",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_010_v55-/obj",
-            "Task_name": "TTI_010_v55 - /obj/lopnet_outdoor/main_airport/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(60/61)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
         }
     ],
     "BETPLAY_OF": [
