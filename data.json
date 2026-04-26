@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "90%",
             "Tasks": "(87/96)",
-            "Status": "Queued",
+            "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "unknown",
+            "est.": "00:07:37",
             "Priority": "60"
         },
         {
@@ -50,10 +50,10 @@
             "Plugin": "Houdini",
             "Progress": "15%",
             "Tasks": "(34/215)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "13:11:19",
+            "est.": "09:50:09",
             "Priority": "60"
         }
     ],
@@ -64,12 +64,12 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(44/97)",
+            "Progress": "46%",
+            "Tasks": "(45/97)",
             "Status": "Rendering (5)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "13:59:21",
+            "est.": "13:48:33",
             "Priority": "60"
         }
     ]
