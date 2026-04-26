@@ -1,34 +1,4 @@
 {
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ABC_010_v43-/obj",
-            "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(116/117)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_020_v13-/out",
-            "Task_name": "TTI_020_v13 - /out/main",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(214/215)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "80"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -36,12 +6,12 @@
             "Task_name": "BTP_160_v58 - /obj/lopnet1/environment/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(50/97)",
+            "Progress": "52%",
+            "Tasks": "(51/97)",
             "Status": "Rendering (30)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:49:38",
+            "est.": "00:47:02",
             "Priority": "60"
         }
     ],
