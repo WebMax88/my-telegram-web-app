@@ -36,28 +36,12 @@
             "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "75%",
-            "Tasks": "(140/186)",
-            "Status": "Rendering (9)",
+            "Progress": "82%",
+            "Tasks": "(154/186)",
+            "Status": "Rendering (8)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_005_comp_dooh_6sec_v39.nk",
-            "est.": "00:06:11",
-            "Priority": "90"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_100_comp_v28",
-            "Task_name": "CHG_100_comp_v28_PS.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "89%",
-            "Tasks": "(44/49)",
-            "Status": "Rendering (5)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_100_comp_v28_PS.nk",
-            "est.": "00:00:01",
+            "est.": "00:04:32",
             "Priority": "90"
         }
     ]
