@@ -1,17 +1,17 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "100%",
             "Name": "ABC_010_comp_v33",
             "Task_name": "ABC_010_comp_v33.nk",
             "User": "a.ivanov",
             "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/24)",
-            "Status": "Rendering (24)",
+            "Progress": "83%",
+            "Tasks": "(20/24)",
+            "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "ABC_010_comp_v33.nk",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
@@ -24,10 +24,10 @@
             "Plugin": "Houdini",
             "Progress": "69%",
             "Tasks": "(67/97)",
-            "Status": "Rendering (29)",
+            "Status": "Rendering (30)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:03:04",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
