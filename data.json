@@ -8,10 +8,26 @@
             "Plugin": "Houdini",
             "Progress": "48%",
             "Tasks": "(47/97)",
-            "Status": "Rendering (21)",
+            "Status": "Rendering (22)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "02:01:19",
+            "est.": "01:51:48",
+            "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ABC_010_v43-/obj",
+            "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(69/117)",
+            "Status": "Rendering (11)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "00:04:56",
             "Priority": "60"
         }
     ],
@@ -29,36 +45,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ABC_010_v43-/obj",
-            "Task_name": "ABC_010_v43 - /obj/lopnet1/airpl_refl_layer2/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(55/117)",
-            "Status": "Rendering (9)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:08:37",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_020_v13-/out",
-            "Task_name": "TTI_020_v13 - /out/main",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(214/215)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "80"
         }
     ]
 }
