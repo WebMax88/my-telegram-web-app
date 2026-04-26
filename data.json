@@ -8,11 +8,27 @@
             "Plugin": "Houdini",
             "Progress": "75%",
             "Tasks": "(73/97)",
-            "Status": "Rendering (23)",
+            "Status": "Rendering (24)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "00:03:53",
+            "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "0%",
+            "Name": "ABC_010_comp_v33",
+            "Task_name": "ABC_010_comp_v33.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/24)",
+            "Status": "Rendering (12)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "ABC_010_comp_v33.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "WINLINE_BELARUS": [
@@ -24,10 +40,10 @@
             "Plugin": "Nuke",
             "Progress": "97%",
             "Tasks": "(36/37)",
-            "Status": "Rendering (1)",
+            "Status": "Queued",
             "Project": "WINLINE_BELARUS",
             "Render": "WLB_050_comp_v15.nk",
-            "est.": "00:00:01",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
