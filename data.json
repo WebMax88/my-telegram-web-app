@@ -2,16 +2,16 @@
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_040_v10-/out",
-            "Task_name": "TTI_040_v10 - /out/ceiling",
+            "Name": "TTI_035_v13-/out",
+            "Task_name": "TTI_035_v13 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
             "Progress": "82%",
-            "Tasks": "(79/96)",
-            "Status": "Rendering (6)",
+            "Tasks": "(96/117)",
+            "Status": "Rendering (11)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:07:32",
+            "est.": "00:08:02",
             "Priority": "60"
         },
         {
@@ -30,16 +30,30 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "TTI_035_v13-/out",
-            "Task_name": "TTI_035_v13 - /out/ceiling",
+            "Name": "TTI_020_v13-/out",
+            "Task_name": "TTI_020_v13 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(96/117)",
-            "Status": "Rendering (10)",
+            "Progress": "13%",
+            "Tasks": "(29/215)",
+            "Status": "Rendering (8)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "main",
+            "est.": "04:45:09",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_040_v10-/out",
+            "Task_name": "TTI_040_v10 - /out/ceiling",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "85%",
+            "Tasks": "(82/96)",
+            "Status": "Rendering (4)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "00:09:43",
+            "est.": "00:09:58",
             "Priority": "60"
         },
         {
@@ -55,20 +69,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_020_v13-/out",
-            "Task_name": "TTI_020_v13 - /out/main",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(26/215)",
-            "Status": "Rendering (7)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "main",
-            "est.": "05:21:36",
-            "Priority": "60"
         }
     ],
     "BETPLAY_OF": [
