@@ -1,6 +1,34 @@
 {
     "ADIDAS_DICKS_PRLM": [
         {
+            "Task_Progress": "7%",
+            "Name": "Generic_v152-/ob",
+            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "7%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
+        },
+        {
+            "Task_Progress": "4%",
+            "Name": "Generic_v152-/ob",
+            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
+        },
+        {
             "Task_Progress": "0%",
             "Name": "Generic_v152-/ob",
             "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
@@ -15,23 +43,9 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "51%",
-            "Name": "Generic_v152-/ob",
-            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_atmo/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
-        {
             "Task_Progress": "0%",
             "Name": "Generic_v152-/ob",
-            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_main/usdrender_rop",
+            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "0%",
@@ -43,23 +57,9 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "3%",
-            "Name": "Generic_v152-/ob",
-            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
-        {
             "Task_Progress": "0%",
             "Name": "Generic_v152-/ob",
-            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
+            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_510_ground_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "0%",
@@ -87,22 +87,6 @@
             "Priority": "90"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_010_clnp_v05",
-            "Task_name": "CHG_010_clnp_v05.nk",
-            "User": "f.smirnov",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(44/45)",
-            "Status": "Rendering (1)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_clnp_v05.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
@@ -110,9 +94,9 @@
             "Task_name": "TST_050_v24 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(35/41)",
-            "Status": "Rendering (6)",
+            "Progress": "95%",
+            "Tasks": "(39/41)",
+            "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "IngYang",
             "est.": "00:00:01",
