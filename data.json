@@ -6,12 +6,12 @@
             "Task_name": "TST_055_Wheel_v21 - /out/main",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(18/56)",
+            "Progress": "35%",
+            "Tasks": "(20/56)",
             "Status": "Rendering (16)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "main",
-            "est.": "00:07:35",
+            "est.": "00:07:53",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "TST_055_Wheel_v21 - /out/floor",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(34/56)",
+            "Progress": "67%",
+            "Tasks": "(38/56)",
             "Status": "Rendering (16)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "floor",
-            "est.": "00:01:41",
+            "est.": "00:00:37",
             "Priority": "60"
         }
     ],
