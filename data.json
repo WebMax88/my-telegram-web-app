@@ -1,19 +1,35 @@
 {
-    "WINLINE_BELARUS": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_separate",
-            "User": "shashkov",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v21 - /out/main",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
-            "est.": "00:00:01",
+            "Progress": "26%",
+            "Tasks": "(15/56)",
+            "Status": "Rendering (16)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:07:00",
             "Priority": "60"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v21 - /out/floor",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "41%",
+            "Tasks": "(23/56)",
+            "Status": "Rendering (15)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "floor",
+            "est.": "00:03:53",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
@@ -27,35 +43,19 @@
             "Render": "main_assemble",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v21 - /out/floor",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(15/56)",
-            "Status": "Rendering (15)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "floor",
-            "est.": "00:03:57",
-            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v21 - /out/main",
-            "User": "hozhaev",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/main_separate",
+            "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(10/56)",
-            "Status": "Rendering (15)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:09:28",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_separate",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
