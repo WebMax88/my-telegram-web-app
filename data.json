@@ -1,103 +1,17 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "20%",
-            "Name": "TST_020_v09-/out",
-            "Task_name": "TST_020_v09 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/4)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_025_v15-/out",
-            "Task_name": "TST_025_v15 - /out/green",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/5)",
-            "Status": "Queued",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "green",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v22 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(29/56)",
-            "Status": "Rendering (2)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "02:31:21",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "10%",
-            "Name": "TST_025_v15-/out",
-            "Task_name": "TST_025_v15 - /out/red",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/5)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "red",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v153-/ob",
-            "Task_name": "Generic_v153 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(12/123)",
-            "Status": "Rendering (3)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "23:07:52",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v153-/ob",
-            "Task_name": "Generic_v153 - /obj/lopnet1/DSG_510_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(23/51)",
-            "Status": "Rendering (2)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "04:38:04",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v153-/ob",
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_680_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(16/71)",
+            "Progress": "25%",
+            "Tasks": "(18/71)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:34:11",
+            "est.": "03:23:12",
             "Priority": "60"
         },
         {
@@ -106,12 +20,12 @@
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_510_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(44/51)",
+            "Progress": "88%",
+            "Tasks": "(45/51)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:34:28",
+            "est.": "00:27:43",
             "Priority": "60"
         },
         {
@@ -134,12 +48,12 @@
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(4/71)",
+            "Progress": "7%",
+            "Tasks": "(5/71)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "15:12:02",
+            "est.": "15:03:58",
             "Priority": "60"
         },
         {
@@ -148,12 +62,12 @@
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(8/123)",
-            "Status": "Rendering (3)",
+            "Progress": "7%",
+            "Tasks": "(9/123)",
+            "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "21:12:20",
+            "est.": "18:46:20",
             "Priority": "60"
         },
         {
@@ -162,12 +76,12 @@
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_680_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(12/71)",
+            "Progress": "19%",
+            "Tasks": "(14/71)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:31:01",
+            "est.": "04:23:13",
             "Priority": "60"
         },
         {
@@ -187,6 +101,34 @@
         {
             "Task_Progress": "100%",
             "Name": "Generic_v153-/ob",
+            "Task_name": "Generic_v153 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(12/123)",
+            "Status": "Rendering (3)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "23:07:52",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v153-/ob",
+            "Task_name": "Generic_v153 - /obj/lopnet1/DSG_510_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "49%",
+            "Tasks": "(25/51)",
+            "Status": "Rendering (2)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "04:43:34",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v153-/ob",
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
@@ -196,6 +138,80 @@
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "18:27:20",
+            "Priority": "60"
+        }
+    ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_010_comp_v24",
+            "Task_name": "CHG_010_comp_v24.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "84%",
+            "Tasks": "(38/45)",
+            "Status": "Rendering (7)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_010_comp_v24.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v22 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "51%",
+            "Tasks": "(29/56)",
+            "Status": "Rendering (2)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "02:31:21",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "50%",
+            "Name": "TST_025_v15-/out",
+            "Task_name": "TST_025_v15 - /out/red",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/5)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "red",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "70%",
+            "Name": "TST_020_v09-/out",
+            "Task_name": "TST_020_v09 - /out/main",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/4)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "10%",
+            "Name": "TST_025_v15-/out",
+            "Task_name": "TST_025_v15 - /out/green",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/5)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "green",
+            "est.": "unknown",
             "Priority": "60"
         }
     ],
@@ -212,22 +228,6 @@
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_040_comp_v20.nk",
             "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "TRAVELERS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v16",
-            "Task_name": "TOR_390_comp_v16.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "52%",
-            "Tasks": "(19/36)",
-            "Status": "Rendering (7)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v16.nk",
-            "est.": "00:01:09",
             "Priority": "90"
         }
     ]
