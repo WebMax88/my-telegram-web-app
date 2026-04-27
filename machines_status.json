@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -220,7 +220,7 @@
         "user": "Ivan Godomin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws202",
         "user": "Pavel Kufterin"
     },
