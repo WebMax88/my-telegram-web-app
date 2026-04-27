@@ -1,20 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_separate",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
@@ -31,20 +15,20 @@
             "Priority": "60"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
+    "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
-            "Name": "CHG_100_comp_v29",
-            "Task_name": "CHG_100_comp_v29_PS.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(58/64)",
-            "Status": "Rendering (6)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_100_comp_v29_PS.nk",
+            "Name": "WLB_010_v52-/out",
+            "Task_name": "WLB_010_v52 - /out/main_separate",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(43/44)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_separate",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "60"
         }
     ]
 }
