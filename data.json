@@ -28,21 +28,5 @@
             "est.": "00:00:01",
             "Priority": "60"
         }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "60%",
-            "Name": "TTI_010_comp_v20",
-            "Task_name": "TTI_010_comp_v20.nk",
-            "User": "savvin",
-            "Plugin": "Nuke",
-            "Progress": "60%",
-            "Tasks": "(15/25)",
-            "Status": "Rendering (10)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_010_comp_v20.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
