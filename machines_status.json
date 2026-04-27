@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws47",
         "user": "Ivan Levendyan"
     },
@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -200,7 +200,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
