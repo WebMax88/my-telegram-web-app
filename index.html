@@ -587,19 +587,19 @@
         </div>
       `;
     }
-
+    
     function createMachinesMobileList(rows) {
       return `
         <div class="machines-mobile-list">
           ${rows.map(row => `
             <div class="machine-card">
-              <div class="machine-card-top">
-                <div class="machine-name">${row.machine ?? ""}</div>
+              <div class="machine-line">
+                <span class="machine-name">${row.machine ?? ""}</span>
+                <span class="machine-user">${row.user ?? ""}</span>
                 <span class="machine-status ${getMachineStatusClass(row.status)}">
                   ${row.status ?? ""}
                 </span>
               </div>
-              <div class="machine-user">${row.user ?? ""}</div>
             </div>
           `).join("")}
         </div>
