@@ -60,7 +60,7 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -210,7 +210,7 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
@@ -280,7 +280,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws215",
         "user": "Freelancer - Vova Syslov"
     },
