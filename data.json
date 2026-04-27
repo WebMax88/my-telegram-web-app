@@ -1,48 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v21 - /out/floor",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(5/56)",
-            "Status": "Rendering (10)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "floor",
-            "est.": "00:08:13",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "43%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v21 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/56)",
-            "Status": "Rendering (11)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v21 - /out/main_bg",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(25/56)",
-            "Status": "Rendering (9)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main_bg",
-            "est.": "00:02:01",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
@@ -73,20 +29,34 @@
             "Priority": "60"
         }
     ],
-    "T2_INSTRUCTION": [
+    "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "0%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v39.nk",
-            "est.": "unknown",
-            "Priority": "90"
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v21 - /out/floor",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(15/56)",
+            "Status": "Rendering (15)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "floor",
+            "est.": "00:03:57",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v21 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "17%",
+            "Tasks": "(10/56)",
+            "Status": "Rendering (15)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:09:28",
+            "Priority": "60"
         }
     ]
 }
