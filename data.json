@@ -1,34 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v21 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(24/56)",
-            "Status": "Rendering (25)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:02:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v21 - /out/floor",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(49/56)",
-            "Status": "Rendering (7)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "floor",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
@@ -52,13 +22,43 @@
             "Task_name": "TTI_005_comp_dooh_6sec_v39.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "16%",
-            "Tasks": "(30/186)",
-            "Status": "Rendering (12)",
+            "Progress": "40%",
+            "Tasks": "(76/186)",
+            "Status": "Rendering (10)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_005_comp_dooh_6sec_v39.nk",
-            "est.": "00:11:31",
+            "est.": "00:08:38",
             "Priority": "90"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v21 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(26/56)",
+            "Status": "Rendering (27)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:01:06",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v21 - /out/floor",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "92%",
+            "Tasks": "(52/56)",
+            "Status": "Rendering (4)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "floor",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
