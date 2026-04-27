@@ -102,13 +102,6 @@
       white-space: nowrap;
     }
 
-    th {
-      background: var(--panel-2);
-      position: sticky;
-      top: 0;
-      z-index: 1;
-    }
-
     tbody tr {
       cursor: pointer;
     }
@@ -252,7 +245,10 @@
       table-layout: fixed;
     }
 
-    .machines-table th,
+    .machines-table th {
+      padding: 4px 10px;
+      font-size: 9px;
+    }
     .machines-table td {
       padding: 10px 12px;
       border-bottom: 1px solid var(--border);
