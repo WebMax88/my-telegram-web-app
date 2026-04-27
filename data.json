@@ -14,5 +14,21 @@
             "est.": "00:00:01",
             "Priority": "60"
         }
+    ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_105_comp_v10",
+            "Task_name": "CHG_105_comp_v10.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "95%",
+            "Tasks": "(20/21)",
+            "Status": "Rendering (1)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_105_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
     ]
 }
