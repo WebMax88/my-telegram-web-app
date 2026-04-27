@@ -6,12 +6,12 @@
             "Task_name": "TST_055_Wheel_v21 - /out/main",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(16/56)",
+            "Progress": "32%",
+            "Tasks": "(18/56)",
             "Status": "Rendering (16)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "main",
-            "est.": "00:07:09",
+            "est.": "00:07:35",
             "Priority": "60"
         },
         {
@@ -20,30 +20,16 @@
             "Task_name": "TST_055_Wheel_v21 - /out/floor",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(30/56)",
-            "Status": "Rendering (15)",
+            "Progress": "60%",
+            "Tasks": "(34/56)",
+            "Status": "Rendering (16)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "floor",
-            "est.": "00:02:58",
+            "est.": "00:01:41",
             "Priority": "60"
         }
     ],
     "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v52-/out",
-            "Task_name": "WLB_010_v52 - /out/main_assemble",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_assemble",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "WLB_010_v52-/out",
