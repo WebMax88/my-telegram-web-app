@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "StartingJob",
+        "status": "Rendering",
         "machine": "ws47",
         "user": "Ivan Levendyan"
     },
@@ -100,7 +100,7 @@
         "user": "Sonya Pankova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
@@ -135,7 +135,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Rendering",
+        "status": "Offline",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -225,7 +225,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
@@ -245,7 +245,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
