@@ -74,13 +74,14 @@
     }
 
     th, td {
-      padding: 10px 12px;
+      padding: 8px 12px;
       border-bottom: 1px solid var(--border);
       text-align: left;
       white-space: nowrap;
       font-size: 10px;
       overflow: hidden;
       text-overflow: ellipsis;
+      line-height: 1.1;
     }
     .cell-name {
       display: block;
@@ -94,6 +95,14 @@
       position: sticky;
       top: 0;
       z-index: 1;
+    }
+
+    tbody tr {
+      cursor: pointer;
+    }
+    
+    tbody tr.selected {
+      background: rgba(96, 165, 250, 0.14);
     }
 
     .mobile-list {
@@ -625,6 +634,17 @@
       document.getElementById("app").innerHTML = projectsHtml + machinesHtml;
     }
 
+    function enableRowSelection() {
+      document.querySelectorAll("tbody tr").forEach(row => {
+        row.addEventListener("click", () => {
+          document.querySelectorAll("tbody tr.selected").forEach(r => {
+            r.classList.remove("selected");
+          });
+          row.classList.add("selected");
+        });
+      });
+    }
+
     async function loadData() {
       try {
         const ts = Date.now();
@@ -649,6 +669,7 @@
         latestMachinesData = machinesData;
 
         renderAllProjects(projectsData, machinesData);
+        enableRowSelection();
       } catch (e) {
         console.error("Failed to load json", e);
       }
