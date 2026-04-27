@@ -1,31 +1,17 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "0%",
-            "Name": "TTI_040_comp_v20",
-            "Task_name": "TTI_040_comp_v20.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/20)",
-            "Status": "Queued",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_040_comp_v20.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "TTI_005_v92-/obj",
             "Task_name": "TTI_005_v92 - /obj/lopnet1/ground/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(11/186)",
+            "Progress": "6%",
+            "Tasks": "(12/186)",
             "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "17:54:25",
+            "est.": "21:18:34",
             "Priority": "60"
         },
         {
@@ -35,11 +21,11 @@
             "User": "goncharov",
             "Plugin": "Houdini",
             "Progress": "9%",
-            "Tasks": "(17/186)",
+            "Tasks": "(18/186)",
             "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "21:05:52",
+            "est.": "20:47:04",
             "Priority": "60"
         },
         {
@@ -48,26 +34,12 @@
             "Task_name": "TTI_005_v94 - /obj/lopnet1/airplane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(30/93)",
+            "Progress": "33%",
+            "Tasks": "(31/93)",
             "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "04:32:28",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_005_v93-/obj",
-            "Task_name": "TTI_005_v93 - /obj/lopnet1/main_plane_windows/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(183/186)",
-            "Status": "Rendering (2)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "00:01:05",
+            "est.": "04:29:06",
             "Priority": "60"
         },
         {
@@ -90,12 +62,12 @@
             "Task_name": "TTI_005_v92 - /obj/lopnet1/main_plane_windows/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(119/186)",
-            "Status": "Rendering (2)",
+            "Progress": "66%",
+            "Tasks": "(123/186)",
+            "Status": "Rendering (1)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "01:43:51",
+            "est.": "03:15:09",
             "Priority": "60"
         },
         {
@@ -139,6 +111,20 @@
             "Render": "usdrender_rop",
             "est.": "16:16:25",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "TTI_040_comp_v20",
+            "Task_name": "TTI_040_comp_v20.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/20)",
+            "Status": "Queued",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_040_comp_v20.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
@@ -162,12 +148,12 @@
             "Task_name": "Generic_v154 - /obj/lopnet1/DSG_696_ground_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(6/123)",
-            "Status": "Rendering (2)",
+            "Progress": "5%",
+            "Tasks": "(7/123)",
+            "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "06:38:24",
+            "est.": "04:06:48",
             "Priority": "60"
         },
         {
@@ -185,12 +171,12 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "50%",
+            "Task_Progress": "51%",
             "Name": "Generic_v155-/ob",
             "Task_name": "Generic_v155 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "50%",
+            "Progress": "51%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
@@ -220,24 +206,10 @@
             "Plugin": "Houdini",
             "Progress": "50%",
             "Tasks": "(36/71)",
-            "Status": "Rendering (2)",
+            "Status": "Rendering (3)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "13:11:36",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v162d-/o",
-            "Task_name": "Generic_v162d - /obj/lopnet1/DSG_640_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(52/72)",
-            "Status": "Rendering (2)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "01:09:05",
+            "est.": "08:31:44",
             "Priority": "60"
         },
         {
@@ -256,16 +228,30 @@
         },
         {
             "Task_Progress": "100%",
+            "Name": "Generic_v162d-/o",
+            "Task_name": "Generic_v162d - /obj/lopnet1/DSG_640_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "75%",
+            "Tasks": "(54/72)",
+            "Status": "Rendering (2)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "01:01:21",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Generic_v153-/ob",
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(19/123)",
+            "Progress": "16%",
+            "Tasks": "(20/123)",
             "Status": "Rendering (3)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "21:56:31",
+            "est.": "21:33:27",
             "Priority": "60"
         },
         {
@@ -290,10 +276,10 @@
             "Plugin": "Houdini",
             "Progress": "32%",
             "Tasks": "(40/123)",
-            "Status": "Rendering (2)",
+            "Status": "Rendering (3)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:03:55",
+            "est.": "16:30:14",
             "Priority": "60"
         },
         {
@@ -348,10 +334,10 @@
             "Plugin": "Houdini",
             "Progress": "4%",
             "Tasks": "(3/74)",
-            "Status": "Rendering (2)",
+            "Status": "Rendering (3)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "03:18:04",
+            "est.": "01:28:23",
             "Priority": "60"
         },
         {
@@ -360,12 +346,12 @@
             "Task_name": "BTP_280_v68 - /stage/stadium_rop/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(52/98)",
+            "Progress": "55%",
+            "Tasks": "(54/98)",
             "Status": "Rendering (2)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "03:53:36",
+            "est.": "03:43:07",
             "Priority": "60"
         }
     ]
