@@ -207,7 +207,7 @@
     .prio-red {
       color: var(--red);
     }
-        .machines-section {
+    .machines-section {
       margin-top: 18px;
       border: 1px solid var(--border);
       border-radius: var(--radius);
@@ -293,13 +293,41 @@
     }
 
     .machine-status.st-offline {
-      background: rgba(248, 113, 113, 0.14);
-      color: #f87171;
+      background: rgba(226, 232, 240, 0.14);
+      color: #cbd5e1;
     }
 
     .machine-status.st-stalled {
-      background: rgba(251, 191, 36, 0.14);
-      color: #fbbf24;
+      background: rgba(248, 113, 113, 0.14);
+      color: #f87171;
+    }
+    .section-header {
+      padding: 10px 12px;
+      background: var(--panel-2);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .section-title {
+      margin: 0;
+      font-size: 14px;
+      font-weight: normal;
+    }
+
+    .toggle-btn {
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--text);
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 11px;
+      cursor: pointer;
+    }
+
+    .toggle-btn:hover {
+      background: #182233;
     }
 
     @media (max-width: 720px) {
@@ -356,6 +384,9 @@
       "Name", "User", "Status",
       "Progress", "Tasks", "est.", "Priority"
     ];
+    let showAllMachines = false;
+    let latestProjectsData = null;
+    let latestMachinesData = [];
 
     function getStatusClass(status) {
       const s = status.toLowerCase();
@@ -487,13 +518,20 @@
         </section>
       `;
     }
-        function getMachineStatusClass(status) {
+    function getMachineStatusClass(status) {
       const s = String(status || "").toLowerCase();
       if (s.includes("rendering")) return "st-rendering";
       if (s.includes("idle")) return "st-idle";
       if (s.includes("offline")) return "st-offline";
       if (s.includes("stalled")) return "st-stalled";
       return "";
+    }
+    function getVisibleMachines(rows) {
+      if (showAllMachines) return rows;
+      return rows.filter(row => {
+        const s = String(row.status || "").toLowerCase();
+        return s === "stalled" || s === "offline";
+      });
     }
 
     function createMachinesDesktopTable(rows) {
@@ -549,13 +587,28 @@
     }
 
     function createMachinesSection(rows) {
+      const visibleRows = getVisibleMachines(rows);
+      const buttonLabel = showAllMachines ? "Show issues only" : "Show all";
+
       return `
         <section class="machines-section">
-          <div class="section-title">Machines status</div>
-          ${createMachinesDesktopTable(rows)}
-          ${createMachinesMobileList(rows)}
+          <div class="section-header">
+            <div class="section-title">Machines status (${visibleRows.length}/${rows.length})</div>
+            <button class="toggle-btn" type="button" onclick="toggleMachinesView()">
+              ${buttonLabel}
+            </button>
+          </div>
+          ${createMachinesDesktopTable(visibleRows)}
+          ${createMachinesMobileList(visibleRows)}
         </section>
       `;
+    }
+
+    function toggleMachinesView() {
+      showAllMachines = !showAllMachines;
+      if (latestProjectsData) {
+        renderAllProjects(latestProjectsData, latestMachinesData);
+      }
     }
 
     function renderAllProjects(projectsData, machinesData) {
@@ -589,6 +642,9 @@
 
         const projectsData = await projectsResponse.json();
         const machinesData = await machinesResponse.json();
+
+        latestProjectsData = projectsData;
+        latestMachinesData = machinesData;
 
         renderAllProjects(projectsData, machinesData);
       } catch (e) {
