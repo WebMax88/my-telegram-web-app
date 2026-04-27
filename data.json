@@ -1,4 +1,20 @@
 {
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_105_comp_v10",
+            "Task_name": "CHG_105_comp_v10.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "71%",
+            "Tasks": "(15/21)",
+            "Status": "Rendering (6)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_105_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
@@ -6,87 +22,29 @@
             "Task_name": "TTI_055_comp_v14.nk",
             "User": "a.ivanov",
             "Plugin": "Nuke",
-            "Progress": "44%",
-            "Tasks": "(20/45)",
-            "Status": "Rendering (8)",
+            "Progress": "97%",
+            "Tasks": "(44/45)",
+            "Status": "Rendering (1)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_055_comp_v14.nk",
-            "est.": "00:02:17",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_055_comp_v14",
-            "Task_name": "TTI_055_comp_v14.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "48%",
-            "Tasks": "(22/45)",
-            "Status": "Rendering (8)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_055_comp_v14.nk",
-            "est.": "00:02:09",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_055_comp_v14",
-            "Task_name": "TTI_055_comp_v14.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "57%",
-            "Tasks": "(26/45)",
-            "Status": "Rendering (7)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_055_comp_v14.nk",
-            "est.": "00:01:38",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "37%",
+            "Task_Progress": "67%",
             "Name": "Generic_v152-/ob",
             "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_tst/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "37%",
+            "Progress": "67%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "100"
-        },
-        {
-            "Task_Progress": "76%",
-            "Name": "Generic_v152-/ob",
-            "Task_name": "Generic_v152 - /obj/lopnet1/DSG_696_tst/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        }
-    ],
-    "DANISSIMO_MAGNAT": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DAN_010_comp_v18",
-            "Task_name": "DAN_010_comp_v18.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "85%",
-            "Tasks": "(54/63)",
-            "Status": "Rendering (9)",
-            "Project": "DANISSIMO_MAGNAT",
-            "Render": "DAN_010_comp_v18.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
