@@ -207,6 +207,100 @@
     .prio-red {
       color: var(--red);
     }
+        .machines-section {
+      margin-top: 18px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      background: var(--panel);
+    }
+
+    .section-title {
+      margin: 0;
+      padding: 10px 12px;
+      background: var(--panel-2);
+      font-size: 14px;
+      font-weight: normal;
+    }
+
+    .machines-table {
+      width: 100%;
+      min-width: 520px;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    .machines-table th,
+    .machines-table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--border);
+      text-align: left;
+      white-space: nowrap;
+      font-size: 10px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .machines-mobile-list {
+      display: none;
+    }
+
+    .machine-card {
+      padding: 14px 10px;
+      border-bottom: 1px solid var(--border);
+      background: var(--row-a);
+    }
+
+    .machine-card:nth-child(even) {
+      background: var(--row-b);
+    }
+
+    .machine-card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+
+    .machine-name {
+      font-size: 12px;
+      font-weight: 700;
+      min-width: 0;
+    }
+
+    .machine-user {
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .machine-status {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .machine-status.st-rendering {
+      background: rgba(96, 165, 250, 0.14);
+      color: #60a5fa;
+    }
+
+    .machine-status.st-idle {
+      background: rgba(74, 222, 128, 0.14);
+      color: #86efac;
+    }
+
+    .machine-status.st-offline {
+      background: rgba(248, 113, 113, 0.14);
+      color: #f87171;
+    }
+
+    .machine-status.st-stalled {
+      background: rgba(251, 191, 36, 0.14);
+      color: #fbbf24;
+    }
 
     @media (max-width: 720px) {
       body {
@@ -239,6 +333,12 @@
         flex-wrap: wrap;
         gap: 4px 8px;
         font-size: 11px;
+      }
+      .machines-section .table-wrap {
+        display: none;
+      }
+      .machines-mobile-list {
+        display: block;
       }
       .m-status   { flex: 0 0 72px; }
       .m-priority { flex: 0 0 96px; }
@@ -387,25 +487,112 @@
         </section>
       `;
     }
+        function getMachineStatusClass(status) {
+      const s = String(status || "").toLowerCase();
+      if (s.includes("rendering")) return "st-rendering";
+      if (s.includes("idle")) return "st-idle";
+      if (s.includes("offline")) return "st-offline";
+      if (s.includes("stalled")) return "st-stalled";
+      return "";
+    }
 
-    function renderAllProjects(data) {
-      document.getElementById("app").innerHTML = Object.entries(data)
+    function createMachinesDesktopTable(rows) {
+      return `
+        <div class="table-wrap">
+          <table class="machines-table">
+            <colgroup>
+              <col style="width: 20%">
+              <col style="width: 20%">
+              <col style="width: 60%">
+            </colgroup>
+            <thead>
+              <tr>
+                <th>Machine</th>
+                <th>Status</th>
+                <th>User</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${rows.map(row => `
+                <tr>
+                  <td>${row.machine ?? ""}</td>
+                  <td>
+                    <span class="machine-status ${getMachineStatusClass(row.status)}">
+                      ${row.status ?? ""}
+                    </span>
+                  </td>
+                  <td>${row.user ?? ""}</td>
+                </tr>
+              `).join("")}
+            </tbody>
+          </table>
+        </div>
+      `;
+    }
+
+    function createMachinesMobileList(rows) {
+      return `
+        <div class="machines-mobile-list">
+          ${rows.map(row => `
+            <div class="machine-card">
+              <div class="machine-card-top">
+                <div class="machine-name">${row.machine ?? ""}</div>
+                <span class="machine-status ${getMachineStatusClass(row.status)}">
+                  ${row.status ?? ""}
+                </span>
+              </div>
+              <div class="machine-user">${row.user ?? ""}</div>
+            </div>
+          `).join("")}
+        </div>
+      `;
+    }
+
+    function createMachinesSection(rows) {
+      return `
+        <section class="machines-section">
+          <div class="section-title">Machines status</div>
+          ${createMachinesDesktopTable(rows)}
+          ${createMachinesMobileList(rows)}
+        </section>
+      `;
+    }
+
+    function renderAllProjects(projectsData, machinesData) {
+      const projectsHtml = Object.entries(projectsData)
         .map(([projectName, rows]) => createProject(projectName, rows))
         .join("");
+
+      const machinesHtml = Array.isArray(machinesData) && machinesData.length
+        ? createMachinesSection(machinesData)
+        : "";
+
+      document.getElementById("app").innerHTML = projectsHtml + machinesHtml;
     }
 
     async function loadData() {
       try {
-        const response = await fetch("./data.json?_=" + Date.now(), {
-          cache: "no-store"
-        });
-        if (!response.ok) {
-          throw new Error("HTTP " + response.status);
+        const ts = Date.now();
+
+        const [projectsResponse, machinesResponse] = await Promise.all([
+          fetch("./data.json?_=" + ts, { cache: "no-store" }),
+          fetch("./machines_status.json?_=" + ts, { cache: "no-store" })
+        ]);
+
+        if (!projectsResponse.ok) {
+          throw new Error("data.json HTTP " + projectsResponse.status);
         }
-        const data = await response.json();
-        renderAllProjects(data);
+
+        if (!machinesResponse.ok) {
+          throw new Error("machines.json HTTP " + machinesResponse.status);
+        }
+
+        const projectsData = await projectsResponse.json();
+        const machinesData = await machinesResponse.json();
+
+        renderAllProjects(projectsData, machinesData);
       } catch (e) {
-        console.error("Failed to load data.json", e);
+        console.error("Failed to load json", e);
       }
     }
 
