@@ -150,7 +150,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -175,7 +175,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -260,7 +260,7 @@
         "user": "Matvey Zubarev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
