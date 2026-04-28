@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws47",
         "user": "Ivan Levendyan"
     },
@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -115,7 +115,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
