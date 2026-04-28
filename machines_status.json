@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -200,7 +200,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
@@ -270,7 +270,7 @@
         "user": "----"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
