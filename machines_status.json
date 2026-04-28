@@ -195,7 +195,7 @@
         "user": "Nail Sattarov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
@@ -220,7 +220,7 @@
         "user": "Ivan Godomin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws202",
         "user": "Pavel Kufterin"
     },
@@ -275,7 +275,7 @@
         "user": "Artemy Goncharov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
