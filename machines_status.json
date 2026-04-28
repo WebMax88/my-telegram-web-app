@@ -25,7 +25,7 @@
         "user": "Ruslan Ziganshin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws46",
         "user": "Daniil Makarov"
     },
@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Idle",
+        "status": "Offline",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -90,12 +90,12 @@
         "user": "Yuriy Mamontov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws59",
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -225,7 +225,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
