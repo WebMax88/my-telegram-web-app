@@ -135,7 +135,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -225,7 +225,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
@@ -250,7 +250,7 @@
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
