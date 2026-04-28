@@ -1,7 +1,7 @@
 {
     "BETPLAY_OF": [
         {
-            "Task_Progress": "6%",
+            "Task_Progress": "14%",
             "Name": "BTP_280_v68-/sta",
             "Task_name": "BTP_280_v68 - /stage/stadium_02_rop/usdrender_rop",
             "User": "aleksandrov",
@@ -36,12 +36,12 @@
             "Task_name": "TTI_005_v92 - /obj/lopnet1/airplane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(65/186)",
+            "Progress": "35%",
+            "Tasks": "(66/186)",
             "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "15:41:49",
+            "est.": "15:29:58",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "TTI_005_v93 - /obj/lopnet1/airplane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(70/186)",
+            "Progress": "38%",
+            "Tasks": "(71/186)",
             "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "12:02:28",
+            "est.": "11:50:46",
             "Priority": "60"
         },
         {
@@ -220,12 +220,12 @@
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(61/71)",
+            "Progress": "87%",
+            "Tasks": "(62/71)",
             "Status": "Rendering (4)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:23:18",
+            "est.": "01:08:53",
             "Priority": "60"
         },
         {
@@ -234,12 +234,12 @@
             "Task_name": "Generic_v153 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(87/123)",
+            "Progress": "72%",
+            "Tasks": "(89/123)",
             "Status": "Rendering (4)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:54:08",
+            "est.": "04:32:20",
             "Priority": "60"
         },
         {
