@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "67%",
             "Tasks": "(48/71)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (4)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "05:37:14",
+            "est.": "04:00:17",
             "Priority": "60"
         },
         {
@@ -71,12 +71,12 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "90%",
+            "Task_Progress": "91%",
             "Name": "Generic_v155-/ob",
             "Task_name": "Generic_v155 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "90%",
+            "Progress": "91%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
@@ -148,12 +148,12 @@
             "Task_name": "TTI_005_v92 - /obj/lopnet1/airplane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(33/186)",
+            "Progress": "18%",
+            "Tasks": "(34/186)",
             "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "19:56:41",
+            "est.": "19:38:56",
             "Priority": "60"
         },
         {
@@ -205,11 +205,11 @@
             "User": "goncharov",
             "Plugin": "Houdini",
             "Progress": "22%",
-            "Tasks": "(41/186)",
+            "Tasks": "(42/186)",
             "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "20:39:29",
+            "est.": "20:23:19",
             "Priority": "60"
         },
         {
@@ -233,11 +233,11 @@
             "User": "goncharov",
             "Plugin": "Houdini",
             "Progress": "13%",
-            "Tasks": "(25/186)",
+            "Tasks": "(26/186)",
             "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "04:45:20",
+            "est.": "04:08:59",
             "Priority": "60"
         },
         {
