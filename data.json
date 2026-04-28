@@ -1,7 +1,7 @@
 {
     "BETPLAY_OF": [
         {
-            "Task_Progress": "51%",
+            "Task_Progress": "57%",
             "Name": "BTP_280_v68-/sta",
             "Task_name": "BTP_280_v68 - /stage/stadium_02_rop/usdrender_rop",
             "User": "aleksandrov",
@@ -22,12 +22,12 @@
             "Task_name": "TTI_040_v11 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(31/96)",
+            "Progress": "40%",
+            "Tasks": "(39/96)",
             "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "01:21:54",
+            "est.": "01:05:00",
             "Priority": "60"
         },
         {
@@ -46,20 +46,6 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "TTI_005_v94-/obj",
-            "Task_name": "TTI_005_v94 - /obj/lopnet1/ground/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(17/93)",
-            "Status": "Rendering (3)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "usdrender_rop",
-            "est.": "11:59:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TTI_005_v92-/obj",
             "Task_name": "TTI_005_v92 - /obj/lopnet1/ground/usdrender_rop",
             "User": "goncharov",
@@ -74,30 +60,30 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v42.nk",
-            "User": "lebedevich",
+            "Name": "TTI_020_comp_v17",
+            "Task_name": "TTI_020_comp_v17.nk",
+            "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "65%",
-            "Tasks": "(25/38)",
-            "Status": "Rendering (7)",
+            "Progress": "6%",
+            "Tasks": "(2/29)",
+            "Status": "Rendering (9)",
             "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v42.nk",
-            "est.": "00:07:31",
+            "Render": "TTI_020_comp_v17.nk",
+            "est.": "00:04:02",
             "Priority": "90"
         },
         {
             "Task_Progress": "100%",
-            "Name": "TTI_005_v92-/obj",
-            "Task_name": "TTI_005_v92 - /obj/lopnet1/airplane/usdrender_rop",
+            "Name": "TTI_005_v94-/obj",
+            "Task_name": "TTI_005_v94 - /obj/lopnet1/ground/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(85/186)",
+            "Progress": "18%",
+            "Tasks": "(17/93)",
             "Status": "Rendering (3)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "13:29:04",
+            "est.": "11:59:12",
             "Priority": "60"
         },
         {
@@ -106,45 +92,41 @@
             "Task_name": "TTI_005_v93 - /obj/lopnet1/airplane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(108/186)",
+            "Progress": "59%",
+            "Tasks": "(110/186)",
             "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "usdrender_rop",
-            "est.": "10:58:09",
+            "est.": "10:36:05",
             "Priority": "60"
-        }
-    ],
-    "DANISSIMO_MAGNAT": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "DAN_010_comp_v03",
-            "Task_name": "DAN_010_comp_v03_vert.nk",
-            "User": "pankova",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v42.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "8%",
-            "Tasks": "(8/100)",
+            "Progress": "78%",
+            "Tasks": "(30/38)",
             "Status": "Rendering (8)",
-            "Project": "DANISSIMO_MAGNAT",
-            "Render": "DAN_010_comp_v03_vert.nk",
-            "est.": "00:02:00",
-            "Priority": "90"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_010_comp_v25",
-            "Task_name": "CHG_010_comp_v25.nk",
-            "User": "f.smirnov",
-            "Plugin": "Nuke",
-            "Progress": "33%",
-            "Tasks": "(1/3)",
-            "Status": "Rendering (2)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_010_comp_v25.nk",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v42.nk",
             "est.": "00:00:01",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_005_v92-/obj",
+            "Task_name": "TTI_005_v92 - /obj/lopnet1/airplane/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(86/186)",
+            "Status": "Rendering (3)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "usdrender_rop",
+            "est.": "13:19:14",
+            "Priority": "60"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
@@ -224,13 +206,29 @@
             "Task_name": "Generic_v154 - /obj/lopnet1/DSG_696_ground_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "33%",
-            "Tasks": "(41/123)",
+            "Progress": "34%",
+            "Tasks": "(42/123)",
             "Status": "Rendering (4)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "17:23:35",
+            "est.": "17:05:28",
             "Priority": "60"
+        }
+    ],
+    "CHERNOGOLOVKA_AI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CHG_010_comp_v25",
+            "Task_name": "CHG_010_comp_v25.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "33%",
+            "Tasks": "(1/3)",
+            "Status": "Rendering (1)",
+            "Project": "CHERNOGOLOVKA_AI",
+            "Render": "CHG_010_comp_v25.nk",
+            "est.": "00:05:00",
+            "Priority": "90"
         }
     ]
 }
