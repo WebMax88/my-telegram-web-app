@@ -168,6 +168,7 @@
     }
 
     .queued { color: #f8fafc; }
+    .pending { color: #797f87; }
     .rendering { color: var(--green); }
     .done { color: #86efac; }
 
@@ -222,6 +223,11 @@
     .status-queued {
       background: none;
       color: #fbbf24;
+    }
+
+    .status-pending {
+      background: none;
+      color: #797f87;
     }
 
     .status-rendering {
@@ -462,6 +468,7 @@
       const s = status.toLowerCase();
       if (s.includes("rendering")) return "status-rendering";
       if (s.includes("queued")) return "status-queued";
+      if (s.includes("pending")) return "status-pending";
       if (s.includes("done")) return "status-done";
       return "";
     }
@@ -470,6 +477,7 @@
       const s = status.toLowerCase();
       if (s.includes("rendering")) return "rendering";
       if (s.includes("queued")) return "queued";
+      if (s.includes("pending")) return "status-pending";
       if (s.includes("done")) return "done";
       return "";
     }
