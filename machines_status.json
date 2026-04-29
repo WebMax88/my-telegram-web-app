@@ -220,7 +220,7 @@
         "user": "Ivan Godomin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws202",
         "user": "Pavel Kufterin"
     },
@@ -270,7 +270,7 @@
         "user": "----"
     },
     {
-        "status": "Idle",
+        "status": "Offline",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
