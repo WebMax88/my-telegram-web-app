@@ -135,7 +135,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -145,7 +145,7 @@
         "user": "Maria Grigoreva"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws149",
         "user": "Alexander Korsun"
     },
@@ -270,7 +270,7 @@
         "user": "----"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
