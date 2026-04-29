@@ -486,6 +486,12 @@
       return parseInt(String(value).replace("%", ""), 10) || 0;
     }
 
+    function sortRowsByProgressDesc(rows) {
+      return [...rows].sort((a, b) => {
+        return percentToNumber(b.Progress) - percentToNumber(a.Progress);
+      });
+    }
+    
     function formatUpdatedAt(value) {
       if (!value) return "updated: —";
 
@@ -600,11 +606,12 @@
     }
 
     function createProject(projectName, rows) {
+      const sortedRows = sortRowsByProgressDesc(rows);
       return `
         <section class="project">
           <div class="project-header">
             <span>${projectName}</span>
-            <span class="project-meta">${rows.length} jobs</span>
+            <span class="project-meta">${sortedRows.length} jobs</span>
           </div>
           ${createDesktopTable(rows)}
           ${createMobileList(rows)}
