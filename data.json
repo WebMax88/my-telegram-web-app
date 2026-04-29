@@ -7,11 +7,11 @@
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "45%",
-            "Tasks": "(81/179)",
+            "Tasks": "(82/179)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "07:22:40",
+            "est.": "07:15:26",
             "Priority": "60"
         },
         {
@@ -230,12 +230,12 @@
             "Task_name": "Generic_v162 - /obj/lopnet1/DSG_696_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(114/123)",
+            "Progress": "95%",
+            "Tasks": "(118/123)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:22:46",
+            "est.": "00:09:36",
             "Priority": "60"
         },
         {
@@ -286,12 +286,12 @@
             "Task_name": "Generic_v168d - /obj/lopnet1/DSG_500_ground_atmo/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(9/193)",
+            "Progress": "5%",
+            "Tasks": "(10/193)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "13:47:05",
+            "est.": "09:25:27",
             "Priority": "60"
         },
         {
@@ -300,12 +300,12 @@
             "Task_name": "Generic_v168d - /obj/lopnet1/DSG_500_atmo/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(69/193)",
+            "Progress": "36%",
+            "Tasks": "(70/193)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "10:53:13",
+            "est.": "10:48:25",
             "Priority": "60"
         }
     ],
@@ -316,13 +316,27 @@
             "Task_name": "TTI_020_v14 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(45/215)",
+            "Progress": "21%",
+            "Tasks": "(46/215)",
             "Status": "Rendering (2)",
             "Project": "T2_INSTRUCTION",
             "Render": "main",
-            "est.": "20:40:32",
+            "est.": "20:18:47",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "TTI_031_comp_v23",
+            "Task_name": "TTI_031_comp_v23.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/69)",
+            "Status": "Queued",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_031_comp_v23.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
