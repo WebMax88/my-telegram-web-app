@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -150,7 +150,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -190,7 +190,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
