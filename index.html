@@ -36,6 +36,24 @@
       margin: 0 0 14px;
       font-size: 12px;
     }
+    .page-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin: 0 0 14px;
+    }
+    
+    .page-header h1 {
+      margin: 0;
+      font-size: 12px;
+    }
+    
+    .last-updated {
+      font-size: 11px;
+      color: var(--muted);
+      white-space: nowrap;
+    }
 
     .project {
       margin-bottom: 18px;
@@ -376,6 +394,18 @@
         margin-bottom: 10px;
       }
 
+      .page-header {
+        margin-bottom: 10px;
+      }
+
+      .page-header h1 {
+        font-size: 14px;
+      }
+
+      .last-updated {
+        font-size: 10px;
+      }
+
       .table-wrap {
         display: none;
       }
@@ -412,8 +442,12 @@
   </style>
 </head>
 <body>
-  <h1>Render Queue</h1>
-  <div id="app"></div>
+  <div class="page-header">
+    <h1>Render Queue</h1>
+    <div id="last-updated" class="last-updated">updating...</div>
+  </div>
+
+<div id="app"></div>
 
   <script>
     const columns = [
@@ -442,6 +476,21 @@
 
     function percentToNumber(value) {
       return parseInt(String(value).replace("%", ""), 10) || 0;
+    }
+
+    function formatUpdatedAt(value) {
+      if (!value) return "updated: —";
+
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return "updated: —";
+
+      return "updated: " + date.toLocaleString("ru-RU");
+    }
+
+    function setLastUpdated(value) {
+      const el = document.getElementById("last-updated");
+      if (!el) return;
+      el.textContent = formatUpdatedAt(value);
     }
 
     function renderDesktopProgress(value) {
@@ -687,6 +736,10 @@
           throw new Error("machines.json HTTP " + machinesResponse.status);
         }
 
+        const lastModified =
+          projectsResponse.headers.get("last-modified") ||
+          projectsResponse.headers.get("Last-Modified");
+
         const projectsData = await projectsResponse.json();
         const machinesData = await machinesResponse.json();
 
@@ -695,6 +748,7 @@
 
         renderAllProjects(projectsData, machinesData);
         enableRowSelection();
+        setLastUpdated(lastModified || new Date().toISOString());
       } catch (e) {
         console.error("Failed to load json", e);
       }
