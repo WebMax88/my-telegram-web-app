@@ -95,12 +95,12 @@
         "user": "Max Weber"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
@@ -135,7 +135,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
