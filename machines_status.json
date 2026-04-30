@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -210,7 +210,7 @@
         "user": "Andrey Shindin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws164",
         "user": "WS FOR FREELANCER "
     },
