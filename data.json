@@ -48,12 +48,12 @@
             "Task_name": "Generic_v168 - /obj/lopnet1/DSG_680_ground_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(30/71)",
+            "Progress": "43%",
+            "Tasks": "(31/71)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "13:44:48",
+            "est.": "13:15:11",
             "Priority": "60"
         },
         {
@@ -85,18 +85,18 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "100%",
-            "Name": "Generic_v171d-/o",
-            "Task_name": "Generic_v171d - /obj/lopnet1/DSG_645_main/usdrender_rop",
-            "User": "dmakarov",
+            "Task_Progress": "0%",
+            "Name": "Generic_v169-/ob",
+            "Task_name": "Generic_v169 - /obj/lopnet1/DSG_550_main/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(21/22)",
-            "Status": "Rendering (1)",
+            "Progress": "0%",
+            "Tasks": "(0/22)",
+            "Status": "Queued",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
+            "est.": "unknown",
+            "Priority": "59"
         },
         {
             "Task_Progress": "100%",
@@ -118,27 +118,13 @@
             "Task_name": "Generic_v168d - /obj/lopnet1/DSG_500_crowd/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(153/193)",
-            "Status": "Rendering (4)",
+            "Progress": "80%",
+            "Tasks": "(155/193)",
+            "Status": "Rendering (3)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "05:10:49",
+            "est.": "06:43:19",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Generic_v169-/ob",
-            "Task_name": "Generic_v169 - /obj/lopnet1/DSG_550_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/22)",
-            "Status": "Queued",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "59"
         },
         {
             "Task_Progress": "100%",
@@ -211,6 +197,20 @@
             "Priority": "60"
         },
         {
+            "Task_Progress": "3%",
+            "Name": "Generic_v172d-/o",
+            "Task_name": "Generic_v172d - /obj/lopnet1/DSG_580_ground_atmo/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/24)",
+            "Status": "Rendering (2)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
             "Task_Progress": "100%",
             "Name": "Generic_v167-/ob",
             "Task_name": "Generic_v167 - /obj/lopnet1/DSG_510_main/usdrender_rop",
@@ -230,12 +230,12 @@
             "Task_name": "Generic_v167 - /obj/lopnet1/DSG_520_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(62/179)",
+            "Progress": "35%",
+            "Tasks": "(63/179)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "17:45:19",
+            "est.": "17:45:39",
             "Priority": "60"
         },
         {
@@ -328,12 +328,12 @@
             "Task_name": "Generic_v167 - /obj/lopnet1/DSG_696_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(107/123)",
+            "Progress": "90%",
+            "Tasks": "(111/123)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:49:54",
+            "est.": "00:35:01",
             "Priority": "60"
         },
         {
@@ -365,22 +365,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "75"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_140_bottle_v",
-            "Task_name": "CHG_140_bottle_v01.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(37/38)",
-            "Status": "Rendering (1)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_140_bottle_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
