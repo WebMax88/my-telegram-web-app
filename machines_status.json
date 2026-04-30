@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
