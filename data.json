@@ -76,12 +76,12 @@
             "Task_name": "Generic_v168d - /obj/lopnet1/DSG_500_ground_atmo/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(137/193)",
-            "Status": "Rendering (10)",
+            "Progress": "73%",
+            "Tasks": "(142/193)",
+            "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:51:26",
+            "est.": "03:53:21",
             "Priority": "60"
         },
         {
@@ -160,12 +160,12 @@
             "Task_name": "Generic_v170d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(29/72)",
+            "Progress": "41%",
+            "Tasks": "(30/72)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:15:23",
+            "est.": "04:05:18",
             "Priority": "60"
         },
         {
@@ -386,10 +386,10 @@
             "Plugin": "Houdini",
             "Progress": "48%",
             "Tasks": "(94/193)",
-            "Status": "Rendering (13)",
+            "Status": "Rendering (15)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "08:40:18",
+            "est.": "07:24:04",
             "Priority": "60"
         },
         {
@@ -470,12 +470,12 @@
             "Task_name": "TST_055_Wheel_v24 - /out/floor",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(27/56)",
-            "Status": "Rendering (6)",
+            "Progress": "62%",
+            "Tasks": "(35/56)",
+            "Status": "Rendering (7)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "floor",
-            "est.": "00:10:25",
+            "est.": "00:06:00",
             "Priority": "60"
         },
         {
@@ -484,12 +484,12 @@
             "Task_name": "TST_055_Wheel_v24 - /out/main",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(15/56)",
-            "Status": "Rendering (7)",
+            "Progress": "32%",
+            "Tasks": "(18/56)",
+            "Status": "Rendering (8)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "main",
-            "est.": "00:21:29",
+            "est.": "00:19:23",
             "Priority": "60"
         }
     ]
