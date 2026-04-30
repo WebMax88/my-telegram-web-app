@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Offline",
+        "status": "Idle",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
