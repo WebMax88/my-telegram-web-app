@@ -15,7 +15,7 @@
         "user": "Erik Baymukashev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws44",
         "user": "for freelancers"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -205,7 +205,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
