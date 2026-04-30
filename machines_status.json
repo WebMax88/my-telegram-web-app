@@ -25,7 +25,7 @@
         "user": "Ruslan Ziganshin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws46",
         "user": "Daniil Makarov"
     },
@@ -200,7 +200,7 @@
         "user": "Nail Sattarov"
     },
     {
-        "status": "Rendering",
+        "status": "StartingJob",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
@@ -240,7 +240,7 @@
         "user": "Ilya Koryukaev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws206",
         "user": "---"
     },
@@ -285,7 +285,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws215",
         "user": "Freelancer - Vova Syslov"
     },
