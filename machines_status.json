@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -275,12 +275,12 @@
         "user": "----"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
