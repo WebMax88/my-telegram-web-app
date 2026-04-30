@@ -70,7 +70,7 @@
         "user": "Mary Mochalova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -90,7 +90,7 @@
         "user": "Yuriy Mamontov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws59",
         "user": "Max Weber"
     },
@@ -180,7 +180,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
