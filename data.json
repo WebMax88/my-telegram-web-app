@@ -15,7 +15,7 @@
             "Priority": "73"
         },
         {
-            "Task_Progress": "32%",
+            "Task_Progress": "33%",
             "Name": "Generic_v173d-/o",
             "Task_name": "Generic_v173d - /obj/lopnet1/DSG_660_main/usdrender_rop",
             "User": "dmakarov",
@@ -50,10 +50,10 @@
             "Plugin": "Houdini",
             "Progress": "16%",
             "Tasks": "(7/43)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "08:15:49",
+            "est.": "04:00:49",
             "Priority": "73"
         },
         {
@@ -71,7 +71,7 @@
             "Priority": "72"
         },
         {
-            "Task_Progress": "77%",
+            "Task_Progress": "79%",
             "Name": "Generic_v170-/ob",
             "Task_name": "Generic_v170 - /obj/lopnet1/DSG_600_ground_atmo/usdrender_rop",
             "User": "glavatskih",
@@ -90,9 +90,9 @@
             "Task_name": "Generic_v173d - /obj/lopnet1/DSG_650_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(37/58)",
-            "Status": "Rendering (21)",
+            "Progress": "65%",
+            "Tasks": "(38/58)",
+            "Status": "Rendering (20)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -132,12 +132,12 @@
             "Task_name": "Generic_v173d - /obj/lopnet1/DSG_650_ground_atmo/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(20/58)",
+            "Progress": "41%",
+            "Tasks": "(24/58)",
             "Status": "Rendering (23)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:44:03",
+            "est.": "00:32:38",
             "Priority": "74"
         },
         {
