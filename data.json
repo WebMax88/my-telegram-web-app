@@ -1,7 +1,21 @@
 {
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "38%",
+            "Task_Progress": "100%",
+            "Name": "Generic_v173d-/o",
+            "Task_name": "Generic_v173d - /obj/lopnet1/DSG_660_ground_atmo/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(2/43)",
+            "Status": "Queued",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "73"
+        },
+        {
+            "Task_Progress": "39%",
             "Name": "Generic_v173d-/o",
             "Task_name": "Generic_v173d - /obj/lopnet1/DSG_660_main/usdrender_rop",
             "User": "dmakarov",
@@ -57,7 +71,7 @@
             "Priority": "72"
         },
         {
-            "Task_Progress": "85%",
+            "Task_Progress": "86%",
             "Name": "Generic_v170-/ob",
             "Task_name": "Generic_v170 - /obj/lopnet1/DSG_600_ground_atmo/usdrender_rop",
             "User": "glavatskih",
@@ -118,12 +132,12 @@
             "Task_name": "Generic_v173d - /obj/lopnet1/DSG_650_ground_atmo/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(29/58)",
+            "Progress": "51%",
+            "Tasks": "(30/58)",
             "Status": "Rendering (25)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:11:00",
+            "est.": "00:08:15",
             "Priority": "74"
         },
         {
@@ -195,20 +209,6 @@
             "Render": "usdrender_rop",
             "est.": "14:13:16",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v173d-/o",
-            "Task_name": "Generic_v173d - /obj/lopnet1/DSG_660_ground_atmo/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/43)",
-            "Status": "Queued",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "73"
         }
     ]
 }
