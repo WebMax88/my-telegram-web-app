@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -225,7 +225,7 @@
         "user": "Ivan Godomin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws202",
         "user": "Pavel Kufterin"
     },
