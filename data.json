@@ -15,7 +15,7 @@
             "Priority": "73"
         },
         {
-            "Task_Progress": "51%",
+            "Task_Progress": "52%",
             "Name": "Generic_v173d-/o",
             "Task_name": "Generic_v173d - /obj/lopnet1/DSG_660_main/usdrender_rop",
             "User": "dmakarov",
@@ -174,12 +174,12 @@
             "Task_name": "Generic_v173d - /obj/lopnet1/DSG_660_crowd/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(23/43)",
+            "Progress": "65%",
+            "Tasks": "(28/43)",
             "Status": "Rendering (13)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:11:15",
+            "est.": "00:03:03",
             "Priority": "73"
         },
         {
