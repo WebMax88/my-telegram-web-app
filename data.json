@@ -2,44 +2,16 @@
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v167-/ob",
-            "Task_name": "Generic_v167 - /obj/lopnet1/DSG_520_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(128/179)",
-            "Status": "Rendering (7)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "03:02:02",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v168-/ob",
-            "Task_name": "Generic_v168 - /obj/lopnet1/DSG_680_ground_atmo/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(52/71)",
-            "Status": "Rendering (7)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "01:02:55",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Generic_v171-/ob",
             "Task_name": "Generic_v171 - /obj/lopnet1/DSG_680_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(60/71)",
+            "Progress": "90%",
+            "Tasks": "(64/71)",
             "Status": "Rendering (7)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:06:37",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -258,12 +230,12 @@
             "Task_name": "Generic_v167 - /obj/lopnet1/DSG_696_ground_atmo/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(55/123)",
+            "Progress": "46%",
+            "Tasks": "(57/123)",
             "Status": "Rendering (7)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:04:16",
+            "est.": "03:55:25",
             "Priority": "60"
         },
         {
@@ -334,6 +306,34 @@
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:00",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v167-/ob",
+            "Task_name": "Generic_v167 - /obj/lopnet1/DSG_520_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(129/179)",
+            "Status": "Rendering (7)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "02:58:08",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v168-/ob",
+            "Task_name": "Generic_v168 - /obj/lopnet1/DSG_680_ground_atmo/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "73%",
+            "Tasks": "(52/71)",
+            "Status": "Rendering (7)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "01:02:55",
             "Priority": "60"
         }
     ]
