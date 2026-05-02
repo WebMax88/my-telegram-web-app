@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -280,7 +280,7 @@
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
