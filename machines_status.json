@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -255,7 +255,7 @@
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
