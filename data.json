@@ -2,6 +2,34 @@
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
+            "Name": "TTI_020B_comp_v1",
+            "Task_name": "TTI_020B_comp_v11.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "46%",
+            "Tasks": "(6/13)",
+            "Status": "Rendering (7)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_020B_comp_v11.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "TTI_020B_comp_v1",
+            "Task_name": "TTI_020B_comp_v11.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/13)",
+            "Status": "Rendering (6)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_020B_comp_v11.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "TTI_040_v15-/out",
             "Task_name": "TTI_040_v15 - /out/ceiling",
             "User": "chernovbrovyj",
@@ -13,6 +41,20 @@
             "Render": "ceiling",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "20%",
+            "Name": "TTI_020B_comp_v1",
+            "Task_name": "TTI_020B_comp_v11.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/13)",
+            "Status": "Rendering (10)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_020B_comp_v11.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
