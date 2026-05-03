@@ -6,26 +6,12 @@
             "Task_name": "TTI_020B_comp_v11.nk",
             "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "46%",
-            "Tasks": "(6/13)",
-            "Status": "Rendering (7)",
+            "Progress": "38%",
+            "Tasks": "(5/13)",
+            "Status": "Rendering (8)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_020B_comp_v11.nk",
             "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_055_comp_v22",
-            "Task_name": "TTI_055_comp_v22.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(45/45)",
-            "Status": "Completed",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_055_comp_v22.nk",
-            "est.": "00:00:00",
             "Priority": "90"
         }
     ]
