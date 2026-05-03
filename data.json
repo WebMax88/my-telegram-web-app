@@ -1,17 +1,17 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "4%",
+            "Task_Progress": "48%",
             "Name": "TTI_040_v14-/out",
             "Task_name": "TTI_040_v14 - /out/ceiling",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/96)",
-            "Status": "Rendering (37)",
+            "Progress": "34%",
+            "Tasks": "(33/96)",
+            "Status": "Rendering (34)",
             "Project": "T2_INSTRUCTION",
             "Render": "ceiling",
-            "est.": "unknown",
+            "est.": "00:02:26",
             "Priority": "60"
         }
     ]
