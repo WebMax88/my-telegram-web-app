@@ -35,7 +35,7 @@
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws48",
         "user": "Sergei Adlerberg"
     },
@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -90,7 +90,7 @@
         "user": "Yuriy Mamontov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws59",
         "user": "Max Weber"
     },
@@ -170,7 +170,7 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS153",
         "user": "Dzhosha Rahmonov"
     },
