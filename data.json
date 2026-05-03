@@ -1,17 +1,17 @@
 {
     "T2_INSTRUCTION": [
         {
-            "Task_Progress": "100%",
+            "Task_Progress": "20%",
             "Name": "TTI_010_comp_v28",
             "Task_name": "TTI_010_comp_v28.nk",
             "User": "pavlyuchenkov",
             "Plugin": "Nuke",
-            "Progress": "56%",
-            "Tasks": "(14/25)",
-            "Status": "Rendering (11)",
+            "Progress": "9%",
+            "Tasks": "(2/21)",
+            "Status": "Rendering (18)",
             "Project": "T2_INSTRUCTION",
             "Render": "TTI_010_comp_v28.nk",
-            "est.": "00:00:01",
+            "est.": "00:00:02",
             "Priority": "90"
         }
     ]
