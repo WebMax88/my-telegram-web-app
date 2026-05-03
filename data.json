@@ -2,16 +2,16 @@
     "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_048_comp_v04",
-            "Task_name": "TTI_048_comp_v04.nk",
+            "Name": "TTI_044_comp_v05",
+            "Task_name": "TTI_044_comp_v05.nk",
             "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "64%",
-            "Tasks": "(35/54)",
-            "Status": "Rendering (10)",
+            "Progress": "100%",
+            "Tasks": "(48/48)",
+            "Status": "Completed",
             "Project": "T2_INSTRUCTION",
-            "Render": "TTI_048_comp_v04.nk",
-            "est.": "00:00:19",
+            "Render": "TTI_044_comp_v05.nk",
+            "est.": "00:00:00",
             "Priority": "90"
         }
     ]
