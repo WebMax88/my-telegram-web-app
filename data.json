@@ -2,6 +2,20 @@
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
+            "Name": "Generic_v180d-/o",
+            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "5%",
+            "Tasks": "(4/72)",
+            "Status": "Rendering (21)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "02:19:38",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Generic_v176d-/o",
             "Task_name": "Generic_v176d - /obj/lopnet1/DSG_660_main/usdrender_rop",
             "User": "dmakarov",
@@ -13,34 +27,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "96%",
-            "Name": "Generic_v180d-/o",
-            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/72)",
-            "Status": "Rendering (25)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "DSG_670_comp_v05",
-            "Task_name": "DSG_670_comp_v05.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(24/25)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "DSG_670_comp_v05.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -55,6 +41,20 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "DSG_670_comp_v05",
+            "Task_name": "DSG_670_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(24/25)",
+            "Status": "Queued",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "DSG_670_comp_v05.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -66,27 +66,11 @@
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/5)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (5)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "green",
             "est.": "unknown",
             "Priority": "70"
-        }
-    ],
-    "TRAVELERS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v23",
-            "Task_name": "TOR_390_comp_v23.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(17/36)",
-            "Status": "Rendering (6)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v23.nk",
-            "est.": "00:01:54",
-            "Priority": "90"
         }
     ]
 }
