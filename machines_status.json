@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Offline",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
