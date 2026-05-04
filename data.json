@@ -2,20 +2,6 @@
     "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v24 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(53/56)",
-            "Status": "Rendering (3)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TST_025_v20-/out",
             "Task_name": "TST_025_v20 - /out/green",
             "User": "mochalova",
@@ -27,35 +13,35 @@
             "Render": "green",
             "est.": "00:00:01",
             "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v24 - /out/main",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "94%",
+            "Tasks": "(53/56)",
+            "Status": "Rendering (3)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Generic_v176d-/o",
-            "Task_name": "Generic_v176d - /obj/lopnet1/DSG_660_crowd/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(41/43)",
-            "Status": "Rendering (2)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v176d-/o",
             "Task_name": "Generic_v176d - /obj/lopnet1/DSG_660_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(18/43)",
+            "Progress": "44%",
+            "Tasks": "(19/43)",
             "Status": "Rendering (20)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:08:13",
+            "est.": "00:06:52",
             "Priority": "60"
         },
         {
@@ -64,12 +50,12 @@
             "Task_name": "Generic_v176d - /obj/lopnet1/DSG_660_ground_atmo/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(11/43)",
+            "Progress": "32%",
+            "Tasks": "(14/43)",
             "Status": "Rendering (20)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:40:59",
+            "est.": "00:30:26",
             "Priority": "60"
         },
         {
@@ -85,22 +71,20 @@
             "Render": "DSG_670_comp_v05.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        }
-    ],
-    "TRAVELERS_PRLM": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v23",
-            "Task_name": "TOR_390_comp_v23.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(36/36)",
-            "Status": "Completed",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v23.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
+            "Name": "Generic_v176d-/o",
+            "Task_name": "Generic_v176d - /obj/lopnet1/DSG_660_crowd/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(42/43)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
