@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "80%",
             "Tasks": "(4/5)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "green",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "70"
         },
         {
@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "94%",
             "Tasks": "(53/56)",
-            "Status": "Queued",
+            "Status": "Rendering (3)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "main",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -36,26 +36,26 @@
             "Task_name": "Generic_v176d - /obj/lopnet1/DSG_660_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(12/43)",
-            "Status": "Rendering (23)",
+            "Progress": "39%",
+            "Tasks": "(17/43)",
+            "Status": "Rendering (20)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:10:40",
+            "est.": "00:09:24",
             "Priority": "60"
         },
         {
-            "Task_Progress": "89%",
+            "Task_Progress": "97%",
             "Name": "Generic_v176d-/o",
             "Task_name": "Generic_v176d - /obj/lopnet1/DSG_660_ground_atmo/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/43)",
-            "Status": "Rendering (21)",
+            "Progress": "11%",
+            "Tasks": "(5/43)",
+            "Status": "Rendering (20)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "01:01:15",
             "Priority": "60"
         },
         {
@@ -85,22 +85,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "TRAVELERS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v23",
-            "Task_name": "TOR_390_comp_v23.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(18/36)",
-            "Status": "Rendering (4)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v23.nk",
-            "est.": "00:00:57",
-            "Priority": "90"
         }
     ]
 }
