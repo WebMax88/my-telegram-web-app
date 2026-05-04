@@ -1,47 +1,17 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_roto_v02",
-            "Task_name": "RIC_130_roto_v02.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(12/24)",
-            "Status": "Rendering (3)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_roto_v02.nk",
-            "est.": "00:00:54",
-            "Priority": "90"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "35%",
-            "Name": "Generic_v175-/ob",
-            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(16/71)",
-            "Status": "Rendering (9)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "01:40:38",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v175-/ob",
             "Task_name": "Generic_v175 - /obj/lopnet1/DSG_530_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(20/66)",
+            "Progress": "40%",
+            "Tasks": "(27/66)",
             "Status": "Rendering (8)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:25:59",
+            "est.": "00:20:54",
             "Priority": "60"
         },
         {
@@ -57,6 +27,20 @@
             "Render": "usdrender_rop",
             "est.": "03:02:07",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "39%",
+            "Name": "Generic_v175-/ob",
+            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(17/71)",
+            "Status": "Rendering (9)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "01:36:43",
+            "Priority": "60"
         }
     ],
     "CONCELLULAR_MOWER_PRLM": [
@@ -66,12 +50,12 @@
             "Task_name": "MOW_040_comp_v03.nk",
             "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(25/25)",
-            "Status": "Completed",
+            "Progress": "56%",
+            "Tasks": "(14/25)",
+            "Status": "Rendering (7)",
             "Project": "CONCELLULAR_MOWER_PRLM",
             "Render": "MOW_040_comp_v03.nk",
-            "est.": "00:00:00",
+            "est.": "00:00:49",
             "Priority": "90"
         }
     ]
