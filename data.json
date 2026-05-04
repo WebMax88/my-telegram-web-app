@@ -1,63 +1,5 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(70/80)",
-            "Status": "Rendering (10)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "smoke",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v176-/ob",
-            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_crowd/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(108/124)",
-            "Status": "Rendering (10)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:09:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v176-/ob",
-            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(62/124)",
-            "Status": "Rendering (10)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "02:05:32",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v175-/ob",
-            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(61/71)",
-            "Status": "Rendering (10)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v180d-/o",
@@ -78,12 +20,70 @@
             "Task_name": "Generic_v178 - /obj/lopnet1/DSG_530_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(55/66)",
-            "Status": "Rendering (8)",
+            "Progress": "92%",
+            "Tasks": "(61/66)",
+            "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:01:28",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v176-/ob",
+            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "88%",
+            "Tasks": "(110/124)",
+            "Status": "Rendering (11)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:04:12",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v176-/ob",
+            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "51%",
+            "Tasks": "(64/124)",
+            "Status": "Rendering (12)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "01:40:46",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v175-/ob",
+            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "85%",
+            "Tasks": "(61/71)",
+            "Status": "Rendering (10)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(70/80)",
+            "Status": "Rendering (10)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "smoke",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
