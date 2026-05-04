@@ -1,33 +1,89 @@
 {
-    "RICH_TEA_MULTON": [
+    "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "90%",
-            "Name": "TST_050_v35-/obj",
-            "Task_name": "TST_050_v35 - /obj/Water_construct/Splash_cch/render",
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/main",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
+            "Progress": "18%",
+            "Tasks": "(15/80)",
+            "Status": "Rendering (4)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "01:08:44",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/bg",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "81%",
+            "Tasks": "(65/80)",
+            "Status": "Rendering (3)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "bg",
+            "est.": "00:03:25",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/floor",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "30%",
+            "Tasks": "(24/80)",
+            "Status": "Rendering (3)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "floor",
+            "est.": "00:41:58",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(21/80)",
+            "Status": "Rendering (4)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "smoke",
+            "est.": "00:35:33",
+            "Priority": "60"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
+        {
+            "Task_Progress": "61%",
+            "Name": "Generic_v175-/ob",
+            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(23/71)",
+            "Status": "Rendering (5)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "02:50:51",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v175-/ob",
             "Task_name": "Generic_v175 - /obj/lopnet1/DSG_530_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(48/66)",
+            "Progress": "78%",
+            "Tasks": "(52/66)",
             "Status": "Rendering (4)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:19:24",
+            "est.": "00:13:47",
             "Priority": "60"
         },
         {
@@ -42,78 +98,6 @@
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "07:02:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "57%",
-            "Name": "Generic_v175-/ob",
-            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(22/71)",
-            "Status": "Rendering (5)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "02:47:01",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(19/80)",
-            "Status": "Rendering (3)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "smoke",
-            "est.": "00:33:21",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/main",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(11/80)",
-            "Status": "Rendering (4)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "01:17:09",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/bg",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(47/80)",
-            "Status": "Rendering (2)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "bg",
-            "est.": "00:13:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/floor",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(20/80)",
-            "Status": "Rendering (3)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "floor",
-            "est.": "00:40:58",
             "Priority": "60"
         }
     ]
