@@ -2,16 +2,30 @@
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
+            "Name": "Generic_v180d-/o",
+            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "77%",
+            "Tasks": "(56/72)",
+            "Status": "Rendering (9)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:48:18",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Generic_v176-/ob",
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(21/124)",
+            "Progress": "17%",
+            "Tasks": "(22/124)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:42:11",
+            "est.": "03:47:32",
             "Priority": "60"
         },
         {
@@ -20,12 +34,12 @@
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(43/124)",
+            "Progress": "37%",
+            "Tasks": "(46/124)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:54:50",
+            "est.": "01:49:53",
             "Priority": "60"
         },
         {
@@ -41,20 +55,22 @@
             "Render": "usdrender_rop",
             "est.": "01:10:26",
             "Priority": "60"
-        },
+        }
+    ],
+    "TRAVELERS_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v180d-/o",
-            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(54/72)",
-            "Status": "Rendering (9)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "01:02:01",
-            "Priority": "60"
+            "Name": "TOR_390_comp_v24",
+            "Task_name": "TOR_390_comp_v24.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "41%",
+            "Tasks": "(15/36)",
+            "Status": "Rendering (6)",
+            "Project": "TRAVELERS_PRLM",
+            "Render": "TOR_390_comp_v24.nk",
+            "est.": "00:02:15",
+            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -64,28 +80,42 @@
             "Task_name": "TST_055_Wheel_v26 - /out/smoke",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(44/80)",
+            "Progress": "57%",
+            "Tasks": "(46/80)",
             "Status": "Rendering (8)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "smoke",
-            "est.": "00:48:31",
+            "est.": "00:50:06",
             "Priority": "60"
         }
     ],
-    "CONCELLULAR_MOWER_PRLM": [
+    "T2_INSTRUCTION": [
         {
-            "Task_Progress": "100%",
-            "Name": "MOW_070_comp_v04",
-            "Task_name": "MOW_070_comp_v04.nk",
-            "User": "alikov",
+            "Task_Progress": "20%",
+            "Name": "TTI_035_comp_v21",
+            "Task_name": "TTI_035_comp_v21.nk",
+            "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "25%",
-            "Tasks": "(6/24)",
-            "Status": "Rendering (6)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "MOW_070_comp_v04.nk",
-            "est.": "00:02:58",
+            "Progress": "9%",
+            "Tasks": "(1/11)",
+            "Status": "Rendering (10)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_035_comp_v21.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "80%",
+            "Name": "TTI_035_comp_v21",
+            "Task_name": "TTI_035_comp_v21.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "36%",
+            "Tasks": "(4/11)",
+            "Status": "Rendering (7)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_035_comp_v21.nk",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
