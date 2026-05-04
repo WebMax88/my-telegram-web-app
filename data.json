@@ -2,12 +2,12 @@
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v175-/ob",
-            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
+            "Name": "Generic_v176-/ob",
+            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(69/71)",
+            "Progress": "98%",
+            "Tasks": "(122/124)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
@@ -30,33 +30,17 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v176-/ob",
-            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
+            "Name": "Generic_v175-/ob",
+            "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(122/124)",
+            "Progress": "97%",
+            "Tasks": "(69/71)",
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "TRAVELERS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v25",
-            "Task_name": "TOR_390_comp_v25.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "16%",
-            "Tasks": "(6/36)",
-            "Status": "Rendering (6)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v25.nk",
-            "est.": "00:03:48",
-            "Priority": "90"
         }
     ]
 }
