@@ -1,49 +1,5 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(34/80)",
-            "Status": "Rendering (6)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "smoke",
-            "est.": "01:00:57",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/floor",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(68/80)",
-            "Status": "Rendering (6)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "floor",
-            "est.": "00:05:16",
-            "Priority": "60"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v180d-/o",
-            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(49/72)",
-            "Status": "Rendering (7)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "02:22:55",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v176-/ob",
@@ -52,10 +8,24 @@
             "Plugin": "Houdini",
             "Progress": "4%",
             "Tasks": "(6/124)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:45:43",
+            "est.": "04:11:40",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v180d-/o",
+            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "69%",
+            "Tasks": "(50/72)",
+            "Status": "Rendering (7)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "02:13:54",
             "Priority": "60"
         },
         {
@@ -64,12 +34,12 @@
             "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(36/71)",
-            "Status": "Rendering (11)",
+            "Progress": "56%",
+            "Tasks": "(40/71)",
+            "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:10:01",
+            "est.": "01:21:38",
             "Priority": "60"
         },
         {
@@ -78,73 +48,57 @@
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(16/124)",
-            "Status": "Rendering (6)",
+            "Progress": "14%",
+            "Tasks": "(18/124)",
+            "Status": "Rendering (8)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:55:59",
+            "est.": "02:14:23",
             "Priority": "60"
         }
     ],
-    "CONCELLULAR_MOWER_PRLM": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "MOW_070_comp_v03",
-            "Task_name": "MOW_070_comp_v03.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
             "Progress": "45%",
-            "Tasks": "(11/24)",
-            "Status": "Rendering (4)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "MOW_070_comp_v03.nk",
-            "est.": "00:03:18",
-            "Priority": "90"
+            "Tasks": "(36/80)",
+            "Status": "Rendering (5)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "smoke",
+            "est.": "01:19:02",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "MOW_041_comp_v05",
-            "Task_name": "MOW_041_comp_v05.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "33%",
-            "Tasks": "(3/9)",
-            "Status": "Rendering (2)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "MOW_041_comp_v05.nk",
-            "est.": "00:03:54",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "85%",
-            "Name": "TST_050_v35-/obj",
-            "Task_name": "TST_050_v35 - /obj/Water_construct/Splash_cch/render",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/floor",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
+            "Progress": "90%",
+            "Tasks": "(72/80)",
+            "Status": "Rendering (6)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "floor",
+            "est.": "00:01:50",
+            "Priority": "60"
         }
     ],
-    "CHERNOGOLOVKA_AI": [
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "CHG_140_comp_v11",
-            "Task_name": "CHG_140_comp_v11.nk",
-            "User": "pankova",
+            "Name": "TTI_035_comp_v21",
+            "Task_name": "TTI_035_comp_v21.nk",
+            "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(16/20)",
-            "Status": "Rendering (4)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_140_comp_v11.nk",
+            "Progress": "79%",
+            "Tasks": "(19/24)",
+            "Status": "Rendering (5)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_035_comp_v21.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
