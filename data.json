@@ -1,19 +1,21 @@
 {
-    "ADIDAS_DICKS_PRLM": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v176-/ob",
-            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
-            "User": "glavatskih",
+            "Name": "TST_055_Wheel_v2",
+            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(107/124)",
-            "Status": "Rendering (17)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
+            "Progress": "97%",
+            "Tasks": "(78/80)",
+            "Status": "Rendering (2)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "smoke",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Generic_v175-/ob",
@@ -41,20 +43,18 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /out/smoke",
-            "User": "hozhaev",
+            "Name": "Generic_v176-/ob",
+            "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(77/80)",
-            "Status": "Rendering (3)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "smoke",
+            "Progress": "91%",
+            "Tasks": "(113/124)",
+            "Status": "Rendering (11)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
