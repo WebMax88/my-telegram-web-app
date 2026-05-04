@@ -1,33 +1,33 @@
 {
-    "CONCELLULAR_MOWER_PRLM": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "MOW_040_comp_v03",
-            "Task_name": "MOW_040_comp_v03.nk",
-            "User": "alikov",
+            "Name": "RIC_130_roto_v02",
+            "Task_name": "RIC_130_roto_v02.nk",
+            "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "52%",
-            "Tasks": "(13/25)",
-            "Status": "Rendering (6)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "MOW_040_comp_v03.nk",
-            "est.": "00:01:38",
+            "Progress": "50%",
+            "Tasks": "(12/24)",
+            "Status": "Rendering (3)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_roto_v02.nk",
+            "est.": "00:00:54",
             "Priority": "90"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "33%",
+            "Task_Progress": "35%",
             "Name": "Generic_v175-/ob",
             "Task_name": "Generic_v175 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "22%",
             "Tasks": "(16/71)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:55:40",
+            "est.": "01:40:38",
             "Priority": "60"
         },
         {
@@ -36,12 +36,12 @@
             "Task_name": "Generic_v175 - /obj/lopnet1/DSG_530_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(14/66)",
+            "Progress": "30%",
+            "Tasks": "(20/66)",
             "Status": "Rendering (8)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:29:50",
+            "est.": "00:25:59",
             "Priority": "60"
         },
         {
@@ -50,44 +50,28 @@
             "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(36/72)",
-            "Status": "Rendering (8)",
+            "Progress": "51%",
+            "Tasks": "(37/72)",
+            "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:40:46",
+            "est.": "03:02:07",
             "Priority": "60"
         }
     ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "78%",
-            "Name": "TST_055_Wheel_v2",
-            "Task_name": "TST_055_Wheel_v26 - /obj/Car_construct/Tire_smoke_cache/render",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
-        }
-    ],
-    "T2_INSTRUCTION": [
+    "CONCELLULAR_MOWER_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_044_comp_v07",
-            "Task_name": "TTI_044_comp_v07.nk",
-            "User": "lukyanova",
+            "Name": "MOW_040_comp_v03",
+            "Task_name": "MOW_040_comp_v03.nk",
+            "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "23%",
-            "Tasks": "(8/34)",
-            "Status": "Rendering (21)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_044_comp_v07.nk",
-            "est.": "00:00:02",
+            "Progress": "100%",
+            "Tasks": "(25/25)",
+            "Status": "Completed",
+            "Project": "CONCELLULAR_MOWER_PRLM",
+            "Render": "MOW_040_comp_v03.nk",
+            "est.": "00:00:00",
             "Priority": "90"
         }
     ]
