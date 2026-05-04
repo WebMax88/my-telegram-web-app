@@ -20,12 +20,12 @@
             "Task_name": "Generic_v178 - /obj/lopnet1/DSG_530_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(29/66)",
-            "Status": "Rendering (8)",
+            "Progress": "56%",
+            "Tasks": "(37/66)",
+            "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:22:01",
+            "est.": "00:13:26",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(98/124)",
+            "Progress": "82%",
+            "Tasks": "(102/124)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:29:00",
+            "est.": "00:22:29",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(58/124)",
+            "Progress": "47%",
+            "Tasks": "(59/124)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:35:38",
+            "est.": "02:32:15",
             "Priority": "60"
         },
         {
@@ -78,12 +78,12 @@
             "Task_name": "TST_055_Wheel_v26 - /out/smoke",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(66/80)",
+            "Progress": "83%",
+            "Tasks": "(67/80)",
             "Status": "Rendering (10)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "smoke",
-            "est.": "00:09:22",
+            "est.": "00:07:06",
             "Priority": "60"
         }
     ]
