@@ -35,7 +35,7 @@
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws48",
         "user": "Sergei Adlerberg"
     },
@@ -65,7 +65,7 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws57",
         "user": "---"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
