@@ -1,34 +1,6 @@
 {
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "43%",
-            "Name": "Generic_v174-/ob",
-            "Task_name": "Generic_v174 - /obj/lopnet1/DSG_680_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(8/71)",
-            "Status": "Rendering (11)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:37:11",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v180d-/o",
-            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(18/72)",
-            "Status": "Rendering (14)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "03:01:32",
-            "Priority": "60"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "DSG_670_comp_v05",
             "Task_name": "DSG_670_comp_v05.nk",
@@ -41,22 +13,20 @@
             "Render": "DSG_670_comp_v05.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "TRAVELERS_PRLM": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v23",
-            "Task_name": "TOR_390_comp_v23.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "61%",
-            "Tasks": "(22/36)",
-            "Status": "Rendering (5)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v23.nk",
-            "est.": "00:01:32",
-            "Priority": "90"
+            "Name": "Generic_v180d-/o",
+            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(18/72)",
+            "Status": "Rendering (20)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "01:48:00",
+            "Priority": "60"
         }
     ]
 }
