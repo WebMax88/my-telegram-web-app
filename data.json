@@ -2,16 +2,30 @@
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
+            "Name": "Generic_v180d-/o",
+            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "84%",
+            "Tasks": "(61/72)",
+            "Status": "Rendering (10)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:06:10",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Generic_v176-/ob",
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(30/124)",
+            "Progress": "27%",
+            "Tasks": "(34/124)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:04:40",
+            "est.": "03:43:16",
             "Priority": "60"
         },
         {
@@ -20,12 +34,12 @@
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(54/124)",
+            "Progress": "46%",
+            "Tasks": "(58/124)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:35:55",
+            "est.": "01:29:59",
             "Priority": "60"
         },
         {
@@ -41,20 +55,6 @@
             "Render": "usdrender_rop",
             "est.": "01:06:28",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v180d-/o",
-            "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(59/72)",
-            "Status": "Rendering (9)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:27:34",
-            "Priority": "60"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -64,59 +64,13 @@
             "Task_name": "TST_055_Wheel_v26 - /out/smoke",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(49/80)",
+            "Progress": "63%",
+            "Tasks": "(51/80)",
             "Status": "Rendering (9)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "smoke",
-            "est.": "00:40:28",
+            "est.": "00:38:38",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v08",
-            "Task_name": "TST_030_comp_v08.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "58%",
-            "Tasks": "(7/12)",
-            "Status": "Rendering (3)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_030_comp_v08.nk",
-            "est.": "00:01:29",
-            "Priority": "90"
-        }
-    ],
-    "CONCELLULAR_MOWER_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MOW_060_comp_v05",
-            "Task_name": "MOW_060_comp_v05.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "57%",
-            "Tasks": "(8/14)",
-            "Status": "Rendering (2)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "MOW_060_comp_v05.nk",
-            "est.": "00:04:42",
-            "Priority": "90"
-        }
-    ],
-    "TRAVELERS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TOR_390_comp_v24",
-            "Task_name": "TOR_390_comp_v24.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(32/36)",
-            "Status": "Rendering (1)",
-            "Project": "TRAVELERS_PRLM",
-            "Render": "TOR_390_comp_v24.nk",
-            "est.": "00:02:27",
-            "Priority": "90"
         }
     ]
 }
