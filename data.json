@@ -1,31 +1,17 @@
 {
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "100%",
-            "Name": "DSG_670_comp_v05",
-            "Task_name": "DSG_670_comp_v05.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(24/25)",
-            "Status": "Queued",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "DSG_670_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "35%",
+            "Task_Progress": "43%",
             "Name": "Generic_v174-/ob",
             "Task_name": "Generic_v174 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(6/71)",
+            "Progress": "11%",
+            "Tasks": "(8/71)",
             "Status": "Rendering (11)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:39:31",
+            "est.": "00:37:11",
             "Priority": "60"
         },
         {
@@ -41,6 +27,20 @@
             "Render": "usdrender_rop",
             "est.": "03:01:32",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "DSG_670_comp_v05",
+            "Task_name": "DSG_670_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(24/25)",
+            "Status": "Queued",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "DSG_670_comp_v05.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "TRAVELERS_PRLM": [
@@ -50,60 +50,12 @@
             "Task_name": "TOR_390_comp_v23.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "25%",
-            "Tasks": "(9/36)",
-            "Status": "Rendering (2)",
+            "Progress": "61%",
+            "Tasks": "(22/36)",
+            "Status": "Rendering (5)",
             "Project": "TRAVELERS_PRLM",
             "Render": "TOR_390_comp_v23.nk",
-            "est.": "00:11:22",
-            "Priority": "90"
-        }
-    ],
-    "CHERNOGOLOVKA_AI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CHG_140_comp_v10",
-            "Task_name": "CHG_140_comp_v10.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "25%",
-            "Tasks": "(5/20)",
-            "Status": "Rendering (15)",
-            "Project": "CHERNOGOLOVKA_AI",
-            "Render": "CHG_140_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TTI_031_comp_v26",
-            "Task_name": "TTI_031_comp_v26.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(88/100)",
-            "Status": "Rendering (12)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_031_comp_v26.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "CONCELLULAR_MOWER_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MOW_010_comp_v05",
-            "Task_name": "MOW_010_comp_v05.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "53%",
-            "Tasks": "(7/13)",
-            "Status": "Rendering (4)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "MOW_010_comp_v05.nk",
-            "est.": "00:00:51",
+            "est.": "00:01:32",
             "Priority": "90"
         }
     ]
