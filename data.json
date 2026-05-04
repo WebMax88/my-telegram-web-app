@@ -20,12 +20,12 @@
             "Task_name": "Generic_v176 - /obj/lopnet1/DSG_670_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(39/124)",
+            "Progress": "34%",
+            "Tasks": "(43/124)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:50:32",
+            "est.": "01:54:50",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "Generic_v180d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(52/72)",
+            "Progress": "75%",
+            "Tasks": "(54/72)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:15:57",
+            "est.": "01:02:01",
             "Priority": "60"
         }
     ],
@@ -64,28 +64,28 @@
             "Task_name": "TST_055_Wheel_v26 - /out/smoke",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(43/80)",
+            "Progress": "55%",
+            "Tasks": "(44/80)",
             "Status": "Rendering (8)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "smoke",
-            "est.": "00:48:36",
+            "est.": "00:48:31",
             "Priority": "60"
         }
     ],
-    "T2_INSTRUCTION": [
+    "CONCELLULAR_MOWER_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_035_comp_v21",
-            "Task_name": "TTI_035_comp_v21.nk",
-            "User": "lukyanova",
+            "Name": "MOW_070_comp_v04",
+            "Task_name": "MOW_070_comp_v04.nk",
+            "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "45%",
-            "Tasks": "(5/11)",
+            "Progress": "25%",
+            "Tasks": "(6/24)",
             "Status": "Rendering (6)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_035_comp_v21.nk",
-            "est.": "00:00:01",
+            "Project": "CONCELLULAR_MOWER_PRLM",
+            "Render": "MOW_070_comp_v04.nk",
+            "est.": "00:02:58",
             "Priority": "90"
         }
     ]
