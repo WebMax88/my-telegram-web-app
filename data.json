@@ -2,16 +2,30 @@
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
+            "Name": "WLB_040_lightnin",
+            "Task_name": "WLB_040_lightning_v22 - /out/volume",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "81%",
+            "Tasks": "(54/66)",
+            "Status": "Rendering (12)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "volume",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WLB_050_w_square",
             "Task_name": "WLB_050_w_square_v90 - /out/Chips_nomatte",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(43/183)",
-            "Status": "Rendering (23)",
+            "Progress": "32%",
+            "Tasks": "(60/183)",
+            "Status": "Rendering (29)",
             "Project": "WINLINE_BELARUS",
             "Render": "Chips_nomatte",
-            "est.": "00:22:20",
+            "est.": "00:12:16",
             "Priority": "60"
         },
         {
@@ -20,12 +34,12 @@
             "Task_name": "WLB_040_lightning_v22 - /stage/lightning/usdrender_rop",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(46/66)",
+            "Progress": "86%",
+            "Tasks": "(57/66)",
             "Status": "Rendering (5)",
             "Project": "WINLINE_BELARUS",
             "Render": "usdrender_rop",
-            "est.": "00:06:20",
+            "est.": "00:01:35",
             "Priority": "60"
         },
         {
@@ -34,26 +48,12 @@
             "Task_name": "WLB_050_w_square_v90 - /out/Lightnings_hand",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(13/60)",
+            "Progress": "45%",
+            "Tasks": "(27/60)",
             "Status": "Rendering (10)",
             "Project": "WINLINE_BELARUS",
             "Render": "Lightnings_hand",
-            "est.": "00:08:20",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_040_lightnin",
-            "Task_name": "WLB_040_lightning_v22 - /out/volume",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(44/66)",
-            "Status": "Rendering (16)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "volume",
-            "est.": "00:02:01",
+            "est.": "00:05:06",
             "Priority": "60"
         }
     ]
