@@ -1,49 +1,5 @@
 {
-    "ATT_DIFFERENCE": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ATT_430_v012-/st",
-            "Task_name": "ATT_430_v012 - /stage/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(28/37)",
-            "Status": "Rendering (9)",
-            "Project": "ATT_DIFFERENCE",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "ATT_430_v012-/st",
-            "Task_name": "ATT_430_v012 - /stage/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(32/37)",
-            "Status": "Rendering (5)",
-            "Project": "ATT_DIFFERENCE",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DSG_560_comp_v09",
-            "Task_name": "DSG_560_comp_v09.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(5/5)",
-            "Status": "Completed",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "DSG_560_comp_v09.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Generic_v176-/ob",
@@ -54,6 +10,36 @@
             "Tasks": "(123/124)",
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "ATT_DIFFERENCE": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ATT_430_v012-/st",
+            "Task_name": "ATT_430_v012 - /stage/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "91%",
+            "Tasks": "(34/37)",
+            "Status": "Rendering (3)",
+            "Project": "ATT_DIFFERENCE",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "ATT_430_v012-/st",
+            "Task_name": "ATT_430_v012 - /stage/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "89%",
+            "Tasks": "(33/37)",
+            "Status": "Rendering (4)",
+            "Project": "ATT_DIFFERENCE",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
