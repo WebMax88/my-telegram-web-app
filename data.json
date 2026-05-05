@@ -1,48 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v59-/out",
-            "Task_name": "WLB_010_v59 - /out/BG",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "BG",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v59-/out",
-            "Task_name": "WLB_010_v59 - /out/lightning",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(33/44)",
-            "Status": "Rendering (11)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v59-/out",
-            "Task_name": "WLB_010_v59 - /out/main_separate",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(25/44)",
-            "Status": "Rendering (19)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
@@ -55,6 +11,36 @@
             "Status": "Rendering (1)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v59-/out",
+            "Task_name": "WLB_010_v59 - /out/lightning",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "88%",
+            "Tasks": "(39/44)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "lightning",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v59-/out",
+            "Task_name": "WLB_010_v59 - /out/main_separate",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "77%",
+            "Tasks": "(34/44)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_separate",
             "est.": "00:00:01",
             "Priority": "60"
         }
