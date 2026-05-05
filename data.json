@@ -1,61 +1,47 @@
 {
-    "ACTIBIO": [
-        {
-            "Task_Progress": "0%",
-            "Name": "AKB_120_v06_reco",
-            "Task_name": "AKB_120_v06_recovered - /out/1st_scene",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(20/47)",
-            "Status": "Rendering (11)",
-            "Project": "ACTIBIO",
-            "Render": "1st_scene",
-            "est.": "00:06:08",
-            "Priority": "60"
-        },
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "AKB_120_v06_reco",
-            "Task_name": "AKB_120_v06_recovered - /out/2nd_scene",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(39/44)",
+            "Name": "RIC_130_roto_v03",
+            "Task_name": "RIC_130_roto_v03.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "65%",
+            "Tasks": "(19/29)",
             "Status": "Rendering (5)",
-            "Project": "ACTIBIO",
-            "Render": "2nd_scene",
-            "est.": "00:00:01",
-            "Priority": "60"
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_roto_v03.nk",
+            "est.": "00:00:20",
+            "Priority": "90"
         }
     ],
     "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
             "Name": "WLB_020_v29-/out",
-            "Task_name": "WLB_020_v29 - /out/main_Table",
+            "Task_name": "WLB_020_v29 - /out/BG",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(12/47)",
-            "Status": "Rendering (11)",
+            "Progress": "82%",
+            "Tasks": "(39/47)",
+            "Status": "Rendering (8)",
             "Project": "WINLINE_BELARUS",
-            "Render": "main_Table",
-            "est.": "00:11:50",
+            "Render": "BG",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "WLB_020_v29-/out",
-            "Task_name": "WLB_020_v29 - /out/BG",
+            "Task_name": "WLB_020_v29 - /out/main_Table",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(26/47)",
-            "Status": "Rendering (15)",
+            "Progress": "72%",
+            "Tasks": "(34/47)",
+            "Status": "Rendering (13)",
             "Project": "WINLINE_BELARUS",
-            "Render": "BG",
-            "est.": "00:02:14",
+            "Render": "main_Table",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -64,29 +50,29 @@
             "Task_name": "WLB_050_w_square_v90 - /out/Zeus",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(136/183)",
-            "Status": "Rendering (17)",
+            "Progress": "84%",
+            "Tasks": "(154/183)",
+            "Status": "Rendering (24)",
             "Project": "WINLINE_BELARUS",
             "Render": "Zeus",
-            "est.": "00:13:03",
+            "est.": "00:01:29",
             "Priority": "60"
         }
     ],
-    "RICH_TEA_MULTON": [
+    "ACTIBIO": [
         {
             "Task_Progress": "100%",
-            "Name": "RIC_130_roto_v03",
-            "Task_name": "RIC_130_roto_v03.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "58%",
-            "Tasks": "(17/29)",
-            "Status": "Rendering (5)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_roto_v03.nk",
-            "est.": "00:00:28",
-            "Priority": "90"
+            "Name": "AKB_120_v06_reco",
+            "Task_name": "AKB_120_v06_recovered - /out/1st_scene",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "70%",
+            "Tasks": "(33/47)",
+            "Status": "Rendering (12)",
+            "Project": "ACTIBIO",
+            "Render": "1st_scene",
+            "est.": "00:00:42",
+            "Priority": "60"
         }
     ]
 }
