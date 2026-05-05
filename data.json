@@ -1,34 +1,4 @@
 {
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_035_comp_v22",
-            "Task_name": "TTI_035_comp_v22.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "17%",
-            "Tasks": "(3/17)",
-            "Status": "Rendering (14)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_035_comp_v22.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_031_comp_v28",
-            "Task_name": "TTI_031_comp_v28.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "28%",
-            "Tasks": "(20/69)",
-            "Status": "Rendering (10)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_031_comp_v28.nk",
-            "est.": "00:01:35",
-            "Priority": "90"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
@@ -43,6 +13,22 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_035_comp_v22",
+            "Task_name": "TTI_035_comp_v22.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "70%",
+            "Tasks": "(12/17)",
+            "Status": "Rendering (5)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_035_comp_v22.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
