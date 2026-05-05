@@ -1,48 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v59-/out",
-            "Task_name": "WLB_010_v59 - /out/main_separate",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(13/44)",
-            "Status": "Rendering (16)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
-            "est.": "00:12:36",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v59-/out",
-            "Task_name": "WLB_010_v59 - /out/BG",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(33/44)",
-            "Status": "Rendering (11)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "BG",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v59-/out",
-            "Task_name": "WLB_010_v59 - /out/lightning",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(15/44)",
-            "Status": "Rendering (15)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "lightning",
-            "est.": "00:10:03",
-            "Priority": "60"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
@@ -59,19 +15,47 @@
             "Priority": "60"
         }
     ],
-    "ATT_DIFFERENCE": [
+    "WINLINE_BELARUS": [
         {
             "Task_Progress": "100%",
-            "Name": "ATT_430_v012-/st",
-            "Task_name": "ATT_430_v012 - /stage/main/usdrender_rop",
-            "User": "veber",
+            "Name": "WLB_010_v59-/out",
+            "Task_name": "WLB_010_v59 - /out/main_separate",
+            "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(36/37)",
-            "Status": "Rendering (1)",
-            "Project": "ATT_DIFFERENCE",
-            "Render": "usdrender_rop",
+            "Progress": "38%",
+            "Tasks": "(17/44)",
+            "Status": "Rendering (20)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_separate",
+            "est.": "00:04:25",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v59-/out",
+            "Task_name": "WLB_010_v59 - /out/BG",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(42/44)",
+            "Status": "Rendering (2)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "BG",
             "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_010_v59-/out",
+            "Task_name": "WLB_010_v59 - /out/lightning",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(20/44)",
+            "Status": "Rendering (20)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "lightning",
+            "est.": "00:02:01",
             "Priority": "60"
         }
     ]
