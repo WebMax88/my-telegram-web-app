@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
@@ -240,7 +240,7 @@
         "user": "Ilya Koryukaev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws206",
         "user": "---"
     },
@@ -255,7 +255,7 @@
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
