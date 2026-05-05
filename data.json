@@ -1,62 +1,4 @@
 {
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_square",
-            "Task_name": "WLB_050_w_square_v90 - /out/Zeus",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(114/183)",
-            "Status": "Rendering (17)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Zeus",
-            "est.": "00:24:05",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_020_v29-/out",
-            "Task_name": "WLB_020_v29 - /out/BG",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(15/47)",
-            "Status": "Rendering (15)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "BG",
-            "est.": "00:05:08",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_010_v59-/out",
-            "Task_name": "WLB_010_v59 - /out/main_separate",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_separate",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_020_v29-/out",
-            "Task_name": "WLB_020_v29 - /out/main_Table",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(6/47)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "main_Table",
-            "est.": "00:28:52",
-            "Priority": "60"
-        }
-    ],
     "ACTIBIO": [
         {
             "Task_Progress": "0%",
@@ -64,12 +6,12 @@
             "Task_name": "AKB_120_v06_recovered - /out/1st_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(10/47)",
-            "Status": "Rendering (9)",
+            "Progress": "42%",
+            "Tasks": "(20/47)",
+            "Status": "Rendering (11)",
             "Project": "ACTIBIO",
             "Render": "1st_scene",
-            "est.": "00:12:23",
+            "est.": "00:06:08",
             "Priority": "60"
         },
         {
@@ -78,13 +20,73 @@
             "Task_name": "AKB_120_v06_recovered - /out/2nd_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(17/44)",
-            "Status": "Rendering (9)",
+            "Progress": "88%",
+            "Tasks": "(39/44)",
+            "Status": "Rendering (5)",
             "Project": "ACTIBIO",
             "Render": "2nd_scene",
-            "est.": "00:05:21",
+            "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_020_v29-/out",
+            "Task_name": "WLB_020_v29 - /out/main_Table",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(12/47)",
+            "Status": "Rendering (11)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "main_Table",
+            "est.": "00:11:50",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_020_v29-/out",
+            "Task_name": "WLB_020_v29 - /out/BG",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "55%",
+            "Tasks": "(26/47)",
+            "Status": "Rendering (15)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "BG",
+            "est.": "00:02:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_w_square",
+            "Task_name": "WLB_050_w_square_v90 - /out/Zeus",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "74%",
+            "Tasks": "(136/183)",
+            "Status": "Rendering (17)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Zeus",
+            "est.": "00:13:03",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_roto_v03",
+            "Task_name": "RIC_130_roto_v03.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "58%",
+            "Tasks": "(17/29)",
+            "Status": "Rendering (5)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_roto_v03.nk",
+            "est.": "00:00:28",
+            "Priority": "90"
         }
     ]
 }
