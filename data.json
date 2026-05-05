@@ -1,18 +1,18 @@
 {
-    "CONCELLULAR_MOWER_PRLM": [
+    "ACTIBIO": [
         {
             "Task_Progress": "100%",
-            "Name": "MOW_010_comp_v06",
-            "Task_name": "MOW_010_comp_v06.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "23%",
-            "Tasks": "(3/13)",
-            "Status": "Rendering (7)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "MOW_010_comp_v06.nk",
-            "est.": "00:00:29",
-            "Priority": "90"
+            "Name": "AKB_120_v06_reco",
+            "Task_name": "AKB_120_v06_recovered - /out/1st_scene",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(46/47)",
+            "Status": "Rendering (1)",
+            "Project": "ACTIBIO",
+            "Render": "1st_scene",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ],
     "WINLINE_BELARUS": [
@@ -22,55 +22,11 @@
             "Task_name": "WLB_020_v29 - /out/BG",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(44/47)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "BG",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_020_v29-/out",
-            "Task_name": "WLB_020_v29 - /out/main_Table",
-            "User": "gridasov",
-            "Plugin": "Houdini",
             "Progress": "97%",
             "Tasks": "(46/47)",
             "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
-            "Render": "main_Table",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_w_square",
-            "Task_name": "WLB_050_w_square_v90 - /out/Zeus",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(166/183)",
-            "Status": "Rendering (17)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Zeus",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "ACTIBIO": [
-        {
-            "Task_Progress": "100%",
-            "Name": "AKB_120_v06_reco",
-            "Task_name": "AKB_120_v06_recovered - /out/1st_scene",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(45/47)",
-            "Status": "Rendering (2)",
-            "Project": "ACTIBIO",
-            "Render": "1st_scene",
+            "Render": "BG",
             "est.": "00:00:01",
             "Priority": "60"
         }
