@@ -1,4 +1,20 @@
 {
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "0%",
+            "Name": "TTI_001_comp_v01",
+            "Task_name": "TTI_001_comp_v01.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_001_comp_v01.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
@@ -21,8 +37,8 @@
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "97%",
-            "Tasks": "(174/179)",
-            "Status": "Rendering (5)",
+            "Tasks": "(175/179)",
+            "Status": "Rendering (4)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
