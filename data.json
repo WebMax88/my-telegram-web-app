@@ -1,46 +1,32 @@
 {
-    "CFI_DJV": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_260_v65-/out",
-            "Task_name": "CFI_260_v65 - /out/CFI_260/Graph",
-            "User": "mochalova",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v05 - /obj/lopnet1/main9/usdrender_rop",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(11/12)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "Graph",
-            "est.": "00:00:01",
-            "Priority": "89"
+            "Progress": "95%",
+            "Tasks": "(70/73)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "00:02:32",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "CFI_260_v65-/out",
-            "Task_name": "CFI_260_v65 - /out/CFI_260/Sphere_Auroras",
-            "User": "mochalova",
+            "Name": "TST_050_v39-/out",
+            "Task_name": "TST_050_v39 - /out/IngYang",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(11/12)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "Sphere_Auroras",
+            "Progress": "90%",
+            "Tasks": "(37/41)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "IngYang",
             "est.": "00:00:01",
-            "Priority": "89"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_260_v65-/out",
-            "Task_name": "CFI_260_v65 - /out/CFI_260/Sphere_Diffuse",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(11/12)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "Sphere_Diffuse",
-            "est.": "00:00:01",
-            "Priority": "89"
+            "Priority": "60"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
@@ -73,79 +59,19 @@
             "Priority": "60"
         }
     ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v39-/out",
-            "Task_name": "TST_050_v39 - /out/IngYang",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(27/41)",
-            "Status": "Rendering (14)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_BELARUS": [
-        {
-            "Task_Progress": "17%",
-            "Name": "WLB_050_handdown",
-            "Task_name": "WLB_050_handdown_w_v49_square - /out/Zeus",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/183)",
-            "Status": "Rendering (22)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "Zeus",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
     "ACTIBIO": [
         {
             "Task_Progress": "100%",
             "Name": "AKB_120_v13-/out",
-            "Task_name": "AKB_120_v13 - /out/back",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/10)",
-            "Status": "Rendering (7)",
-            "Project": "ACTIBIO",
-            "Render": "back",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "56%",
-            "Name": "AKB_120_v13-/out",
             "Task_name": "AKB_120_v13 - /out/1st_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/48)",
-            "Status": "Rendering (7)",
+            "Progress": "18%",
+            "Tasks": "(9/48)",
+            "Status": "Rendering (5)",
             "Project": "ACTIBIO",
             "Render": "1st_scene",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "AKB_120_v13-/out",
-            "Task_name": "AKB_120_v13 - /out/woman",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(3/10)",
-            "Status": "Rendering (6)",
-            "Project": "ACTIBIO",
-            "Render": "woman",
-            "est.": "00:00:08",
+            "est.": "00:28:47",
             "Priority": "60"
         },
         {
@@ -154,13 +80,29 @@
             "Task_name": "AKB_120_v13 - /out/2nd_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(1/49)",
-            "Status": "Rendering (6)",
+            "Progress": "26%",
+            "Tasks": "(13/49)",
+            "Status": "Rendering (3)",
             "Project": "ACTIBIO",
             "Render": "2nd_scene",
-            "est.": "00:19:02",
+            "est.": "00:32:58",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_handdown",
+            "Task_name": "WLB_050_handdown_w_v49_square - /out/Zeus",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(4/183)",
+            "Status": "Rendering (52)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "Zeus",
+            "est.": "00:16:51",
+            "Priority": "65"
         }
     ]
 }
