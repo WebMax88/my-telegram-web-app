@@ -6,12 +6,12 @@
             "Task_name": "AKB_120_v16 - /out/2nd_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(31/49)",
-            "Status": "Rendering (5)",
+            "Progress": "71%",
+            "Tasks": "(35/49)",
+            "Status": "Rendering (6)",
             "Project": "ACTIBIO",
             "Render": "2nd_scene",
-            "est.": "00:21:27",
+            "est.": "00:11:01",
             "Priority": "60"
         }
     ],
@@ -22,12 +22,12 @@
             "Task_name": "Generic_v184d - /obj/lopnet1/DSG_500_crowd/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(121/193)",
+            "Progress": "63%",
+            "Tasks": "(123/193)",
             "Status": "Rendering (7)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "04:18:02",
+            "est.": "04:09:53",
             "Priority": "60"
         },
         {
@@ -243,12 +243,12 @@
     ],
     "RICH_TEA_MULTON": [
         {
-            "Task_Progress": "37%",
+            "Task_Progress": "62%",
             "Name": "TST_050_v41-/obj",
             "Task_name": "TST_050_v41 - /obj/Water_construct/Splash_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "37%",
+            "Progress": "62%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
@@ -264,10 +264,10 @@
             "Plugin": "Houdini",
             "Progress": "26%",
             "Tasks": "(15/56)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "07:41:22",
+            "est.": "03:44:55",
             "Priority": "60"
         },
         {
@@ -276,12 +276,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v08 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(27/49)",
-            "Status": "Rendering (1)",
+            "Progress": "57%",
+            "Tasks": "(28/49)",
+            "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "03:55:41",
+            "est.": "01:46:24",
             "Priority": "60"
         },
         {
@@ -304,12 +304,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v08 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(36/74)",
+            "Progress": "51%",
+            "Tasks": "(38/74)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "02:15:20",
+            "est.": "02:08:58",
             "Priority": "60"
         },
         {
@@ -318,12 +318,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v08 - /obj/lopnet1/main6/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(47/50)",
-            "Status": "Rendering (2)",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:03:39",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -332,12 +332,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v08 - /obj/lopnet1/main2/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(22/47)",
+            "Progress": "48%",
+            "Tasks": "(23/47)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "03:06:28",
+            "est.": "02:59:47",
             "Priority": "60"
         },
         {
@@ -346,12 +346,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v08 - /obj/lopnet1/main11/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(34/144)",
+            "Progress": "24%",
+            "Tasks": "(35/144)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "09:09:13",
+            "est.": "09:05:18",
             "Priority": "60"
         },
         {
@@ -374,12 +374,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v08 - /obj/lopnet1/main4/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(22/45)",
-            "Status": "Rendering (2)",
+            "Progress": "51%",
+            "Tasks": "(23/45)",
+            "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "01:48:51",
+            "est.": "03:35:29",
             "Priority": "60"
         },
         {
@@ -416,13 +416,29 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v08 - /obj/lopnet1/main9/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(32/73)",
+            "Progress": "46%",
+            "Tasks": "(34/73)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "02:30:53",
+            "est.": "02:24:47",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_comp_squ",
+            "Task_name": "WLB_050_comp_square_v23.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "13%",
+            "Tasks": "(5/37)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "WLB_050_comp_square_v23.nk",
+            "est.": "00:02:44",
+            "Priority": "90"
         }
     ]
 }
