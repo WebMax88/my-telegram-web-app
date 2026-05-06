@@ -105,7 +105,7 @@
         "user": "Sonya Pankova"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
@@ -240,7 +240,7 @@
         "user": "Ilya Koryukaev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws206",
         "user": "---"
     },
@@ -265,7 +265,7 @@
         "user": "Matvey Zubarev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
