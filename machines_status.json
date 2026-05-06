@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -90,12 +90,12 @@
         "user": "Yuriy Mamontov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws59",
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -105,7 +105,7 @@
         "user": "Sonya Pankova"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
