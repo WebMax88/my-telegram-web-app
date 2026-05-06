@@ -6,12 +6,12 @@
             "Task_name": "Generic_v183d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(52/72)",
+            "Progress": "75%",
+            "Tasks": "(54/72)",
             "Status": "Rendering (18)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:06:27",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -35,11 +35,11 @@
             "User": "glavatskih",
             "Plugin": "Houdini",
             "Progress": "78%",
-            "Tasks": "(140/179)",
+            "Tasks": "(141/179)",
             "Status": "Rendering (18)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:35:56",
+            "est.": "00:34:12",
             "Priority": "60"
         }
     ]
