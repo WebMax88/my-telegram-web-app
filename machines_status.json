@@ -100,12 +100,12 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
@@ -230,7 +230,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
