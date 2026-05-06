@@ -50,12 +50,12 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Offline",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -185,7 +185,7 @@
         "user": "Alena Glavatskikh"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws157",
         "user": "Evgeniy Grigorev"
     },
@@ -215,7 +215,7 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
