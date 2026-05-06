@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -215,7 +215,7 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
