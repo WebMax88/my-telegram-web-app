@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -125,7 +125,7 @@
         "user": "Kostya Loktev"
     },
     {
-        "status": "Idle",
+        "status": "Offline",
         "machine": "ws120",
         "user": "Misha Tabratov"
     },
@@ -240,7 +240,7 @@
         "user": "Ilya Koryukaev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws206",
         "user": "---"
     },
@@ -255,7 +255,7 @@
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
