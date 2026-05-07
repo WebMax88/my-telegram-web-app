@@ -6,12 +6,12 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_players/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(43/123)",
+            "Progress": "43%",
+            "Tasks": "(54/123)",
             "Status": "Rendering (10)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:21:22",
+            "est.": "00:17:35",
             "Priority": "60"
         },
         {
@@ -20,16 +20,16 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_players_shadow/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(7/123)",
+            "Progress": "7%",
+            "Tasks": "(9/123)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:11:56",
+            "est.": "02:15:51",
             "Priority": "60"
         },
         {
-            "Task_Progress": "25%",
+            "Task_Progress": "32%",
             "Name": "Generic_v183-/ob",
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
@@ -43,7 +43,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "25%",
+            "Task_Progress": "42%",
             "Name": "Generic_v183-/ob",
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
             "User": "glavatskih",
@@ -87,7 +87,7 @@
     ],
     "ACTIBIO": [
         {
-            "Task_Progress": "40%",
+            "Task_Progress": "60%",
             "Name": "AKB_100_v03-/out",
             "Task_name": "AKB_100_v03 - /out/main",
             "User": "shashkov",
