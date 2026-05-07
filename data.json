@@ -90,12 +90,12 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(24/123)",
+            "Progress": "20%",
+            "Tasks": "(25/123)",
             "Status": "Rendering (23)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:07:09",
+            "est.": "03:09:51",
             "Priority": "70"
         },
         {
@@ -118,12 +118,12 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(36/123)",
-            "Status": "Rendering (19)",
+            "Progress": "30%",
+            "Tasks": "(37/123)",
+            "Status": "Rendering (18)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:33:04",
+            "est.": "02:41:38",
             "Priority": "70"
         }
     ],
@@ -162,13 +162,29 @@
             "Task_name": "TST_050_v42 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(28/41)",
+            "Progress": "80%",
+            "Tasks": "(33/41)",
             "Status": "Rendering (5)",
             "Project": "RICH_TEA_MULTON",
             "Render": "IngYang",
-            "est.": "00:05:28",
+            "est.": "00:02:11",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_BELARUS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WLB_050_comp_squ",
+            "Task_name": "WLB_050_comp_square_v24.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "56%",
+            "Tasks": "(21/37)",
+            "Status": "Rendering (7)",
+            "Project": "WINLINE_BELARUS",
+            "Render": "WLB_050_comp_square_v24.nk",
+            "est.": "00:01:28",
+            "Priority": "90"
         }
     ]
 }
