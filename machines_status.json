@@ -1,6 +1,6 @@
 [
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
