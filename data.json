@@ -6,12 +6,12 @@
             "Task_name": "WLB_050_w_retime_nophantoms_v89_vertical - /out/Zeus",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(3/183)",
+            "Progress": "5%",
+            "Tasks": "(10/183)",
             "Status": "Rendering (7)",
             "Project": "WINLINE_BELARUS",
             "Render": "Zeus",
-            "est.": "01:28:10",
+            "est.": "02:05:37",
             "Priority": "80"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WLB_050_v33 - /out/Plates_9x16",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(10/36)",
-            "Status": "Rendering (1)",
+            "Progress": "30%",
+            "Tasks": "(11/36)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_BELARUS",
             "Render": "Plates_9x16",
-            "est.": "01:49:47",
+            "est.": "00:50:31",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WLB_050_w_vertical_v102 - /out/volume",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(114/183)",
+            "Progress": "77%",
+            "Tasks": "(141/183)",
             "Status": "Rendering (10)",
             "Project": "WINLINE_BELARUS",
             "Render": "volume",
-            "est.": "00:13:05",
+            "est.": "00:07:05",
             "Priority": "80"
         }
     ],
@@ -64,12 +64,12 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(59/123)",
+            "Progress": "51%",
+            "Tasks": "(63/123)",
             "Status": "Rendering (16)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:12:00",
+            "est.": "02:53:48",
             "Priority": "70"
         },
         {
@@ -120,12 +120,12 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(89/123)",
-            "Status": "Rendering (15)",
+            "Progress": "77%",
+            "Tasks": "(95/123)",
+            "Status": "Rendering (13)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:53:36",
+            "est.": "00:48:00",
             "Priority": "70"
         }
     ],
@@ -136,12 +136,12 @@
             "Task_name": "TST_050_v43 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(34/41)",
-            "Status": "Rendering (1)",
+            "Progress": "85%",
+            "Tasks": "(35/41)",
+            "Status": "Rendering (3)",
             "Project": "RICH_TEA_MULTON",
             "Render": "IngYang",
-            "est.": "00:24:16",
+            "est.": "00:04:04",
             "Priority": "60"
         },
         {
@@ -150,9 +150,9 @@
             "Task_name": "TST_050_v42 - /out/Splash",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(39/41)",
-            "Status": "Rendering (2)",
+            "Progress": "97%",
+            "Tasks": "(40/41)",
+            "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash",
             "est.": "00:00:01",
@@ -171,22 +171,6 @@
             "Render": "Splash_IK",
             "est.": "00:15:23",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_170_comp_v10",
-            "Task_name": "CFI_170_comp_v10.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "95%",
-            "Tasks": "(47/49)",
-            "Status": "Rendering (2)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_170_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
