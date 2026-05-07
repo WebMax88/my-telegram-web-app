@@ -45,7 +45,7 @@
     ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "5%",
+            "Task_Progress": "17%",
             "Name": "Generic_v183-/ob",
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_680_crowd/usdrender_rop",
             "User": "glavatskih",
@@ -64,9 +64,9 @@
             "Task_name": "Generic_v184d - /obj/lopnet1/DSG_500_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(165/193)",
-            "Status": "Rendering (28)",
+            "Progress": "87%",
+            "Tasks": "(168/193)",
+            "Status": "Rendering (25)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -106,12 +106,12 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_680_players/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(8/71)",
-            "Status": "Rendering (4)",
+            "Progress": "15%",
+            "Tasks": "(11/71)",
+            "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:36:01",
+            "est.": "00:26:33",
             "Priority": "60"
         },
         {
@@ -134,12 +134,12 @@
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_680_players_shadow/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(3/71)",
+            "Progress": "7%",
+            "Tasks": "(5/71)",
             "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:24:34",
+            "est.": "01:25:36",
             "Priority": "60"
         },
         {
@@ -157,7 +157,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "9%",
+            "Task_Progress": "16%",
             "Name": "Generic_v183-/ob",
             "Task_name": "Generic_v183 - /obj/lopnet1/DSG_680_main/usdrender_rop",
             "User": "glavatskih",
