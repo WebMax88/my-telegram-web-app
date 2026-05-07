@@ -1,17 +1,17 @@
 {
     "WINLINE_BELARUS": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "100%",
             "Name": "WLB_050_w_retime",
             "Task_name": "WLB_050_w_retime_nophantoms_v89_vertical - /out/Zeus",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/183)",
-            "Status": "Rendering (1)",
+            "Progress": "1%",
+            "Tasks": "(3/183)",
+            "Status": "Rendering (7)",
             "Project": "WINLINE_BELARUS",
             "Render": "Zeus",
-            "est.": "unknown",
+            "est.": "01:28:10",
             "Priority": "80"
         },
         {
@@ -20,41 +20,13 @@
             "Task_name": "WLB_050_v33 - /out/Plates_9x16",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(8/36)",
-            "Status": "Rendering (2)",
+            "Progress": "27%",
+            "Tasks": "(10/36)",
+            "Status": "Rendering (1)",
             "Project": "WINLINE_BELARUS",
             "Render": "Plates_9x16",
-            "est.": "00:52:55",
+            "est.": "01:49:47",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_comp_9x1",
-            "Task_name": "WLB_050_comp_9x16_v22.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "52%",
-            "Tasks": "(32/61)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "WLB_050_comp_9x16_v22.nk",
-            "est.": "00:18:11",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WLB_050_comp_9x1",
-            "Task_name": "WLB_050_comp_9x16_v22.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "64%",
-            "Tasks": "(24/37)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_BELARUS",
-            "Render": "WLB_050_comp_9x16_v22.nk",
-            "est.": "00:02:52",
-            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -62,12 +34,12 @@
             "Task_name": "WLB_050_w_vertical_v102 - /out/volume",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(95/183)",
-            "Status": "Rendering (9)",
+            "Progress": "62%",
+            "Tasks": "(114/183)",
+            "Status": "Rendering (10)",
             "Project": "WINLINE_BELARUS",
             "Render": "volume",
-            "est.": "00:19:38",
+            "est.": "00:13:05",
             "Priority": "80"
         }
     ],
@@ -89,15 +61,15 @@
         {
             "Task_Progress": "100%",
             "Name": "Generic_v183-/ob",
-            "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
+            "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(84/123)",
+            "Progress": "47%",
+            "Tasks": "(59/123)",
             "Status": "Rendering (16)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:00:53",
+            "est.": "03:12:00",
             "Priority": "70"
         },
         {
@@ -108,34 +80,6 @@
             "Plugin": "Houdini",
             "Progress": "7%",
             "Tasks": "(5/71)",
-            "Status": "Pending (Dependencies)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:00",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v183-/ob",
-            "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(55/123)",
-            "Status": "Rendering (17)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "03:15:31",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Generic_v184-/ob",
-            "Task_name": "Generic_v184 - /obj/lopnet1/DSG_696_players/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/123)",
             "Status": "Pending (Dependencies)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
@@ -155,6 +99,34 @@
             "Render": "usdrender_rop",
             "est.": "00:00:00",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Generic_v184-/ob",
+            "Task_name": "Generic_v184 - /obj/lopnet1/DSG_696_players/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/123)",
+            "Status": "Pending (Dependencies)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:00:00",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v183-/ob",
+            "Task_name": "Generic_v183 - /obj/lopnet1/DSG_696_crowd/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(89/123)",
+            "Status": "Rendering (15)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:53:36",
+            "Priority": "70"
         }
     ],
     "RICH_TEA_MULTON": [
@@ -164,27 +136,13 @@
             "Task_name": "TST_050_v43 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(31/41)",
-            "Status": "Rendering (3)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:09:14",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_030_comp_v04",
-            "Task_name": "RIC_030_comp_v04.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(10/11)",
+            "Progress": "82%",
+            "Tasks": "(34/41)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_030_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Render": "IngYang",
+            "est.": "00:24:16",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -192,9 +150,9 @@
             "Task_name": "TST_050_v42 - /out/Splash",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(38/41)",
-            "Status": "Rendering (3)",
+            "Progress": "95%",
+            "Tasks": "(39/41)",
+            "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash",
             "est.": "00:00:01",
@@ -213,6 +171,22 @@
             "Render": "Splash_IK",
             "est.": "00:15:23",
             "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_170_comp_v10",
+            "Task_name": "CFI_170_comp_v10.nk",
+            "User": "sattarov",
+            "Plugin": "Nuke",
+            "Progress": "95%",
+            "Tasks": "(47/49)",
+            "Status": "Rendering (2)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_170_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
