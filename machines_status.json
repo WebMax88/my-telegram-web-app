@@ -15,7 +15,7 @@
         "user": "Erik Baymukashev"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws44",
         "user": "for freelancers"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
