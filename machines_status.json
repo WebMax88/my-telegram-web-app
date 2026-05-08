@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -15,7 +15,7 @@
         "user": "Erik Baymukashev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws44",
         "user": "for freelancers"
     },
@@ -60,7 +60,7 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
@@ -245,7 +245,7 @@
         "user": "---"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws207",
         "user": "Dmitrii Aleksandrov"
     },
@@ -260,12 +260,12 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
