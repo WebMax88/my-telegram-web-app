@@ -1,44 +1,16 @@
 {
     "CFI_DJV": [
         {
-            "Task_Progress": "100%",
-            "Name": "CFI_130_comp_v10",
-            "Task_name": "CFI_130_comp_v10.nk",
-            "User": "alikov",
+            "Task_Progress": "40%",
+            "Name": "CFI_010_comp_v16",
+            "Task_name": "CFI_010_comp_v16.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(10/11)",
-            "Status": "Rendering (1)",
+            "Progress": "43%",
+            "Tasks": "(7/16)",
+            "Status": "Rendering (9)",
             "Project": "CFI_DJV",
-            "Render": "CFI_130_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_100_comp_v10",
-            "Task_name": "CFI_100_comp_v10.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "85%",
-            "Tasks": "(12/14)",
-            "Status": "Rendering (2)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_100_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_050_comp_v15",
-            "Task_name": "CFI_050_comp_v15.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(18/19)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_050_comp_v15.nk",
+            "Render": "CFI_010_comp_v16.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
@@ -71,6 +43,22 @@
             "Render": "usdrender_rop",
             "est.": "02:23:53",
             "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_100_comp_v04",
+            "Task_name": "RIC_100_comp_v04.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "86%",
+            "Tasks": "(13/15)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_100_comp_v04.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
