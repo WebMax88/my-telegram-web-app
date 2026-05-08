@@ -155,12 +155,12 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
