@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -40,12 +40,12 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "StartingJob",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -90,12 +90,12 @@
         "user": "Yuriy Mamontov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws59",
         "user": "Max Weber"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
@@ -260,7 +260,7 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
