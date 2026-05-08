@@ -6,12 +6,12 @@
             "Task_name": "TST_050_v44 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(17/41)",
+            "Progress": "43%",
+            "Tasks": "(18/41)",
             "Status": "Rendering (9)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:03:25",
+            "est.": "00:04:18",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "TST_050_v44 - /out/Splash",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(13/41)",
+            "Progress": "34%",
+            "Tasks": "(14/41)",
             "Status": "Rendering (10)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash",
-            "est.": "00:01:29",
+            "est.": "00:03:41",
             "Priority": "60"
         }
     ],
@@ -45,7 +45,7 @@
             "Priority": "75"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "2%",
             "Name": "Generic_v193d-/o",
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
@@ -78,12 +78,12 @@
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_crowd/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(22/72)",
+            "Progress": "40%",
+            "Tasks": "(29/72)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:36:26",
+            "est.": "00:30:05",
             "Priority": "60"
         }
     ]
