@@ -1,23 +1,21 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_040_comp_v13",
-            "Task_name": "CFI_040_comp_v13.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "60%",
-            "Tasks": "(9/15)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_040_comp_v13.nk",
-            "est.": "00:03:14",
-            "Priority": "90"
-        }
-    ],
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "35%",
+            "Task_Progress": "100%",
+            "Name": "DSG_645_comp_v07",
+            "Task_name": "DSG_645_comp_v07.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "60%",
+            "Tasks": "(3/5)",
+            "Status": "Rendering (2)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "DSG_645_comp_v07.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "50%",
             "Name": "Generic_v195-/ob",
             "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
@@ -29,20 +27,6 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "DSG_696_comp_v11",
-            "Task_name": "DSG_696_comp_v11.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "8%",
-            "Tasks": "(2/25)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "DSG_696_comp_v11.nk",
-            "est.": "00:22:44",
-            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -60,6 +44,20 @@
         },
         {
             "Task_Progress": "100%",
+            "Name": "DSG_696_comp_v11",
+            "Task_name": "DSG_696_comp_v11.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(24/25)",
+            "Status": "Rendering (1)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "DSG_696_comp_v11.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Generic_v193d-/o",
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
@@ -73,23 +71,21 @@
             "Priority": "60"
         }
     ],
-    "T2_INSTRUCTION": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_001_comp_v01",
-            "Task_name": "TTI_001_comp_v01.nk",
+            "Name": "RIC_100_comp_v04",
+            "Task_name": "RIC_100_comp_v04.nk",
             "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_001_comp_v01.nk",
-            "est.": "unknown",
+            "Progress": "46%",
+            "Tasks": "(7/15)",
+            "Status": "Rendering (8)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_100_comp_v04.nk",
+            "est.": "00:00:01",
             "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "TST_050_v45-/out",
@@ -106,20 +102,6 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v03",
-            "Task_name": "RIC_130_comp_v03.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "82%",
-            "Tasks": "(24/29)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v03.nk",
-            "est.": "00:01:45",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TST_050_v45-/out",
             "Task_name": "TST_050_v45 - /out/Splash_IK",
             "User": "hozhaev",
@@ -131,6 +113,22 @@
             "Render": "Splash_IK",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_040_comp_v13",
+            "Task_name": "CFI_040_comp_v13.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "93%",
+            "Tasks": "(14/15)",
+            "Status": "Rendering (1)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_040_comp_v13.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
