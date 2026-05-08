@@ -1,4 +1,20 @@
 {
+    "ACTIBIO": [
+        {
+            "Task_Progress": "100%",
+            "Name": "AKB_010_v02-/out",
+            "Task_name": "AKB_010_v02 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "63%",
+            "Tasks": "(62/97)",
+            "Status": "Rendering (8)",
+            "Project": "ACTIBIO",
+            "Render": "main",
+            "est.": "00:10:56",
+            "Priority": "60"
+        }
+    ],
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
@@ -29,79 +45,19 @@
             "Priority": "60"
         }
     ],
-    "ACTIBIO": [
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "AKB_010_v02-/out",
-            "Task_name": "AKB_010_v02 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(49/97)",
-            "Status": "Rendering (8)",
-            "Project": "ACTIBIO",
-            "Render": "main",
-            "est.": "00:16:07",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_010_comp_v14",
-            "Task_name": "CFI_010_comp_v14.nk",
-            "User": "lebedevich",
+            "Name": "TTI_001_comp_v01",
+            "Task_name": "TTI_001_comp_v01.nk",
+            "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(15/16)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_010_comp_v14.nk",
+            "Progress": "100%",
+            "Tasks": "(1/1)",
+            "Status": "Completed",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_001_comp_v01.nk",
             "est.": "00:00:00",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_030_comp_v09",
-            "Task_name": "CFI_030_comp_v09.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "66%",
-            "Tasks": "(2/3)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_030_comp_v09.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_020_comp_v12",
-            "Task_name": "CFI_020_comp_v12.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "81%",
-            "Tasks": "(13/16)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_020_comp_v12.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v03",
-            "Task_name": "RIC_130_comp_v03.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "24%",
-            "Tasks": "(7/29)",
-            "Status": "Rendering (5)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v03.nk",
-            "est.": "00:02:52",
             "Priority": "90"
         }
     ]
