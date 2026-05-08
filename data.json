@@ -1,4 +1,34 @@
 {
+    "ADIDAS_DICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v195-/ob",
+            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(32/123)",
+            "Status": "Rendering (28)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "02:58:35",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v193d-/o",
+            "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(67/72)",
+            "Status": "Rendering (5)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -13,66 +43,6 @@
             "Render": "Cyfer_reflects",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_220_v69-/out",
-            "Task_name": "CFI_220_v69 - /out/CFI_220/MicroOrbs_reflects",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(14/16)",
-            "Status": "Rendering (2)",
-            "Project": "CFI_DJV",
-            "Render": "MicroOrbs_reflects",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v193d-/o",
-            "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(67/72)",
-            "Status": "Rendering (5)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v195-/ob",
-            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(32/123)",
-            "Status": "Rendering (25)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "03:29:32",
-            "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "32%",
-            "Name": "Vellum_Scene_v06",
-            "Task_name": "Vellum_Scene_v06 - /obj/Construct/L_sheet_cch/render",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "TUTORS",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
         }
     ]
 }
