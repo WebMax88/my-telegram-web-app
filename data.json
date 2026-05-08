@@ -1,7 +1,7 @@
 {
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "3%",
+            "Task_Progress": "5%",
             "Name": "Generic_v193d-/o",
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
@@ -34,12 +34,12 @@
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_crowd/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(38/72)",
+            "Progress": "61%",
+            "Tasks": "(44/72)",
             "Status": "Rendering (9)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:22:44",
+            "est.": "00:17:30",
             "Priority": "60"
         },
         {
@@ -64,13 +64,27 @@
             "Task_name": "TST_050_v44 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(23/41)",
+            "Progress": "58%",
+            "Tasks": "(24/41)",
             "Status": "Rendering (9)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:06:44",
+            "est.": "00:06:48",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_090_comp_v02",
+            "Task_name": "RIC_090_comp_v02.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "87%",
+            "Tasks": "(14/16)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_090_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -78,29 +92,13 @@
             "Task_name": "TST_050_v44 - /out/Splash",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(14/41)",
+            "Progress": "39%",
+            "Tasks": "(16/41)",
             "Status": "Rendering (10)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash",
-            "est.": "00:03:41",
+            "est.": "00:08:15",
             "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_001_comp_v01",
-            "Task_name": "TTI_001_comp_v01.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(1/1)",
-            "Status": "Completed",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_001_comp_v01.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
         }
     ]
 }
