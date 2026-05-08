@@ -1,31 +1,47 @@
 {
-    "ADIDAS_DICKS_PRLM": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v195-/ob",
-            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_players_shadow/usdrender_rop",
-            "User": "glavatskih",
+            "Name": "TST_050_v44-/out",
+            "Task_name": "TST_050_v44 - /out/Splash",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(2/123)",
-            "Status": "Rendering (4)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "01:25:42",
+            "Progress": "53%",
+            "Tasks": "(22/41)",
+            "Status": "Rendering (9)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash",
+            "est.": "00:17:22",
             "Priority": "60"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v44-/out",
+            "Task_name": "TST_050_v44 - /out/Splash_IK",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "70%",
+            "Tasks": "(29/41)",
+            "Status": "Rendering (7)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash_IK",
+            "est.": "00:07:28",
+            "Priority": "60"
+        }
+    ],
+    "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Generic_v193d-/o",
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_crowd/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(57/72)",
+            "Progress": "80%",
+            "Tasks": "(58/72)",
             "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:17:05",
+            "est.": "00:15:22",
             "Priority": "60"
         },
         {
@@ -48,12 +64,12 @@
             "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_players/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(4/123)",
+            "Progress": "9%",
+            "Tasks": "(12/123)",
             "Status": "Rendering (5)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:58:51",
+            "est.": "00:53:43",
             "Priority": "60"
         },
         {
@@ -90,58 +106,26 @@
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(2/72)",
-            "Status": "Rendering (8)",
+            "Progress": "4%",
+            "Tasks": "(3/72)",
+            "Status": "Rendering (7)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "06:03:30",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "20%",
-            "Name": "TST_040_comp_v07",
-            "Task_name": "TST_040_comp_v07.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(4/8)",
-            "Status": "Rendering (4)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_040_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v44-/out",
-            "Task_name": "TST_050_v44 - /out/Splash",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(21/41)",
-            "Status": "Rendering (9)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash",
-            "est.": "00:17:02",
+            "est.": "07:38:24",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "TST_050_v44-/out",
-            "Task_name": "TST_050_v44 - /out/Splash_IK",
-            "User": "hozhaev",
+            "Name": "Generic_v195-/ob",
+            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_players_shadow/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(28/41)",
-            "Status": "Rendering (9)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "00:04:29",
+            "Progress": "8%",
+            "Tasks": "(10/123)",
+            "Status": "Rendering (6)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:57:49",
             "Priority": "60"
         }
     ]
