@@ -6,25 +6,27 @@
             "Task_name": "RIC_130_comp_v04.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "1%",
-            "Tasks": "(1/72)",
-            "Status": "Rendering (4)",
+            "Progress": "97%",
+            "Tasks": "(70/72)",
+            "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_130_comp_v04.nk",
-            "est.": "00:08:19",
+            "est.": "00:00:01",
             "Priority": "90"
-        },
+        }
+    ],
+    "CFI_DJV": [
         {
             "Task_Progress": "0%",
-            "Name": "RIC_040_comp_v01",
-            "Task_name": "RIC_040_comp_v01.nk",
-            "User": "a.ivanov",
+            "Name": "CFI_065_comp_v13",
+            "Task_name": "CFI_065_comp_v13.nk",
+            "User": "sattarov",
             "Plugin": "Nuke",
             "Progress": "0%",
-            "Tasks": "(0/10)",
-            "Status": "Rendering (7)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_040_comp_v01.nk",
+            "Tasks": "(0/9)",
+            "Status": "Rendering (9)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_065_comp_v13.nk",
             "est.": "unknown",
             "Priority": "90"
         }
@@ -36,43 +38,13 @@
             "Task_name": "Side_Missions_BK_TT_v01 - /obj/lookdev_Czinger/RS_ROP/lookDev_Outdoor_1",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(34/100)",
+            "Progress": "48%",
+            "Tasks": "(48/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "lookDev_Outdoor_1",
-            "est.": "00:28:08",
+            "est.": "00:21:17",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "60%",
-            "Name": "CFI_065_comp_v13",
-            "Task_name": "CFI_065_comp_v13.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "22%",
-            "Tasks": "(2/9)",
-            "Status": "Rendering (7)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_065_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_020_comp_v13",
-            "Task_name": "CFI_020_comp_v13.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(15/16)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_020_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "ADIDAS_DICKS_PRLM": [
@@ -82,12 +54,12 @@
             "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(18/123)",
+            "Progress": "15%",
+            "Tasks": "(19/123)",
             "Status": "Rendering (12)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "06:37:01",
+            "est.": "06:32:35",
             "Priority": "60"
         },
         {
@@ -96,12 +68,12 @@
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(45/72)",
-            "Status": "Rendering (13)",
+            "Progress": "63%",
+            "Tasks": "(46/72)",
+            "Status": "Rendering (14)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:08:09",
+            "est.": "00:54:13",
             "Priority": "60"
         }
     ]
