@@ -1,7 +1,7 @@
 {
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "41%",
             "Name": "Generic_v193d-/o",
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_crowd/usdrender_rop",
             "User": "dmakarov",
@@ -15,7 +15,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "62%",
+            "Task_Progress": "74%",
             "Name": "Generic_v192d-/o",
             "Task_name": "Generic_v192d - /obj/lopnet1/DSG_580_main/usdrender_rop",
             "User": "dmakarov",
@@ -87,12 +87,12 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "37%",
+            "Task_Progress": "30%",
             "Name": "TST_050_v44-/obj",
             "Task_name": "TST_050_v44 - /obj/Water_construct/Splash_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "37%",
+            "Progress": "30%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
