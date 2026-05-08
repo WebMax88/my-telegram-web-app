@@ -215,12 +215,12 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
@@ -230,12 +230,12 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws204",
         "user": "Ilya Koryukaev"
     },
@@ -250,17 +250,17 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Offline",
+        "status": "Idle",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
@@ -285,7 +285,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws215",
         "user": "Freelancer - Vova Syslov"
     },
