@@ -2,20 +2,6 @@
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "Generic_v195-/ob",
-            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(15/123)",
-            "Status": "Rendering (8)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "10:13:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Generic_v193d-/o",
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
@@ -27,6 +13,20 @@
             "Render": "usdrender_rop",
             "est.": "02:21:42",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Generic_v195-/ob",
+            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "13%",
+            "Tasks": "(16/123)",
+            "Status": "Rendering (8)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "10:06:49",
+            "Priority": "60"
         }
     ],
     "ACTIBIO": [
@@ -36,29 +36,13 @@
             "Task_name": "AKB_010_v02 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(75/97)",
-            "Status": "Rendering (7)",
+            "Progress": "89%",
+            "Tasks": "(87/97)",
+            "Status": "Rendering (8)",
             "Project": "ACTIBIO",
             "Render": "main",
-            "est.": "00:06:58",
+            "est.": "00:00:48",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_030_comp_v09",
-            "Task_name": "CFI_030_comp_v09.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "42%",
-            "Tasks": "(8/19)",
-            "Status": "Rendering (11)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_030_comp_v09.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
