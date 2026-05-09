@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -260,12 +260,12 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
