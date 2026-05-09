@@ -195,12 +195,12 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
