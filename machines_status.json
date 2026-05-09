@@ -1,6 +1,6 @@
 [
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -180,7 +180,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -215,7 +215,7 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
