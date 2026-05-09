@@ -2,6 +2,20 @@
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
+            "Name": "Generic_v195-/ob",
+            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "42%",
+            "Tasks": "(52/123)",
+            "Status": "Rendering (31)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "01:26:12",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Generic_v193d-/o",
             "Task_name": "Generic_v193d - /obj/lopnet1/DSG_640_main/usdrender_rop",
             "User": "dmakarov",
@@ -11,36 +25,6 @@
             "Status": "Rendering (2)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Generic_v195-/ob",
-            "Task_name": "Generic_v195 - /obj/lopnet1/DSG_696_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(51/123)",
-            "Status": "Rendering (31)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "01:29:41",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_220_v69-/out",
-            "Task_name": "CFI_220_v69 - /out/CFI_220/Cyfer_reflects",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(15/16)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "Cyfer_reflects",
             "est.": "00:00:01",
             "Priority": "60"
         }
