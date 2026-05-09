@@ -1,18 +1,34 @@
 {
     "ADIDAS_DICKS_PRLM": [
         {
-            "Task_Progress": "64%",
+            "Task_Progress": "67%",
             "Name": "Generic_v196d-/o",
             "Task_name": "Generic_v196d - /obj/lopnet1/DSG_500_main/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
             "Progress": "11%",
-            "Tasks": "(22/193)",
+            "Tasks": "(23/193)",
             "Status": "Rendering (42)",
             "Project": "ADIDAS_DICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "02:24:20",
+            "est.": "02:21:14",
             "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TTI_001_comp_v01",
+            "Task_name": "TTI_001_comp_v01.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(1/1)",
+            "Status": "Completed",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_001_comp_v01.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
         }
     ]
 }
