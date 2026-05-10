@@ -1,6 +1,6 @@
 [
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -160,7 +160,7 @@
         "user": "Vadim Raznov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
