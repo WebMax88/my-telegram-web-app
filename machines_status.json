@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -160,7 +160,7 @@
         "user": "Vadim Raznov"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
