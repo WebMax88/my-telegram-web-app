@@ -2,16 +2,30 @@
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
+            "Name": "CFI_170_comp_v12",
+            "Task_name": "CFI_170_comp_v12.nk",
+            "User": "sattarov",
+            "Plugin": "Nuke",
+            "Progress": "95%",
+            "Tasks": "(47/49)",
+            "Status": "Rendering (2)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_170_comp_v12.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "CFI_080_comp_v10",
             "Task_name": "CFI_080_comp_v10.nk",
             "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "36%",
-            "Tasks": "(4/11)",
+            "Progress": "54%",
+            "Tasks": "(6/11)",
             "Status": "Rendering (2)",
             "Project": "CFI_DJV",
             "Render": "CFI_080_comp_v10.nk",
-            "est.": "00:08:12",
+            "est.": "00:04:17",
             "Priority": "90"
         },
         {
@@ -34,12 +48,12 @@
             "Task_name": "CFI_040_comp_v14.nk",
             "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(12/15)",
+            "Progress": "86%",
+            "Tasks": "(13/15)",
             "Status": "Rendering (2)",
             "Project": "CFI_DJV",
             "Render": "CFI_040_comp_v14.nk",
-            "est.": "00:01:15",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
@@ -50,12 +64,12 @@
             "Task_name": "TST_020_comp_v11.nk",
             "User": "sidenina",
             "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(5/10)",
+            "Progress": "90%",
+            "Tasks": "(9/10)",
             "Status": "Rendering (1)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST_020_comp_v11.nk",
-            "est.": "00:03:12",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
