@@ -1,74 +1,48 @@
 {
     "CFI_DJV": [
         {
-            "Task_Progress": "0%",
-            "Name": "CFI_050_comp_v16",
-            "Task_name": "CFI_050_comp_v16.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/19)",
-            "Status": "Rendering (19)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_050_comp_v16.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "40%",
-            "Name": "CFI_050_v70-/out",
-            "Task_name": "CFI_050_v70 - /out/CFI_050/Graph_reflects",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/19)",
-            "Status": "Rendering (19)",
-            "Project": "CFI_DJV",
-            "Render": "Graph_reflects",
-            "est.": "unknown",
-            "Priority": "70"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "CFI_050_v70-/out",
-            "Task_name": "CFI_050_v70 - /out/CFI_050/Subgraph",
+            "Task_name": "CFI_050_v70 - /out/CFI_050/Graph",
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "94%",
             "Tasks": "(18/19)",
             "Status": "Rendering (1)",
             "Project": "CFI_DJV",
-            "Render": "Subgraph",
-            "est.": "00:00:01",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_050_v70-/out",
-            "Task_name": "CFI_050_v70 - /out/CFI_050/Subgraph_reflects",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(13/19)",
-            "Status": "Rendering (6)",
-            "Project": "CFI_DJV",
-            "Render": "Subgraph_reflects",
-            "est.": "00:00:01",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_050_v70-/out",
-            "Task_name": "CFI_050_v70 - /out/CFI_050/Graph",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(8/19)",
-            "Status": "Rendering (11)",
-            "Project": "CFI_DJV",
             "Render": "Graph",
             "est.": "00:00:01",
             "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_050_v70-/out",
+            "Task_name": "CFI_050_v70 - /out/CFI_050/Graph_reflects",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "94%",
+            "Tasks": "(18/19)",
+            "Status": "Rendering (1)",
+            "Project": "CFI_DJV",
+            "Render": "Graph_reflects",
+            "est.": "00:00:01",
+            "Priority": "70"
+        }
+    ],
+    "ADIDAS_DICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "DSG_500_comp_v21",
+            "Task_name": "DSG_500_comp_v21.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "7%",
+            "Tasks": "(15/193)",
+            "Status": "Rendering (6)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "DSG_500_comp_v21.nk",
+            "est.": "00:08:48",
+            "Priority": "90"
         }
     ]
 }
