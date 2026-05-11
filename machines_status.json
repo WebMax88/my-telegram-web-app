@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -50,7 +50,7 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -165,7 +165,7 @@
         "user": "Alexander Povstyanoy"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws152",
         "user": "Maria Lukyanova"
     },
