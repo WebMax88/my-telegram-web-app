@@ -1,6 +1,20 @@
 {
     "CFI_DJV": [
         {
+            "Task_Progress": "100%",
+            "Name": "CFI_040_comp_v15",
+            "Task_name": "CFI_040_comp_v15.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "53%",
+            "Tasks": "(8/15)",
+            "Status": "Rendering (2)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_040_comp_v15.nk",
+            "est.": "00:07:24",
+            "Priority": "90"
+        },
+        {
             "Task_Progress": "0%",
             "Name": "CFI_170_comp_v13",
             "Task_name": "CFI_170_comp_v13.nk",
@@ -12,20 +26,6 @@
             "Project": "CFI_DJV",
             "Render": "CFI_170_comp_v13.nk",
             "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_040_comp_v15",
-            "Task_name": "CFI_040_comp_v15.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "26%",
-            "Tasks": "(4/15)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_040_comp_v15.nk",
-            "est.": "00:07:54",
             "Priority": "90"
         }
     ]
