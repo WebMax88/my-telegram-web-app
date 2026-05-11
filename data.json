@@ -1,20 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_020_comp_v11",
-            "Task_name": "TST_020_comp_v11.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "20%",
-            "Tasks": "(2/10)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_020_comp_v11.nk",
-            "est.": "00:06:07",
-            "Priority": "90"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -22,23 +6,23 @@
             "Task_name": "CFI_080_comp_v10.nk",
             "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "18%",
-            "Tasks": "(2/11)",
+            "Progress": "36%",
+            "Tasks": "(4/11)",
             "Status": "Rendering (2)",
             "Project": "CFI_DJV",
             "Render": "CFI_080_comp_v10.nk",
-            "est.": "00:12:45",
+            "est.": "00:08:12",
             "Priority": "90"
         },
         {
-            "Task_Progress": "40%",
+            "Task_Progress": "100%",
             "Name": "CFI_200_v71-/out",
             "Task_name": "CFI_200_v71 - /out/CFI_200/Graph",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(4/8)",
-            "Status": "Rendering (4)",
+            "Progress": "87%",
+            "Tasks": "(7/8)",
+            "Status": "Rendering (1)",
             "Project": "CFI_DJV",
             "Render": "Graph",
             "est.": "00:00:01",
@@ -50,12 +34,28 @@
             "Task_name": "CFI_040_comp_v14.nk",
             "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "66%",
-            "Tasks": "(10/15)",
+            "Progress": "80%",
+            "Tasks": "(12/15)",
             "Status": "Rendering (2)",
             "Project": "CFI_DJV",
             "Render": "CFI_040_comp_v14.nk",
-            "est.": "00:04:11",
+            "est.": "00:01:15",
+            "Priority": "90"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_020_comp_v11",
+            "Task_name": "TST_020_comp_v11.nk",
+            "User": "sidenina",
+            "Plugin": "Nuke",
+            "Progress": "50%",
+            "Tasks": "(5/10)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_020_comp_v11.nk",
+            "est.": "00:03:12",
             "Priority": "90"
         }
     ]
