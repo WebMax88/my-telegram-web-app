@@ -1,12 +1,28 @@
 {
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_010_comp_v16",
+            "Task_name": "CFI_010_comp_v16.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "87%",
+            "Tasks": "(14/16)",
+            "Status": "Rendering (2)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_010_comp_v16.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "TUTORS": [
         {
-            "Task_Progress": "61%",
+            "Task_Progress": "88%",
             "Name": "Vellum_Scene_v07",
             "Task_name": "Vellum_Scene_v07 - /obj/Construct/L_sheet_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "61%",
+            "Progress": "88%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
@@ -29,22 +45,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_010_comp_v16",
-            "Task_name": "CFI_010_comp_v16.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "18%",
-            "Tasks": "(3/16)",
-            "Status": "Rendering (8)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_010_comp_v16.nk",
-            "est.": "00:00:07",
-            "Priority": "90"
         }
     ]
 }
