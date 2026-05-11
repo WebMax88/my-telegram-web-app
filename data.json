@@ -1,20 +1,4 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v05",
-            "Task_name": "RIC_130_comp_v05.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(28/29)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v05.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "0%",
@@ -28,22 +12,6 @@
             "Project": "CFI_DJV",
             "Render": "CFI_170_comp_v13.nk",
             "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TTI_001_comp_v01",
-            "Task_name": "TTI_001_comp_v01.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(1/1)",
-            "Status": "Completed",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_001_comp_v01.nk",
-            "est.": "00:00:00",
             "Priority": "90"
         }
     ]
