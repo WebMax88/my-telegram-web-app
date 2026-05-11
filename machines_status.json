@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
