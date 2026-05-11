@@ -1,4 +1,20 @@
 {
+    "TUTORS": [
+        {
+            "Task_Progress": "33%",
+            "Name": "Vellum_Scene_v07",
+            "Task_name": "Vellum_Scene_v07 - /obj/Construct/L_sheet_cch/render",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "33%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "TUTORS",
+            "Render": "render",
+            "est.": "unknown",
+            "Priority": "100"
+        }
+    ],
     "ADIDAS_DICKS_PRLM": [
         {
             "Task_Progress": "100%",
@@ -13,22 +29,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_020_comp_v13",
-            "Task_name": "CFI_020_comp_v13.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "62%",
-            "Tasks": "(10/16)",
-            "Status": "Rendering (6)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_020_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
