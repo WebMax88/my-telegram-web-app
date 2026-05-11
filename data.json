@@ -1,20 +1,4 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v05",
-            "Task_name": "RIC_130_comp_v05.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "81%",
-            "Tasks": "(39/48)",
-            "Status": "Queued",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,28 @@
             "Task_name": "CFI_020_comp_v14.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "25%",
-            "Tasks": "(4/16)",
-            "Status": "Rendering (8)",
+            "Progress": "93%",
+            "Tasks": "(15/16)",
+            "Status": "Rendering (1)",
             "Project": "CFI_DJV",
             "Render": "CFI_020_comp_v14.nk",
-            "est.": "00:00:48",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_comp_v05",
+            "Task_name": "RIC_130_comp_v05.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "89%",
+            "Tasks": "(43/48)",
+            "Status": "Queued",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_comp_v05.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
