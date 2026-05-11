@@ -1,4 +1,20 @@
 {
+    "ADIDAS_DICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "DSG_500_comp_v21",
+            "Task_name": "DSG_500_comp_v21.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "50%",
+            "Tasks": "(98/193)",
+            "Status": "Rendering (7)",
+            "Project": "ADIDAS_DICKS_PRLM",
+            "Render": "DSG_500_comp_v21.nk",
+            "est.": "00:02:37",
+            "Priority": "90"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -13,36 +29,6 @@
             "Render": "Graph",
             "est.": "00:00:01",
             "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_050_v70-/out",
-            "Task_name": "CFI_050_v70 - /out/CFI_050/Graph_reflects",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(18/19)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "Graph_reflects",
-            "est.": "00:00:01",
-            "Priority": "70"
-        }
-    ],
-    "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DSG_500_comp_v21",
-            "Task_name": "DSG_500_comp_v21.nk",
-            "User": "raznov",
-            "Plugin": "Nuke",
-            "Progress": "7%",
-            "Tasks": "(15/193)",
-            "Status": "Rendering (6)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "DSG_500_comp_v21.nk",
-            "est.": "00:08:48",
-            "Priority": "90"
         }
     ]
 }
