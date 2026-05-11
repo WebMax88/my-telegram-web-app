@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -50,7 +50,7 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -140,12 +140,12 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
@@ -155,12 +155,12 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
@@ -200,12 +200,12 @@
         "user": "Nail Sattarov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
