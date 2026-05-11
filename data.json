@@ -1,4 +1,20 @@
 {
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_comp_v05",
+            "Task_name": "RIC_130_comp_v05.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(23/48)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_comp_v05.nk",
+            "est.": "00:04:54",
+            "Priority": "90"
+        }
+    ],
     "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
@@ -6,26 +22,12 @@
             "Task_name": "TST_050_comp_v08.nk",
             "User": "godomin",
             "Plugin": "Nuke",
-            "Progress": "48%",
-            "Tasks": "(13/27)",
+            "Progress": "92%",
+            "Tasks": "(25/27)",
             "Status": "Rendering (2)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST_050_comp_v08.nk",
-            "est.": "00:06:41",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_005_comp_v05",
-            "Task_name": "TST_005_comp_v05.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "22%",
-            "Tasks": "(2/9)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_005_comp_v05.nk",
-            "est.": "00:03:15",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
@@ -41,36 +43,6 @@
             "Status": "Queued",
             "Project": "CFI_DJV",
             "Render": "CFI_170_comp_v13.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_060_comp_v13",
-            "Task_name": "CFI_060_comp_v13.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "70%",
-            "Tasks": "(12/17)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_060_comp_v13.nk",
-            "est.": "00:01:47",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v05",
-            "Task_name": "RIC_130_comp_v05.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "16%",
-            "Tasks": "(8/48)",
-            "Status": "Queued",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v05.nk",
             "est.": "unknown",
             "Priority": "90"
         }
