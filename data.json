@@ -1,20 +1,6 @@
 {
     "CFI_DJV": [
         {
-            "Task_Progress": "100%",
-            "Name": "CFI_040_comp_v15",
-            "Task_name": "CFI_040_comp_v15.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(12/15)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_040_comp_v15.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
             "Task_Progress": "0%",
             "Name": "CFI_170_comp_v13",
             "Task_name": "CFI_170_comp_v13.nk",
