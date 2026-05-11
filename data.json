@@ -13,20 +13,6 @@
             "Render": "CFI_170_comp_v13.nk",
             "est.": "unknown",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_220_comp_v14",
-            "Task_name": "CFI_220_comp_v14.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "62%",
-            "Tasks": "(10/16)",
-            "Status": "Rendering (6)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_220_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
