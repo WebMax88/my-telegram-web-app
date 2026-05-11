@@ -1,20 +1,4 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_050_comp_v16",
-            "Task_name": "CFI_050_comp_v16.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "63%",
-            "Tasks": "(12/19)",
-            "Status": "Rendering (7)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_050_comp_v16.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "0%",
@@ -22,12 +6,12 @@
             "Task_name": "RIC_130_comp_v05.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "20%",
-            "Tasks": "(6/29)",
-            "Status": "Rendering (4)",
+            "Progress": "82%",
+            "Tasks": "(24/29)",
+            "Status": "Queued",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_130_comp_v05.nk",
-            "est.": "00:04:46",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
