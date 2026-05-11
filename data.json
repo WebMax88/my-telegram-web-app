@@ -2,31 +2,17 @@
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_200_v71-/out",
-            "Task_name": "CFI_200_v71 - /out/CFI_200/Graph",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(7/8)",
-            "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "Graph",
-            "est.": "00:00:01",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_040_v59-/out",
-            "Task_name": "CFI_040_v59 - /out/CFI_040/Graph",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(11/15)",
+            "Name": "CFI_220_comp_v12",
+            "Task_name": "CFI_220_comp_v12.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "75%",
+            "Tasks": "(12/16)",
             "Status": "Rendering (4)",
             "Project": "CFI_DJV",
-            "Render": "Graph",
+            "Render": "CFI_220_comp_v12.nk",
             "est.": "00:00:01",
-            "Priority": "70"
+            "Priority": "90"
         }
     ]
 }
