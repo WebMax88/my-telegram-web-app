@@ -50,7 +50,7 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -200,7 +200,7 @@
         "user": "Nail Sattarov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
