@@ -1,34 +1,18 @@
 {
-    "RICH_TEA_MULTON": [
+    "TUTORS": [
         {
-            "Task_Progress": "0%",
-            "Name": "RIC_130_comp_v05",
-            "Task_name": "RIC_130_comp_v05.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "82%",
-            "Tasks": "(24/29)",
-            "Status": "Queued",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v05.nk",
+            "Task_Progress": "55%",
+            "Name": "Vellum_Scene_v07",
+            "Task_name": "Vellum_Scene_v07 - /obj/Construct/L_sheet_cch/render",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "55%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "TUTORS",
+            "Render": "render",
             "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "40%",
-            "Name": "CFI_010_comp_v15",
-            "Task_name": "CFI_010_comp_v15.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "37%",
-            "Tasks": "(6/16)",
-            "Status": "Rendering (10)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_010_comp_v15.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "100"
         }
     ]
 }
