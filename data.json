@@ -15,7 +15,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "27%",
+            "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v10 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
@@ -34,12 +34,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v10 - /obj/lopnet1/main7/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(16/76)",
+            "Progress": "22%",
+            "Tasks": "(17/76)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "09:05:54",
+            "est.": "08:58:32",
             "Priority": "60"
         },
         {
@@ -62,12 +62,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v10 - /obj/lopnet1/main11/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(27/144)",
+            "Progress": "19%",
+            "Tasks": "(28/144)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "02:54:44",
+            "est.": "02:40:11",
             "Priority": "60"
         },
         {
@@ -118,12 +118,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v10 - /obj/lopnet1/main6/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(18/50)",
+            "Progress": "38%",
+            "Tasks": "(19/50)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "14:55:29",
+            "est.": "14:33:59",
             "Priority": "60"
         },
         {
@@ -132,12 +132,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v10 - /obj/lopnet1/main4/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(32/45)",
+            "Progress": "73%",
+            "Tasks": "(33/45)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "03:32:16",
+            "est.": "03:13:53",
             "Priority": "60"
         }
     ],
