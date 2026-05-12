@@ -2,20 +2,6 @@
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "TST_050_v46-/out",
-            "Task_name": "TST_050_v46 - /out/Splash",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(17/41)",
-            "Status": "Rendering (19)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash",
-            "est.": "00:02:52",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v10 - /obj/lopnet1/main7/usdrender_rop",
             "User": "goncharov",
@@ -44,30 +30,16 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v06",
-            "Task_name": "RIC_130_comp_v06.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "27%",
-            "Tasks": "(8/29)",
-            "Status": "Rendering (7)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v06.nk",
-            "est.": "00:00:54",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TST_050_v46-/out",
             "Task_name": "TST_050_v46 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(17/41)",
+            "Progress": "43%",
+            "Tasks": "(18/41)",
             "Status": "Rendering (19)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:02:08",
+            "est.": "00:02:20",
             "Priority": "60"
         },
         {
@@ -104,12 +76,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v10 - /obj/lopnet1/main3/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(44/47)",
+            "Progress": "95%",
+            "Tasks": "(45/47)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:39:55",
+            "est.": "00:19:57",
             "Priority": "60"
         },
         {
@@ -167,6 +139,36 @@
             "Render": "usdrender_rop",
             "est.": "06:31:59",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v46-/out",
+            "Task_name": "TST_050_v46 - /out/Splash",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "41%",
+            "Tasks": "(17/41)",
+            "Status": "Rendering (19)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash",
+            "est.": "00:02:52",
+            "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "40%",
+            "Name": "CFI_070_comp_v14",
+            "Task_name": "CFI_070_comp_v14.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/16)",
+            "Status": "Rendering (11)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_070_comp_v14.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
