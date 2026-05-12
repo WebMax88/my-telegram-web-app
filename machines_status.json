@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
@@ -210,7 +210,7 @@
         "user": "Andrey Shindin"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws164",
         "user": "WS FOR FREELANCER "
     },
