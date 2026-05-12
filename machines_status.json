@@ -170,12 +170,12 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS153",
         "user": "Dzhosha Rahmonov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws155",
         "user": "???????? Vova Syslov"
     },
@@ -185,7 +185,7 @@
         "user": "Alena Glavatskikh"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws157",
         "user": "Evgeniy Grigorev"
     },
@@ -265,7 +265,7 @@
         "user": "Matvey Zubarev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
@@ -280,7 +280,7 @@
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
