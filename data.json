@@ -7,11 +7,11 @@
             "User": "goncharov",
             "Plugin": "Houdini",
             "Progress": "22%",
-            "Tasks": "(32/144)",
+            "Tasks": "(33/144)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "12:27:48",
+            "est.": "12:20:45",
             "Priority": "60"
         },
         {
@@ -90,12 +90,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main10/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(16/71)",
+            "Progress": "23%",
+            "Tasks": "(17/71)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "12:08:56",
+            "est.": "11:56:53",
             "Priority": "60"
         },
         {
@@ -104,12 +104,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main7/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(33/76)",
+            "Progress": "44%",
+            "Tasks": "(34/76)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "04:32:58",
+            "est.": "04:26:34",
             "Priority": "60"
         },
         {
@@ -160,12 +160,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main1/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "33%",
-            "Tasks": "(17/51)",
+            "Progress": "37%",
+            "Tasks": "(19/51)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "06:32:45",
+            "est.": "06:21:28",
             "Priority": "60"
         }
     ],
