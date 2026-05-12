@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -245,7 +245,7 @@
         "user": "---"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws207",
         "user": "Dmitrii Aleksandrov"
     },
