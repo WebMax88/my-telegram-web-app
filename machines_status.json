@@ -90,7 +90,7 @@
         "user": "Yuriy Mamontov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws59",
         "user": "Max Weber"
     },
@@ -175,12 +175,12 @@
         "user": "Dzhosha Rahmonov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws155",
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -255,7 +255,7 @@
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
