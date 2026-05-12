@@ -1,34 +1,18 @@
 {
-    "ACTIBIO": [
+    "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "AKB_040_v12-/out",
-            "Task_name": "AKB_040_v12 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(49/97)",
-            "Status": "Rendering (12)",
-            "Project": "ACTIBIO",
-            "Render": "main",
-            "est.": "00:06:05",
-            "Priority": "60"
-        }
-    ],
-    "ADIDAS_DICKS_PRLM": [
-        {
-            "Task_Progress": "35%",
-            "Name": "Generic_v199-/ob",
-            "Task_name": "Generic_v199 - /obj/lopnet1/DSG_530_main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "ADIDAS_DICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
+            "Name": "CFI_020_comp_v15",
+            "Task_name": "CFI_020_comp_v15.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "68%",
+            "Tasks": "(11/16)",
+            "Status": "Rendering (2)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_020_comp_v15.nk",
+            "est.": "00:03:23",
+            "Priority": "90"
         }
     ],
     "RICH_TEA_MULTON": [
@@ -38,9 +22,9 @@
             "Task_name": "TST_050_v46 - /out/Splash",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(25/41)",
-            "Status": "Rendering (16)",
+            "Progress": "63%",
+            "Tasks": "(26/41)",
+            "Status": "Rendering (15)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash",
             "est.": "00:00:01",
@@ -66,29 +50,29 @@
             "Task_name": "TST_050_v46 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(31/41)",
-            "Status": "Rendering (10)",
+            "Progress": "78%",
+            "Tasks": "(32/41)",
+            "Status": "Rendering (9)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
             "est.": "00:00:01",
             "Priority": "60"
         }
     ],
-    "CFI_DJV": [
+    "ACTIBIO": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_020_comp_v15",
-            "Task_name": "CFI_020_comp_v15.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "43%",
-            "Tasks": "(7/16)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_020_comp_v15.nk",
-            "est.": "00:05:26",
-            "Priority": "90"
+            "Name": "AKB_040_v12-/out",
+            "Task_name": "AKB_040_v12 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "74%",
+            "Tasks": "(72/97)",
+            "Status": "Rendering (10)",
+            "Project": "ACTIBIO",
+            "Render": "main",
+            "est.": "00:02:56",
+            "Priority": "60"
         }
     ]
 }
