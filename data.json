@@ -1,17 +1,17 @@
 {
     "TUTORS": [
         {
-            "Task_Progress": "100%",
+            "Task_Progress": "0%",
             "Name": "Vellum_Scene_v08",
             "Task_name": "Vellum_Scene_v08 - /out/M_Sheet",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(960/2367)",
-            "Status": "Rendering (17)",
+            "Progress": "44%",
+            "Tasks": "(1047/2367)",
+            "Status": "Rendering (15)",
             "Project": "TUTORS",
             "Render": "M_Sheet",
-            "est.": "01:13:33",
+            "est.": "01:18:36",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Vellum_Scene_v08 - /out/R_Sheet",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(385/2367)",
-            "Status": "Rendering (16)",
+            "Progress": "18%",
+            "Tasks": "(434/2367)",
+            "Status": "Rendering (15)",
             "Project": "TUTORS",
             "Render": "R_Sheet",
-            "est.": "03:39:47",
+            "est.": "03:50:27",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Vellum_Scene_v08 - /out/L_Sheet",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(357/2367)",
-            "Status": "Rendering (15)",
+            "Progress": "16%",
+            "Tasks": "(396/2367)",
+            "Status": "Rendering (13)",
             "Project": "TUTORS",
             "Render": "L_Sheet",
-            "est.": "04:02:25",
+            "est.": "04:37:35",
             "Priority": "60"
         }
     ],
@@ -52,10 +52,10 @@
             "Plugin": "Houdini",
             "Progress": "43%",
             "Tasks": "(62/144)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "09:03:36",
             "Priority": "60"
         },
         {
@@ -64,12 +64,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main9/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(38/73)",
+            "Progress": "53%",
+            "Tasks": "(39/73)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "05:58:14",
+            "est.": "05:45:28",
             "Priority": "60"
         },
         {
@@ -78,12 +78,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main1/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(32/51)",
+            "Progress": "64%",
+            "Tasks": "(33/51)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "03:43:52",
+            "est.": "03:29:11",
             "Priority": "60"
         },
         {
@@ -92,12 +92,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main7/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(62/76)",
+            "Progress": "82%",
+            "Tasks": "(63/76)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "01:26:30",
+            "est.": "01:19:56",
             "Priority": "60"
         },
         {
@@ -120,12 +120,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(29/74)",
+            "Progress": "40%",
+            "Tasks": "(30/74)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "09:47:22",
+            "est.": "09:34:29",
             "Priority": "60"
         },
         {
@@ -204,12 +204,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main10/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(30/71)",
+            "Progress": "43%",
+            "Tasks": "(31/71)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "09:13:40",
+            "est.": "09:00:33",
             "Priority": "60"
         }
     ],
