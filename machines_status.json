@@ -50,12 +50,12 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
