@@ -1,6 +1,6 @@
 [
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
