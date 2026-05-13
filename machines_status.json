@@ -70,7 +70,7 @@
         "user": "Mary Mochalova"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
