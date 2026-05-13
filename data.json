@@ -1,103 +1,17 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v06-/out",
-            "Task_name": "TST_050_v06 - /out/L2",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(2/8)",
-            "Status": "Rendering (2)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "L2",
-            "est.": "00:11:14",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v06-/out",
-            "Task_name": "TST_050_v06 - /out/L6_2",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(1/7)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "L6_2",
-            "est.": "00:26:54",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_comp_v09",
-            "Task_name": "TST_050_comp_v09.nk",
-            "User": "godomin",
-            "Plugin": "Nuke",
-            "Progress": "9%",
-            "Tasks": "(2/21)",
-            "Status": "Rendering (2)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_v09.nk",
-            "est.": "00:15:33",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v06-/out",
-            "Task_name": "TST_050_v06 - /out/L4",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(1/4)",
-            "Status": "Rendering (2)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "L4",
-            "est.": "00:04:29",
-            "Priority": "60"
-        }
-    ],
     "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main2/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(31/47)",
-            "Status": "Rendering (4)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:48:09",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(47/49)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main4/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(18/45)",
+            "Progress": "44%",
+            "Tasks": "(20/45)",
             "Status": "Rendering (4)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "03:56:49",
+            "est.": "03:18:19",
             "Priority": "60"
         },
         {
@@ -113,6 +27,138 @@
             "Render": "IngYang",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main2/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(34/47)",
+            "Status": "Rendering (5)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "00:24:24",
+            "Priority": "60"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v61-/obj",
+            "Task_name": "BTP_160_v61 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "13%",
+            "Tasks": "(13/97)",
+            "Status": "Rendering (12)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "08:57:49",
+            "Priority": "59"
+        },
+        {
+            "Task_Progress": "81%",
+            "Name": "BTP_160_v59-/obj",
+            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(6/97)",
+            "Status": "Rendering (19)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "05:45:34",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v06-/out",
+            "Task_name": "TST_050_v06 - /out/L6_2",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "28%",
+            "Tasks": "(2/7)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "L6_2",
+            "est.": "00:20:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v06-/out",
+            "Task_name": "TST_050_v06 - /out/L2",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(4/8)",
+            "Status": "Rendering (2)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "L2",
+            "est.": "00:03:58",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v06-/out",
+            "Task_name": "TST_050_v06 - /out/L4",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(2/4)",
+            "Status": "Rendering (2)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "L4",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_comp_v09",
+            "Task_name": "TST_050_comp_v09.nk",
+            "User": "godomin",
+            "Plugin": "Nuke",
+            "Progress": "52%",
+            "Tasks": "(11/21)",
+            "Status": "Rendering (3)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_050_comp_v09.nk",
+            "est.": "00:03:16",
+            "Priority": "90"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_070_comp_v16",
+            "Task_name": "CFI_070_comp_v16.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "75%",
+            "Tasks": "(12/16)",
+            "Status": "Rendering (4)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_070_comp_v16.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_090_comp_v19",
+            "Task_name": "CFI_090_comp_v19.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "91%",
+            "Tasks": "(21/23)",
+            "Status": "Rendering (2)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_090_comp_v19.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "SIDE_MISSIONS_BK": [
@@ -128,66 +174,6 @@
             "Project": "SIDE_MISSIONS_BK",
             "Render": "Fish_rop",
             "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_250_comp_v10",
-            "Task_name": "CFI_250_comp_v10.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(8/10)",
-            "Status": "Rendering (2)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_250_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_090_comp_v19",
-            "Task_name": "CFI_090_comp_v19.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "60%",
-            "Tasks": "(14/23)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_090_comp_v19.nk",
-            "est.": "00:05:24",
-            "Priority": "90"
-        }
-    ],
-    "BETPLAY_OF": [
-        {
-            "Task_Progress": "74%",
-            "Name": "BTP_160_v59-/obj",
-            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(6/97)",
-            "Status": "Rendering (19)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "05:45:34",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BTP_160_v61-/obj",
-            "Task_name": "BTP_160_v61 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(13/97)",
-            "Status": "Rendering (12)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "08:57:49",
             "Priority": "60"
         }
     ]
