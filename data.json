@@ -2,16 +2,44 @@
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
+            "Name": "RIC_080_comp_v04",
+            "Task_name": "RIC_080_comp_v04.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "90%",
+            "Tasks": "(9/10)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_080_comp_v04.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main2/usdrender_rop",
+            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(5/47)",
+            "Progress": "94%",
+            "Tasks": "(70/74)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "13:31:28",
+            "est.": "00:38:39",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main5/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "82%",
+            "Tasks": "(46/56)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "01:09:27",
             "Priority": "60"
         },
         {
@@ -20,26 +48,40 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/49)",
+            "Progress": "6%",
+            "Tasks": "(3/49)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "02:57:24",
+            "est.": "02:09:54",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main8/usdrender_rop",
+            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main2/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(69/74)",
+            "Progress": "12%",
+            "Tasks": "(6/47)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "13:10:50",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main3/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(11/47)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:19:22",
+            "est.": "05:53:56",
             "Priority": "60"
         },
         {
@@ -54,48 +96,6 @@
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
             "est.": "10:21:22",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main5/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(46/56)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "02:36:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main11/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(142/144)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main3/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(11/47)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "12:08:42",
             "Priority": "60"
         }
     ],
@@ -113,38 +113,6 @@
             "Render": "main1",
             "est.": "unknown",
             "Priority": "60"
-        }
-    ],
-    "ACTIBIO": [
-        {
-            "Task_Progress": "100%",
-            "Name": "AKB_040_comp_v06",
-            "Task_name": "AKB_040_comp_v06.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "2%",
-            "Tasks": "(1/49)",
-            "Status": "Rendering (24)",
-            "Project": "ACTIBIO",
-            "Render": "AKB_040_comp_v06.nk",
-            "est.": "00:00:22",
-            "Priority": "90"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_220_comp_v15",
-            "Task_name": "CFI_220_comp_v15.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "68%",
-            "Tasks": "(11/16)",
-            "Status": "Rendering (5)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_220_comp_v15.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
