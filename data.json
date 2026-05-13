@@ -76,12 +76,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main9/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(48/73)",
+            "Progress": "67%",
+            "Tasks": "(49/73)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "04:10:24",
+            "est.": "04:02:30",
             "Priority": "60"
         },
         {
@@ -104,12 +104,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(37/74)",
+            "Progress": "51%",
+            "Tasks": "(38/74)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "08:02:32",
+            "est.": "07:49:09",
             "Priority": "60"
         },
         {
@@ -146,12 +146,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main6/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/50)",
+            "Progress": "6%",
+            "Tasks": "(3/50)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "04:22:19",
+            "est.": "04:20:10",
             "Priority": "60"
         }
     ],
@@ -178,12 +178,12 @@
             "Task_name": "Vellum_Scene_v08 - /out/R_Sheet",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(1287/2367)",
-            "Status": "Rendering (23)",
+            "Progress": "57%",
+            "Tasks": "(1357/2367)",
+            "Status": "Rendering (25)",
             "Project": "TUTORS",
             "Render": "R_Sheet",
-            "est.": "01:25:27",
+            "est.": "01:13:13",
             "Priority": "60"
         },
         {
@@ -192,12 +192,12 @@
             "Task_name": "Vellum_Scene_v08 - /out/L_Sheet",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(1237/2367)",
-            "Status": "Rendering (23)",
+            "Progress": "54%",
+            "Tasks": "(1301/2367)",
+            "Status": "Rendering (25)",
             "Project": "TUTORS",
             "Render": "L_Sheet",
-            "est.": "01:31:18",
+            "est.": "01:19:06",
             "Priority": "60"
         }
     ]
