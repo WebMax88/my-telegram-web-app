@@ -75,12 +75,12 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -175,7 +175,7 @@
         "user": "Dzhosha Rahmonov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws155",
         "user": "???????? Vova Syslov"
     },
@@ -210,7 +210,7 @@
         "user": "Andrey Shindin"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws164",
         "user": "WS FOR FREELANCER "
     },
