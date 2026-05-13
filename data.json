@@ -17,29 +17,15 @@
         {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main6/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(48/50)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:06:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main11/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
             "Progress": "86%",
-            "Tasks": "(124/144)",
+            "Tasks": "(125/144)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "02:03:45",
+            "est.": "01:57:08",
             "Priority": "60"
         },
         {
@@ -48,16 +34,30 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main3/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(6/47)",
+            "Progress": "14%",
+            "Tasks": "(7/47)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "13:57:25",
+            "est.": "13:35:49",
             "Priority": "60"
         },
         {
-            "Task_Progress": "38%",
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main10/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "81%",
+            "Tasks": "(58/71)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "02:49:57",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "48%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
@@ -87,15 +87,15 @@
         {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main10/usdrender_rop",
+            "Task_name": "Rich_Tea_Multon_env_shading_v11 - /obj/lopnet1/main6/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(58/71)",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "02:49:57",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -125,22 +125,6 @@
             "Render": "usdrender_rop",
             "est.": "11:49:17",
             "Priority": "60"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TTI_001_comp_v01",
-            "Task_name": "TTI_001_comp_v01.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_001_comp_v01.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ],
     "SIDE_MISSIONS_BK": [
