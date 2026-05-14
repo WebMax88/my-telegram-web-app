@@ -1,34 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v07-/out",
-            "Task_name": "TST_050_v07 - /out/L6_2",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(7/8)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "L6_2",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v07-/out",
-            "Task_name": "TST_050_v07 - /out/L4",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(4/5)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "L4",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -52,11 +22,27 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(43/74)",
-            "Status": "Rendering (31)",
+            "Progress": "78%",
+            "Tasks": "(58/74)",
+            "Status": "Rendering (16)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v07-/out",
+            "Task_name": "TST_050_v07 - /out/L6_2",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(7/8)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "L6_2",
             "est.": "00:00:01",
             "Priority": "60"
         }
