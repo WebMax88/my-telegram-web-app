@@ -3,6 +3,34 @@
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "64%",
+            "Tasks": "(64/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:28:45",
+            "Priority": "61"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "84%",
+            "Tasks": "(84/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:11:26",
+            "Priority": "61"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
             "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
@@ -13,64 +41,38 @@
             "Render": "close_rop",
             "est.": "unknown",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(77/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:17:42",
-            "Priority": "61"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(57/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:34:53",
-            "Priority": "61"
         }
     ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main10/usdrender_rop",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(70/71)",
-            "Status": "Rendering (1)",
+            "Progress": "86%",
+            "Tasks": "(125/144)",
+            "Status": "Rendering (19)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "CFI_DJV": [
         {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(102/144)",
-            "Status": "Rendering (39)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:00:43",
-            "Priority": "60"
+            "Task_Progress": "60%",
+            "Name": "CFI_050_comp_v21",
+            "Task_name": "CFI_050_comp_v21.nk",
+            "User": "sattarov",
+            "Plugin": "Nuke",
+            "Progress": "21%",
+            "Tasks": "(4/19)",
+            "Status": "Rendering (15)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_050_comp_v21.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
@@ -87,22 +89,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "75"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v03-/out",
-            "Task_name": "TST_010_v03 - /out/TT_praline_open",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "TT_praline_open",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
