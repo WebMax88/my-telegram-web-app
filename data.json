@@ -1,4 +1,20 @@
 {
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_090_comp_v20",
+            "Task_name": "CFI_090_comp_v20.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "60%",
+            "Tasks": "(14/23)",
+            "Status": "Rendering (5)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_090_comp_v20.nk",
+            "est.": "00:02:04",
+            "Priority": "90"
+        }
+    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -17,76 +33,16 @@
     ],
     "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "70%",
-            "Name": "TST_030_v03-/out",
-            "Task_name": "TST_030_v03 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(1/6)",
-            "Status": "Rendering (5)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "70"
-        }
-    ],
-    "CFI_DJV": [
-        {
             "Task_Progress": "40%",
-            "Name": "CFI_090_comp_v20",
-            "Task_name": "CFI_090_comp_v20.nk",
-            "User": "alikov",
+            "Name": "TST_030_comp_v13",
+            "Task_name": "TST_030_comp_v13.nk",
+            "User": "sidenina",
             "Plugin": "Nuke",
             "Progress": "0%",
-            "Tasks": "(0/23)",
-            "Status": "Rendering (4)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_090_comp_v20.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_130_comp_v13",
-            "Task_name": "CFI_130_comp_v13.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "45%",
-            "Tasks": "(5/11)",
+            "Tasks": "(0/12)",
             "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_130_comp_v13.nk",
-            "est.": "00:02:41",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_050_comp_v04",
-            "Task_name": "RIC_050_comp_v04.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(8/10)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_050_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "RIC_090_comp_v04",
-            "Task_name": "RIC_090_comp_v04.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/16)",
-            "Status": "Rendering (9)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_090_comp_v04.nk",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_030_comp_v13.nk",
             "est.": "unknown",
             "Priority": "90"
         }
