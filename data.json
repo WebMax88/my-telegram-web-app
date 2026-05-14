@@ -1,21 +1,33 @@
 {
-    "BETPLAY_OF": [
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "BTP_160_v59-/obj",
-            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(96/97)",
-            "Status": "Rendering (1)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "75"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
+            "Progress": "77%",
+            "Tasks": "(77/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:17:21",
+            "Priority": "61"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(96/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:00:52",
+            "Priority": "61"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
@@ -29,34 +41,6 @@
             "Render": "close_rop",
             "est.": "unknown",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(77/100)",
-            "Status": "Queued",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "unknown",
-            "Priority": "61"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(96/100)",
-            "Status": "Queued",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "unknown",
-            "Priority": "61"
         }
     ],
     "RICH_TEA_MULTON": [
@@ -82,13 +66,29 @@
             "Task_name": "CFI_090_comp_v20.nk",
             "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "34%",
-            "Tasks": "(8/23)",
-            "Status": "Rendering (8)",
+            "Progress": "95%",
+            "Tasks": "(22/23)",
+            "Status": "Rendering (1)",
             "Project": "CFI_DJV",
             "Render": "CFI_090_comp_v20.nk",
-            "est.": "00:02:57",
+            "est.": "00:00:01",
             "Priority": "90"
+        }
+    ],
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v59-/obj",
+            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(96/97)",
+            "Status": "Rendering (1)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "75"
         }
     ]
 }
