@@ -1,93 +1,5 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_090_comp_v20",
-            "Task_name": "CFI_090_comp_v20.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "69%",
-            "Tasks": "(16/23)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_090_comp_v20.nk",
-            "est.": "00:03:21",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_130_comp_v13",
-            "Task_name": "CFI_130_comp_v13.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "72%",
-            "Tasks": "(8/11)",
-            "Status": "Rendering (2)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_130_comp_v13.nk",
-            "est.": "00:00:18",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_030_comp_v09",
-            "Task_name": "RIC_030_comp_v09.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "81%",
-            "Tasks": "(9/11)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_030_comp_v09.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v10",
-            "Task_name": "RIC_130_comp_v10.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "72%",
-            "Tasks": "(21/29)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v10.nk",
-            "est.": "00:01:56",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_050_comp_v04",
-            "Task_name": "RIC_050_comp_v04.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "20%",
-            "Tasks": "(2/10)",
-            "Status": "Rendering (8)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_050_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(86/100)",
-            "Status": "Queued",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "unknown",
-            "Priority": "61"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
@@ -101,6 +13,66 @@
             "Render": "close_rop",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "86%",
+            "Tasks": "(86/100)",
+            "Status": "Rendering (5)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:04:41",
+            "Priority": "61"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_090_comp_v20",
+            "Task_name": "CFI_090_comp_v20.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "95%",
+            "Tasks": "(22/23)",
+            "Status": "Rendering (1)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_090_comp_v20.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "80%",
+            "Name": "RIC_090_comp_v04",
+            "Task_name": "RIC_090_comp_v04.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "75%",
+            "Tasks": "(12/16)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_090_comp_v04.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_070_comp_v03",
+            "Task_name": "RIC_070_comp_v03.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "83%",
+            "Tasks": "(10/12)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_070_comp_v03.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
