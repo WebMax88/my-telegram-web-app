@@ -1,5 +1,65 @@
 {
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v59-/obj",
+            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(95/97)",
+            "Status": "Rendering (2)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "75"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_v02-/out",
+            "Task_name": "TST_010_v02 - /out/TT_praline_close",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "100%",
+            "Tasks": "(1/1)",
+            "Status": "Completed",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "TT_praline_close",
+            "est.": "00:00:00",
+            "Priority": "60"
+        }
+    ],
     "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(20/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "01:06:34",
+            "Priority": "61"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "34%",
+            "Tasks": "(34/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:56:14",
+            "Priority": "61"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
@@ -12,50 +72,6 @@
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
             "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(14/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "01:12:21",
-            "Priority": "61"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(28/100)",
-            "Status": "Rendering (2)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "01:33:36",
-            "Priority": "61"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v07-/out",
-            "Task_name": "TST_050_v07 - /out/L6_2",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(7/8)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "L6_2",
-            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -75,20 +91,36 @@
             "Priority": "60"
         }
     ],
-    "BETPLAY_OF": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "BTP_160_v59-/obj",
-            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "TST_050_v07-/out",
+            "Task_name": "TST_050_v07 - /out/L6_2",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(95/97)",
-            "Status": "Rendering (2)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
+            "Progress": "87%",
+            "Tasks": "(7/8)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "L6_2",
             "est.": "00:00:01",
-            "Priority": "75"
+            "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "80%",
+            "Name": "CFI_220_comp_v18",
+            "Task_name": "CFI_220_comp_v18.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "81%",
+            "Tasks": "(13/16)",
+            "Status": "Rendering (3)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_220_comp_v18.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
