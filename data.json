@@ -1,20 +1,4 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_030_comp_v08",
-            "Task_name": "RIC_030_comp_v08.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(17/17)",
-            "Status": "Completed",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_030_comp_v08.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -22,13 +6,29 @@
             "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(85/97)",
-            "Status": "Rendering (12)",
+            "Progress": "88%",
+            "Tasks": "(86/97)",
+            "Status": "Rendering (11)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "10%",
+            "Name": "TST_030_v02-/out",
+            "Task_name": "TST_030_v02 - /out/main",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "16%",
+            "Tasks": "(1/6)",
+            "Status": "Rendering (5)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
