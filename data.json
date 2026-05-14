@@ -1,36 +1,4 @@
 {
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(12/100)",
-            "Status": "Queued",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_090_comp_v20",
-            "Task_name": "CFI_090_comp_v20.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "34%",
-            "Tasks": "(8/23)",
-            "Status": "Rendering (7)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_090_comp_v20.nk",
-            "est.": "00:03:39",
-            "Priority": "90"
-        }
-    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -54,27 +22,55 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(72/74)",
-            "Status": "Rendering (2)",
+            "Progress": "98%",
+            "Tasks": "(73/74)",
+            "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         },
         {
-            "Task_Progress": "53%",
+            "Task_Progress": "100%",
+            "Name": "RIC_120_comp_v07",
+            "Task_name": "RIC_120_comp_v07.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "60%",
+            "Tasks": "(9/15)",
+            "Status": "Rendering (6)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_120_comp_v07.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "87%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(18/49)",
-            "Status": "Rendering (31)",
+            "Progress": "51%",
+            "Tasks": "(25/49)",
+            "Status": "Rendering (24)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "20%",
+            "Name": "RIC_090_comp_v04",
+            "Task_name": "RIC_090_comp_v04.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/16)",
+            "Status": "Rendering (16)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_090_comp_v04.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -91,6 +87,38 @@
             "Render": "L6_2",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "12%",
+            "Tasks": "(12/100)",
+            "Status": "Queued",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_090_comp_v20",
+            "Task_name": "CFI_090_comp_v20.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "65%",
+            "Tasks": "(15/23)",
+            "Status": "Rendering (7)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_090_comp_v20.nk",
+            "est.": "00:00:05",
+            "Priority": "90"
         }
     ]
 }
