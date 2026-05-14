@@ -6,12 +6,12 @@
             "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(24/97)",
-            "Status": "Rendering (25)",
+            "Progress": "26%",
+            "Tasks": "(26/97)",
+            "Status": "Rendering (19)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "02:50:09",
+            "est.": "04:05:17",
             "Priority": "60"
         },
         {
@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "16%",
             "Tasks": "(16/97)",
-            "Status": "Rendering (20)",
+            "Status": "Rendering (24)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "04:34:14",
+            "est.": "03:33:33",
             "Priority": "59"
         }
     ]
