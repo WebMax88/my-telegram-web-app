@@ -1,63 +1,47 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_030_comp_v09",
-            "Task_name": "RIC_030_comp_v09.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(10/11)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_030_comp_v09.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(2/100)",
-            "Status": "Queued",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
             "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(91/100)",
-            "Status": "Rendering (5)",
+            "Progress": "97%",
+            "Tasks": "(97/100)",
+            "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:02:05",
+            "est.": "00:00:01",
             "Priority": "61"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "TST_050_comp_v10",
-            "Task_name": "TST_050_comp_v10.nk",
-            "User": "godomin",
-            "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(16/17)",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/close_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(3/100)",
             "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_v10.nk",
-            "est.": "00:00:01",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "03:05:00",
+            "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_130_comp_v13",
+            "Task_name": "CFI_130_comp_v13.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "18%",
+            "Tasks": "(2/11)",
+            "Status": "Rendering (3)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_130_comp_v13.nk",
+            "est.": "00:06:07",
             "Priority": "90"
         }
     ]
