@@ -1,5 +1,49 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v001-/o",
+            "Task_name": "Box_Ring_v001 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "63%",
+            "Tasks": "(158/250)",
+            "Status": "Rendering (13)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:34:32",
+            "Priority": "60"
+        }
+    ],
     "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "55%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main4/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/45)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main9/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(5/73)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "06:02:30",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "0%",
             "Name": "Rich_Tea_Multon_",
@@ -20,12 +64,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main3/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(3/47)",
+            "Progress": "8%",
+            "Tasks": "(4/47)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "04:04:53",
+            "est.": "03:58:04",
             "Priority": "60"
         },
         {
@@ -48,12 +92,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(3/74)",
+            "Progress": "5%",
+            "Tasks": "(4/74)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "08:43:42",
+            "est.": "08:34:52",
             "Priority": "60"
         },
         {
@@ -76,12 +120,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(8/144)",
+            "Progress": "8%",
+            "Tasks": "(12/144)",
             "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "05:19:03",
+            "est.": "05:09:49",
             "Priority": "60"
         },
         {
@@ -104,16 +148,16 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main10/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(5/71)",
+            "Progress": "8%",
+            "Tasks": "(6/71)",
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "05:03:11",
+            "est.": "04:59:28",
             "Priority": "60"
         },
         {
-            "Task_Progress": "77%",
+            "Task_Progress": "92%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
@@ -139,34 +183,6 @@
             "Render": "usdrender_rop",
             "est.": "10:28:16",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "39%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main4/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/45)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main9/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(4/73)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "06:08:21",
-            "Priority": "60"
         }
     ],
     "SIDE_MISSIONS_BK": [
@@ -176,12 +192,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(51/100)",
-            "Status": "Rendering (2)",
+            "Progress": "55%",
+            "Tasks": "(55/100)",
+            "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
-            "est.": "00:57:03",
+            "est.": "00:33:50",
             "Priority": "60"
         },
         {
@@ -190,12 +206,12 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(74/100)",
+            "Progress": "79%",
+            "Tasks": "(79/100)",
             "Status": "Rendering (2)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:32:05",
+            "est.": "00:25:16",
             "Priority": "60"
         },
         {
@@ -204,12 +220,12 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v001 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(70/100)",
+            "Progress": "74%",
+            "Tasks": "(74/100)",
             "Status": "Rendering (2)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
-            "est.": "00:33:27",
+            "est.": "00:28:39",
             "Priority": "60"
         }
     ],
@@ -236,43 +252,27 @@
             "Task_name": "Vellum_Scene_v08 - /out/R_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(42/201)",
+            "Progress": "22%",
+            "Tasks": "(46/201)",
             "Status": "Rendering (16)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "02:36:30",
+            "est.": "02:34:01",
             "Priority": "60"
         },
         {
-            "Task_Progress": "73%",
+            "Task_Progress": "76%",
             "Name": "Vellum_Scene_v08",
             "Task_name": "Vellum_Scene_v08 - /obj/Construct/Fur_R_rch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "73%",
+            "Progress": "76%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
             "Render": "render",
             "est.": "unknown",
             "Priority": "100"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v001-/o",
-            "Task_name": "Box_Ring_v001 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(142/250)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:38:43",
-            "Priority": "60"
         }
     ]
 }
