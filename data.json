@@ -1,4 +1,20 @@
 {
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "40%",
+            "Name": "TST_030_v02-/out",
+            "Task_name": "TST_030_v02 - /out/main",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "83%",
+            "Tasks": "(5/6)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -13,22 +29,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "10%",
-            "Name": "TST_030_v02-/out",
-            "Task_name": "TST_030_v02 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(1/6)",
-            "Status": "Rendering (5)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
