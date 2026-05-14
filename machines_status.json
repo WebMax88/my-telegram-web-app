@@ -65,7 +65,7 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
