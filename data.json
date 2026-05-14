@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "40%",
             "Tasks": "(39/97)",
-            "Status": "Rendering (25)",
+            "Status": "Rendering (21)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "01:57:13",
+            "est.": "02:36:28",
             "Priority": "60"
         },
         {
@@ -22,11 +22,27 @@
             "Plugin": "Houdini",
             "Progress": "18%",
             "Tasks": "(18/97)",
-            "Status": "Rendering (16)",
+            "Status": "Rendering (12)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "06:06:27",
+            "est.": "08:39:37",
             "Priority": "59"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_060_comp_v06",
+            "Task_name": "RIC_060_comp_v06.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "88%",
+            "Tasks": "(8/9)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_060_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
