@@ -1,31 +1,17 @@
 {
     "RICH_TEA_MULTON": [
         {
-            "Task_Progress": "33.33%",
+            "Task_Progress": "100%",
             "Name": "RIC_030_comp_v08",
             "Task_name": "RIC_030_comp_v08.nk",
             "User": "shindin",
             "Plugin": "Nuke",
-            "Progress": "23%",
-            "Tasks": "(4/17)",
-            "Status": "Rendering (13)",
+            "Progress": "100%",
+            "Tasks": "(17/17)",
+            "Status": "Completed",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_030_comp_v08.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v10",
-            "Task_name": "RIC_130_comp_v10.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "31%",
-            "Tasks": "(9/29)",
-            "Status": "Rendering (8)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v10.nk",
-            "est.": "00:01:18",
+            "est.": "00:00:00",
             "Priority": "90"
         }
     ],
