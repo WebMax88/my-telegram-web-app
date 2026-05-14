@@ -1,20 +1,4 @@
 {
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Toyota_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(19/100)",
-            "Status": "Rendering (6)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:38:04",
-            "Priority": "60"
-        }
-    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
@@ -32,16 +16,32 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main5/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(55/56)",
-            "Status": "Rendering (1)",
+            "Name": "RIC_130_comp_v10",
+            "Task_name": "RIC_130_comp_v10.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "24%",
+            "Tasks": "(7/29)",
+            "Status": "Rendering (7)",
             "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "Render": "RIC_130_comp_v10.nk",
+            "est.": "00:01:55",
+            "Priority": "90"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Toyota_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "31%",
+            "Tasks": "(31/100)",
+            "Status": "Queued",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "unknown",
             "Priority": "60"
         }
     ]
