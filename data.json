@@ -13,20 +13,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v10",
-            "Task_name": "RIC_130_comp_v10.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "24%",
-            "Tasks": "(7/29)",
-            "Status": "Rendering (7)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v10.nk",
-            "est.": "00:01:55",
-            "Priority": "90"
         }
     ],
     "SIDE_MISSIONS_BK": [
@@ -36,12 +22,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(31/100)",
-            "Status": "Queued",
+            "Progress": "36%",
+            "Tasks": "(36/100)",
+            "Status": "Rendering (5)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "unknown",
+            "est.": "00:36:26",
             "Priority": "60"
         }
     ]
