@@ -1,4 +1,20 @@
 {
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_030_comp_v09",
+            "Task_name": "RIC_030_comp_v09.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "90%",
+            "Tasks": "(10/11)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_030_comp_v09.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -20,57 +36,27 @@
             "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(86/100)",
+            "Progress": "91%",
+            "Tasks": "(91/100)",
             "Status": "Rendering (5)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:04:41",
+            "est.": "00:02:05",
             "Priority": "61"
         }
     ],
-    "CFI_DJV": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_090_comp_v20",
-            "Task_name": "CFI_090_comp_v20.nk",
-            "User": "alikov",
+            "Name": "TST_050_comp_v10",
+            "Task_name": "TST_050_comp_v10.nk",
+            "User": "godomin",
             "Plugin": "Nuke",
-            "Progress": "95%",
-            "Tasks": "(22/23)",
+            "Progress": "94%",
+            "Tasks": "(16/17)",
             "Status": "Rendering (1)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_090_comp_v20.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "80%",
-            "Name": "RIC_090_comp_v04",
-            "Task_name": "RIC_090_comp_v04.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "75%",
-            "Tasks": "(12/16)",
-            "Status": "Rendering (4)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_090_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_070_comp_v03",
-            "Task_name": "RIC_070_comp_v03.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "83%",
-            "Tasks": "(10/12)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_070_comp_v03.nk",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_050_comp_v10.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
