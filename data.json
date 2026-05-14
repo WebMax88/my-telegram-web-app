@@ -1,12 +1,12 @@
 {
     "TUTORS": [
         {
-            "Task_Progress": "6%",
+            "Task_Progress": "8%",
             "Name": "Vellum_Scene_v08",
             "Task_name": "Vellum_Scene_v08 - /obj/Construct/Fur_R_rch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "6%",
+            "Progress": "8%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
@@ -33,17 +33,47 @@
     ],
     "RICH_TEA_MULTON": [
         {
+            "Task_Progress": "40%",
+            "Name": "RIC_090_comp_v05",
+            "Task_name": "RIC_090_comp_v05.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "56%",
+            "Tasks": "(9/16)",
+            "Status": "Rendering (7)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_090_comp_v05.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
             "Task_Progress": "100%",
             "Name": "RIC_130_ai_parts",
             "Task_name": "RIC_130_ai_parts_v08.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "24%",
-            "Tasks": "(7/29)",
-            "Status": "Rendering (7)",
+            "Progress": "93%",
+            "Tasks": "(27/29)",
+            "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_130_ai_parts_v08.nk",
-            "est.": "00:02:09",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_250_comp_v11",
+            "Task_name": "CFI_250_comp_v11.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "40%",
+            "Tasks": "(4/10)",
+            "Status": "Rendering (5)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_250_comp_v11.nk",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
