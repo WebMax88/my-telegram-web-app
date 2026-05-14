@@ -1,139 +1,19 @@
 {
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(49/100)",
-            "Status": "Rendering (1)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "02:16:34",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(23/100)",
-            "Status": "Rendering (1)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "03:09:58",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v001 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
-            "Status": "Queued",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v05-/out",
-            "Task_name": "TST_010_v05 - /out/TT_can_melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(47/50)",
-            "Status": "Rendering (3)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "TT_can_melon",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v06-/out",
-            "Task_name": "TST_010_v06 - /out/TT_praline_open",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(40/50)",
-            "Status": "Rendering (10)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "TT_praline_open",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v06-/out",
-            "Task_name": "TST_010_v06 - /out/TT_almond_open",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(43/50)",
-            "Status": "Rendering (7)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "TT_almond_open",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v08",
-            "Task_name": "Vellum_Scene_v08 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(16/201)",
-            "Status": "Rendering (11)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "04:12:57",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "57%",
-            "Name": "Vellum_Scene_v08",
-            "Task_name": "Vellum_Scene_v08 - /obj/Construct/Fur_R_rch/render",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "TUTORS",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_051_comp_v04",
-            "Task_name": "TST_051_comp_v04.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "72%",
-            "Tasks": "(13/18)",
-            "Status": "Rendering (5)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_051_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "0%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main9/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/73)",
+            "Status": "Queued",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
@@ -147,6 +27,166 @@
             "Render": "usdrender_rop",
             "est.": "00:46:43",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main10/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/71)",
+            "Status": "Queued",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "3%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/49)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main8/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/74)",
+            "Status": "Queued",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main7/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/76)",
+            "Status": "Queued",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/close_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(26/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "01:29:21",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "51%",
+            "Tasks": "(51/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "01:04:15",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v001 - /stage/close_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(46/100)",
+            "Status": "Rendering (1)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "02:05:34",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_v06-/out",
+            "Task_name": "TST_010_v06 - /out/TT_praline_open",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "TT_praline_open",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_v05-/out",
+            "Task_name": "TST_010_v05 - /out/TT_can_melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "TT_can_melon",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "TUTORS": [
+        {
+            "Task_Progress": "59%",
+            "Name": "Vellum_Scene_v08",
+            "Task_name": "Vellum_Scene_v08 - /obj/Construct/Fur_R_rch/render",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "59%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "TUTORS",
+            "Render": "render",
+            "est.": "unknown",
+            "Priority": "100"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v08",
+            "Task_name": "Vellum_Scene_v08 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "8%",
+            "Tasks": "(17/201)",
+            "Status": "Rendering (17)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "02:42:07",
+            "Priority": "60"
         }
     ],
     "QIDDIYA_CHARLY": [
@@ -156,12 +196,12 @@
             "Task_name": "Box_Ring_v001 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(61/250)",
-            "Status": "Rendering (11)",
+            "Progress": "28%",
+            "Tasks": "(70/250)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:33:06",
+            "est.": "01:20:53",
             "Priority": "60"
         }
     ]
