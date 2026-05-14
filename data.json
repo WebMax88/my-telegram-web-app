@@ -6,29 +6,29 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(42/100)",
-            "Status": "Rendering (4)",
+            "Progress": "51%",
+            "Tasks": "(51/100)",
+            "Status": "Rendering (6)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:41:29",
+            "est.": "00:21:51",
             "Priority": "60"
         }
     ],
-    "RICH_TEA_MULTON": [
+    "TUTORS": [
         {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main1/usdrender_rop",
-            "User": "goncharov",
+            "Task_Progress": "2%",
+            "Name": "Vellum_Scene_v08",
+            "Task_name": "Vellum_Scene_v08 - /obj/Construct/Fur_R_rch/render",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(51/51)",
-            "Status": "Completed",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:00:00",
-            "Priority": "60"
+            "Progress": "2%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "TUTORS",
+            "Render": "render",
+            "est.": "unknown",
+            "Priority": "100"
         }
     ]
 }
