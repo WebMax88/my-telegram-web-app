@@ -1,4 +1,62 @@
 {
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_030_comp_v09",
+            "Task_name": "RIC_030_comp_v09.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "90%",
+            "Tasks": "(10/11)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_030_comp_v09.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "38%",
+            "Tasks": "(55/144)",
+            "Status": "Rendering (19)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "00:37:55",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_comp_v10",
+            "Task_name": "RIC_130_comp_v10.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "6%",
+            "Tasks": "(2/29)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_comp_v10.nk",
+            "est.": "00:04:05",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main10/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "54%",
+            "Tasks": "(39/71)",
+            "Status": "Rendering (18)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "00:06:11",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -22,40 +80,12 @@
             "Task_name": "TST_010_v03 - /out/TT_almond_open",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(28/50)",
-            "Status": "Rendering (9)",
+            "Progress": "92%",
+            "Tasks": "(46/50)",
+            "Status": "Rendering (4)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "TT_almond_open",
-            "est.": "00:03:28",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v03-/out",
-            "Task_name": "TST_010_v03 - /out/TT_almond_close",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(35/50)",
-            "Status": "Rendering (9)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "TT_almond_close",
-            "est.": "00:01:25",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v03-/out",
-            "Task_name": "TST_010_v03 - /out/TT_praline_close",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(41/50)",
-            "Status": "Rendering (7)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "TT_praline_close",
-            "est.": "00:00:28",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -64,57 +94,13 @@
             "Task_name": "TST_010_v03 - /out/TT_praline_open",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(28/50)",
-            "Status": "Rendering (8)",
+            "Progress": "90%",
+            "Tasks": "(45/50)",
+            "Status": "Rendering (5)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "TT_praline_open",
-            "est.": "00:04:09",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(52/144)",
-            "Status": "Rendering (10)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "01:24:51",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main10/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(36/71)",
-            "Status": "Rendering (9)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:22:29",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_030_comp_v09",
-            "Task_name": "RIC_030_comp_v09.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(10/11)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_030_comp_v09.nk",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "60"
         }
     ],
     "SIDE_MISSIONS_BK": [
@@ -124,12 +110,26 @@
             "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(62/100)",
-            "Status": "Rendering (1)",
+            "Progress": "65%",
+            "Tasks": "(65/100)",
+            "Status": "Queued",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "01:39:09",
+            "est.": "unknown",
+            "Priority": "61"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "47%",
+            "Tasks": "(47/100)",
+            "Status": "Queued",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "unknown",
             "Priority": "61"
         },
         {
@@ -145,35 +145,21 @@
             "Render": "close_rop",
             "est.": "unknown",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(45/100)",
-            "Status": "Rendering (1)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "02:19:10",
-            "Priority": "61"
         }
     ],
-    "SUMMER_CLASSIC_JOZI": [
+    "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "TST_050_comp_v10",
-            "Task_name": "TST_050_comp_v10.nk",
-            "User": "godomin",
+            "Name": "CFI_260_comp_v16",
+            "Task_name": "CFI_260_comp_v16.nk",
+            "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(17/21)",
-            "Status": "Rendering (4)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_v10.nk",
-            "est.": "00:00:01",
+            "Progress": "19%",
+            "Tasks": "(7/36)",
+            "Status": "Rendering (8)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_260_comp_v16.nk",
+            "est.": "00:09:32",
             "Priority": "90"
         }
     ]
