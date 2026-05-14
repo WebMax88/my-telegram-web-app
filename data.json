@@ -1,4 +1,20 @@
 {
+    "BETPLAY_OF": [
+        {
+            "Task_Progress": "40%",
+            "Name": "BTP_160_comp_v48",
+            "Task_name": "BTP_160_comp_v48.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "5%",
+            "Tasks": "(1/20)",
+            "Status": "Rendering (19)",
+            "Project": "BETPLAY_OF",
+            "Render": "BTP_160_comp_v48.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -6,29 +22,13 @@
             "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(10/100)",
-            "Status": "Rendering (4)",
+            "Progress": "14%",
+            "Tasks": "(14/100)",
+            "Status": "Rendering (5)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
-            "est.": "00:45:31",
+            "est.": "00:33:58",
             "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v13",
-            "Task_name": "TST_030_comp_v13.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "91%",
-            "Tasks": "(11/12)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_030_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
