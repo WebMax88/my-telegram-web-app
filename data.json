@@ -1,4 +1,20 @@
 {
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v07-/out",
+            "Task_name": "TST_050_v07 - /out/L6_2",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(7/8)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "L6_2",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
@@ -22,27 +38,11 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main8/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(70/74)",
-            "Status": "Rendering (4)",
+            "Progress": "95%",
+            "Tasks": "(71/74)",
+            "Status": "Rendering (3)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v07-/out",
-            "Task_name": "TST_050_v07 - /out/L6_2",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(7/8)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "L6_2",
             "est.": "00:00:01",
             "Priority": "60"
         }
