@@ -2,31 +2,31 @@
     "BETPLAY_OF": [
         {
             "Task_Progress": "100%",
-            "Name": "BTP_160_v59-/obj",
-            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(19/97)",
-            "Status": "Rendering (40)",
-            "Project": "BETPLAY_OF",
-            "Render": "usdrender_rop",
-            "est.": "01:25:03",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "BTP_160_v61-/obj",
             "Task_name": "BTP_160_v61 - /obj/lopnet1/environment/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "16%",
             "Tasks": "(16/97)",
-            "Status": "Rendering (9)",
+            "Status": "Rendering (10)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
-            "est.": "11:59:19",
+            "est.": "10:38:24",
             "Priority": "59"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BTP_160_v59-/obj",
+            "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "19%",
+            "Tasks": "(19/97)",
+            "Status": "Rendering (39)",
+            "Project": "BETPLAY_OF",
+            "Render": "usdrender_rop",
+            "est.": "01:29:32",
+            "Priority": "60"
         }
     ]
 }
