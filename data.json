@@ -6,13 +6,29 @@
             "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(81/97)",
-            "Status": "Rendering (16)",
+            "Progress": "84%",
+            "Tasks": "(82/97)",
+            "Status": "Rendering (15)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "65"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_comp_v10",
+            "Task_name": "RIC_130_comp_v10.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "93%",
+            "Tasks": "(27/29)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
