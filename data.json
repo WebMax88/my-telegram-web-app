@@ -1,31 +1,61 @@
 {
-    "SIDE_MISSIONS_BK": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(64/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:28:45",
-            "Priority": "61"
+            "Name": "RIC_130_comp_v10",
+            "Task_name": "RIC_130_comp_v10.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "34%",
+            "Tasks": "(10/29)",
+            "Status": "Rendering (8)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_comp_v10.nk",
+            "est.": "00:01:11",
+            "Priority": "90"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(138/144)",
+            "Status": "Rendering (6)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
             "Task_name": "Side_Missions_BK_lookdev_Marine_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(84/100)",
-            "Status": "Rendering (3)",
+            "Progress": "90%",
+            "Tasks": "(90/100)",
+            "Status": "Queued",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:11:26",
+            "est.": "unknown",
+            "Priority": "61"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "71%",
+            "Tasks": "(71/100)",
+            "Status": "Queued",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "unknown",
             "Priority": "61"
         },
         {
@@ -41,38 +71,6 @@
             "Render": "close_rop",
             "est.": "unknown",
             "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(125/144)",
-            "Status": "Rendering (19)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "60%",
-            "Name": "CFI_050_comp_v21",
-            "Task_name": "CFI_050_comp_v21.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "21%",
-            "Tasks": "(4/19)",
-            "Status": "Rendering (15)",
-            "Project": "CFI_DJV",
-            "Render": "CFI_050_comp_v21.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
