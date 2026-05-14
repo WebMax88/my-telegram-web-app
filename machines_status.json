@@ -1,6 +1,6 @@
 [
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -180,7 +180,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
