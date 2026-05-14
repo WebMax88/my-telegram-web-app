@@ -13,20 +13,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_100_comp_v07",
-            "Task_name": "RIC_100_comp_v07.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "46%",
-            "Tasks": "(7/15)",
-            "Status": "Rendering (8)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_100_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "BETPLAY_OF": [
@@ -36,9 +22,9 @@
             "Task_name": "BTP_160_v59 - /obj/lopnet1/environment/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(76/97)",
-            "Status": "Rendering (21)",
+            "Progress": "80%",
+            "Tasks": "(78/97)",
+            "Status": "Rendering (19)",
             "Project": "BETPLAY_OF",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
