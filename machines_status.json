@@ -65,7 +65,7 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -75,12 +75,12 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -160,7 +160,7 @@
         "user": "Vadim Raznov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
@@ -205,7 +205,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
@@ -250,12 +250,12 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
@@ -280,7 +280,7 @@
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
