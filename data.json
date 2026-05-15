@@ -1,12 +1,12 @@
 {
     "TUTORS": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "2%",
             "Name": "Vellum_Scene_v09",
             "Task_name": "Vellum_Scene_v09 - /obj/Construct/Fur_M_rch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "0%",
+            "Progress": "2%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
@@ -15,12 +15,12 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "1%",
+            "Task_Progress": "2%",
             "Name": "Vellum_Scene_v09",
             "Task_name": "Vellum_Scene_v09 - /obj/Construct/Fur_L_rch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "1%",
+            "Progress": "2%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
@@ -36,12 +36,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v001 - /stage/main_rop",
             "User": "kufterin",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(84/100)",
+            "Progress": "88%",
+            "Tasks": "(88/100)",
             "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:09:12",
+            "est.": "00:06:09",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v002 - /stage/main_rop",
             "User": "kufterin",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(55/100)",
+            "Progress": "58%",
+            "Tasks": "(58/100)",
             "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:41:12",
+            "est.": "00:38:26",
             "Priority": "60"
         }
     ]
