@@ -3,6 +3,20 @@
         {
             "Task_Progress": "100%",
             "Name": "TST_050_v50-/out",
+            "Task_name": "TST_050_v50 - /out/Splash_IK",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(38/82)",
+            "Status": "Rendering (27)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash_IK",
+            "est.": "00:07:04",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v50-/out",
             "Task_name": "TST_050_v50 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
@@ -22,25 +36,11 @@
             "Plugin": "Nuke",
             "Progress": "75%",
             "Tasks": "(12/16)",
-            "Status": "Rendering (1)",
+            "Status": "Queued",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_090_comp_v07.nk",
-            "est.": "00:04:30",
+            "est.": "unknown",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v50-/out",
-            "Task_name": "TST_050_v50 - /out/Splash_IK",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(38/82)",
-            "Status": "Rendering (26)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "00:07:46",
-            "Priority": "60"
         }
     ],
     "QIDDIYA_CHARLY": [
@@ -50,12 +50,12 @@
             "Task_name": "Box_Ring_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(216/250)",
+            "Progress": "89%",
+            "Tasks": "(223/250)",
             "Status": "Rendering (18)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:12:33",
+            "est.": "00:07:04",
             "Priority": "60"
         }
     ]
