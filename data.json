@@ -1,32 +1,32 @@
 {
     "TUTORS": [
         {
-            "Task_Progress": "0%",
-            "Name": "Vellum_Scene_v09",
-            "Task_name": "Vellum_Scene_v09 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(140/201)",
-            "Status": "Rendering (22)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "00:08:46",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "30%",
+            "Task_Progress": "32%",
             "Name": "Vellum_Scene_v09",
             "Task_name": "Vellum_Scene_v09 - /obj/Construct/Fur_R_rch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "30%",
+            "Progress": "32%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
             "Render": "render",
             "est.": "unknown",
             "Priority": "100"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Vellum_Scene_v09",
+            "Task_name": "Vellum_Scene_v09 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "75%",
+            "Tasks": "(152/201)",
+            "Status": "Rendering (27)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "00:04:01",
+            "Priority": "60"
         }
     ],
     "RICH_TEA_MULTON": [
@@ -36,9 +36,9 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v13 - /obj/lopnet1/main11/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(119/144)",
-            "Status": "Rendering (25)",
+            "Progress": "89%",
+            "Tasks": "(129/144)",
+            "Status": "Rendering (15)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
