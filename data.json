@@ -1,21 +1,19 @@
 {
-    "MAGNIT_ICE_ROCS": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "BNK_010_v02-/out",
-            "Task_name": "BNK_010_v02 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(48/97)",
-            "Status": "Rendering (43)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "main",
-            "est.": "00:00:18",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
+            "Name": "TST_050_comp_v09",
+            "Task_name": "TST_050_comp_v09.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "66%",
+            "Tasks": "(6/9)",
+            "Status": "Rendering (3)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "TST_050_comp_v09.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "100%",
             "Name": "RIC_090_comp_v06",
@@ -29,6 +27,22 @@
             "Render": "RIC_090_comp_v06.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v02-/out",
+            "Task_name": "BNK_010_v02 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "60%",
+            "Tasks": "(59/97)",
+            "Status": "Rendering (38)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
