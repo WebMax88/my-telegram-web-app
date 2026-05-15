@@ -6,12 +6,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v14 - /obj/lopnet1/main5/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(15/56)",
+            "Progress": "37%",
+            "Tasks": "(21/56)",
             "Status": "Rendering (12)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:25:52",
+            "est.": "00:21:43",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v14 - /obj/lopnet1/main6/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(16/50)",
+            "Progress": "52%",
+            "Tasks": "(26/50)",
             "Status": "Rendering (12)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:14:33",
+            "est.": "00:08:17",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v14 - /obj/lopnet1/main7/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(36/76)",
+            "Progress": "48%",
+            "Tasks": "(37/76)",
             "Status": "Rendering (13)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:15:55",
+            "est.": "00:15:18",
             "Priority": "60"
         },
         {
@@ -62,12 +62,12 @@
             "Task_name": "RIC_130_ai_parts_v11.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "13%",
-            "Tasks": "(4/29)",
-            "Status": "Rendering (6)",
+            "Progress": "96%",
+            "Tasks": "(28/29)",
+            "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_130_ai_parts_v11.nk",
-            "est.": "00:04:09",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
@@ -78,12 +78,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Kiriko_v001 - /stage/main_rop",
             "User": "kufterin",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(75/100)",
-            "Status": "Rendering (2)",
+            "Progress": "77%",
+            "Tasks": "(77/100)",
+            "Status": "Rendering (6)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:32:01",
+            "est.": "00:07:53",
             "Priority": "60"
         }
     ]
