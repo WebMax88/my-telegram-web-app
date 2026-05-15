@@ -6,12 +6,12 @@
             "Task_name": "BNK_010_v02 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(5/97)",
-            "Status": "Rendering (40)",
+            "Progress": "49%",
+            "Tasks": "(48/97)",
+            "Status": "Rendering (43)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
-            "est.": "00:01:24",
+            "est.": "00:00:18",
             "Priority": "60"
         }
     ],
@@ -24,10 +24,10 @@
             "Plugin": "Nuke",
             "Progress": "75%",
             "Tasks": "(12/16)",
-            "Status": "Rendering (4)",
+            "Status": "Queued",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_090_comp_v06.nk",
-            "est.": "00:00:01",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
