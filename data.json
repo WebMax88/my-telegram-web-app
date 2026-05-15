@@ -1,1 +1,34 @@
-{}
+{
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v02-/out",
+            "Task_name": "BNK_010_v02 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "5%",
+            "Tasks": "(5/97)",
+            "Status": "Rendering (40)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:01:24",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_090_comp_v06",
+            "Task_name": "RIC_090_comp_v06.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "75%",
+            "Tasks": "(12/16)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_090_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ]
+}
