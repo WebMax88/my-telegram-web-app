@@ -1,14 +1,28 @@
 {
     "RICH_TEA_MULTON": [
         {
+            "Task_Progress": "0%",
+            "Name": "RIC_050_comp_v05",
+            "Task_name": "RIC_050_comp_v05.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "50%",
+            "Tasks": "(5/10)",
+            "Status": "Rendering (5)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_050_comp_v05.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v14 - /obj/lopnet1/main3/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(41/47)",
-            "Status": "Rendering (6)",
+            "Progress": "89%",
+            "Tasks": "(42/47)",
+            "Status": "Rendering (5)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -16,29 +30,31 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "RIC_030_comp_v10",
-            "Task_name": "RIC_030_comp_v10.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "54%",
-            "Tasks": "(6/11)",
-            "Status": "Rendering (5)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_030_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v14 - /obj/lopnet1/main1/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(45/51)",
-            "Status": "Rendering (6)",
+            "Progress": "94%",
+            "Tasks": "(48/51)",
+            "Status": "Rendering (3)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v01-/out",
+            "Task_name": "BNK_010_v01 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "30%",
+            "Tasks": "(6/20)",
+            "Status": "Rendering (14)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
         }
