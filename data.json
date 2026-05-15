@@ -1,40 +1,12 @@
 {
     "TUTORS": [
         {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v09",
-            "Task_name": "Vellum_Scene_v09 - /obj/Construct/Fur_M_rch/render",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(19/25)",
-            "Status": "Rendering (6)",
-            "Project": "TUTORS",
-            "Render": "render",
-            "est.": "00:00:01",
-            "Priority": "100"
-        },
-        {
-            "Task_Progress": "93%",
-            "Name": "Vellum_Scene_v09",
-            "Task_name": "Vellum_Scene_v09 - /obj/Construct/R_sheet_cch/render",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "TUTORS",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
-        },
-        {
-            "Task_Progress": "79%",
+            "Task_Progress": "91%",
             "Name": "Vellum_Scene_v09",
             "Task_name": "Vellum_Scene_v09 - /obj/Construct/L_sheet_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "79%",
+            "Progress": "91%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
@@ -43,18 +15,18 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "87%",
+            "Task_Progress": "100%",
             "Name": "Vellum_Scene_v09",
-            "Task_name": "Vellum_Scene_v09 - /obj/Construct/M_sheet_cch/render",
+            "Task_name": "Vellum_Scene_v09 - /out/M_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
+            "Progress": "17%",
+            "Tasks": "(44/251)",
+            "Status": "Rendering (49)",
             "Project": "TUTORS",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
+            "Render": "M_Fur",
+            "est.": "00:05:13",
+            "Priority": "60"
         }
     ]
 }
