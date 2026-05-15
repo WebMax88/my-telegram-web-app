@@ -1,4 +1,20 @@
 {
+    "TUTORS": [
+        {
+            "Task_Progress": "39%",
+            "Name": "Vellum_Scene_v09",
+            "Task_name": "Vellum_Scene_v09 - /obj/Construct/Fur_R_rch/render",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "39%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "TUTORS",
+            "Render": "render",
+            "est.": "unknown",
+            "Priority": "100"
+        }
+    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
@@ -13,22 +29,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "37%",
-            "Name": "Vellum_Scene_v09",
-            "Task_name": "Vellum_Scene_v09 - /obj/Construct/Fur_R_rch/render",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "TUTORS",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
         }
     ]
 }
