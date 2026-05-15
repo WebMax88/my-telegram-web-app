@@ -2,16 +2,30 @@
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
+            "Name": "TST_050_v50-/out",
+            "Task_name": "TST_050_v50 - /out/IngYang",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(79/82)",
+            "Status": "Rendering (3)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "IngYang",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "RIC_090_comp_v07",
             "Task_name": "RIC_090_comp_v07.nk",
             "User": "a.ivanov",
             "Plugin": "Nuke",
             "Progress": "75%",
             "Tasks": "(12/16)",
-            "Status": "Rendering (1)",
+            "Status": "Queued",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_090_comp_v07.nk",
-            "est.": "00:04:30",
+            "est.": "unknown",
             "Priority": "90"
         },
         {
@@ -27,20 +41,6 @@
             "Render": "Splash_IK",
             "est.": "00:07:46",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v50-/out",
-            "Task_name": "TST_050_v50 - /out/IngYang",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(79/82)",
-            "Status": "Rendering (3)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "QIDDIYA_CHARLY": [
@@ -50,12 +50,12 @@
             "Task_name": "Box_Ring_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(201/250)",
+            "Progress": "82%",
+            "Tasks": "(207/250)",
             "Status": "Rendering (18)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:24:26",
+            "est.": "00:19:39",
             "Priority": "60"
         }
     ]
