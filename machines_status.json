@@ -45,12 +45,12 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
@@ -175,7 +175,7 @@
         "user": "Dzhosha Rahmonov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws155",
         "user": "???????? Vova Syslov"
     },
@@ -185,7 +185,7 @@
         "user": "Alena Glavatskikh"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws157",
         "user": "Evgeniy Grigorev"
     },
