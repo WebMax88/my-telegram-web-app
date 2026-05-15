@@ -1,12 +1,12 @@
 {
     "TUTORS": [
         {
-            "Task_Progress": "54%",
+            "Task_Progress": "69%",
             "Name": "Vellum_Scene_v09",
             "Task_name": "Vellum_Scene_v09 - /obj/Construct/R_sheet_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "54%",
+            "Progress": "69%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
@@ -15,12 +15,12 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "46%",
+            "Task_Progress": "57%",
             "Name": "Vellum_Scene_v09",
             "Task_name": "Vellum_Scene_v09 - /obj/Construct/L_sheet_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "46%",
+            "Progress": "57%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
@@ -29,12 +29,26 @@
             "Priority": "100"
         },
         {
-            "Task_Progress": "50%",
+            "Task_Progress": "63%",
             "Name": "Vellum_Scene_v09",
             "Task_name": "Vellum_Scene_v09 - /obj/Construct/M_sheet_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "50%",
+            "Progress": "63%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "TUTORS",
+            "Render": "render",
+            "est.": "unknown",
+            "Priority": "100"
+        },
+        {
+            "Task_Progress": "26%",
+            "Name": "Vellum_Scene_v09",
+            "Task_name": "Vellum_Scene_v09 - /obj/Construct/Fur_M_cch/render",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "26%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
