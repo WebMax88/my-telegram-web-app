@@ -3,6 +3,20 @@
         {
             "Task_Progress": "100%",
             "Name": "TST_050_v50-/out",
+            "Task_name": "TST_050_v50 - /out/IngYang",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(27/82)",
+            "Status": "Rendering (13)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "IngYang",
+            "est.": "00:19:18",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v50-/out",
             "Task_name": "TST_050_v50 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
@@ -13,63 +27,21 @@
             "Render": "Splash_IK",
             "est.": "00:02:39",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v50-/out",
-            "Task_name": "TST_050_v50 - /out/IngYang",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(16/82)",
-            "Status": "Rendering (13)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:15:37",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_ai_parts",
-            "Task_name": "RIC_130_ai_parts_v11.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "75%",
-            "Tasks": "(22/29)",
-            "Status": "Rendering (7)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_ai_parts_v11.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "63%",
-            "Name": "LIO_250_v25-/obj",
-            "Task_name": "LIO_250_v25 - /obj/lopnet1/main_R/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "100"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Box_Ring_v002-/o",
             "Task_name": "Box_Ring_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(58/250)",
+            "Progress": "27%",
+            "Tasks": "(68/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "03:21:34",
+            "est.": "03:04:38",
             "Priority": "60"
         }
     ]
