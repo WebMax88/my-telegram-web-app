@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -205,7 +205,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
