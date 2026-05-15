@@ -3,14 +3,14 @@
         {
             "Task_Progress": "100%",
             "Name": "TST_050_v50-/out",
-            "Task_name": "TST_050_v50 - /out/IngYang",
+            "Task_name": "TST_050_v50 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(81/82)",
-            "Status": "Rendering (1)",
+            "Progress": "46%",
+            "Tasks": "(38/82)",
+            "Status": "Rendering (44)",
             "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
+            "Render": "Splash_IK",
             "est.": "00:00:01",
             "Priority": "60"
         },
@@ -27,20 +27,6 @@
             "Render": "RIC_090_comp_v07.nk",
             "est.": "00:04:30",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v50-/out",
-            "Task_name": "TST_050_v50 - /out/Splash_IK",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(38/82)",
-            "Status": "Rendering (44)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
