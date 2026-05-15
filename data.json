@@ -2,15 +2,15 @@
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "RIC_040_comp_v04",
-            "Task_name": "RIC_040_comp_v04.nk",
+            "Name": "RIC_090_comp_v06",
+            "Task_name": "RIC_090_comp_v06.nk",
             "User": "a.ivanov",
             "Plugin": "Nuke",
-            "Progress": "40%",
-            "Tasks": "(4/10)",
-            "Status": "Rendering (6)",
+            "Progress": "75%",
+            "Tasks": "(12/16)",
+            "Status": "Rendering (4)",
             "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_040_comp_v04.nk",
+            "Render": "RIC_090_comp_v06.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
