@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -230,7 +230,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
