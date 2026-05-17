@@ -70,7 +70,7 @@
         "user": "Mary Mochalova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -140,12 +140,12 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -165,7 +165,7 @@
         "user": "Alexander Povstyanoy"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws152",
         "user": "Maria Lukyanova"
     },
@@ -175,12 +175,12 @@
         "user": "Dzhosha Rahmonov"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "ws155",
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
