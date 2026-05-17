@@ -1,20 +1,4 @@
 {
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(1250/2475)",
-            "Status": "Rendering (17)",
-            "Project": "TUTORS",
-            "Render": "L_Fur",
-            "est.": "12:21:16",
-            "Priority": "60"
-        }
-    ],
     "ACTIBIO": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "AKB_120_v20 - /out/2nd_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(20/45)",
-            "Status": "Rendering (16)",
+            "Progress": "64%",
+            "Tasks": "(29/45)",
+            "Status": "Rendering (15)",
             "Project": "ACTIBIO",
             "Render": "2nd_scene",
-            "est.": "00:04:45",
+            "est.": "00:00:33",
             "Priority": "60"
         },
         {
@@ -36,12 +20,28 @@
             "Task_name": "AKB_120_v20 - /out/1st_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(11/53)",
+            "Progress": "32%",
+            "Tasks": "(17/53)",
             "Status": "Rendering (14)",
             "Project": "ACTIBIO",
             "Render": "1st_scene",
-            "est.": "00:24:12",
+            "est.": "00:20:11",
+            "Priority": "60"
+        }
+    ],
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(1257/2475)",
+            "Status": "Rendering (16)",
+            "Project": "TUTORS",
+            "Render": "L_Fur",
+            "est.": "13:07:59",
             "Priority": "60"
         }
     ]
