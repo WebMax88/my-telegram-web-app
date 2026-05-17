@@ -3,30 +3,30 @@
         {
             "Task_Progress": "100%",
             "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /obj/Construct/Fur_L_rch/render",
+            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(16/25)",
-            "Status": "Rendering (9)",
+            "Progress": "8%",
+            "Tasks": "(203/2475)",
+            "Status": "Rendering (42)",
             "Project": "TUTORS",
-            "Render": "render",
-            "est.": "00:00:01",
-            "Priority": "100"
+            "Render": "L_Fur",
+            "est.": "08:47:15",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
+            "Task_name": "Vellum_Scene_v03 - /obj/Construct/Fur_L_rch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(191/2475)",
-            "Status": "Rendering (37)",
+            "Progress": "96%",
+            "Tasks": "(24/25)",
+            "Status": "Rendering (1)",
             "Project": "TUTORS",
-            "Render": "L_Fur",
-            "est.": "09:56:26",
-            "Priority": "60"
+            "Render": "render",
+            "est.": "00:00:01",
+            "Priority": "100"
         }
     ]
 }
