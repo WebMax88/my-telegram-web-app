@@ -1,28 +1,12 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v16 - /obj/lopnet1/main11/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(143/144)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "TUTORS": [
         {
-            "Task_Progress": "77%",
+            "Task_Progress": "5%",
             "Name": "Vellum_Scene_v03",
             "Task_name": "Vellum_Scene_v03 - /obj/Construct/Fur_L_cch/render",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "77%",
+            "Progress": "5%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "TUTORS",
