@@ -1,35 +1,37 @@
 {
-    "ACTIBIO": [
+    "TUTORS": [
         {
             "Task_Progress": "100%",
-            "Name": "AKB_120_v19-/out",
-            "Task_name": "AKB_120_v19 - /out/2nd_scene",
-            "User": "shashkov",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(43/45)",
-            "Status": "Rendering (2)",
-            "Project": "ACTIBIO",
-            "Render": "2nd_scene",
-            "est.": "00:00:01",
+            "Progress": "37%",
+            "Tasks": "(929/2475)",
+            "Status": "Rendering (23)",
+            "Project": "TUTORS",
+            "Render": "L_Fur",
+            "est.": "11:24:04",
             "Priority": "60"
-        },
+        }
+    ],
+    "ACTIBIO": [
         {
             "Task_Progress": "0%",
             "Name": "AKB_120_v19-/out",
             "Task_name": "AKB_120_v19 - /out/1st_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(17/53)",
-            "Status": "Rendering (22)",
+            "Progress": "49%",
+            "Tasks": "(26/53)",
+            "Status": "Rendering (23)",
             "Project": "ACTIBIO",
             "Render": "1st_scene",
-            "est.": "00:09:08",
+            "est.": "00:02:25",
             "Priority": "60"
         },
         {
-            "Task_Progress": "70%",
+            "Task_Progress": "90%",
             "Name": "AKB_120_v19-/out",
             "Task_name": "AKB_120_v19 - /out/back",
             "User": "shashkov",
@@ -40,22 +42,6 @@
             "Project": "ACTIBIO",
             "Render": "back",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(920/2475)",
-            "Status": "Rendering (21)",
-            "Project": "TUTORS",
-            "Render": "L_Fur",
-            "est.": "12:30:48",
             "Priority": "60"
         }
     ]
