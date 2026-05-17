@@ -1,20 +1,4 @@
 {
-    "ACTIBIO": [
-        {
-            "Task_Progress": "0%",
-            "Name": "AKB_120_v19-/out",
-            "Task_name": "AKB_120_v19 - /out/1st_scene",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(51/53)",
-            "Status": "Rendering (2)",
-            "Project": "ACTIBIO",
-            "Render": "1st_scene",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "TUTORS": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,28 @@
             "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(980/2475)",
-            "Status": "Rendering (44)",
+            "Progress": "40%",
+            "Tasks": "(994/2475)",
+            "Status": "Rendering (45)",
             "Project": "TUTORS",
             "Render": "L_Fur",
-            "est.": "05:41:23",
+            "est.": "05:29:56",
+            "Priority": "60"
+        }
+    ],
+    "ACTIBIO": [
+        {
+            "Task_Progress": "0%",
+            "Name": "AKB_120_v19-/out",
+            "Task_name": "AKB_120_v19 - /out/1st_scene",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(52/53)",
+            "Status": "Rendering (1)",
+            "Project": "ACTIBIO",
+            "Render": "1st_scene",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
