@@ -1,4 +1,20 @@
 {
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(1117/2475)",
+            "Status": "Rendering (44)",
+            "Project": "TUTORS",
+            "Render": "L_Fur",
+            "est.": "05:07:16",
+            "Priority": "60"
+        }
+    ],
     "ACTIBIO": [
         {
             "Task_Progress": "0%",
@@ -12,22 +28,6 @@
             "Project": "ACTIBIO",
             "Render": "1st_scene",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(1105/2475)",
-            "Status": "Rendering (45)",
-            "Project": "TUTORS",
-            "Render": "L_Fur",
-            "est.": "05:02:42",
             "Priority": "60"
         }
     ]
