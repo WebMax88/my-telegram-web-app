@@ -1,18 +1,18 @@
 {
     "TUTORS": [
         {
-            "Task_Progress": "55%",
+            "Task_Progress": "0%",
             "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /obj/Construct/Fur_L_cch/render",
+            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
+            "Progress": "0%",
+            "Tasks": "(0/2475)",
+            "Status": "Rendering (31)",
             "Project": "TUTORS",
-            "Render": "render",
+            "Render": "L_Fur",
             "est.": "unknown",
-            "Priority": "100"
+            "Priority": "60"
         }
     ]
 }
