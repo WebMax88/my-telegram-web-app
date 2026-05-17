@@ -6,12 +6,12 @@
             "Task_name": "AKB_120_v19 - /out/2nd_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(18/45)",
-            "Status": "Rendering (14)",
+            "Progress": "53%",
+            "Tasks": "(24/45)",
+            "Status": "Rendering (13)",
             "Project": "ACTIBIO",
             "Render": "2nd_scene",
-            "est.": "00:07:19",
+            "est.": "00:04:08",
             "Priority": "60"
         },
         {
@@ -20,16 +20,16 @@
             "Task_name": "AKB_120_v19 - /out/1st_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(5/53)",
-            "Status": "Rendering (14)",
+            "Progress": "16%",
+            "Tasks": "(9/53)",
+            "Status": "Rendering (13)",
             "Project": "ACTIBIO",
             "Render": "1st_scene",
-            "est.": "00:33:04",
+            "est.": "00:33:57",
             "Priority": "60"
         },
         {
-            "Task_Progress": "30%",
+            "Task_Progress": "40%",
             "Name": "AKB_120_v19-/out",
             "Task_name": "AKB_120_v19 - /out/back",
             "User": "shashkov",
@@ -51,11 +51,11 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "36%",
-            "Tasks": "(905/2475)",
+            "Tasks": "(909/2475)",
             "Status": "Rendering (17)",
             "Project": "TUTORS",
             "Render": "L_Fur",
-            "est.": "15:26:59",
+            "est.": "15:26:45",
             "Priority": "60"
         }
     ]
