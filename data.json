@@ -1,4 +1,20 @@
 {
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_ai_parts",
+            "Task_name": "RIC_130_ai_parts_v12.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(28/29)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_ai_parts_v12.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "TUTORS": [
         {
             "Task_Progress": "100%",
@@ -7,28 +23,12 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "10%",
-            "Tasks": "(263/2475)",
+            "Tasks": "(265/2475)",
             "Status": "Rendering (41)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "08:15:02",
+            "est.": "08:13:36",
             "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "40%",
-            "Name": "RIC_130_ai_parts",
-            "Task_name": "RIC_130_ai_parts_v12.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "51%",
-            "Tasks": "(15/29)",
-            "Status": "Rendering (8)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_ai_parts_v12.nk",
-            "est.": "00:00:47",
-            "Priority": "90"
         }
     ]
 }
