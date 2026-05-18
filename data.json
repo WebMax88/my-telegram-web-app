@@ -1,20 +1,4 @@
 {
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(1423/2475)",
-            "Status": "Rendering (28)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "06:52:13",
-            "Priority": "65"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(193/250)",
-            "Status": "Rendering (15)",
+            "Progress": "78%",
+            "Tasks": "(196/250)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:33:00",
+            "est.": "01:44:37",
             "Priority": "60"
         },
         {
@@ -36,13 +20,29 @@
             "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(62/250)",
-            "Status": "Rendering (21)",
+            "Progress": "25%",
+            "Tasks": "(64/250)",
+            "Status": "Rendering (20)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "08:11:07",
+            "est.": "08:35:28",
             "Priority": "60"
+        }
+    ],
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(1437/2475)",
+            "Status": "Rendering (32)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "05:53:52",
+            "Priority": "65"
         }
     ]
 }
