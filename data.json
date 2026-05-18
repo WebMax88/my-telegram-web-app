@@ -1,82 +1,4 @@
 {
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(861/2475)",
-            "Status": "Rendering (15)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "17:39:28",
-            "Priority": "59"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(46/250)",
-            "Status": "Rendering (9)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "12:02:29",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(74/125)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:27:36",
-            "Priority": "60"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TT_station_v03-/",
-            "Task_name": "TT_station_v03 - /out/main",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(68/100)",
-            "Status": "Rendering (10)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "main",
-            "est.": "00:01:27",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v002 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(50/100)",
-            "Status": "Rendering (7)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:16:10",
-            "Priority": "60"
-        }
-    ],
     "CONCELLULAR_MOWER_PRLM": [
         {
             "Task_Progress": "100%",
@@ -84,9 +6,9 @@
             "Task_name": "BCH_030_comp_v02.nk",
             "User": "sattarov",
             "Plugin": "Nuke",
-            "Progress": "92%",
-            "Tasks": "(26/28)",
-            "Status": "Rendering (2)",
+            "Progress": "96%",
+            "Tasks": "(27/28)",
+            "Status": "Rendering (1)",
             "Project": "CONCELLULAR_MOWER_PRLM",
             "Render": "BCH_030_comp_v02.nk",
             "est.": "00:00:01",
@@ -107,6 +29,82 @@
             "Render": "IngYang",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v51-/out",
+            "Task_name": "TST_050_v51 - /out/Splash_IK",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(80/82)",
+            "Status": "Queued",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash_IK",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v002 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "64%",
+            "Tasks": "(64/100)",
+            "Status": "Rendering (7)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:10:49",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "19%",
+            "Tasks": "(49/250)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "08:47:24",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "61%",
+            "Tasks": "(77/125)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:04:36",
+            "Priority": "60"
+        }
+    ],
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "34%",
+            "Tasks": "(863/2475)",
+            "Status": "Rendering (19)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "13:54:16",
+            "Priority": "59"
         }
     ]
 }
