@@ -1,5 +1,35 @@
 {
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "54%",
+            "Tasks": "(1360/2475)",
+            "Status": "Rendering (22)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "09:17:18",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "67%",
+            "Tasks": "(168/250)",
+            "Status": "Rendering (19)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:50:44",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Concert_v002-/ob",
@@ -12,36 +42,6 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "07:42:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(167/250)",
-            "Status": "Rendering (19)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:52:38",
-            "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(1357/2475)",
-            "Status": "Rendering (22)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "09:18:27",
             "Priority": "60"
         }
     ]
