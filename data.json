@@ -3,44 +3,60 @@
         {
             "Task_Progress": "100%",
             "Name": "AKB_120_v21-/out",
-            "Task_name": "AKB_120_v21 - /out/2nd_scene",
+            "Task_name": "AKB_120_v21 - /out/1st_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(28/49)",
+            "Progress": "37%",
+            "Tasks": "(18/48)",
             "Status": "Rendering (13)",
             "Project": "ACTIBIO",
-            "Render": "2nd_scene",
-            "est.": "00:05:40",
+            "Render": "1st_scene",
+            "est.": "00:17:34",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "AKB_120_v21-/out",
-            "Task_name": "AKB_120_v21 - /out/1st_scene",
+            "Task_name": "AKB_120_v21 - /out/2nd_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(15/48)",
-            "Status": "Rendering (15)",
+            "Progress": "63%",
+            "Tasks": "(31/49)",
+            "Status": "Rendering (13)",
             "Project": "ACTIBIO",
-            "Render": "1st_scene",
-            "est.": "00:16:13",
+            "Render": "2nd_scene",
+            "est.": "00:03:30",
             "Priority": "60"
         }
     ],
     "TUTORS": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "13%",
             "Name": "Vellum_Scene_v03",
             "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/2475)",
-            "Status": "Rendering (21)",
+            "Status": "Rendering (20)",
             "Project": "TUTORS",
             "Render": "L_Fur",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "0%",
+            "Name": "BNK_010_v05-/out",
+            "Task_name": "BNK_010_v05 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/97)",
+            "Status": "Rendering (4)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
             "est.": "unknown",
             "Priority": "60"
         }
