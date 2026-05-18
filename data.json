@@ -1,50 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(33/250)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "09:34:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(57/125)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:25:39",
-            "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(805/2475)",
-            "Status": "Rendering (17)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "16:01:57",
-            "Priority": "59"
-        }
-    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
@@ -59,19 +13,51 @@
             "Render": "IngYang",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(816/2475)",
+            "Status": "Rendering (19)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "14:15:09",
+            "Priority": "59"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "14%",
+            "Tasks": "(36/250)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "09:19:02",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "TST_050_v51-/out",
-            "Task_name": "TST_050_v51 - /out/Splash_IK",
-            "User": "hozhaev",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(80/82)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "00:00:01",
+            "Progress": "48%",
+            "Tasks": "(61/125)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:29:24",
             "Priority": "60"
         }
     ]
