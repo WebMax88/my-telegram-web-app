@@ -1,14 +1,14 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "40%",
+            "Task_Progress": "63%",
             "Name": "Concert_v002-/ob",
             "Task_name": "Concert_v002 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(123/125)",
-            "Status": "Rendering (2)",
+            "Progress": "99%",
+            "Tasks": "(124/125)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -34,12 +34,12 @@
             "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(44/250)",
-            "Status": "Rendering (20)",
+            "Progress": "18%",
+            "Tasks": "(47/250)",
+            "Status": "Rendering (21)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "08:38:59",
+            "est.": "08:02:41",
             "Priority": "60"
         }
     ],
@@ -51,11 +51,11 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "52%",
-            "Tasks": "(1294/2475)",
-            "Status": "Rendering (23)",
+            "Tasks": "(1296/2475)",
+            "Status": "Rendering (22)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "09:24:06",
+            "est.": "09:48:54",
             "Priority": "60"
         }
     ]
