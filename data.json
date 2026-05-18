@@ -6,13 +6,27 @@
             "Task_name": "TST_050_v51 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(66/82)",
+            "Progress": "85%",
+            "Tasks": "(70/82)",
             "Status": "Rendering (12)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:06:13",
+            "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_096_comp_v04",
+            "Task_name": "RIC_096_comp_v04.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(29/29)",
+            "Status": "Completed",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_096_comp_v04.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -36,12 +50,12 @@
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(27/125)",
-            "Status": "Rendering (11)",
+            "Progress": "24%",
+            "Tasks": "(30/125)",
+            "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:28:28",
+            "est.": "02:44:57",
             "Priority": "60"
         },
         {
@@ -51,11 +65,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "5%",
-            "Tasks": "(13/250)",
+            "Tasks": "(14/250)",
             "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "12:16:25",
+            "est.": "12:14:03",
             "Priority": "60"
         }
     ],
@@ -68,10 +82,10 @@
             "Plugin": "Houdini",
             "Progress": "99%",
             "Tasks": "(99/100)",
-            "Status": "Rendering (1)",
+            "Status": "Queued",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "main",
-            "est.": "00:00:01",
+            "est.": "unknown",
             "Priority": "60"
         }
     ],
@@ -82,12 +96,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v002 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(45/100)",
+            "Progress": "58%",
+            "Tasks": "(58/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:21:18",
+            "est.": "00:15:25",
             "Priority": "60"
         }
     ],
@@ -99,11 +113,11 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "31%",
-            "Tasks": "(775/2475)",
+            "Tasks": "(780/2475)",
             "Status": "Rendering (9)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "06:56:42",
+            "est.": "06:50:50",
             "Priority": "59"
         }
     ]
