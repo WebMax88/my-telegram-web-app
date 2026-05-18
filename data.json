@@ -2,34 +2,6 @@
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "RIC_050_comp_v07",
-            "Task_name": "RIC_050_comp_v07.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "91%",
-            "Tasks": "(22/24)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_050_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v51-/out",
-            "Task_name": "TST_050_v51 - /out/Splash_IK",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(51/82)",
-            "Status": "Rendering (12)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "00:16:22",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "TST_050_v51-/out",
             "Task_name": "TST_050_v51 - /out/IngYang",
             "User": "hozhaev",
@@ -41,27 +13,25 @@
             "Render": "IngYang",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v01-/out/Sho",
-            "Task_name": "NRG_v01 - /out/Shot_01",
+            "Name": "TST_050_v51-/out",
+            "Task_name": "TST_050_v51 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(12/21)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "Shot_01",
-            "est.": "00:00:58",
+            "Progress": "64%",
+            "Tasks": "(53/82)",
+            "Status": "Rendering (14)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash_IK",
+            "est.": "00:11:50",
             "Priority": "60"
         }
     ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "24%",
+            "Task_Progress": "63%",
             "Name": "Box_Ring_v003-/o",
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
@@ -75,7 +45,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "14%",
+            "Task_Progress": "35%",
             "Name": "Box_Ring_v003-/o",
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
@@ -97,11 +67,11 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "30%",
-            "Tasks": "(753/2475)",
-            "Status": "Rendering (1)",
+            "Tasks": "(754/2475)",
+            "Status": "Rendering (3)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "19:17:48",
+            "est.": "22:19:36",
             "Priority": "59"
         }
     ]
