@@ -1,20 +1,4 @@
 {
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(1050/2475)",
-            "Status": "Rendering (19)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "12:55:41",
-            "Priority": "59"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -22,12 +6,12 @@
             "Task_name": "Concert_v002 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(33/125)",
+            "Progress": "28%",
+            "Tasks": "(35/125)",
             "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:36:31",
+            "est.": "02:30:25",
             "Priority": "60"
         },
         {
@@ -36,12 +20,12 @@
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(82/250)",
+            "Progress": "33%",
+            "Tasks": "(83/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "09:28:13",
+            "est.": "09:23:46",
             "Priority": "60"
         },
         {
@@ -59,20 +43,20 @@
             "Priority": "60"
         }
     ],
-    "WBW_KRYPTO_DEJAVU": [
+    "TUTORS": [
         {
-            "Task_Progress": "81%",
-            "Name": "NRG_v03-/obj/Con",
-            "Task_name": "NRG_v03 - /obj/Construct_02/Smoke_shot_02_cch/render",
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "100"
+            "Progress": "42%",
+            "Tasks": "(1054/2475)",
+            "Status": "Rendering (19)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "12:52:55",
+            "Priority": "59"
         }
     ]
 }
