@@ -1,4 +1,20 @@
 {
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(18/2475)",
+            "Status": "Rendering (6)",
+            "Project": "TUTORS",
+            "Render": "L_Fur",
+            "est.": "18:36:48",
+            "Priority": "60"
+        }
+    ],
     "ACTIBIO": [
         {
             "Task_Progress": "100%",
@@ -6,9 +22,9 @@
             "Task_name": "AKB_120_v21 - /out/1st_scene",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(35/48)",
-            "Status": "Rendering (13)",
+            "Progress": "85%",
+            "Tasks": "(41/48)",
+            "Status": "Rendering (7)",
             "Project": "ACTIBIO",
             "Render": "1st_scene",
             "est.": "00:00:01",
@@ -22,28 +38,12 @@
             "Task_name": "BNK_010_v05 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(95/97)",
-            "Status": "Rendering (2)",
+            "Progress": "98%",
+            "Tasks": "(96/97)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/L_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(16/2475)",
-            "Status": "Rendering (8)",
-            "Project": "TUTORS",
-            "Render": "L_Fur",
-            "est.": "18:24:42",
             "Priority": "60"
         }
     ]
