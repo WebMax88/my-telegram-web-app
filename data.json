@@ -1,4 +1,20 @@
 {
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "43%",
+            "Tasks": "(1073/2475)",
+            "Status": "Rendering (18)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "13:49:40",
+            "Priority": "59"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -7,25 +23,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "6%",
-            "Tasks": "(16/250)",
+            "Tasks": "(17/250)",
             "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "14:30:03",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Concert_v002-/ob",
-            "Task_name": "Concert_v002 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(37/125)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:29:05",
+            "est.": "14:23:13",
             "Priority": "60"
         },
         {
@@ -34,29 +36,43 @@
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(85/250)",
-            "Status": "Rendering (14)",
+            "Progress": "35%",
+            "Tasks": "(88/250)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:46:15",
+            "est.": "06:08:20",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Concert_v002-/ob",
+            "Task_name": "Concert_v002 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(40/125)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:46:29",
             "Priority": "60"
         }
     ],
-    "TUTORS": [
+    "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "Task_Progress": "3%",
+            "Name": "NRG_v03-/obj/Con",
+            "Task_name": "NRG_v03 - /obj/Construct_02/lopnet1/main/usdrender_rop",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(1063/2475)",
-            "Status": "Rendering (19)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "12:49:06",
-            "Priority": "59"
+            "Progress": "2%",
+            "Tasks": "(1/41)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:10:08",
+            "Priority": "60"
         }
     ]
 }
