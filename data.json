@@ -1,17 +1,17 @@
 {
     "RICH_TEA_MULTON": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "100%",
             "Name": "TST_050_v51-/out",
             "Task_name": "TST_050_v51 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(2/82)",
-            "Status": "Rendering (5)",
+            "Progress": "31%",
+            "Tasks": "(26/82)",
+            "Status": "Rendering (13)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:17:30",
+            "est.": "00:03:17",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "TST_050_v51 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(1/82)",
-            "Status": "Rendering (6)",
+            "Progress": "8%",
+            "Tasks": "(7/82)",
+            "Status": "Rendering (15)",
             "Project": "RICH_TEA_MULTON",
             "Render": "IngYang",
-            "est.": "00:13:57",
+            "est.": "00:05:24",
             "Priority": "60"
         }
     ],
@@ -37,11 +37,11 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "29%",
-            "Tasks": "(729/2475)",
-            "Status": "Rendering (25)",
+            "Tasks": "(742/2475)",
+            "Status": "Rendering (12)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "11:14:00",
+            "est.": "23:18:17",
             "Priority": "59"
         }
     ],
@@ -52,9 +52,9 @@
             "Task_name": "BNK_010_v07 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(90/97)",
-            "Status": "Rendering (7)",
+            "Progress": "98%",
+            "Tasks": "(96/97)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
             "est.": "00:00:01",
