@@ -6,13 +6,29 @@
             "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(209/2475)",
+            "Progress": "9%",
+            "Tasks": "(232/2475)",
             "Status": "Rendering (40)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "08:26:00",
+            "est.": "08:36:19",
             "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_120_comp_v08",
+            "Task_name": "RIC_120_comp_v08.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(15/15)",
+            "Status": "Completed",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_120_comp_v08.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
         }
     ]
 }
