@@ -1,18 +1,18 @@
 {
-    "MAGNIT_ICE_ROCS": [
+    "RICH_TEA_MULTON": [
         {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v07-/out",
-            "Task_name": "BNK_010_v07 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(51/97)",
-            "Status": "Rendering (29)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "main",
-            "est.": "00:01:14",
-            "Priority": "60"
+            "Task_Progress": "80%",
+            "Name": "RIC_090_comp_v07",
+            "Task_name": "RIC_090_comp_v07.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "75%",
+            "Tasks": "(12/16)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_090_comp_v07.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "TUTORS": [
@@ -23,12 +23,28 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "29%",
-            "Tasks": "(720/2475)",
+            "Tasks": "(726/2475)",
             "Status": "Rendering (12)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "23:31:26",
+            "est.": "23:31:41",
             "Priority": "59"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v07-/out",
+            "Task_name": "BNK_010_v07 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(70/97)",
+            "Status": "Rendering (27)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
