@@ -1,21 +1,19 @@
 {
-    "TUTORS": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(1103/2475)",
-            "Status": "Rendering (19)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "12:50:10",
+            "Progress": "37%",
+            "Tasks": "(94/250)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "05:26:05",
             "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "Concert_v002-/ob",
@@ -36,26 +34,28 @@
             "Task_name": "Concert_v002 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(52/125)",
+            "Progress": "42%",
+            "Tasks": "(53/125)",
             "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:16:01",
+            "est.": "01:14:11",
             "Priority": "60"
-        },
+        }
+    ],
+    "TUTORS": [
         {
             "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(92/250)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "05:29:57",
+            "Progress": "44%",
+            "Tasks": "(1108/2475)",
+            "Status": "Rendering (19)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "12:47:01",
             "Priority": "60"
         }
     ]
