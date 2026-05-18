@@ -1,81 +1,5 @@
 {
-    "CONCELLULAR_MOWER_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BCH_030_comp_v02",
-            "Task_name": "BCH_030_comp_v02.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(27/28)",
-            "Status": "Rendering (1)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "BCH_030_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v51-/out",
-            "Task_name": "TST_050_v51 - /out/IngYang",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(81/82)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v51-/out",
-            "Task_name": "TST_050_v51 - /out/Splash_IK",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(80/82)",
-            "Status": "Queued",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v002 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(64/100)",
-            "Status": "Rendering (7)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:10:49",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(49/250)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "08:47:24",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Box_Ring_v003-/o",
@@ -89,6 +13,20 @@
             "Render": "usdrender_rop",
             "est.": "01:04:36",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(50/250)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "09:36:13",
+            "Priority": "60"
         }
     ],
     "TUTORS": [
@@ -98,13 +36,75 @@
             "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(863/2475)",
-            "Status": "Rendering (19)",
+            "Progress": "35%",
+            "Tasks": "(869/2475)",
+            "Status": "Rendering (18)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "13:54:16",
+            "est.": "14:38:42",
             "Priority": "59"
+        }
+    ],
+    "CONCELLULAR_MOWER_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "BCH_030_comp_v02",
+            "Task_name": "BCH_030_comp_v02.nk",
+            "User": "sattarov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "CONCELLULAR_MOWER_PRLM",
+            "Render": "BCH_030_comp_v02.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v002 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(72/100)",
+            "Status": "Rendering (7)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:07:47",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v51-/out",
+            "Task_name": "TST_050_v51 - /out/Splash_IK",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(80/82)",
+            "Status": "Rendering (2)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash_IK",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v51-/out",
+            "Task_name": "TST_050_v51 - /out/IngYang",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(81/82)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "IngYang",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
