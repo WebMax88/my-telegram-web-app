@@ -36,12 +36,12 @@
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(17/125)",
+            "Progress": "16%",
+            "Tasks": "(20/125)",
             "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:45:05",
+            "est.": "02:30:32",
             "Priority": "60"
         },
         {
@@ -82,12 +82,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v002 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(14/100)",
+            "Progress": "22%",
+            "Tasks": "(22/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:36:06",
+            "est.": "00:31:47",
             "Priority": "60"
         }
     ],
