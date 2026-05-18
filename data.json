@@ -1,4 +1,34 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_comp_v02",
+            "Task_name": "BNK_010_comp_v02.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(20/20)",
+            "Status": "Completed",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_010_comp_v02.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v06-/out",
+            "Task_name": "BNK_010_v06 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "31%",
+            "Tasks": "(31/97)",
+            "Status": "Rendering (20)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:02:19",
+            "Priority": "60"
+        }
+    ],
     "TUTORS": [
         {
             "Task_Progress": "100%",
@@ -6,29 +36,13 @@
             "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(478/2475)",
-            "Status": "Rendering (39)",
+            "Progress": "20%",
+            "Tasks": "(495/2475)",
+            "Status": "Rendering (22)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "07:51:55",
+            "est.": "13:58:54",
             "Priority": "59"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "0%",
-            "Name": "BNK_010_v06-/out",
-            "Task_name": "BNK_010_v06 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/97)",
-            "Status": "Rendering (3)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "main",
-            "est.": "unknown",
-            "Priority": "60"
         }
     ]
 }
