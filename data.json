@@ -1,18 +1,32 @@
 {
     "RICH_TEA_MULTON": [
         {
-            "Task_Progress": "80%",
-            "Name": "RIC_090_comp_v07",
-            "Task_name": "RIC_090_comp_v07.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "75%",
-            "Tasks": "(12/16)",
-            "Status": "Rendering (4)",
+            "Task_Progress": "0%",
+            "Name": "TST_050_v51-/out",
+            "Task_name": "TST_050_v51 - /out/Splash_IK",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(2/82)",
+            "Status": "Rendering (5)",
             "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_090_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Render": "Splash_IK",
+            "est.": "00:17:30",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v51-/out",
+            "Task_name": "TST_050_v51 - /out/IngYang",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "1%",
+            "Tasks": "(1/82)",
+            "Status": "Rendering (6)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "IngYang",
+            "est.": "00:13:57",
+            "Priority": "60"
         }
     ],
     "TUTORS": [
@@ -23,11 +37,11 @@
             "User": "hozhaev",
             "Plugin": "Houdini",
             "Progress": "29%",
-            "Tasks": "(726/2475)",
-            "Status": "Rendering (12)",
+            "Tasks": "(729/2475)",
+            "Status": "Rendering (25)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "23:31:41",
+            "est.": "11:14:00",
             "Priority": "59"
         }
     ],
@@ -38,9 +52,9 @@
             "Task_name": "BNK_010_v07 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(70/97)",
-            "Status": "Rendering (27)",
+            "Progress": "92%",
+            "Tasks": "(90/97)",
+            "Status": "Rendering (7)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
             "est.": "00:00:01",
