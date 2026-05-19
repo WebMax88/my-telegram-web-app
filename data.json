@@ -1,7 +1,7 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "1%",
             "Name": "Comedy_Stage_v02",
             "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
@@ -15,25 +15,9 @@
             "Priority": "60"
         }
     ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_020_v02-/out",
-            "Task_name": "BNK_020_v02 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(57/79)",
-            "Status": "Rendering (16)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "main",
-            "est.": "00:02:18",
-            "Priority": "60"
-        }
-    ],
     "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "42.64%",
+            "Task_Progress": "52.53%",
             "Name": "TST015_51326_03",
             "Task_name": "TST015_51326_03",
             "User": "hozhaev",
@@ -43,6 +27,22 @@
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
             "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v02-/out",
+            "Task_name": "BNK_020_v02 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "79%",
+            "Tasks": "(63/79)",
+            "Status": "Rendering (16)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
