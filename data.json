@@ -1,48 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v003-/ob",
-            "Task_name": "Concert_v003 - /obj/lopnet1/fireworks/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(91/125)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:08:59",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v003-/ob",
-            "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(14/250)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "10:53:02",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v02",
-            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(51/250)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "14:31:16",
-            "Priority": "60"
-        }
-    ],
     "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
@@ -56,6 +12,82 @@
             "Render": "TST015_51326_03",
             "est.": "03:05:42",
             "Priority": "60"
+        }
+    ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TT_station_v06-/",
+            "Task_name": "TT_station_v06 - /out/main",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "67%",
+            "Tasks": "(67/100)",
+            "Status": "Rendering (3)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "main",
+            "est.": "00:09:15",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v003-/ob",
+            "Task_name": "Concert_v003 - /obj/lopnet1/fireworks/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "80%",
+            "Tasks": "(100/125)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:07:42",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v02",
+            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "22%",
+            "Tasks": "(55/250)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "20:16:33",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v003-/ob",
+            "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(16/250)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "10:33:36",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_comp_v12",
+            "Task_name": "TST_050_comp_v12_long.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "52%",
+            "Tasks": "(9/17)",
+            "Status": "Rendering (7)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "TST_050_comp_v12_long.nk",
+            "est.": "00:00:03",
+            "Priority": "90"
         }
     ]
 }
