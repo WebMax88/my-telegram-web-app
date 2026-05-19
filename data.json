@@ -2,20 +2,6 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v02",
-            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(186/250)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:52:44",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Concert_v003-/ob",
             "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
@@ -27,35 +13,49 @@
             "Render": "usdrender_rop",
             "est.": "01:12:37",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v02",
+            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "76%",
+            "Tasks": "(190/250)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:43:46",
+            "Priority": "60"
         }
     ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
             "Name": "TST_050_v53-/out",
-            "Task_name": "TST_050_v53 - /out/Splash_IK",
+            "Task_name": "TST_050_v53 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(34/82)",
+            "Progress": "28%",
+            "Tasks": "(23/82)",
             "Status": "Rendering (12)",
             "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "00:05:17",
+            "Render": "IngYang",
+            "est.": "00:24:38",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "TST_050_v53-/out",
-            "Task_name": "TST_050_v53 - /out/IngYang",
+            "Task_name": "TST_050_v53 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(21/82)",
+            "Progress": "42%",
+            "Tasks": "(35/82)",
             "Status": "Rendering (12)",
             "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:24:01",
+            "Render": "Splash_IK",
+            "est.": "00:06:03",
             "Priority": "60"
         }
     ],
