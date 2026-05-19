@@ -1,76 +1,18 @@
 {
-    "QIDDIYA_CHARLY": [
+    "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
-            "Name": "Concert_v003-/ob",
-            "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
+            "Name": "BNK_020_v06-/out",
+            "Task_name": "BNK_020_v06 - /out/main",
+            "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(37/250)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "80"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v02",
-            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(65/250)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "15:54:41",
+            "Progress": "84%",
+            "Tasks": "(67/79)",
+            "Status": "Rendering (12)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v003-/ob",
-            "Task_name": "Concert_v003 - /obj/lopnet1/flashdots/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(48/50)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:02:15",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v06 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(19/60)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:18:46",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v16",
-            "Task_name": "RIC_130_comp_v16.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "55%",
-            "Tasks": "(16/29)",
-            "Status": "Rendering (8)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v16.nk",
-            "est.": "00:00:20",
-            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -81,27 +23,71 @@
             "User": "hozhaev",
             "Progress": "70%",
             "Tasks": "(51/72)",
-            "Status": "Rendering (20)",
+            "Status": "Rendering (19)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
-            "est.": "00:03:24",
+            "est.": "00:07:10",
             "Priority": "75"
         }
     ],
-    "MAGNIT_ICE_ROCS": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "BNK_020_v06-/out",
-            "Task_name": "BNK_020_v06 - /out/main",
-            "User": "shashkov",
+            "Name": "Comedy_Stage_v02",
+            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(56/79)",
-            "Status": "Rendering (15)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "main",
-            "est.": "00:03:22",
+            "Progress": "26%",
+            "Tasks": "(66/250)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "19:02:46",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v003-/ob",
+            "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "14%",
+            "Tasks": "(37/250)",
+            "Status": "Rendering (2)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "05:22:20",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v06 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(30/60)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:12:52",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_040_comp_v06",
+            "Task_name": "RIC_040_comp_v06.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "90%",
+            "Tasks": "(9/10)",
+            "Status": "Rendering (1)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_040_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
