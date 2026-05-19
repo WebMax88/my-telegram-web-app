@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -40,12 +40,12 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
