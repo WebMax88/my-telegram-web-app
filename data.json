@@ -1,4 +1,20 @@
 {
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "91%",
+            "Tasks": "(2273/2475)",
+            "Status": "Rendering (48)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "00:34:10",
+            "Priority": "65"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -7,11 +23,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "93%",
-            "Tasks": "(233/250)",
+            "Tasks": "(234/250)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:01:10",
+            "est.": "00:55:38",
             "Priority": "60"
         },
         {
@@ -27,22 +43,6 @@
             "Render": "usdrender_rop",
             "est.": "20:08:37",
             "Priority": "60"
-        }
-    ],
-    "TUTORS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(2256/2475)",
-            "Status": "Rendering (48)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "00:38:00",
-            "Priority": "65"
         }
     ]
 }
