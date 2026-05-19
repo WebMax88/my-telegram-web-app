@@ -6,12 +6,12 @@
             "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(207/250)",
+            "Progress": "83%",
+            "Tasks": "(208/250)",
             "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:50:40",
+            "est.": "00:48:53",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(199/250)",
+            "Progress": "81%",
+            "Tasks": "(204/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:23:21",
+            "est.": "01:12:10",
             "Priority": "60"
         }
     ],
@@ -36,12 +36,12 @@
             "Task_name": "TST_050_v53 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(55/82)",
+            "Progress": "75%",
+            "Tasks": "(62/82)",
             "Status": "Rendering (12)",
             "Project": "RICH_TEA_MULTON",
             "Render": "IngYang",
-            "est.": "00:10:28",
+            "est.": "00:05:49",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "TST_050_v53 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(44/82)",
+            "Progress": "54%",
+            "Tasks": "(45/82)",
             "Status": "Rendering (13)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:12:13",
+            "est.": "00:13:07",
             "Priority": "60"
         }
     ],
