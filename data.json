@@ -1,20 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v09-/out",
-            "Task_name": "BNK_010_v09 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(59/97)",
-            "Status": "Rendering (20)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "main",
-            "est.": "00:03:30",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -33,7 +17,7 @@
     ],
     "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "57.47%",
+            "Task_Progress": "74.16%",
             "Name": "TST015_51326_03",
             "Task_name": "TST015_51326_03",
             "User": "hozhaev",
@@ -43,6 +27,22 @@
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
             "est.": "01:53:31",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v09-/out",
+            "Task_name": "BNK_010_v09 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "68%",
+            "Tasks": "(66/97)",
+            "Status": "Rendering (20)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:02:21",
             "Priority": "60"
         }
     ]
