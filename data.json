@@ -20,12 +20,12 @@
             "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(9/250)",
+            "Progress": "4%",
+            "Tasks": "(10/250)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "14:26:52",
+            "est.": "14:05:01",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Concert_v003 - /obj/lopnet1/fireworks/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(38/125)",
+            "Progress": "40%",
+            "Tasks": "(51/125)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:31:09",
+            "est.": "00:26:29",
             "Priority": "60"
         }
     ],
@@ -51,10 +51,10 @@
             "User": "hozhaev",
             "Progress": "62%",
             "Tasks": "(45/72)",
-            "Status": "Rendering (5)",
+            "Status": "Rendering (6)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
-            "est.": "04:58:21",
+            "est.": "03:57:19",
             "Priority": "60"
         }
     ],
@@ -65,12 +65,12 @@
             "Task_name": "TT_station_v06 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(12/100)",
-            "Status": "Rendering (5)",
+            "Progress": "49%",
+            "Tasks": "(49/100)",
+            "Status": "Rendering (4)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "main",
-            "est.": "00:12:31",
+            "est.": "00:08:22",
             "Priority": "60"
         }
     ],
