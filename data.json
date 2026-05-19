@@ -1,21 +1,19 @@
 {
-    "TUTORS": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
-            "User": "hozhaev",
+            "Name": "Concert_v002-/ob",
+            "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(1510/2475)",
-            "Status": "Rendering (41)",
-            "Project": "TUTORS",
-            "Render": "R_Fur",
-            "est.": "04:11:55",
-            "Priority": "65"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
+            "Progress": "28%",
+            "Tasks": "(71/250)",
+            "Status": "Rendering (15)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "11:50:35",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Box_Ring_v003-/o",
@@ -29,20 +27,22 @@
             "Render": "usdrender_rop",
             "est.": "03:17:57",
             "Priority": "60"
-        },
+        }
+    ],
+    "TUTORS": [
         {
             "Task_Progress": "100%",
-            "Name": "Concert_v002-/ob",
-            "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(70/250)",
-            "Status": "Rendering (15)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "11:51:41",
-            "Priority": "60"
+            "Progress": "61%",
+            "Tasks": "(1529/2475)",
+            "Status": "Rendering (42)",
+            "Project": "TUTORS",
+            "Render": "R_Fur",
+            "est.": "03:59:57",
+            "Priority": "65"
         }
     ]
 }
