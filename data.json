@@ -17,7 +17,7 @@
     ],
     "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "21.63%",
+            "Task_Progress": "35.84%",
             "Name": "TST015_51326_03",
             "Task_name": "TST015_51326_03",
             "User": "hozhaev",
@@ -37,29 +37,13 @@
             "Task_name": "BNK_020_v02 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(43/79)",
+            "Progress": "62%",
+            "Tasks": "(49/79)",
             "Status": "Rendering (16)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
-            "est.": "00:07:13",
+            "est.": "00:05:14",
             "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_comp_v16",
-            "Task_name": "RIC_130_comp_v16.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "27%",
-            "Tasks": "(8/29)",
-            "Status": "Rendering (8)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_comp_v16.nk",
-            "est.": "00:01:17",
-            "Priority": "90"
         }
     ]
 }
