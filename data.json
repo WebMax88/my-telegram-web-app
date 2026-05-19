@@ -22,27 +22,11 @@
             "Task_name": "BNK_010_comp_v04.nk",
             "User": "pankova",
             "Plugin": "Nuke",
-            "Progress": "95%",
-            "Tasks": "(19/20)",
-            "Status": "Rendering (1)",
+            "Progress": "73%",
+            "Tasks": "(36/49)",
+            "Status": "Rendering (13)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "BNK_010_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_ai_parts",
-            "Task_name": "RIC_130_ai_parts_v13.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "89%",
-            "Tasks": "(26/29)",
-            "Status": "Rendering (3)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_ai_parts_v13.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
