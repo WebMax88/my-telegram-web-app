@@ -2,30 +2,30 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v02",
-            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(150/250)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:32:05",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Concert_v003-/ob",
             "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "62%",
-            "Tasks": "(155/250)",
+            "Tasks": "(156/250)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:59:55",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v02",
+            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "60%",
+            "Tasks": "(152/250)",
             "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:12:40",
+            "est.": "03:26:57",
             "Priority": "60"
         }
     ],
@@ -36,12 +36,12 @@
             "Task_name": "vtest.nk",
             "User": "hozhaev",
             "Plugin": "Nuke",
-            "Progress": "43%",
-            "Tasks": "(41/95)",
-            "Status": "Rendering (23)",
+            "Progress": "91%",
+            "Tasks": "(87/95)",
+            "Status": "Rendering (7)",
             "Project": "TUTORS",
             "Render": "vtest.nk",
-            "est.": "00:01:32",
+            "est.": "00:00:10",
             "Priority": "80"
         }
     ]
