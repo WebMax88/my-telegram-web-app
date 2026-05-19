@@ -1,17 +1,17 @@
 {
-    "TUTORS": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/M_Fur",
-            "User": "hozhaev",
+            "Name": "Concert_v002-/ob",
+            "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
             "Progress": "99%",
-            "Tasks": "(2473/2475)",
+            "Tasks": "(249/250)",
             "Status": "Rendering (1)",
-            "Project": "TUTORS",
-            "Render": "M_Fur",
-            "est.": "00:01:51",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -22,29 +22,29 @@
             "Task_name": "BNK_010_comp_v04.nk",
             "User": "pankova",
             "Plugin": "Nuke",
-            "Progress": "65%",
-            "Tasks": "(32/49)",
-            "Status": "Rendering (17)",
+            "Progress": "95%",
+            "Tasks": "(19/20)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "BNK_010_comp_v04.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
     ],
-    "QIDDIYA_CHARLY": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "Concert_v002-/ob",
-            "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
+            "Name": "RIC_130_ai_parts",
+            "Task_name": "RIC_130_ai_parts_v13.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "89%",
+            "Tasks": "(26/29)",
+            "Status": "Rendering (3)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_ai_parts_v13.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
