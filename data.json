@@ -6,40 +6,12 @@
             "Task_name": "Concert_v003 - /obj/lopnet1/fireworks/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(76/125)",
+            "Progress": "72%",
+            "Tasks": "(91/125)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:13:44",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_comp_v0",
-            "Task_name": "Box_Ring_comp_v01.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "42%",
-            "Tasks": "(21/50)",
-            "Status": "Rendering (27)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Box_Ring_comp_v01.nk",
-            "est.": "00:00:02",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v02",
-            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(50/250)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "17:07:46",
+            "est.": "00:08:59",
             "Priority": "60"
         },
         {
@@ -49,28 +21,26 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "5%",
-            "Tasks": "(13/250)",
+            "Tasks": "(14/250)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "11:03:08",
+            "est.": "10:53:02",
             "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
+        },
         {
-            "Task_Progress": "80%",
-            "Name": "RIC_130_ai_parts",
-            "Task_name": "RIC_130_ai_parts_v14.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "65%",
-            "Tasks": "(19/29)",
-            "Status": "Rendering (9)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_ai_parts_v14.nk",
-            "est.": "00:00:05",
-            "Priority": "90"
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v02",
+            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(51/250)",
+            "Status": "Rendering (7)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "14:31:16",
+            "Priority": "60"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -85,22 +55,6 @@
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
             "est.": "03:05:42",
-            "Priority": "60"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TT_station_v06-/",
-            "Task_name": "TT_station_v06 - /out/main",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(98/100)",
-            "Status": "Rendering (2)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "main",
-            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
