@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -90,7 +90,7 @@
         "user": "---"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws59",
         "user": "Max Weber"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
