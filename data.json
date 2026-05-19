@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "22%",
             "Tasks": "(55/250)",
-            "Status": "Rendering (5)",
+            "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "20:16:33",
+            "est.": "11:01:38",
             "Priority": "60"
         },
         {
@@ -20,72 +20,26 @@
             "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(19/250)",
-            "Status": "Rendering (5)",
+            "Progress": "8%",
+            "Tasks": "(21/250)",
+            "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "12:19:45",
+            "est.": "10:00:29",
             "Priority": "60"
         },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v003-/ob",
-            "Task_name": "Concert_v003 - /obj/lopnet1/fireworks/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(115/125)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:01:57",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "0%",
-            "Name": "RIC_040_comp_v06",
-            "Task_name": "RIC_040_comp_v06.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "10%",
-            "Tasks": "(1/10)",
-            "Status": "Rendering (9)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_040_comp_v06.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_ai_parts",
-            "Task_name": "RIC_130_ai_parts_v14.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(27/29)",
-            "Status": "Rendering (2)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_ai_parts_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TT_station_v06-/",
-            "Task_name": "TT_station_v06 - /out/main",
-            "User": "chernovbrovyj",
+            "Name": "City_Streets_007",
+            "Task_name": "City_Streets_007 - /obj/lopnet1/main/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(87/100)",
-            "Status": "Rendering (4)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "main",
-            "est.": "00:02:01",
+            "Progress": "0%",
+            "Tasks": "(0/121)",
+            "Status": "Rendering (3)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
             "Priority": "60"
         }
     ],
@@ -97,10 +51,10 @@
             "User": "hozhaev",
             "Progress": "63%",
             "Tasks": "(46/72)",
-            "Status": "Rendering (7)",
+            "Status": "Rendering (8)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
-            "est.": "03:05:42",
+            "est.": "02:33:56",
             "Priority": "60"
         }
     ]
