@@ -1,34 +1,6 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "0%",
-            "Name": "City_Streets_007",
-            "Task_name": "City_Streets_007 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/121)",
-            "Status": "Rendering (2)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "City_Streets_007",
-            "Task_name": "City_Streets_007 - /obj/lopnet1/main/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/121)",
-            "Status": "Rendering (2)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "Comedy_Stage_v02",
             "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
@@ -43,93 +15,75 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "75%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v05 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
+            "Task_Progress": "100%",
+            "Name": "City_Streets_007",
+            "Task_name": "City_Streets_007 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(0/1)",
+            "Progress": "5%",
+            "Tasks": "(7/121)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:30:07",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Concert_v003-/ob",
+            "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/250)",
             "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "City_Streets_007",
+            "Task_name": "City_Streets_007 - /obj/lopnet1/main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(12/121)",
+            "Status": "Rendering (2)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:00:43",
             "Priority": "60"
         }
     ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
+            "Name": "MAR_010_comp_v01",
+            "Task_name": "MAR_010_comp_v01.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "88%",
+            "Tasks": "(22/25)",
+            "Status": "Rendering (3)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "MAR_010_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "BNK_010_v10-/out",
             "Task_name": "BNK_010_v10 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(63/97)",
-            "Status": "Rendering (8)",
+            "Progress": "67%",
+            "Tasks": "(65/97)",
+            "Status": "Rendering (13)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
-            "est.": "00:13:32",
-            "Priority": "60"
-        }
-    ],
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Ziv_sborka.nk-Wr",
-            "Task_name": "Ziv_sborka.nk - Wrt022",
-            "User": "algol",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(38/39)",
-            "Status": "Rendering (1)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "Ziv_sborka.nk - Wrt022",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Ziv_sborka.nk-Wr",
-            "Task_name": "Ziv_sborka.nk - Wrt024",
-            "User": "algol",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(30/31)",
-            "Status": "Rendering (1)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "Ziv_sborka.nk - Wrt024",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "0%",
-            "Name": "CFI_065_v001-/ou",
-            "Task_name": "CFI_065_v001 - /out/CFI_065/Graph",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/4)",
-            "Status": "Rendering (4)",
-            "Project": "CFI_DJV",
-            "Render": "Graph",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "CFI_065_v001-/ou",
-            "Task_name": "CFI_065_v001 - /out/CFI_065/Orbits",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/4)",
-            "Status": "Rendering (3)",
-            "Project": "CFI_DJV",
-            "Render": "Orbits",
-            "est.": "unknown",
+            "est.": "00:06:15",
             "Priority": "60"
         }
     ],
@@ -139,13 +93,29 @@
             "Name": "TST015_51326_03",
             "Task_name": "TST015_51326_03",
             "User": "hozhaev",
-            "Progress": "47%",
-            "Tasks": "(34/72)",
-            "Status": "Rendering (13)",
+            "Progress": "48%",
+            "Tasks": "(35/72)",
+            "Status": "Rendering (12)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
-            "est.": "02:04:08",
+            "est.": "02:15:30",
             "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_comp_v16",
+            "Task_name": "RIC_130_comp_v16.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "68%",
+            "Tasks": "(20/29)",
+            "Status": "Rendering (9)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_comp_v16.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
