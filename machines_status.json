@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
@@ -200,7 +200,7 @@
         "user": "Nail Sattarov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
