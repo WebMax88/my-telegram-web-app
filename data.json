@@ -20,12 +20,12 @@
             "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(209/250)",
+            "Progress": "84%",
+            "Tasks": "(210/250)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "03:12:21",
+            "est.": "03:06:54",
             "Priority": "60"
         }
     ],
@@ -36,12 +36,12 @@
             "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(1573/2475)",
+            "Progress": "64%",
+            "Tasks": "(1586/2475)",
             "Status": "Rendering (43)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "03:42:20",
+            "est.": "03:38:19",
             "Priority": "65"
         }
     ]
