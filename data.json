@@ -1,20 +1,6 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v02",
-            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(15/250)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "09:21:18",
-            "Priority": "60"
-        },
-        {
             "Task_Progress": "0%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v02 - /stage/main/usdrender_rop",
@@ -26,6 +12,20 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v02",
+            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(17/250)",
+            "Status": "Rendering (13)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "09:07:44",
             "Priority": "60"
         }
     ],
@@ -44,22 +44,6 @@
             "Priority": "60"
         }
     ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_040_comp_v06",
-            "Task_name": "RIC_040_comp_v06.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(10/10)",
-            "Status": "Completed",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_040_comp_v06.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        }
-    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -67,12 +51,12 @@
             "Task_name": "BNK_020_v05 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(39/79)",
-            "Status": "Rendering (15)",
+            "Progress": "62%",
+            "Tasks": "(49/79)",
+            "Status": "Rendering (14)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
-            "est.": "00:09:33",
+            "est.": "00:06:59",
             "Priority": "60"
         }
     ]
