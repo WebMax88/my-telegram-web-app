@@ -1,7 +1,7 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "2%",
+            "Task_Progress": "3%",
             "Name": "Comedy_Stage_v02",
             "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
@@ -13,21 +13,34 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
+        },
         {
-            "Task_Progress": "62.42%",
-            "Name": "TST015_51326_03",
-            "Task_name": "TST015_51326_03",
-            "User": "hozhaev",
+            "Task_Progress": "0%",
+            "Name": "City_Streets_005",
+            "Task_name": "City_Streets_005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
             "Progress": "0%",
-            "Tasks": "(0/72)",
-            "Status": "Rendering (21)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST015_51326_03",
+            "Tasks": "(0/1)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
             "est.": "unknown",
-            "Priority": "60"
+            "Priority": "100"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "City_Streets_005",
+            "Task_name": "City_Streets_005 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "100"
         }
     ],
     "MAGNIT_ICE_ROCS": [
@@ -37,12 +50,27 @@
             "Task_name": "BNK_020_v02 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(71/79)",
-            "Status": "Rendering (8)",
+            "Progress": "98%",
+            "Tasks": "(78/79)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "76.01%",
+            "Name": "TST015_51326_03",
+            "Task_name": "TST015_51326_03",
+            "User": "hozhaev",
+            "Progress": "0%",
+            "Tasks": "(0/72)",
+            "Status": "Rendering (21)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST015_51326_03",
+            "est.": "unknown",
             "Priority": "60"
         }
     ]
