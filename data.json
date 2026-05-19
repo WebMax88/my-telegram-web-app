@@ -6,9 +6,9 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v17 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(47/49)",
-            "Status": "Rendering (2)",
+            "Progress": "97%",
+            "Tasks": "(48/49)",
+            "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -20,12 +20,12 @@
             "Task_name": "TST_050_v52 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(38/82)",
+            "Progress": "47%",
+            "Tasks": "(39/82)",
             "Status": "Rendering (43)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:00:03",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
