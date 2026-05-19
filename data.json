@@ -7,11 +7,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "58%",
-            "Tasks": "(145/250)",
-            "Status": "Rendering (14)",
+            "Tasks": "(146/250)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:13:34",
+            "est.": "02:25:10",
             "Priority": "60"
         },
         {
@@ -21,12 +21,28 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "59%",
-            "Tasks": "(148/250)",
-            "Status": "Rendering (13)",
+            "Tasks": "(149/250)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "03:36:55",
+            "est.": "03:54:59",
             "Priority": "60"
+        }
+    ],
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "vtest.nk",
+            "Task_name": "vtest.nk",
+            "User": "hozhaev",
+            "Plugin": "Nuke",
+            "Progress": "2%",
+            "Tasks": "(2/95)",
+            "Status": "Rendering (26)",
+            "Project": "TUTORS",
+            "Render": "vtest.nk",
+            "est.": "00:02:37",
+            "Priority": "80"
         }
     ]
 }
