@@ -1,19 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST015_51326_03",
-            "Task_name": "TST015_51326_03",
-            "User": "hozhaev",
-            "Progress": "29%",
-            "Tasks": "(21/72)",
-            "Status": "Rendering (14)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST015_51326_03",
-            "est.": "02:54:37",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -21,12 +6,12 @@
             "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(3/250)",
+            "Progress": "2%",
+            "Tasks": "(5/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "07:42:21",
+            "est.": "07:32:57",
             "Priority": "60"
         },
         {
@@ -41,6 +26,37 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST015_51326_03",
+            "Task_name": "TST015_51326_03",
+            "User": "hozhaev",
+            "Progress": "30%",
+            "Tasks": "(22/72)",
+            "Status": "Rendering (14)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST015_51326_03",
+            "est.": "02:47:08",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v05-/out",
+            "Task_name": "BNK_020_v05 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "5%",
+            "Tasks": "(4/79)",
+            "Status": "Rendering (14)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "main",
+            "est.": "00:12:49",
             "Priority": "60"
         }
     ]
