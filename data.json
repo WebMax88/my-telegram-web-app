@@ -5,28 +5,44 @@
             "Name": "TST015_51326_03",
             "Task_name": "TST015_51326_03",
             "User": "hozhaev",
-            "Progress": "25%",
-            "Tasks": "(18/72)",
-            "Status": "Rendering (15)",
+            "Progress": "26%",
+            "Tasks": "(19/72)",
+            "Status": "Rendering (16)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
-            "est.": "02:45:18",
+            "est.": "02:28:20",
             "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_comp_v11",
+            "Task_name": "TST_050_comp_v11_long.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "58%",
+            "Tasks": "(10/17)",
+            "Status": "Rendering (7)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "TST_050_comp_v11_long.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "37%",
+            "Task_Progress": "70%",
             "Name": "Comedy_Stage_v02",
             "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(2/250)",
-            "Status": "Rendering (14)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "07:36:58",
+            "est.": "08:14:13",
             "Priority": "60"
         },
         {
