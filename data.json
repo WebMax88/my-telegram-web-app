@@ -1,7 +1,7 @@
 {
     "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "38.32%",
+            "Task_Progress": "46.97%",
             "Name": "TST015_51326_03",
             "Task_name": "TST015_51326_03",
             "User": "hozhaev",
@@ -11,22 +11,6 @@
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_03",
             "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v003 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(97/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
