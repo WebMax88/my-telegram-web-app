@@ -1,7 +1,7 @@
 {
     "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "12.98%",
+            "Task_Progress": "17.92%",
             "Name": "TST015_51326_03",
             "Task_name": "TST015_51326_03",
             "User": "hozhaev",
@@ -37,12 +37,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Fish_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(67/100)",
+            "Progress": "74%",
+            "Tasks": "(74/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:09:51",
+            "est.": "00:07:08",
             "Priority": "60"
         }
     ],
@@ -53,9 +53,9 @@
             "Task_name": "BNK_020_v01 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(72/79)",
-            "Status": "Rendering (7)",
+            "Progress": "98%",
+            "Tasks": "(78/79)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "main",
             "est.": "00:00:01",
