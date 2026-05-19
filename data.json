@@ -18,20 +18,6 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Box_Ring_v003-/o",
-            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Concert_v002-/ob",
             "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
@@ -42,6 +28,20 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "01:22:52",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v003-/o",
+            "Task_name": "Box_Ring_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(249/250)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
