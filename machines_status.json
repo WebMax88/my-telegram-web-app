@@ -165,7 +165,7 @@
         "user": "Alexander Povstyanoy"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws152",
         "user": "Maria Lukyanova"
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
@@ -265,7 +265,7 @@
         "user": "Matvey Zubarev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
@@ -280,7 +280,7 @@
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
