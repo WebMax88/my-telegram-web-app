@@ -6,12 +6,12 @@
             "Task_name": "Vellum_Scene_v03 - /out/R_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(1747/2475)",
-            "Status": "Rendering (47)",
+            "Progress": "71%",
+            "Tasks": "(1770/2475)",
+            "Status": "Rendering (49)",
             "Project": "TUTORS",
             "Render": "R_Fur",
-            "est.": "02:39:01",
+            "est.": "02:26:21",
             "Priority": "65"
         }
     ],
@@ -23,11 +23,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "86%",
-            "Tasks": "(215/250)",
+            "Tasks": "(217/250)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:39:41",
+            "est.": "02:28:53",
             "Priority": "60"
         },
         {
@@ -36,12 +36,12 @@
             "Task_name": "Concert_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(76/250)",
-            "Status": "Rendering (13)",
+            "Progress": "31%",
+            "Tasks": "(78/250)",
+            "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "13:44:56",
+            "est.": "16:29:24",
             "Priority": "60"
         }
     ]
