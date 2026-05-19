@@ -1,6 +1,6 @@
 [
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -15,7 +15,7 @@
         "user": "Erik Baymukashev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws44",
         "user": "for freelancers"
     },
@@ -35,7 +35,7 @@
         "user": "---"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws48",
         "user": "Sergei Adlerberg"
     },
@@ -50,12 +50,12 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -85,17 +85,17 @@
         "user": "Alexander Kostin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws58",
         "user": "---"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws59",
         "user": "Max Weber"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -155,12 +155,12 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
@@ -195,17 +195,17 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
