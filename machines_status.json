@@ -70,7 +70,7 @@
         "user": "Mary Mochalova"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -260,7 +260,7 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
