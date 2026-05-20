@@ -1,20 +1,4 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "36%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v17 - /obj/lopnet1/main/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(13/49)",
-            "Status": "Rendering (10)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
-            "est.": "00:25:13",
-            "Priority": "60"
-        }
-    ],
     "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
@@ -28,6 +12,22 @@
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "Cloth",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "43%",
+            "Name": "Rich_Tea_Multon_",
+            "Task_name": "Rich_Tea_Multon_env_shading_v17 - /obj/lopnet1/main/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "34%",
+            "Tasks": "(17/49)",
+            "Status": "Rendering (10)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "usdrender_rop",
+            "est.": "00:20:05",
             "Priority": "60"
         }
     ]
