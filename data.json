@@ -1,64 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v003-/ob",
-            "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(230/250)",
-            "Status": "Rendering (15)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:07:24",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v02",
-            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(221/250)",
-            "Status": "Rendering (15)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:29:30",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v53-/out",
-            "Task_name": "TST_050_v53 - /out/IngYang",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(78/82)",
-            "Status": "Rendering (4)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v53-/out",
-            "Task_name": "TST_050_v53 - /out/Splash_IK",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(60/82)",
-            "Status": "Rendering (18)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "Splash_IK",
-            "est.": "00:03:27",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
@@ -71,6 +11,66 @@
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v02",
+            "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "89%",
+            "Tasks": "(224/250)",
+            "Status": "Rendering (16)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:19:44",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v003-/ob",
+            "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "92%",
+            "Tasks": "(231/250)",
+            "Status": "Rendering (15)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:05:55",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v53-/out",
+            "Task_name": "TST_050_v53 - /out/Splash_IK",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "78%",
+            "Tasks": "(64/82)",
+            "Status": "Rendering (18)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "Splash_IK",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_v53-/out",
+            "Task_name": "TST_050_v53 - /out/IngYang",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(78/82)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "IngYang",
             "est.": "00:00:01",
             "Priority": "60"
         }
