@@ -6,12 +6,12 @@
             "Task_name": "Concert_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(213/250)",
+            "Progress": "86%",
+            "Tasks": "(216/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:35:58",
+            "est.": "00:31:20",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Comedy_Stage_v02 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(207/250)",
+            "Progress": "83%",
+            "Tasks": "(208/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:05:25",
+            "est.": "01:03:09",
             "Priority": "60"
         }
     ],
@@ -50,12 +50,12 @@
             "Task_name": "TST_050_v53 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(49/82)",
-            "Status": "Rendering (18)",
+            "Progress": "60%",
+            "Tasks": "(50/82)",
+            "Status": "Rendering (17)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
-            "est.": "00:07:48",
+            "est.": "00:08:58",
             "Priority": "60"
         }
     ],
