@@ -6,12 +6,12 @@
             "Task_name": "Professional_Court_v07 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(52/60)",
-            "Status": "Rendering (5)",
+            "Progress": "95%",
+            "Tasks": "(57/60)",
+            "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:03:28",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Professional_Court_v07 - /stage/net_crop/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(47/60)",
-            "Status": "Rendering (4)",
+            "Progress": "83%",
+            "Tasks": "(50/60)",
+            "Status": "Rendering (7)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:13:19",
+            "est.": "00:02:31",
             "Priority": "60"
         }
     ]
