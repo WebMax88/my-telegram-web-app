@@ -1,32 +1,18 @@
 {
     "RICH_TEA_MULTON": [
         {
-            "Task_Progress": "28%",
+            "Task_Progress": "36%",
             "Name": "Rich_Tea_Multon_",
             "Task_name": "Rich_Tea_Multon_env_shading_v17 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(12/49)",
+            "Progress": "26%",
+            "Tasks": "(13/49)",
             "Status": "Rendering (10)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:26:36",
+            "est.": "00:25:13",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_040_comp_v07",
-            "Task_name": "RIC_040_comp_v07.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(9/10)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_040_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
