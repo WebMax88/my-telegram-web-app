@@ -1,75 +1,17 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "24%",
-            "Name": "BNK_020_v10-/out",
-            "Task_name": "BNK_020_v10 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(4/79)",
-            "Status": "Rendering (6)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:25:35",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "BNK_020_v10-/out",
-            "Task_name": "BNK_020_v10 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(3/79)",
-            "Status": "Rendering (6)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:26:49",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v14-/out",
-            "Task_name": "BNK_010_v14 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(95/97)",
-            "Status": "Rendering (2)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v14-/out",
-            "Task_name": "BNK_010_v14 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(90/97)",
-            "Status": "Rendering (7)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "100%",
+            "Task_Progress": "0%",
             "Name": "Paris_scene_004-",
             "Task_name": "Paris_scene_004 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(24/73)",
+            "Progress": "0%",
+            "Tasks": "(0/73)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:13:07",
+            "est.": "unknown",
             "Priority": "60"
         },
         {
@@ -78,28 +20,12 @@
             "Task_name": "Paris_scene_004 - /obj/lopnet1/shadow/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(70/145)",
+            "Progress": "60%",
+            "Tasks": "(87/145)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:21:14",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v03 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(20/45)",
-            "Status": "Rendering (13)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "00:01:17",
+            "est.": "00:16:09",
             "Priority": "60"
         }
     ],
@@ -125,12 +51,58 @@
             "Name": "TST015_51326_04",
             "Task_name": "TST015_51326_04",
             "User": "hozhaev",
-            "Progress": "34%",
-            "Tasks": "(25/72)",
+            "Progress": "37%",
+            "Tasks": "(27/72)",
             "Status": "Rendering (7)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_04",
-            "est.": "04:02:37",
+            "est.": "03:55:23",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v03 - /out/main",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(42/45)",
+            "Status": "Rendering (3)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v10-/out",
+            "Task_name": "BNK_020_v10 - /out/grape",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(16/79)",
+            "Status": "Rendering (9)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "grape",
+            "est.": "00:15:18",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "BNK_020_v10-/out",
+            "Task_name": "BNK_020_v10 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "16%",
+            "Tasks": "(13/79)",
+            "Status": "Rendering (9)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:15:31",
             "Priority": "60"
         }
     ]
