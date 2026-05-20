@@ -1,4 +1,19 @@
 {
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST015_51326_04",
+            "Task_name": "TST015_51326_04",
+            "User": "hozhaev",
+            "Progress": "87%",
+            "Tasks": "(63/72)",
+            "Status": "Rendering (9)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST015_51326_04",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "ZIV_RETOUCH": [
         {
             "Task_Progress": "0%",
@@ -13,21 +28,6 @@
             "Render": "ZIV_077_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST015_51326_04",
-            "Task_name": "TST015_51326_04",
-            "User": "hozhaev",
-            "Progress": "87%",
-            "Tasks": "(63/72)",
-            "Status": "Rendering (9)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST015_51326_04",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
