@@ -6,12 +6,12 @@
             "Task_name": "Professional_Court_v07 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(6/60)",
+            "Progress": "15%",
+            "Tasks": "(9/60)",
             "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:43:18",
+            "est.": "01:38:13",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Professional_Court_v07 - /stage/net_crop/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(7/60)",
+            "Progress": "13%",
+            "Tasks": "(8/60)",
             "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:36:54",
+            "est.": "01:34:56",
             "Priority": "60"
         }
     ],
@@ -36,12 +36,12 @@
             "Task_name": "Rich_Tea_Multon_env_shading_v17 - /obj/lopnet1/main/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(41/49)",
+            "Progress": "87%",
+            "Tasks": "(43/49)",
             "Status": "Rendering (4)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
-            "est.": "00:10:50",
+            "est.": "00:05:19",
             "Priority": "60"
         }
     ]
