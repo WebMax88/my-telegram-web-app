@@ -1,32 +1,60 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v09 - /stage/net_crop/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(29/60)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:38:11",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "30%",
+            "Task_Progress": "61%",
             "Name": "Comedy_Stage_v04",
             "Task_name": "Comedy_Stage_v04 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "0%",
-            "Tasks": "(0/250)",
+            "Tasks": "(2/250)",
             "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "07:08:14",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v09 - /stage/net_crop/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "55%",
+            "Tasks": "(33/60)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:31:51",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "City_streets_com",
+            "Task_name": "City_streets_comp_v03.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "12%",
+            "Tasks": "(3/25)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "City_streets_comp_v03.nk",
+            "est.": "00:00:26",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_com",
+            "Task_name": "Comedy_Stage_comp_v01.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "20%",
+            "Tasks": "(10/50)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Comedy_Stage_comp_v01.nk",
+            "est.": "00:01:51",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -34,58 +62,98 @@
             "Task_name": "Professional_Court_v09 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(28/60)",
-            "Status": "Rendering (5)",
+            "Progress": "55%",
+            "Tasks": "(33/60)",
+            "Status": "Rendering (4)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:39:33",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v16-/out",
-            "Task_name": "BNK_010_v16 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(84/97)",
-            "Status": "Rendering (13)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v16-/out",
-            "Task_name": "BNK_010_v16 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(87/97)",
-            "Status": "Rendering (10)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:00:01",
+            "est.": "00:42:14",
             "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
         {
-            "Task_Progress": "100%",
+            "Task_Progress": "11%",
             "Name": "Nighttime_Earth_",
             "Task_name": "Nighttime_Earth_v02 - /out/CLOUDS",
             "User": "goncharov",
             "Plugin": "Houdini",
+            "Progress": "19%",
+            "Tasks": "(9/46)",
+            "Status": "Rendering (4)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS",
+            "est.": "00:12:51",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v04 - /out/main",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(2/46)",
+            "Status": "Rendering (5)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main",
+            "est.": "00:06:26",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v04 - /out/atmo",
+            "User": "goncharov",
+            "Plugin": "Houdini",
             "Progress": "95%",
-            "Tasks": "(43/45)",
-            "Status": "Suspended",
+            "Tasks": "(44/46)",
+            "Status": "Rendering (2)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "atmo",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Nighttime_Earth_",
+            "Task_name": "Nighttime_Earth_v02 - /out/main",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "39%",
+            "Tasks": "(18/46)",
+            "Status": "Rendering (5)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main",
+            "est.": "00:03:41",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v04 - /out/CLOUDS",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/46)",
+            "Status": "Rendering (4)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS",
             "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Nighttime_Earth_",
+            "Task_name": "Nighttime_Earth_v02 - /out/atmo",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "82%",
+            "Tasks": "(38/46)",
+            "Status": "Rendering (4)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "atmo",
+            "est.": "00:00:31",
             "Priority": "60"
         }
     ],
@@ -103,6 +171,38 @@
             "Render": "IngYang",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "0%",
+            "Name": "BNK_020_comp_v04",
+            "Task_name": "BNK_020_comp_v04.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/28)",
+            "Status": "Rendering (10)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_020_comp_v04.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_007_comp_v01",
+            "Task_name": "ZIV_007_comp_v01.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "76%",
+            "Tasks": "(10/13)",
+            "Status": "Rendering (3)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_007_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
