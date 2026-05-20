@@ -3,74 +3,29 @@
         {
             "Task_Progress": "100%",
             "Name": "Paris_scene_004-",
-            "Task_name": "Paris_scene_004 - /obj/lopnet1/main/usdrender_rop",
+            "Task_name": "Paris_scene_004 - /obj/lopnet1/shadow/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(35/145)",
-            "Status": "Rendering (6)",
+            "Progress": "35%",
+            "Tasks": "(52/145)",
+            "Status": "Rendering (4)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:21:43",
+            "est.": "00:40:11",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Paris_scene_004-",
-            "Task_name": "Paris_scene_004 - /obj/lopnet1/shadow/usdrender_rop",
+            "Task_name": "Paris_scene_004 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(31/145)",
-            "Status": "Rendering (7)",
+            "Progress": "6%",
+            "Tasks": "(5/73)",
+            "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:28:38",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v14-/out",
-            "Task_name": "BNK_010_v14 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(61/97)",
-            "Status": "Rendering (8)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:07:05",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v14-/out",
-            "Task_name": "BNK_010_v14 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(66/97)",
-            "Status": "Rendering (7)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:06:14",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST015_51326_04",
-            "Task_name": "TST015_51326_04",
-            "User": "hozhaev",
-            "Progress": "30%",
-            "Tasks": "(22/72)",
-            "Status": "Rendering (8)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST015_51326_04",
-            "est.": "03:41:19",
+            "est.": "00:23:34",
             "Priority": "60"
         }
     ],
@@ -81,12 +36,71 @@
             "Task_name": "TST_050_v54 - /out/Splash_IK",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(73/82)",
-            "Status": "Rendering (9)",
+            "Progress": "90%",
+            "Tasks": "(74/82)",
+            "Status": "Rendering (8)",
             "Project": "RICH_TEA_MULTON",
             "Render": "Splash_IK",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v14-/out",
+            "Task_name": "BNK_010_v14 - /out/grape",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "78%",
+            "Tasks": "(76/97)",
+            "Status": "Rendering (8)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "grape",
+            "est.": "00:03:43",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v14-/out",
+            "Task_name": "BNK_010_v14 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "84%",
+            "Tasks": "(82/97)",
+            "Status": "Rendering (6)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:03:05",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v09-/out",
+            "Task_name": "BNK_020_v09 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "5%",
+            "Tasks": "(4/79)",
+            "Status": "Rendering (6)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:25:33",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST015_51326_04",
+            "Task_name": "TST015_51326_04",
+            "User": "hozhaev",
+            "Progress": "31%",
+            "Tasks": "(23/72)",
+            "Status": "Rendering (8)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST015_51326_04",
+            "est.": "03:32:58",
             "Priority": "60"
         }
     ]
