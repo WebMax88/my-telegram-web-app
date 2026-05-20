@@ -1,34 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_020_v12-/out",
-            "Task_name": "BNK_020_v12 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(20/79)",
-            "Status": "Rendering (18)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:06:46",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_020_v12-/out",
-            "Task_name": "BNK_020_v12 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(22/79)",
-            "Status": "Rendering (20)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:05:26",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -37,11 +7,41 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "34%",
-            "Tasks": "(86/250)",
+            "Tasks": "(87/250)",
             "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "04:31:30",
+            "est.": "04:29:44",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v12-/out",
+            "Task_name": "BNK_020_v12 - /out/grape",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "54%",
+            "Tasks": "(43/79)",
+            "Status": "Rendering (20)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "grape",
+            "est.": "00:02:28",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v12-/out",
+            "Task_name": "BNK_020_v12 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "49%",
+            "Tasks": "(39/79)",
+            "Status": "Rendering (18)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:03:51",
             "Priority": "60"
         }
     ]
