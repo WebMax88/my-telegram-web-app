@@ -1,19 +1,51 @@
 {
-    "AUTODESK_PRLM": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v04 - /out/CLOUDS",
-            "User": "goncharov",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v09 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(44/45)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS",
-            "est.": "00:00:01",
+            "Progress": "21%",
+            "Tasks": "(13/60)",
+            "Status": "Rendering (4)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:19:16",
             "Priority": "60"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v09 - /stage/net_crop/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "18%",
+            "Tasks": "(11/60)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:59:53",
+            "Priority": "60"
+        }
+    ],
+    "CONCELLULAR_MOWER_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BCH_030_comp_v04",
+            "Task_name": "BCH_030_comp_v04.nk",
+            "User": "sattarov",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(27/28)",
+            "Status": "Rendering (1)",
+            "Project": "CONCELLULAR_MOWER_PRLM",
+            "Render": "BCH_030_comp_v04.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Nighttime_Earth_",
@@ -36,57 +68,25 @@
             "Task_name": "TST_050_v54 - /out/IngYang",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(71/82)",
-            "Status": "Rendering (11)",
+            "Progress": "90%",
+            "Tasks": "(74/82)",
+            "Status": "Rendering (8)",
             "Project": "RICH_TEA_MULTON",
             "Render": "IngYang",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v09 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(9/60)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:27:53",
-            "Priority": "60"
         },
         {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v09 - /stage/net_crop/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(8/60)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:21:53",
-            "Priority": "60"
-        }
-    ],
-    "CONCELLULAR_MOWER_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BCH_030_comp_v04",
-            "Task_name": "BCH_030_comp_v04.nk",
-            "User": "sattarov",
+            "Task_Progress": "40%",
+            "Name": "RIC_100_comp_v13",
+            "Task_name": "RIC_100_comp_v13.nk",
+            "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "92%",
-            "Tasks": "(26/28)",
-            "Status": "Rendering (2)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "BCH_030_comp_v04.nk",
+            "Progress": "46%",
+            "Tasks": "(7/15)",
+            "Status": "Rendering (8)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_100_comp_v13.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
