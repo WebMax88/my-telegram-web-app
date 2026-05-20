@@ -1,1 +1,18 @@
-{}
+{
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v07-/out",
+            "Task_name": "BNK_020_v07 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(78/79)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ]
+}
