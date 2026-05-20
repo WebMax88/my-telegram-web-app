@@ -7,27 +7,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "23%",
-            "Tasks": "(58/250)",
+            "Tasks": "(59/250)",
             "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:20:37",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v05 - /out/CLOUDS",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS",
-            "est.": "00:00:01",
+            "est.": "05:19:14",
             "Priority": "60"
         }
     ]
