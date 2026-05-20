@@ -6,12 +6,12 @@
             "Task_name": "Professional_Court_v09 - /stage/net_crop/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(51/60)",
+            "Progress": "91%",
+            "Tasks": "(55/60)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:05:51",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Comedy_Stage_v04 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(14/250)",
+            "Progress": "8%",
+            "Tasks": "(20/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "06:57:45",
+            "est.": "06:57:51",
             "Priority": "60"
         },
         {
@@ -34,29 +34,13 @@
             "Task_name": "Professional_Court_v09 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(51/60)",
+            "Progress": "91%",
+            "Tasks": "(55/60)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:05:52",
-            "Priority": "60"
-        }
-    ],
-    "CONCELLULAR_MOWER_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BCH_020_comp_v05",
-            "Task_name": "BCH_020_comp_v05.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "91%",
-            "Tasks": "(11/12)",
-            "Status": "Rendering (1)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "BCH_020_comp_v05.nk",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
