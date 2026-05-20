@@ -1,35 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST015_51326_04",
-            "Task_name": "TST015_51326_04",
-            "User": "hozhaev",
-            "Progress": "72%",
-            "Tasks": "(52/72)",
-            "Status": "Rendering (20)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST015_51326_04",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v004 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(76/100)",
-            "Status": "Rendering (6)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:07:42",
-            "Priority": "60"
-        }
-    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
@@ -46,18 +15,33 @@
             "Priority": "60"
         }
     ],
-    "AUTODESK_PRLM": [
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "Nighttime_Earth_",
-            "Task_name": "Nighttime_Earth_v01 - /out/main",
-            "User": "goncharov",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v004 - /stage/main_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(44/45)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
+            "Progress": "84%",
+            "Tasks": "(84/100)",
+            "Status": "Rendering (7)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:03:18",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST015_51326_04",
+            "Task_name": "TST015_51326_04",
+            "User": "hozhaev",
+            "Progress": "76%",
+            "Tasks": "(55/72)",
+            "Status": "Rendering (17)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST015_51326_04",
             "est.": "00:00:01",
             "Priority": "60"
         }
