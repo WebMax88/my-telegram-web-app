@@ -1,17 +1,17 @@
 {
-    "MAGNIT_ICE_ROCS": [
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
-            "Name": "BNK_020_v10-/out",
-            "Task_name": "BNK_020_v10 - /out/melon",
-            "User": "shashkov",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v03 - /out/main",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(78/79)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:01",
+            "Progress": "0%",
+            "Tasks": "(0/45)",
+            "Status": "Rendering (4)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main",
+            "est.": "unknown",
             "Priority": "60"
         }
     ],
@@ -31,22 +31,21 @@
             "Priority": "60"
         }
     ],
-    "SUMMER_CLASSIC_JOZI": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "TST015_51326_04",
-            "Task_name": "TST015_51326_04",
-            "User": "hozhaev",
-            "Progress": "44%",
-            "Tasks": "(32/72)",
-            "Status": "Rendering (28)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST015_51326_04",
-            "est.": "00:19:08",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
+            "Name": "Concert_comp_v02",
+            "Task_name": "Concert_comp_v02.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "18%",
+            "Tasks": "(9/50)",
+            "Status": "Rendering (31)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v02.nk",
+            "est.": "00:00:26",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "0%",
             "Name": "City_Streets_009",
@@ -74,6 +73,53 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST015_51326_04",
+            "Task_name": "TST015_51326_04",
+            "User": "hozhaev",
+            "Progress": "44%",
+            "Tasks": "(32/72)",
+            "Status": "Rendering (28)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST015_51326_04",
+            "est.": "00:19:08",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "0%",
+            "Name": "BNK_020_v10-/out",
+            "Task_name": "BNK_020_v10 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(78/79)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_017_comp_v01",
+            "Task_name": "ZIV_017_comp_v01.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(29/29)",
+            "Status": "Completed",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_017_comp_v01.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
         }
     ]
 }
