@@ -6,9 +6,9 @@
             "Task_name": "Professional_Court_v09 - /stage/net_crop/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(55/60)",
-            "Status": "Rendering (5)",
+            "Progress": "96%",
+            "Tasks": "(58/60)",
+            "Status": "Rendering (2)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -21,57 +21,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "8%",
-            "Tasks": "(20/250)",
-            "Status": "Rendering (14)",
+            "Tasks": "(22/250)",
+            "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "06:57:51",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v09 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(55/60)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v04 - /out/CLOUDS",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(45/46)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_050_v54-/out",
-            "Task_name": "TST_050_v54 - /out/IngYang",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(81/82)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "IngYang",
-            "est.": "00:00:01",
+            "est.": "06:23:35",
             "Priority": "60"
         }
     ]
