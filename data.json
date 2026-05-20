@@ -1,5 +1,35 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v04",
+            "Task_name": "Comedy_Stage_v04 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(146/250)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:56:49",
+            "Priority": "60"
+        }
+    ],
     "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Vellum_Scene_v03",
+            "Task_name": "Vellum_Scene_v03 - /out/M_Fur",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "11%",
+            "Tasks": "(295/2475)",
+            "Status": "Rendering (40)",
+            "Project": "TUTORS",
+            "Render": "M_Fur",
+            "est.": "06:16:08",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "0%",
             "Name": "vtest.nk",
@@ -13,36 +43,6 @@
             "Render": "vtest.nk",
             "est.": "unknown",
             "Priority": "80"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Vellum_Scene_v03",
-            "Task_name": "Vellum_Scene_v03 - /out/M_Fur",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(272/2475)",
-            "Status": "Rendering (40)",
-            "Project": "TUTORS",
-            "Render": "M_Fur",
-            "est.": "06:26:22",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v04",
-            "Task_name": "Comedy_Stage_v04 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(145/250)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:59:07",
-            "Priority": "60"
         }
     ]
 }
