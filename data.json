@@ -3,29 +3,29 @@
         {
             "Task_Progress": "100%",
             "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v07 - /stage/net_crop/usdrender_rop",
+            "Task_name": "Professional_Court_v07 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(27/60)",
+            "Progress": "58%",
+            "Tasks": "(35/60)",
             "Status": "Rendering (4)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:41:20",
+            "est.": "00:30:25",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v07 - /stage/main/usdrender_rop",
+            "Task_name": "Professional_Court_v07 - /stage/net_crop/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(29/60)",
+            "Progress": "51%",
+            "Tasks": "(31/60)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:30:22",
+            "est.": "00:27:24",
             "Priority": "60"
         }
     ],
@@ -41,22 +41,6 @@
             "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "grape",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Rich_Tea_Multon_",
-            "Task_name": "Rich_Tea_Multon_env_shading_v17 - /obj/lopnet1/main/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(48/49)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
