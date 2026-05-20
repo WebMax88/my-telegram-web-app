@@ -1,4 +1,20 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_comp_v02",
+            "Task_name": "Concert_comp_v02.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "2%",
+            "Tasks": "(1/50)",
+            "Status": "Rendering (29)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v02.nk",
+            "est.": "00:00:52",
+            "Priority": "90"
+        }
+    ],
     "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
@@ -22,12 +38,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Fish_v004 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(84/100)",
-            "Status": "Rendering (7)",
+            "Progress": "92%",
+            "Tasks": "(92/100)",
+            "Status": "Rendering (6)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:03:18",
+            "est.": "00:00:51",
             "Priority": "60"
         }
     ],
@@ -37,9 +53,9 @@
             "Name": "TST015_51326_04",
             "Task_name": "TST015_51326_04",
             "User": "hozhaev",
-            "Progress": "76%",
-            "Tasks": "(55/72)",
-            "Status": "Rendering (17)",
+            "Progress": "77%",
+            "Tasks": "(56/72)",
+            "Status": "Rendering (16)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_04",
             "est.": "00:00:01",
