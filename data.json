@@ -1,81 +1,19 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v04-/obj/Con",
-            "Task_name": "NRG_v04 - /obj/Construct_02/lopnet1/main/usdrender_rop",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(10/41)",
-            "Status": "Rendering (15)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:01:16",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v13-/out",
-            "Task_name": "BNK_010_v13 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(73/97)",
-            "Status": "Rendering (16)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:01:13",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v13-/out",
-            "Task_name": "BNK_010_v13 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(82/97)",
-            "Status": "Rendering (14)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:10",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v07 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(15/60)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:47:28",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v07 - /stage/net_crop/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(15/60)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:58:48",
-            "Priority": "60"
-        }
-    ],
     "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_020_comp_v15",
+            "Task_name": "RIC_020_comp_v15.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "70%",
+            "Tasks": "(7/10)",
+            "Status": "Rendering (3)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_020_comp_v15.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Rich_Tea_Multon_",
@@ -87,6 +25,52 @@
             "Status": "Rendering (1)",
             "Project": "RICH_TEA_MULTON",
             "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v07 - /stage/net_crop/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "31%",
+            "Tasks": "(19/60)",
+            "Status": "Rendering (4)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:53:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v07 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "31%",
+            "Tasks": "(19/60)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:42:38",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v13-/out",
+            "Task_name": "BNK_010_v13 - /out/grape",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "94%",
+            "Tasks": "(92/97)",
+            "Status": "Rendering (5)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
         }
