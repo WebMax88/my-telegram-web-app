@@ -2,13 +2,13 @@
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v05 - /out/CLOUDS",
+            "Name": "Nighttime_Earth_",
+            "Task_name": "Nighttime_Earth_v03 - /out/CLOUDS",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(88/90)",
-            "Status": "Rendering (2)",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS",
             "est.": "00:00:01",
@@ -16,8 +16,8 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "Nighttime_Earth_",
-            "Task_name": "Nighttime_Earth_v03 - /out/CLOUDS",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v05 - /out/CLOUDS",
             "User": "goncharov",
             "Plugin": "Houdini",
             "Progress": "98%",
@@ -36,12 +36,12 @@
             "Task_name": "Comedy_Stage_v04 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(54/250)",
+            "Progress": "22%",
+            "Tasks": "(56/250)",
             "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:30:08",
+            "est.": "05:25:07",
             "Priority": "60"
         }
     ]
