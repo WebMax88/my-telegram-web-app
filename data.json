@@ -6,12 +6,12 @@
             "Task_name": "City_Streets_009 - /obj/lopnet1/shadow/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(13/61)",
+            "Progress": "26%",
+            "Tasks": "(16/61)",
             "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:05:32",
+            "est.": "01:51:25",
             "Priority": "60"
         },
         {
@@ -20,58 +20,42 @@
             "Task_name": "City_Streets_009 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(10/61)",
+            "Progress": "32%",
+            "Tasks": "(20/61)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:22:03",
+            "est.": "00:16:15",
             "Priority": "75"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v004 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(26/100)",
-            "Status": "Rendering (6)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:29:10",
-            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v03 - /out/atmo",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/45)",
-            "Status": "Rendering (8)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "atmo",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v0",
             "Task_name": "Daytime_Earth_v03 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/45)",
-            "Status": "Rendering (4)",
+            "Progress": "51%",
+            "Tasks": "(23/45)",
+            "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "unknown",
+            "est.": "00:03:10",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v03 - /out/atmo",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "82%",
+            "Tasks": "(37/45)",
+            "Status": "Rendering (6)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "atmo",
+            "est.": "00:00:12",
             "Priority": "60"
         }
     ],
@@ -97,29 +81,29 @@
             "Name": "TST015_51326_04",
             "Task_name": "TST015_51326_04",
             "User": "hozhaev",
-            "Progress": "51%",
-            "Tasks": "(37/72)",
-            "Status": "Rendering (23)",
+            "Progress": "55%",
+            "Tasks": "(40/72)",
+            "Status": "Rendering (20)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "TST015_51326_04",
-            "est.": "00:23:33",
+            "est.": "00:26:42",
             "Priority": "60"
         }
     ],
-    "ZIV_RETOUCH": [
+    "SIDE_MISSIONS_BK": [
         {
-            "Task_Progress": "0%",
-            "Name": "ZIV_076_comp_v01",
-            "Task_name": "ZIV_076_comp_v01.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/14)",
-            "Status": "Queued",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_076_comp_v01.nk",
-            "est.": "unknown",
-            "Priority": "90"
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v004 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "36%",
+            "Tasks": "(36/100)",
+            "Status": "Rendering (6)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:25:01",
+            "Priority": "60"
         }
     ]
 }
