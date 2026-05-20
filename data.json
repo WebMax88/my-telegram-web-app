@@ -1,18 +1,32 @@
 {
-    "MAGNIT_ICE_ROCS": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "BNK_020_v07-/out",
-            "Task_name": "BNK_020_v07 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(78/79)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
+            "Name": "RIC_100_comp_v11",
+            "Task_name": "RIC_100_comp_v11.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "73%",
+            "Tasks": "(11/15)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_100_comp_v11.nk",
             "est.": "00:00:01",
-            "Priority": "60"
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_ai_parts",
+            "Task_name": "RIC_130_ai_parts_v15.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "10%",
+            "Tasks": "(3/29)",
+            "Status": "Rendering (6)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_ai_parts_v15.nk",
+            "est.": "00:03:51",
+            "Priority": "90"
         }
     ]
 }
