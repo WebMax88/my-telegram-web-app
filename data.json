@@ -7,11 +7,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "64%",
-            "Tasks": "(160/250)",
+            "Tasks": "(161/250)",
             "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:17:54",
+            "est.": "02:16:03",
             "Priority": "60"
         }
     ],
@@ -22,12 +22,12 @@
             "Task_name": "Vellum_Scene_v03 - /out/M_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(406/2475)",
-            "Status": "Rendering (36)",
+            "Progress": "17%",
+            "Tasks": "(422/2475)",
+            "Status": "Rendering (37)",
             "Project": "TUTORS",
             "Render": "M_Fur",
-            "est.": "06:57:58",
+            "est.": "06:56:32",
             "Priority": "60"
         },
         {
@@ -36,12 +36,12 @@
             "Task_name": "vtest.nk",
             "User": "hozhaev",
             "Plugin": "Nuke",
-            "Progress": "23%",
-            "Tasks": "(22/95)",
-            "Status": "Rendering (7)",
+            "Progress": "96%",
+            "Tasks": "(92/95)",
+            "Status": "Rendering (2)",
             "Project": "TUTORS",
             "Render": "vtest.nk",
-            "est.": "00:04:26",
+            "est.": "00:00:14",
             "Priority": "80"
         }
     ]
