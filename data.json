@@ -6,28 +6,12 @@
             "Task_name": "Vellum_Scene_v03 - /out/M_Fur",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(1292/2475)",
-            "Status": "Rendering (53)",
+            "Progress": "54%",
+            "Tasks": "(1339/2475)",
+            "Status": "Rendering (52)",
             "Project": "TUTORS",
             "Render": "M_Fur",
-            "est.": "02:51:10",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v04",
-            "Task_name": "Comedy_Stage_v04 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "02:45:21",
             "Priority": "60"
         }
     ]
