@@ -1,34 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v02-/out",
-            "Task_name": "MAR_020_v02 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v02-/out",
-            "Task_name": "MAR_020_v02 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "0%",
