@@ -1,4 +1,20 @@
 {
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_015_v02-/out",
+            "Task_name": "TST_015_v02 - /out/Cloth",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "66%",
+            "Tasks": "(10/15)",
+            "Status": "Rendering (5)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "Cloth",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -17,12 +33,12 @@
     ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "28%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v11 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "0%",
+            "Progress": "28%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
@@ -31,34 +47,18 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "20%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v11 - /stage/volume/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
+            "Task_Progress": "100%",
+            "Name": "City_streets_com",
+            "Task_name": "City_streets_comp_v03.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "68%",
+            "Tasks": "(17/25)",
+            "Status": "Rendering (8)",
             "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "60%",
-            "Name": "TST_015_v02-/out",
-            "Task_name": "TST_015_v02 - /out/Cloth",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(1/15)",
-            "Status": "Rendering (14)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "Cloth",
+            "Render": "City_streets_comp_v03.nk",
             "est.": "00:00:01",
-            "Priority": "60"
+            "Priority": "90"
         }
     ]
 }
