@@ -1,45 +1,33 @@
 {
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "40%",
+            "Name": "TST_015_v05-/out",
+            "Task_name": "TST_015_v05 - /out/Cloth",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(3/15)",
+            "Status": "Rendering (12)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "Cloth",
+            "est.": "00:00:01",
+            "Priority": "70"
+        }
+    ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(16/60)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:17:05",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "QC_splash_v17-/o",
-            "Task_name": "QC_splash_v17 - /out/net",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/121)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "net",
-            "est.": "unknown",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(18/60)",
-            "Status": "Rendering (5)",
+            "Progress": "36%",
+            "Tasks": "(22/60)",
+            "Status": "Rendering (4)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:53:02",
+            "est.": "02:03:39",
             "Priority": "60"
         },
         {
@@ -48,12 +36,12 @@
             "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(50/250)",
-            "Status": "Rendering (14)",
+            "Progress": "22%",
+            "Tasks": "(57/250)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:34:49",
+            "est.": "02:53:00",
             "Priority": "60"
         },
         {
@@ -62,12 +50,12 @@
             "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(51/125)",
-            "Status": "Rendering (13)",
+            "Progress": "48%",
+            "Tasks": "(60/125)",
+            "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:51:29",
+            "est.": "01:01:40",
             "Priority": "60"
         },
         {
@@ -76,45 +64,41 @@
             "Task_name": "Professional_Court_v13 - /stage/volume/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(38/60)",
+            "Progress": "73%",
+            "Tasks": "(44/60)",
+            "Status": "Rendering (2)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:26:36",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "30%",
+            "Tasks": "(18/60)",
             "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:24:06",
+            "est.": "02:11:52",
             "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v07 - /out/CLOUDS_step",
-            "User": "goncharov",
+            "Name": "QC_splash_v17-/o",
+            "Task_name": "QC_splash_v17 - /out/net",
+            "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "20%",
-            "Name": "TST_015_v05-/out",
-            "Task_name": "TST_015_v05 - /out/Cloth",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/15)",
-            "Status": "Rendering (15)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "Cloth",
-            "est.": "unknown",
-            "Priority": "70"
+            "Progress": "34%",
+            "Tasks": "(42/121)",
+            "Status": "Rendering (19)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "net",
+            "est.": "00:05:02",
+            "Priority": "80"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
