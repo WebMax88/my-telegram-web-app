@@ -1,51 +1,19 @@
 {
-    "ZIV_RETOUCH": [
+    "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
-            "Name": "ZIV_017_comp_v02",
-            "Task_name": "ZIV_017_comp_v02.nk",
-            "User": "shvetsov",
+            "Name": "BNK_010_comp_v14",
+            "Task_name": "BNK_010_comp_v14.nk",
+            "User": "pankova",
             "Plugin": "Nuke",
-            "Progress": "17%",
-            "Tasks": "(3/17)",
-            "Status": "Rendering (3)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_017_comp_v02.nk",
-            "est.": "00:03:44",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "ZIV_017_comp_v02",
-            "Task_name": "ZIV_017_comp_v02.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "35%",
-            "Tasks": "(6/17)",
+            "Progress": "97%",
+            "Tasks": "(48/49)",
             "Status": "Rendering (1)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_017_comp_v02.nk",
-            "est.": "00:07:50",
-            "Priority": "90"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "City_streets_com",
-            "Task_name": "City_streets_comp_v03.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "52%",
-            "Tasks": "(13/25)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "City_streets_comp_v03.nk",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_010_comp_v14.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "BNK_020_v13-/out",
@@ -59,6 +27,38 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "City_streets_com",
+            "Task_name": "City_streets_comp_v03.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "8%",
+            "Tasks": "(2/25)",
+            "Status": "Rendering (23)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "City_streets_comp_v03.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_017_comp_v02",
+            "Task_name": "ZIV_017_comp_v02.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "70%",
+            "Tasks": "(12/17)",
+            "Status": "Rendering (5)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_017_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
