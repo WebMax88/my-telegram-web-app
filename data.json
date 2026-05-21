@@ -1,20 +1,4 @@
 {
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ZIV_039_comp_v02",
-            "Task_name": "ZIV_039_comp_v02.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "64%",
-            "Tasks": "(9/14)",
-            "Status": "Rendering (5)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_039_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -22,25 +6,11 @@
             "Task_name": "QC_splash_v08 - /out/net",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(87/121)",
-            "Status": "Rendering (34)",
+            "Progress": "99%",
+            "Tasks": "(120/121)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "net",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QC_splash_v08-/o",
-            "Task_name": "QC_splash_v08 - /out/splash",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(58/62)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "splash",
             "est.": "00:00:01",
             "Priority": "60"
         }
