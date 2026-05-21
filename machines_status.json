@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -50,7 +50,7 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
