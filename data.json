@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "0%",
-            "Name": "NRG_v06_s.shot_0",
-            "Task_name": "NRG_v06_s.shot_01.nk",
-            "User": "ushakova",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/8)",
-            "Status": "Queued",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "NRG_v06_s.shot_01.nk",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "MAR_020_v02 - /out/shelf",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(34/62)",
-            "Status": "Rendering (18)",
+            "Progress": "91%",
+            "Tasks": "(57/62)",
+            "Status": "Rendering (5)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "shelf",
-            "est.": "00:01:53",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -36,9 +20,9 @@
             "Task_name": "MAR_020_v02 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(56/62)",
-            "Status": "Rendering (6)",
+            "Progress": "93%",
+            "Tasks": "(58/62)",
+            "Status": "Rendering (4)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
             "est.": "00:00:01",
@@ -52,12 +36,28 @@
             "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(242/250)",
-            "Status": "Rendering (8)",
+            "Progress": "99%",
+            "Tasks": "(248/250)",
+            "Status": "Rendering (2)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "0%",
+            "Name": "NRG_v06_s.shot_0",
+            "Task_name": "NRG_v06_s.shot_01.nk",
+            "User": "ushakova",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/8)",
+            "Status": "Queued",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "NRG_v06_s.shot_01.nk",
+            "est.": "unknown",
             "Priority": "60"
         }
     ]
