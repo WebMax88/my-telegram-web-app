@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "Rendering",
+        "status": "StartingJob",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -165,12 +165,12 @@
         "user": "Alexander Povstyanoy"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws152",
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS153",
         "user": "Dzhosha Rahmonov"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
