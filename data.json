@@ -2,20 +2,6 @@
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
-            "Name": "BNK_010_comp_v14",
-            "Task_name": "BNK_010_comp_v14.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(48/49)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "BNK_010_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "BNK_020_v13-/out",
             "Task_name": "BNK_020_v13 - /out/grape",
             "User": "shashkov",
@@ -27,6 +13,20 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_comp_v14",
+            "Task_name": "BNK_010_comp_v14.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "97%",
+            "Tasks": "(48/49)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_010_comp_v14.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
@@ -36,27 +36,11 @@
             "Task_name": "City_streets_comp_v03.nk",
             "User": "shindin",
             "Plugin": "Nuke",
-            "Progress": "8%",
-            "Tasks": "(2/25)",
-            "Status": "Rendering (23)",
+            "Progress": "40%",
+            "Tasks": "(10/25)",
+            "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "City_streets_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ZIV_017_comp_v02",
-            "Task_name": "ZIV_017_comp_v02.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "70%",
-            "Tasks": "(12/17)",
-            "Status": "Rendering (5)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_017_comp_v02.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
