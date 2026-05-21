@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws47",
         "user": "---"
     },
@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -100,12 +100,12 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
@@ -255,7 +255,7 @@
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
