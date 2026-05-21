@@ -1,36 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_015_v02-/out",
-            "Task_name": "TST_015_v02 - /out/Cloth",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(14/15)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "Cloth",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_090_comp_v08",
-            "Task_name": "RIC_090_comp_v08.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(15/16)",
-            "Status": "Rendering (1)",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_090_comp_v08.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -43,6 +11,22 @@
             "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "grape",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_015_v02-/out",
+            "Task_name": "TST_015_v02 - /out/Cloth",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(14/15)",
+            "Status": "Rendering (1)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "Cloth",
             "est.": "00:00:01",
             "Priority": "60"
         }
