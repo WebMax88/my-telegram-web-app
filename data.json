@@ -7,11 +7,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "10%",
-            "Tasks": "(26/250)",
-            "Status": "Rendering (12)",
+            "Tasks": "(27/250)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "03:10:45",
+            "est.": "02:53:49",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Professional_Court_v13 - /stage/volume/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(16/60)",
+            "Progress": "30%",
+            "Tasks": "(18/60)",
             "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:51:05",
+            "est.": "00:48:44",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(19/125)",
-            "Status": "Rendering (13)",
+            "Progress": "21%",
+            "Tasks": "(27/125)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:14:06",
+            "est.": "01:14:44",
             "Priority": "60"
         },
         {
@@ -62,12 +62,12 @@
             "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(9/60)",
+            "Progress": "16%",
+            "Tasks": "(10/60)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:03:43",
+            "est.": "02:03:15",
             "Priority": "60"
         }
     ],
