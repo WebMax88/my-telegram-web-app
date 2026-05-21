@@ -1,4 +1,20 @@
 {
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_137_comp_v01",
+            "Task_name": "ZIV_137_comp_v01.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "93%",
+            "Tasks": "(14/15)",
+            "Status": "Rendering (1)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_137_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -17,12 +33,12 @@
     ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "23%",
+            "Task_Progress": "33%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v10 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "23%",
+            "Progress": "33%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
