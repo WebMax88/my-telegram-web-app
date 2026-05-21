@@ -1,20 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "40%",
-            "Name": "TST_015_v05-/out",
-            "Task_name": "TST_015_v05 - /out/Cloth",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(3/15)",
-            "Status": "Rendering (12)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "Cloth",
-            "est.": "00:00:01",
-            "Priority": "70"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(22/60)",
-            "Status": "Rendering (4)",
+            "Progress": "41%",
+            "Tasks": "(25/60)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:03:39",
+            "est.": "08:27:59",
             "Priority": "60"
         },
         {
@@ -36,26 +20,12 @@
             "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(57/250)",
-            "Status": "Rendering (12)",
+            "Progress": "25%",
+            "Tasks": "(64/250)",
+            "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:53:00",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(60/125)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:01:40",
+            "est.": "07:33:55",
             "Priority": "60"
         },
         {
@@ -64,26 +34,26 @@
             "Task_name": "Professional_Court_v13 - /stage/volume/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(44/60)",
-            "Status": "Rendering (2)",
+            "Progress": "80%",
+            "Tasks": "(48/60)",
+            "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:26:36",
+            "est.": "00:11:24",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(18/60)",
-            "Status": "Rendering (3)",
+            "Progress": "51%",
+            "Tasks": "(64/125)",
+            "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:11:52",
+            "est.": "01:42:35",
             "Priority": "60"
         },
         {
@@ -92,13 +62,75 @@
             "Task_name": "QC_splash_v17 - /out/net",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(42/121)",
-            "Status": "Rendering (19)",
+            "Progress": "76%",
+            "Tasks": "(93/121)",
+            "Status": "Rendering (27)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "net",
-            "est.": "00:05:02",
+            "est.": "00:00:03",
             "Priority": "80"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "33%",
+            "Tasks": "(20/60)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "07:00:07",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v07 - /out/CLOUDS_step",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(2/90)",
+            "Status": "Rendering (7)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step",
+            "est.": "00:16:00",
+            "Priority": "60"
+        }
+    ],
+    "CONCELLULAR_MOWER_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BCH_030_comp_v06",
+            "Task_name": "BCH_030_comp_v06.nk",
+            "User": "sattarov",
+            "Plugin": "Nuke",
+            "Progress": "64%",
+            "Tasks": "(18/28)",
+            "Status": "Rendering (10)",
+            "Project": "CONCELLULAR_MOWER_PRLM",
+            "Render": "BCH_030_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "80%",
+            "Name": "TST_015_v05-/out",
+            "Task_name": "TST_015_v05 - /out/Cloth",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(4/15)",
+            "Status": "Rendering (11)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "Cloth",
+            "est.": "00:00:01",
+            "Priority": "70"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
