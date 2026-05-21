@@ -1,4 +1,20 @@
 {
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_140_comp_v01",
+            "Task_name": "ZIV_140_comp_v01.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(12/13)",
+            "Status": "Rendering (1)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_140_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -13,6 +29,20 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_comp_v06",
+            "Task_name": "BNK_020_comp_v06.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "21%",
+            "Tasks": "(6/28)",
+            "Status": "Rendering (20)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_020_comp_v06.nk",
+            "est.": "00:00:02",
+            "Priority": "90"
         }
     ]
 }
