@@ -2,48 +2,6 @@
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
-            "Name": "BNK_020_v18-/out",
-            "Task_name": "BNK_020_v18 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(77/79)",
-            "Status": "Rendering (2)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_comp_v14",
-            "Task_name": "BNK_010_comp_v14.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "42%",
-            "Tasks": "(21/49)",
-            "Status": "Rendering (28)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "BNK_010_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_020_v17-/out",
-            "Task_name": "BNK_020_v17 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(78/79)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "BNK_020_v13-/out",
             "Task_name": "BNK_020_v13 - /out/grape",
             "User": "shashkov",
@@ -55,6 +13,36 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v18-/out",
+            "Task_name": "BNK_020_v18 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(78/79)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_130_ai_parts",
+            "Task_name": "RIC_130_ai_parts_v16.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "68%",
+            "Tasks": "(20/29)",
+            "Status": "Rendering (7)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_ai_parts_v16.nk",
+            "est.": "00:00:16",
+            "Priority": "90"
         }
     ]
 }
