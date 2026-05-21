@@ -6,12 +6,12 @@
             "Task_name": "RIC_130_comp_v19.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "27%",
-            "Tasks": "(8/29)",
-            "Status": "Rendering (8)",
+            "Progress": "93%",
+            "Tasks": "(27/29)",
+            "Status": "Rendering (2)",
             "Project": "RICH_TEA_MULTON",
             "Render": "RIC_130_comp_v19.nk",
-            "est.": "00:01:24",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
@@ -29,22 +29,6 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_comp_v03",
-            "Task_name": "Concert_comp_v03.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Concert_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
