@@ -1,61 +1,17 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v07 - /out/CLOUDS_step",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(88/90)",
-            "Status": "Rendering (2)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(27/60)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:46:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/volume/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(57/60)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Box_Ring_v005-/o",
             "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(75/250)",
+            "Progress": "32%",
+            "Tasks": "(81/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:43:21",
+            "est.": "02:38:57",
             "Priority": "60"
         },
         {
@@ -64,12 +20,12 @@
             "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(73/125)",
-            "Status": "Rendering (13)",
+            "Progress": "60%",
+            "Tasks": "(76/125)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:33:23",
+            "est.": "00:34:03",
             "Priority": "60"
         },
         {
@@ -80,10 +36,24 @@
             "Plugin": "Houdini",
             "Progress": "38%",
             "Tasks": "(23/60)",
-            "Status": "Rendering (4)",
+            "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:28:26",
+            "est.": "01:08:36",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(30/60)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:58:00",
             "Priority": "60"
         }
     ],
@@ -100,6 +70,22 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "NRG_v06_s.shot_01.nk",
             "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v07 - /out/CLOUDS_step",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
