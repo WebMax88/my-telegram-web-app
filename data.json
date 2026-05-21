@@ -1,62 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(121/125)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(44/60)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:15:02",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(56/60)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(134/250)",
-            "Status": "Rendering (22)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:55:07",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "0%",
@@ -70,6 +12,64 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "NRG_v06_s.shot_01.nk",
             "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(58/60)",
+            "Status": "Rendering (2)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(146/250)",
+            "Status": "Rendering (22)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:48:41",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(122/125)",
+            "Status": "Rendering (3)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "80%",
+            "Tasks": "(48/60)",
+            "Status": "Rendering (8)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:05:46",
             "Priority": "60"
         }
     ]
