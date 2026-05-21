@@ -1,4 +1,48 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QC_splash_v09-/o",
+            "Task_name": "QC_splash_v09 - /out/splash",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(60/62)",
+            "Status": "Rendering (2)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "splash",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "City_Streets_010",
+            "Task_name": "City_Streets_010 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(31/121)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:09:40",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "City_Streets_010",
+            "Task_name": "City_Streets_010 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(28/121)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:11:31",
+            "Priority": "60"
+        }
+    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -13,64 +57,22 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_020_comp_v08",
-            "Task_name": "BNK_020_comp_v08.nk",
-            "User": "f.smirnov",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(28/28)",
-            "Status": "Completed",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "BNK_020_comp_v08.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
         }
     ],
-    "QIDDIYA_CHARLY": [
+    "ZIV_RETOUCH": [
         {
             "Task_Progress": "100%",
-            "Name": "QC_splash_v09-/o",
-            "Task_name": "QC_splash_v09 - /out/splash",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(43/62)",
-            "Status": "Rendering (18)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "splash",
-            "est.": "00:00:04",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "City_Streets_010",
-            "Task_name": "City_Streets_010 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(6/121)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:15:02",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "City_Streets_010",
-            "Task_name": "City_Streets_010 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(3/121)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:13:08",
-            "Priority": "60"
+            "Name": "ZIV_139_comp_v01",
+            "Task_name": "ZIV_139_comp_v01.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(25/27)",
+            "Status": "Rendering (2)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_139_comp_v01.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
         }
     ]
 }
