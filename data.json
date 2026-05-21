@@ -2,34 +2,50 @@
     "ZIV_RETOUCH": [
         {
             "Task_Progress": "100%",
-            "Name": "ZIV_039_comp_v02",
-            "Task_name": "ZIV_039_comp_v02.nk",
-            "User": "lukyanova",
+            "Name": "ZIV_017_comp_v02",
+            "Task_name": "ZIV_017_comp_v02.nk",
+            "User": "shvetsov",
             "Plugin": "Nuke",
-            "Progress": "78%",
-            "Tasks": "(11/14)",
+            "Progress": "17%",
+            "Tasks": "(3/17)",
             "Status": "Rendering (3)",
             "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_039_comp_v02.nk",
+            "Render": "ZIV_017_comp_v02.nk",
+            "est.": "00:03:44",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_017_comp_v02",
+            "Task_name": "ZIV_017_comp_v02.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "35%",
+            "Tasks": "(6/17)",
+            "Status": "Rendering (1)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_017_comp_v02.nk",
+            "est.": "00:07:50",
+            "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "City_streets_com",
+            "Task_name": "City_streets_comp_v03.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "52%",
+            "Tasks": "(13/25)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "City_streets_comp_v03.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
     ],
     "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_comp_v14",
-            "Task_name": "BNK_010_comp_v14.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "71%",
-            "Tasks": "(35/49)",
-            "Status": "Rendering (12)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "BNK_010_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
         {
             "Task_Progress": "100%",
             "Name": "BNK_020_v13-/out",
