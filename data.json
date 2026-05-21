@@ -6,12 +6,12 @@
             "Task_name": "BNK_020_v15 - /out/melon",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(36/79)",
-            "Status": "Rendering (25)",
+            "Progress": "96%",
+            "Tasks": "(76/79)",
+            "Status": "Rendering (3)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "melon",
-            "est.": "00:02:01",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "BNK_020_v15 - /out/grape",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(32/79)",
-            "Status": "Rendering (25)",
+            "Progress": "94%",
+            "Tasks": "(75/79)",
+            "Status": "Rendering (4)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "grape",
-            "est.": "00:02:52",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
