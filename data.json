@@ -1,20 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(233/250)",
-            "Status": "Rendering (11)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:06:57",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "0%",
@@ -38,12 +22,12 @@
             "Task_name": "MAR_020_v02 - /out/shelf",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(9/62)",
+            "Progress": "41%",
+            "Tasks": "(26/62)",
             "Status": "Rendering (12)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "shelf",
-            "est.": "00:09:37",
+            "est.": "00:06:38",
             "Priority": "60"
         },
         {
@@ -52,12 +36,28 @@
             "Task_name": "MAR_020_v02 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(35/62)",
-            "Status": "Rendering (8)",
+            "Progress": "82%",
+            "Tasks": "(51/62)",
+            "Status": "Rendering (10)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
-            "est.": "00:02:08",
+            "est.": "00:00:06",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(240/250)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
