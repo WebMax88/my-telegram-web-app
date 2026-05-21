@@ -1,34 +1,4 @@
 {
-    "RICH_TEA_MULTON": [
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_096_comp_v09",
-            "Task_name": "RIC_096_comp_v09.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(36/36)",
-            "Status": "Completed",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_096_comp_v09.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "RIC_130_ai_parts",
-            "Task_name": "RIC_130_ai_parts_v16.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(29/29)",
-            "Status": "Completed",
-            "Project": "RICH_TEA_MULTON",
-            "Render": "RIC_130_ai_parts_v16.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        }
-    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -43,6 +13,22 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_comp_v14",
+            "Task_name": "TST_050_comp_v14_long.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "35%",
+            "Tasks": "(6/17)",
+            "Status": "Rendering (8)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "TST_050_comp_v14_long.nk",
+            "est.": "00:00:16",
+            "Priority": "90"
         }
     ]
 }
