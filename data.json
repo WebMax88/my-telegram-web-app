@@ -1,19 +1,21 @@
 {
-    "MAGNIT_ICE_ROCS": [
+    "RICH_TEA_MULTON": [
         {
             "Task_Progress": "100%",
-            "Name": "BNK_010_comp_v14",
-            "Task_name": "BNK_010_comp_v14.nk",
-            "User": "pankova",
+            "Name": "RIC_130_ai_parts",
+            "Task_name": "RIC_130_ai_parts_v16.nk",
+            "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "83%",
-            "Tasks": "(41/49)",
-            "Status": "Rendering (8)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "BNK_010_comp_v14.nk",
+            "Progress": "86%",
+            "Tasks": "(25/29)",
+            "Status": "Rendering (4)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_130_ai_parts_v16.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        },
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
             "Name": "BNK_020_v13-/out",
@@ -27,6 +29,22 @@
             "Render": "grape",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_007_comp_v02",
+            "Task_name": "ZIV_007_comp_v02.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(12/13)",
+            "Status": "Rendering (1)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_007_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
