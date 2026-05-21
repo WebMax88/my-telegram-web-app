@@ -15,6 +15,22 @@
             "Priority": "90"
         }
     ],
+    "RICH_TEA_MULTON": [
+        {
+            "Task_Progress": "100%",
+            "Name": "RIC_090_comp_v08",
+            "Task_name": "RIC_090_comp_v08.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "50%",
+            "Tasks": "(8/16)",
+            "Status": "Rendering (8)",
+            "Project": "RICH_TEA_MULTON",
+            "Render": "RIC_090_comp_v08.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
