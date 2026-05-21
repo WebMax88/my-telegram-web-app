@@ -2,20 +2,6 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(178/250)",
-            "Status": "Rendering (11)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:14:26",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
             "User": "aleksandrov",
@@ -41,35 +27,19 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v01-/out",
-            "Task_name": "MAR_020_v01 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(20/62)",
-            "Status": "Rendering (10)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:10:21",
-            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "MAR_020_v01-/out",
-            "Task_name": "MAR_020_v01 - /out/hero",
-            "User": "shashkov",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(52/62)",
-            "Status": "Rendering (10)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
+            "Progress": "74%",
+            "Tasks": "(185/250)",
+            "Status": "Rendering (13)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:53:23",
             "Priority": "60"
         }
     ],
@@ -86,6 +56,36 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "NRG_v06_s.shot_01.nk",
             "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v01-/out",
+            "Task_name": "MAR_020_v01 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "90%",
+            "Tasks": "(56/62)",
+            "Status": "Rendering (6)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v01-/out",
+            "Task_name": "MAR_020_v01 - /out/shelf",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "53%",
+            "Tasks": "(33/62)",
+            "Status": "Rendering (13)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "shelf",
+            "est.": "00:04:19",
             "Priority": "60"
         }
     ]
