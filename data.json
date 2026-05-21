@@ -2,30 +2,16 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(7/125)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:11:24",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(3/60)",
+            "Progress": "8%",
+            "Tasks": "(5/60)",
             "Status": "Rendering (4)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:21:48",
+            "est.": "02:04:40",
             "Priority": "60"
         },
         {
@@ -34,26 +20,12 @@
             "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(5/60)",
+            "Progress": "10%",
+            "Tasks": "(6/60)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:45:26",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(17/250)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:06:15",
+            "est.": "01:51:47",
             "Priority": "60"
         },
         {
@@ -62,12 +34,40 @@
             "Task_name": "Professional_Court_v13 - /stage/volume/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(4/60)",
+            "Progress": "15%",
+            "Tasks": "(9/60)",
             "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:06:52",
+            "est.": "01:00:23",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "7%",
+            "Tasks": "(18/250)",
+            "Status": "Rendering (13)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:05:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "8%",
+            "Tasks": "(10/125)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:19:30",
             "Priority": "60"
         }
     ],
@@ -85,6 +85,22 @@
             "Render": "NRG_v06_s.shot_01.nk",
             "est.": "unknown",
             "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_014_comp_v02",
+            "Task_name": "TST_014_comp_v02.nk",
+            "User": "sidenina",
+            "Plugin": "Nuke",
+            "Progress": "46%",
+            "Tasks": "(7/15)",
+            "Status": "Rendering (7)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_014_comp_v02.nk",
+            "est.": "00:00:04",
+            "Priority": "90"
         }
     ]
 }
