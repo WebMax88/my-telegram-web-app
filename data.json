@@ -1,4 +1,76 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "10%",
+            "Tasks": "(26/250)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:10:45",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/volume/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(16/60)",
+            "Status": "Rendering (3)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:51:05",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_v005-/o",
+            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "15%",
+            "Tasks": "(19/125)",
+            "Status": "Rendering (13)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:14:06",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "13%",
+            "Tasks": "(8/60)",
+            "Status": "Rendering (3)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:45:09",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "15%",
+            "Tasks": "(9/60)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:03:43",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "0%",
@@ -12,78 +84,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "NRG_v06_s.shot_01.nk",
             "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(6/60)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:51:47",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(21/250)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:58:09",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/volume/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(12/60)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:56:26",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v005-/o",
-            "Task_name": "Box_Ring_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(18/125)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:15:26",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/net_crop/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(5/60)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:04:40",
             "Priority": "60"
         }
     ]
