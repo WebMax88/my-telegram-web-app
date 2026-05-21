@@ -2,17 +2,17 @@
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
-            "Name": "BNK_020_v15-/out",
-            "Task_name": "BNK_020_v15 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(76/79)",
-            "Status": "Rendering (3)",
+            "Name": "BNK_010_comp_v14",
+            "Task_name": "BNK_010_comp_v14.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "95%",
+            "Tasks": "(47/49)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:01",
-            "Priority": "60"
+            "Render": "BNK_010_comp_v14.nk",
+            "est.": "00:00:15",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -23,20 +23,6 @@
             "Progress": "97%",
             "Tasks": "(77/79)",
             "Status": "Rendering (2)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_020_v15-/out",
-            "Task_name": "BNK_020_v15 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(75/79)",
-            "Status": "Rendering (4)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "grape",
             "est.": "00:00:01",
