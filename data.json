@@ -1,18 +1,18 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "TST_015_v06-/out",
-            "Task_name": "TST_015_v06 - /out/Cloth",
-            "User": "hozhaev",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(14/15)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "Cloth",
+            "Progress": "90%",
+            "Tasks": "(54/60)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "70"
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
@@ -31,36 +31,20 @@
             "Priority": "60"
         }
     ],
-    "QIDDIYA_CHARLY": [
+    "SUMMER_CLASSIC_JOZI": [
         {
             "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "TST_015_v06-/out",
+            "Task_name": "TST_015_v06 - /out/Cloth",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(53/60)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ZIV_030_comp_v01",
-            "Task_name": "ZIV_030_comp_v01.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
             "Progress": "93%",
             "Tasks": "(14/15)",
             "Status": "Rendering (1)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_030_comp_v01.nk",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "Cloth",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "70"
         }
     ]
 }
