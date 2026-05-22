@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -15,7 +15,7 @@
         "user": "Erik Baymukashev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws44",
         "user": "for freelancers"
     },
@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -85,7 +85,7 @@
         "user": "Alexander Kostin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws58",
         "user": "Alexandra Ushakova"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -140,7 +140,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS146",
         "user": "Egor Lebedevich"
     },
@@ -205,7 +205,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
