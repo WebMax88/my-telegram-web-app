@@ -1,4 +1,20 @@
 {
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "43%",
+            "Tasks": "(79/180)",
+            "Status": "Rendering (13)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_universal_high",
+            "est.": "00:14:29",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -6,12 +22,12 @@
             "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(118/250)",
-            "Status": "Rendering (11)",
+            "Progress": "49%",
+            "Tasks": "(124/250)",
+            "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:14:48",
+            "est.": "01:39:09",
             "Priority": "60"
         },
         {
@@ -20,42 +36,12 @@
             "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(114/125)",
-            "Status": "Rendering (11)",
+            "Progress": "95%",
+            "Tasks": "(119/125)",
+            "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(179/180)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_bottom",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(46/180)",
-            "Status": "Rendering (10)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_high",
-            "est.": "00:26:39",
             "Priority": "60"
         }
     ]
