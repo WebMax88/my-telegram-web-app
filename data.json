@@ -2,20 +2,6 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v07",
-            "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(40/250)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "06:53:02",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Concert_comp_v05",
             "Task_name": "Concert_comp_v05.nk",
             "User": "pavlyuchenkov",
@@ -34,12 +20,12 @@
             "Task_name": "Box_Ring_v006 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(34/125)",
+            "Progress": "28%",
+            "Tasks": "(35/125)",
             "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "03:10:40",
+            "est.": "03:13:23",
             "Priority": "60"
         },
         {
@@ -69,35 +55,35 @@
             "Render": "usdrender_rop",
             "est.": "09:55:30",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v07",
+            "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "17%",
+            "Tasks": "(43/250)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "06:42:16",
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step_top",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(16/90)",
-            "Status": "Rendering (4)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step_top",
-            "est.": "00:45:34",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
             "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step_bottom",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(21/90)",
+            "Progress": "31%",
+            "Tasks": "(28/90)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step_bottom",
-            "est.": "00:24:07",
+            "est.": "00:21:29",
             "Priority": "60"
         },
         {
@@ -106,12 +92,12 @@
             "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(37/90)",
+            "Progress": "47%",
+            "Tasks": "(43/90)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step",
-            "est.": "00:14:03",
+            "est.": "00:12:42",
             "Priority": "60"
         },
         {
@@ -120,12 +106,12 @@
             "Task_name": "Daytime_Earth_v09 - /out/atmo_step",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(64/90)",
-            "Status": "Rendering (5)",
+            "Progress": "92%",
+            "Tasks": "(83/90)",
+            "Status": "Rendering (4)",
             "Project": "AUTODESK_PRLM",
             "Render": "atmo_step",
-            "est.": "00:03:38",
+            "est.": "00:00:38",
             "Priority": "60"
         },
         {
@@ -134,12 +120,12 @@
             "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step_high",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(13/90)",
+            "Progress": "18%",
+            "Tasks": "(17/90)",
             "Status": "Rendering (3)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step_high",
-            "est.": "00:56:54",
+            "est.": "00:53:09",
             "Priority": "60"
         },
         {
@@ -148,12 +134,56 @@
             "Task_name": "Daytime_Earth_v09 - /out/main_step",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(42/90)",
+            "Progress": "53%",
+            "Tasks": "(48/90)",
             "Status": "Rendering (4)",
             "Project": "AUTODESK_PRLM",
             "Render": "main_step",
-            "est.": "00:10:48",
+            "est.": "00:09:38",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step_top",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "24%",
+            "Tasks": "(22/90)",
+            "Status": "Rendering (5)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step_top",
+            "est.": "00:32:12",
+            "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(87/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:10:26",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/close_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(72/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "00:25:03",
             "Priority": "60"
         }
     ],
@@ -170,36 +200,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "shot_01",
             "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(83/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:14:38",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(69/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "00:28:05",
             "Priority": "60"
         }
     ]
