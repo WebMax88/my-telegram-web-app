@@ -1,7 +1,37 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v04-/out",
+            "Task_name": "MAR_020_v04 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(60/62)",
+            "Status": "Rendering (2)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v04-/out",
+            "Task_name": "MAR_020_v04 - /out/shelf",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(61/62)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "shelf",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "17%",
+            "Task_Progress": "28%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
@@ -27,36 +57,6 @@
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v04-/out",
-            "Task_name": "MAR_020_v04 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v04-/out",
-            "Task_name": "MAR_020_v04 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(60/62)",
-            "Status": "Rendering (2)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
             "est.": "00:00:01",
             "Priority": "60"
         }
