@@ -2,30 +2,16 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Concert_comp_v05",
-            "Task_name": "Concert_comp_v05.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Concert_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Comedy_Stage_v07",
             "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(190/250)",
-            "Status": "Rendering (14)",
+            "Progress": "80%",
+            "Tasks": "(200/250)",
+            "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:37:41",
+            "est.": "00:26:40",
             "Priority": "60"
         },
         {
@@ -49,11 +35,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "30%",
-            "Tasks": "(75/250)",
-            "Status": "Rendering (13)",
+            "Tasks": "(77/250)",
+            "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "04:35:26",
+            "est.": "04:25:48",
             "Priority": "60"
         },
         {
@@ -63,8 +49,8 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "96%",
-            "Tasks": "(120/125)",
-            "Status": "Rendering (5)",
+            "Tasks": "(121/125)",
+            "Status": "Rendering (4)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -83,22 +69,20 @@
             "Render": "net",
             "est.": "00:00:00",
             "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
+        },
         {
-            "Task_Progress": "60%",
-            "Name": "NRG_v08_s-/out/s",
-            "Task_name": "NRG_v08_s - /out/shot_01",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(13/40)",
-            "Status": "Rendering (15)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "shot_01",
-            "est.": "01:48:42",
-            "Priority": "60"
+            "Task_Progress": "100%",
+            "Name": "Concert_comp_v05",
+            "Task_name": "Concert_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v05.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "AUTODESK_PRLM": [
@@ -114,6 +98,22 @@
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "63%",
+            "Name": "NRG_v08_s-/out/s",
+            "Task_name": "NRG_v08_s - /out/shot_01",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(13/40)",
+            "Status": "Rendering (15)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "shot_01",
+            "est.": "01:48:42",
             "Priority": "60"
         }
     ]
