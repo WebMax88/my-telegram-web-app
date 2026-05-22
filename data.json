@@ -1,4 +1,34 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v04-/out",
+            "Task_name": "MAR_020_v04 - /out/shelf",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "43%",
+            "Tasks": "(27/62)",
+            "Status": "Rendering (23)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "shelf",
+            "est.": "00:01:48",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v04-/out",
+            "Task_name": "MAR_020_v04 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(54/62)",
+            "Status": "Rendering (8)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -28,36 +58,6 @@
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v04-/out",
-            "Task_name": "MAR_020_v04 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(4/62)",
-            "Status": "Rendering (16)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:05:53",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v04-/out",
-            "Task_name": "MAR_020_v04 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(27/62)",
-            "Status": "Rendering (13)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:01:33",
             "Priority": "60"
         }
     ]
