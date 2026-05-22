@@ -20,12 +20,12 @@
             "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(148/250)",
+            "Progress": "61%",
+            "Tasks": "(154/250)",
             "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:34:26",
+            "est.": "01:28:42",
             "Priority": "60"
         },
         {
@@ -35,11 +35,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "23%",
-            "Tasks": "(58/250)",
+            "Tasks": "(59/250)",
             "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:59:12",
+            "est.": "05:57:04",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "Box_Ring_v006 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(96/125)",
+            "Progress": "79%",
+            "Tasks": "(99/125)",
             "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:29:09",
+            "est.": "00:24:23",
             "Priority": "60"
         },
         {
@@ -62,12 +62,12 @@
             "Task_name": "Professional_Court_180_v17 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(17/250)",
-            "Status": "Rendering (6)",
+            "Progress": "7%",
+            "Tasks": "(19/250)",
+            "Status": "Rendering (7)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "16:55:33",
+            "est.": "13:54:21",
             "Priority": "60"
         },
         {
@@ -117,7 +117,7 @@
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "48%",
+            "Task_Progress": "50%",
             "Name": "NRG_v08_s-/out/s",
             "Task_name": "NRG_v08_s - /out/shot_01",
             "User": "ushakova",
