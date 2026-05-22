@@ -6,12 +6,12 @@
             "Task_name": "QC_splash_v20 - /out/splash",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(48/62)",
-            "Status": "Rendering (13)",
+            "Progress": "95%",
+            "Tasks": "(59/62)",
+            "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "splash",
-            "est.": "00:00:11",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(233/250)",
-            "Status": "Rendering (16)",
+            "Progress": "94%",
+            "Tasks": "(237/250)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:00:44",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "QC_splash_v20 - /out/net",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(75/121)",
-            "Status": "Rendering (15)",
+            "Progress": "71%",
+            "Tasks": "(87/121)",
+            "Status": "Rendering (16)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "net",
-            "est.": "00:03:22",
+            "est.": "00:01:56",
             "Priority": "60"
         }
     ]
