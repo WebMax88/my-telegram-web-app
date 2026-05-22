@@ -1,20 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_comp_PS_",
-            "Task_name": "MAR_020_comp_PS_v01.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "51%",
-            "Tasks": "(25/49)",
-            "Status": "Rendering (6)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "MAR_020_comp_PS_v01.nk",
-            "est.": "00:00:55",
-            "Priority": "90"
-        }
-    ],
     "CONCELLULAR_MOWER_PRLM": [
         {
             "Task_Progress": "100%",
@@ -22,9 +6,9 @@
             "Task_name": "BCH_030_comp_v07.nk",
             "User": "sattarov",
             "Plugin": "Nuke",
-            "Progress": "53%",
-            "Tasks": "(15/28)",
-            "Status": "Rendering (13)",
+            "Progress": "85%",
+            "Tasks": "(24/28)",
+            "Status": "Rendering (4)",
             "Project": "CONCELLULAR_MOWER_PRLM",
             "Render": "BCH_030_comp_v07.nk",
             "est.": "00:00:01",
