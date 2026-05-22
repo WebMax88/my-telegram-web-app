@@ -1,4 +1,50 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v09-/out",
+            "Task_name": "MAR_020_v09 - /out/shelf",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "22%",
+            "Tasks": "(14/62)",
+            "Status": "Rendering (10)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "shelf",
+            "est.": "00:12:54",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v09-/out",
+            "Task_name": "MAR_020_v09 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "67%",
+            "Tasks": "(42/62)",
+            "Status": "Rendering (8)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:01:47",
+            "Priority": "60"
+        }
+    ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_158_comp_v01",
+            "Task_name": "ZIV_158_comp_v01.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "78%",
+            "Tasks": "(11/14)",
+            "Status": "Rendering (3)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_158_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -6,56 +52,12 @@
             "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(181/250)",
-            "Status": "Rendering (12)",
+            "Progress": "76%",
+            "Tasks": "(190/250)",
+            "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:56:52",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_comp_v0",
-            "Task_name": "Box_Ring_comp_v03.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(48/50)",
-            "Status": "Rendering (2)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Box_Ring_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v09-/out",
-            "Task_name": "MAR_020_v09 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(12/62)",
-            "Status": "Rendering (7)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:06:33",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v09-/out",
-            "Task_name": "MAR_020_v09 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(1/62)",
-            "Status": "Rendering (8)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:14:47",
+            "est.": "00:59:42",
             "Priority": "60"
         }
     ],
@@ -63,15 +65,15 @@
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(179/180)",
-            "Status": "Rendering (1)",
+            "Progress": "26%",
+            "Tasks": "(47/180)",
+            "Status": "Rendering (28)",
             "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_high",
-            "est.": "00:00:01",
+            "Render": "CLOUDS_universal",
+            "est.": "00:04:43",
             "Priority": "60"
         }
     ]
