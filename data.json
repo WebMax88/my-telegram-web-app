@@ -1,49 +1,35 @@
 {
-    "QIDDIYA_CHARLY": [
+    "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
+            "Name": "MAR_020_v06-/out",
+            "Task_name": "MAR_020_v06 - /out/hero",
+            "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(36/125)",
-            "Status": "Rendering (8)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:46:02",
+            "Progress": "95%",
+            "Tasks": "(59/62)",
+            "Status": "Rendering (3)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
+            "Name": "MAR_020_v06-/out",
+            "Task_name": "MAR_020_v06 - /out/shelf",
+            "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(35/250)",
+            "Progress": "88%",
+            "Tasks": "(55/62)",
             "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "06:23:27",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "shelf",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_bottom",
-            "est.": "unknown",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "0%",
             "Name": "Daytime_Earth_v0",
@@ -59,36 +45,6 @@
             "Priority": "60"
         }
     ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v06-/out",
-            "Task_name": "MAR_020_v06 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(38/62)",
-            "Status": "Rendering (10)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:04:49",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v06-/out",
-            "Task_name": "MAR_020_v06 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(58/62)",
-            "Status": "Rendering (4)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -96,12 +52,42 @@
             "Task_name": "NRG_v06_p - /out/Crystal_back",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(31/100)",
-            "Status": "Rendering (16)",
+            "Progress": "63%",
+            "Tasks": "(63/100)",
+            "Status": "Rendering (17)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back",
-            "est.": "00:08:39",
+            "est.": "00:03:10",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(41/125)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:28:11",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "14%",
+            "Tasks": "(37/250)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "04:49:50",
             "Priority": "60"
         }
     ]
