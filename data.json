@@ -1,34 +1,18 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(122/180)",
-            "Status": "Rendering (13)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_high",
-            "est.": "00:07:31",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(135/250)",
-            "Status": "Rendering (18)",
+            "Name": "Box_Ring_comp_v0",
+            "Task_name": "Box_Ring_comp_v03.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "56%",
+            "Tasks": "(28/50)",
+            "Status": "Rendering (21)",
             "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:06:17",
-            "Priority": "60"
+            "Render": "Box_Ring_comp_v03.nk",
+            "est.": "00:00:04",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -36,12 +20,42 @@
             "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(122/125)",
-            "Status": "Rendering (3)",
+            "Progress": "99%",
+            "Tasks": "(124/125)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "57%",
+            "Tasks": "(143/250)",
+            "Status": "Rendering (18)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:00:10",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "82%",
+            "Tasks": "(149/180)",
+            "Status": "Rendering (13)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_universal_high",
+            "est.": "00:03:15",
             "Priority": "60"
         }
     ]
