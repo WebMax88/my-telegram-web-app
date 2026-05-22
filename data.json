@@ -1,63 +1,17 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(173/180)",
-            "Status": "Rendering (7)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_014_comp_v03",
-            "Task_name": "TST_014_comp_v03.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "33%",
-            "Tasks": "(5/15)",
-            "Status": "Rendering (8)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_014_comp_v03.nk",
-            "est.": "00:00:14",
-            "Priority": "90"
-        }
-    ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "40%",
-            "Name": "Box_Ring_comp_v0",
-            "Task_name": "Box_Ring_comp_v03.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "2%",
-            "Tasks": "(1/50)",
-            "Status": "Rendering (27)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Box_Ring_comp_v03.nk",
-            "est.": "00:00:42",
-            "Priority": "90"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Concert_v005-/ob",
             "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(195/250)",
-            "Status": "Rendering (9)",
+            "Progress": "79%",
+            "Tasks": "(199/250)",
+            "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:01:30",
+            "est.": "00:43:37",
             "Priority": "60"
         }
     ],
@@ -65,29 +19,45 @@
         {
             "Task_Progress": "100%",
             "Name": "MAR_020_v09-/out",
-            "Task_name": "MAR_020_v09 - /out/shelf",
+            "Task_name": "MAR_020_v09 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(24/62)",
-            "Status": "Rendering (10)",
+            "Progress": "91%",
+            "Tasks": "(57/62)",
+            "Status": "Rendering (5)",
             "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:10:22",
+            "Render": "hero",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "MAR_020_v09-/out",
-            "Task_name": "MAR_020_v09 - /out/hero",
+            "Task_name": "MAR_020_v09 - /out/shelf",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(50/62)",
-            "Status": "Rendering (8)",
+            "Progress": "61%",
+            "Tasks": "(38/62)",
+            "Status": "Rendering (12)",
             "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:48",
+            "Render": "shelf",
+            "est.": "00:03:57",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(179/180)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_universal",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
