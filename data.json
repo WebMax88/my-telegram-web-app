@@ -2,13 +2,27 @@
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
+            "Name": "MAR_030_comp_v05",
+            "Task_name": "MAR_030_comp_v05.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "26%",
+            "Tasks": "(6/23)",
+            "Status": "Rendering (15)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "MAR_030_comp_v05.nk",
+            "est.": "00:00:02",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "MAR_020_v04-/out",
             "Task_name": "MAR_020_v04 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(60/62)",
-            "Status": "Rendering (2)",
+            "Progress": "98%",
+            "Tasks": "(61/62)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
             "est.": "00:00:01",
@@ -31,7 +45,7 @@
     ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "38%",
+            "Task_Progress": "52%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
@@ -41,22 +55,6 @@
             "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_step",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
             "est.": "00:00:01",
             "Priority": "60"
         }
