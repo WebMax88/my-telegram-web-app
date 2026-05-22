@@ -1,34 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(76/250)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:25:37",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(81/125)",
-            "Status": "Rendering (11)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:33:48",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
@@ -36,12 +6,12 @@
             "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(88/180)",
+            "Progress": "59%",
+            "Tasks": "(107/180)",
             "Status": "Rendering (7)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_universal_bottom",
-            "est.": "00:21:23",
+            "est.": "00:16:28",
             "Priority": "60"
         },
         {
@@ -50,12 +20,12 @@
             "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(72/180)",
+            "Progress": "47%",
+            "Tasks": "(86/180)",
             "Status": "Rendering (7)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_universal_high",
-            "est.": "00:34:48",
+            "est.": "00:30:12",
             "Priority": "60"
         },
         {
@@ -73,20 +43,34 @@
             "Priority": "60"
         }
     ],
-    "ZIV_RETOUCH": [
+    "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "0%",
-            "Name": "ZIV_015_comp_v01",
-            "Task_name": "ZIV_015_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "91%",
-            "Tasks": "(22/24)",
-            "Status": "Rendering (2)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_015_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "67%",
+            "Tasks": "(84/125)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:30:33",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(82/250)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:00:25",
+            "Priority": "60"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
@@ -96,9 +80,9 @@
             "Task_name": "TST_015_v08 - /out/Cloth",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "33%",
-            "Tasks": "(5/15)",
-            "Status": "Rendering (10)",
+            "Progress": "73%",
+            "Tasks": "(11/15)",
+            "Status": "Rendering (4)",
             "Project": "SUMMER_CLASSIC_JOZI",
             "Render": "Cloth",
             "est.": "00:00:01",
