@@ -38,10 +38,10 @@
             "Plugin": "Nuke",
             "Progress": "98%",
             "Tasks": "(49/50)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Concert_comp_v05.nk",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "90"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(101/250)",
+            "Progress": "43%",
+            "Tasks": "(109/250)",
             "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:25:28",
+            "est.": "02:15:36",
             "Priority": "60"
         },
         {
@@ -78,12 +78,12 @@
             "Task_name": "Box_Ring_v006 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(72/125)",
+            "Progress": "58%",
+            "Tasks": "(73/125)",
             "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:04:31",
+            "est.": "01:02:45",
             "Priority": "60"
         },
         {
@@ -93,11 +93,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "2%",
-            "Tasks": "(5/250)",
+            "Tasks": "(6/250)",
             "Status": "Rendering (8)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "10:38:16",
+            "est.": "11:15:03",
             "Priority": "60"
         },
         {
@@ -124,10 +124,10 @@
             "Plugin": "Houdini",
             "Progress": "20%",
             "Tasks": "(8/40)",
-            "Status": "Rendering (14)",
+            "Status": "Rendering (15)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "shot_01",
-            "est.": "02:13:43",
+            "est.": "01:57:52",
             "Priority": "60"
         }
     ]
