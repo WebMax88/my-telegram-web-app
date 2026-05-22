@@ -1,33 +1,35 @@
 {
-    "QIDDIYA_CHARLY": [
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "Box_Ring_v006-/o",
-            "Task_name": "Box_Ring_v006 - /obj/lopnet1/flashdots/usdrender_rop",
-            "User": "veber",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/close_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(124/125)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "Progress": "29%",
+            "Tasks": "(29/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "01:08:23",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "Open_Sea_comp_v0",
-            "Task_name": "Open_Sea_comp_v07.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "72%",
-            "Tasks": "(18/25)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Open_Sea_comp_v07.nk",
-            "est.": "00:00:06",
-            "Priority": "90"
-        },
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "37%",
+            "Tasks": "(37/100)",
+            "Status": "Rendering (4)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:47:06",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
             "Name": "Comedy_Stage_v07",
@@ -35,25 +37,25 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "4%",
-            "Tasks": "(10/250)",
+            "Tasks": "(12/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:35:58",
+            "est.": "05:17:22",
             "Priority": "60"
         },
         {
-            "Task_Progress": "26%",
+            "Task_Progress": "33%",
             "Name": "Box_Ring_v006-/o",
             "Task_name": "Box_Ring_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(7/250)",
-            "Status": "Rendering (8)",
+            "Progress": "3%",
+            "Tasks": "(9/250)",
+            "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "06:05:39",
+            "est.": "05:18:42",
             "Priority": "60"
         },
         {
@@ -63,11 +65,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "8%",
-            "Tasks": "(10/125)",
+            "Tasks": "(11/125)",
             "Status": "Rendering (8)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:49:07",
+            "est.": "02:49:50",
             "Priority": "60"
         },
         {
@@ -87,47 +89,17 @@
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "3%",
+            "Task_Progress": "5%",
             "Name": "NRG_v08_s-/out/s",
             "Task_name": "NRG_v08_s - /out/shot_01",
             "User": "ushakova",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/40)",
-            "Status": "Rendering (22)",
+            "Status": "Rendering (23)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "shot_01",
             "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(23/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "01:14:41",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(30/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "01:11:37",
             "Priority": "60"
         }
     ]
