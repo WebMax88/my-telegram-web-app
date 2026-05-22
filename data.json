@@ -2,6 +2,48 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
+            "Name": "Open_Sea_comp_v0",
+            "Task_name": "Open_Sea_comp_v05.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(25/25)",
+            "Status": "Completed",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Open_Sea_comp_v05.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v07",
+            "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "11%",
+            "Tasks": "(29/250)",
+            "Status": "Rendering (24)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:16:46",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_comp_v05",
+            "Task_name": "Concert_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v05.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "QC_splash_v20-/o",
             "Task_name": "QC_splash_v20 - /out/net",
             "User": "dmakarov",
@@ -12,36 +54,6 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "net",
             "est.": "00:00:00",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_v07",
-            "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(16/250)",
-            "Status": "Rendering (22)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:30:45",
-            "Priority": "60"
-        }
-    ],
-    "LADA_VESTA_SPORT_KV": [
-        {
-            "Task_Progress": "76%",
-            "Name": "LVS_KV_v04_mik-/",
-            "Task_name": "LVS_KV_v04_mik - /out/main_interior_cam1",
-            "User": "mikhaylin",
-            "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "LADA_VESTA_SPORT_KV",
-            "Render": "main_interior_cam1",
-            "est.": "unknown",
             "Priority": "60"
         }
     ]
