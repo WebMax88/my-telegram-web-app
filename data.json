@@ -3,59 +3,75 @@
         {
             "Task_Progress": "100%",
             "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
+            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(94/250)",
-            "Status": "Rendering (12)",
+            "Progress": "77%",
+            "Tasks": "(97/125)",
+            "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:27:54",
+            "est.": "00:17:37",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "50%",
+            "Name": "Box_Ring_comp_v0",
+            "Task_name": "Box_Ring_comp_v02.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "4%",
+            "Tasks": "(1/25)",
+            "Status": "Rendering (24)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Box_Ring_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
             "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(96/125)",
-            "Status": "Rendering (11)",
+            "Progress": "39%",
+            "Tasks": "(98/250)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:18:40",
+            "est.": "02:24:44",
             "Priority": "60"
+        }
+    ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_015_comp_v01",
+            "Task_name": "ZIV_015_comp_v01.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "87%",
+            "Tasks": "(21/24)",
+            "Status": "Rendering (3)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_015_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(135/180)",
-            "Status": "Rendering (7)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_bottom",
-            "est.": "00:10:19",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
             "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(117/180)",
+            "Progress": "67%",
+            "Tasks": "(122/180)",
             "Status": "Rendering (6)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_universal_high",
-            "est.": "00:24:02",
+            "est.": "00:22:20",
             "Priority": "60"
         },
         {
@@ -71,22 +87,20 @@
             "Render": "CLOUDS_universal_high",
             "est.": "unknown",
             "Priority": "60"
-        }
-    ],
-    "ZIV_RETOUCH": [
+        },
         {
-            "Task_Progress": "0%",
-            "Name": "ZIV_015_comp_v01",
-            "Task_name": "ZIV_015_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "45%",
-            "Tasks": "(11/24)",
-            "Status": "Rendering (13)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_015_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "78%",
+            "Tasks": "(141/180)",
+            "Status": "Rendering (7)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_universal_bottom",
+            "est.": "00:09:02",
+            "Priority": "60"
         }
     ]
 }
