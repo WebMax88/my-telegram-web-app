@@ -1,47 +1,31 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "17%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_high",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(41/250)",
-            "Status": "Rendering (11)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:45:41",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Concert_v005-/ob",
             "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(46/125)",
-            "Status": "Rendering (10)",
+            "Progress": "40%",
+            "Tasks": "(50/125)",
+            "Status": "Rendering (11)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:16:27",
+            "est.": "01:03:58",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "18%",
+            "Tasks": "(47/250)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:42:53",
             "Priority": "60"
         }
     ],
@@ -52,9 +36,9 @@
             "Task_name": "MAR_020_v06 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(59/62)",
-            "Status": "Rendering (3)",
+            "Progress": "96%",
+            "Tasks": "(60/62)",
+            "Status": "Rendering (2)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
             "est.": "00:00:01",
@@ -64,17 +48,47 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v06_p-/out/C",
-            "Task_name": "NRG_v06_p - /out/Crystal_back",
+            "Name": "NRG_v06_p-/out/S",
+            "Task_name": "NRG_v06_p - /out/Shot_01_layer3",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(97/100)",
-            "Status": "Rendering (3)",
+            "Progress": "80%",
+            "Tasks": "(17/21)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "Crystal_back",
+            "Render": "Shot_01_layer3",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v06_p-/out/S",
+            "Task_name": "NRG_v06_p - /out/Shot_01_layer2",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "85%",
+            "Tasks": "(18/21)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "Shot_01_layer2",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "0%",
+            "Name": "ZIV_015_comp_v01",
+            "Task_name": "ZIV_015_comp_v01.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "70%",
+            "Tasks": "(17/24)",
+            "Status": "Rendering (7)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_015_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
