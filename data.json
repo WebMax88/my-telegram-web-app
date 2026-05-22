@@ -16,6 +16,20 @@
         },
         {
             "Task_Progress": "100%",
+            "Name": "Concert_comp_v05",
+            "Task_name": "Concert_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v05.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "QC_splash_v20-/o",
             "Task_name": "QC_splash_v20 - /out/net",
             "User": "dmakarov",
@@ -30,17 +44,17 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "Concert_comp_v05",
-            "Task_name": "Concert_comp_v05.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Queued",
+            "Name": "Box_Ring_v006-/o",
+            "Task_name": "Box_Ring_v006 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "36%",
+            "Tasks": "(46/125)",
+            "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
-            "Render": "Concert_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
+            "Render": "usdrender_rop",
+            "est.": "01:49:23",
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -48,26 +62,12 @@
             "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(56/250)",
+            "Progress": "24%",
+            "Tasks": "(62/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "04:01:24",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Box_Ring_v006-/o",
-            "Task_name": "Box_Ring_v006 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(43/125)",
-            "Status": "Rendering (8)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:06:50",
+            "est.": "03:50:56",
             "Priority": "60"
         }
     ],
@@ -78,12 +78,12 @@
             "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step_high",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(46/90)",
-            "Status": "Rendering (5)",
+            "Progress": "62%",
+            "Tasks": "(56/90)",
+            "Status": "Rendering (8)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step_high",
-            "est.": "00:18:12",
+            "est.": "00:07:43",
             "Priority": "60"
         },
         {
@@ -92,12 +92,12 @@
             "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step_top",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(51/90)",
-            "Status": "Rendering (5)",
+            "Progress": "62%",
+            "Tasks": "(56/90)",
+            "Status": "Rendering (8)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step_top",
-            "est.": "00:20:24",
+            "est.": "00:10:09",
             "Priority": "60"
         },
         {
@@ -113,41 +113,11 @@
             "Render": "CLOUDS_step",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step_bottom",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(77/90)",
-            "Status": "Rendering (7)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step_bottom",
-            "est.": "00:01:53",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v002 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(99/100)",
-            "Status": "Rendering (1)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "20%",
+            "Task_Progress": "25%",
             "Name": "NRG_v08_s-/out/s",
             "Task_name": "NRG_v08_s - /out/shot_01",
             "User": "ushakova",
