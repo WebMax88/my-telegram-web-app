@@ -14,5 +14,21 @@
             "est.": "00:00:01",
             "Priority": "60"
         }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_comp_v17",
+            "Task_name": "BNK_010_comp_v17.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "93%",
+            "Tasks": "(46/49)",
+            "Status": "Rendering (3)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_010_comp_v17.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
     ]
 }
