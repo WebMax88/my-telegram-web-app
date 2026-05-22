@@ -1,21 +1,65 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v06_p-/out/C",
-            "Task_name": "NRG_v06_p - /out/Crystal_back",
-            "User": "hozhaev",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(99/100)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "Crystal_back",
-            "est.": "00:00:01",
+            "Progress": "56%",
+            "Tasks": "(71/125)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:48:40",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(68/250)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:36:57",
             "Priority": "60"
         }
     ],
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_015_comp_v01",
+            "Task_name": "ZIV_015_comp_v01.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "87%",
+            "Tasks": "(21/24)",
+            "Status": "Rendering (3)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_015_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(42/180)",
+            "Status": "Rendering (7)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_universal_bottom",
+            "est.": "00:28:21",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "17%",
             "Name": "Daytime_Earth_v0",
@@ -36,26 +80,12 @@
             "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(23/180)",
-            "Status": "Rendering (8)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_high",
-            "est.": "00:45:38",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(21/180)",
+            "Progress": "20%",
+            "Tasks": "(37/180)",
             "Status": "Rendering (7)",
             "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_bottom",
-            "est.": "00:33:14",
+            "Render": "CLOUDS_universal_high",
+            "est.": "00:47:04",
             "Priority": "60"
         }
     ],
@@ -73,52 +103,6 @@
             "Render": "Cloth",
             "est.": "unknown",
             "Priority": "70"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v06-/out",
-            "Task_name": "MAR_020_v06 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(66/125)",
-            "Status": "Rendering (11)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:48:28",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(62/250)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:48:12",
-            "Priority": "60"
         }
     ]
 }
