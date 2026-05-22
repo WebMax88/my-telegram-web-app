@@ -1,48 +1,64 @@
 {
-    "AUTODESK_PRLM": [
+    "ZIV_RETOUCH": [
         {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_step",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(27/90)",
-            "Status": "Rendering (56)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
-            "est.": "00:00:09",
-            "Priority": "60"
-        },
+            "Task_Progress": "100%",
+            "Name": "ZIV_012_comp_v01",
+            "Task_name": "ZIV_012_comp_v01.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "95%",
+            "Tasks": "(21/22)",
+            "Status": "Rendering (1)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_012_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v0",
             "Task_name": "Daytime_Earth_v08 - /out/main_step",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(37/90)",
-            "Status": "Rendering (20)",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "main_step",
-            "est.": "00:01:46",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_step",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "94%",
+            "Tasks": "(85/90)",
+            "Status": "Rendering (5)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
-    "ZIV_RETOUCH": [
+    "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "0%",
-            "Name": "ZIV_012_comp_v01",
-            "Task_name": "ZIV_012_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
+            "Task_Progress": "20%",
+            "Name": "TST_015_v06-/out",
+            "Task_name": "TST_015_v06 - /out/Cloth",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
             "Progress": "0%",
-            "Tasks": "(0/22)",
-            "Status": "Rendering (12)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_012_comp_v01.nk",
+            "Tasks": "(0/15)",
+            "Status": "Rendering (15)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "Cloth",
             "est.": "unknown",
-            "Priority": "90"
+            "Priority": "70"
         }
     ]
 }
