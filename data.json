@@ -1,7 +1,7 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "64%",
+            "Task_Progress": "94%",
             "Name": "Professional_Cou",
             "Task_name": "Professional_Court_v13 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
@@ -13,18 +13,20 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "ZIV_RETOUCH": [
         {
             "Task_Progress": "100%",
-            "Name": "Box_Ring_comp_v0",
-            "Task_name": "Box_Ring_comp_v01.nk",
-            "User": "pavlyuchenkov",
+            "Name": "ZIV_012_comp_v01",
+            "Task_name": "ZIV_012_comp_v01.nk",
+            "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(47/50)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Box_Ring_comp_v01.nk",
+            "Progress": "95%",
+            "Tasks": "(21/22)",
+            "Status": "Rendering (1)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_012_comp_v01.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
@@ -43,50 +45,6 @@
             "Render": "shelf",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v04-/out",
-            "Task_name": "MAR_020_v04 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_comp_PS_",
-            "Task_name": "MAR_020_comp_PS_v01.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "89%",
-            "Tasks": "(44/49)",
-            "Status": "Rendering (5)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "MAR_020_comp_PS_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ZIV_012_comp_v01",
-            "Task_name": "ZIV_012_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "81%",
-            "Tasks": "(18/22)",
-            "Status": "Rendering (4)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_012_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
