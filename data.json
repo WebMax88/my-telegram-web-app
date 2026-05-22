@@ -8,10 +8,10 @@
             "Plugin": "Nuke",
             "Progress": "98%",
             "Tasks": "(49/50)",
-            "Status": "Rendering (1)",
+            "Status": "Queued",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Concert_comp_v05.nk",
-            "est.": "00:00:01",
+            "est.": "unknown",
             "Priority": "90"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(229/250)",
-            "Status": "Rendering (15)",
+            "Progress": "94%",
+            "Tasks": "(237/250)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:04:34",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "Box_Ring_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(96/250)",
-            "Status": "Rendering (13)",
+            "Progress": "39%",
+            "Tasks": "(99/250)",
+            "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "04:40:16",
+            "est.": "03:50:18",
             "Priority": "60"
         },
         {
