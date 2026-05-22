@@ -1,47 +1,17 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(92/125)",
-            "Status": "Rendering (11)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:22:59",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v005-/ob",
-            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(86/250)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:38:41",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(121/180)",
-            "Status": "Rendering (7)",
+            "Progress": "60%",
+            "Tasks": "(109/180)",
+            "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_bottom",
-            "est.": "00:13:15",
+            "Render": "CLOUDS_universal_high",
+            "est.": "00:32:52",
             "Priority": "60"
         },
         {
@@ -61,16 +31,62 @@
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_high",
+            "Task_name": "Daytime_Earth_v08 - /out/CLOUDS_universal_bottom",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(102/180)",
+            "Progress": "70%",
+            "Tasks": "(127/180)",
             "Status": "Rendering (7)",
             "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_universal_high",
-            "est.": "00:25:01",
+            "Render": "CLOUDS_universal_bottom",
+            "est.": "00:12:00",
             "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "35%",
+            "Tasks": "(89/250)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:34:17",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v005-/ob",
+            "Task_name": "Concert_v005 - /obj/lopnet1/volume/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "75%",
+            "Tasks": "(94/125)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:20:49",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_comp_PS_",
+            "Task_name": "MAR_020_comp_PS_v02.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "97%",
+            "Tasks": "(48/49)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "MAR_020_comp_PS_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "SUMMER_CLASSIC_JOZI": [
