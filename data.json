@@ -6,12 +6,12 @@
             "Task_name": "Concert_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(48/250)",
+            "Progress": "21%",
+            "Tasks": "(53/250)",
             "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "03:08:11",
+            "est.": "03:02:42",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Box_Ring_comp_v04.nk",
             "User": "pavlyuchenkov",
             "Plugin": "Nuke",
-            "Progress": "44%",
-            "Tasks": "(22/50)",
-            "Status": "Rendering (16)",
+            "Progress": "94%",
+            "Tasks": "(47/50)",
+            "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Box_Ring_comp_v04.nk",
-            "est.": "00:01:45",
+            "est.": "00:00:01",
             "Priority": "90"
         },
         {
@@ -49,11 +49,11 @@
             "User": "veber",
             "Plugin": "Houdini",
             "Progress": "40%",
-            "Tasks": "(50/125)",
+            "Tasks": "(51/125)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:58:44",
+            "est.": "00:57:52",
             "Priority": "60"
         }
     ]
