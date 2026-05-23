@@ -22,10 +22,10 @@
             "Plugin": "Nuke",
             "Progress": "98%",
             "Tasks": "(49/50)",
-            "Status": "Rendering (1)",
+            "Status": "Queued",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Concert_comp_v05.nk",
-            "est.": "00:00:01",
+            "est.": "unknown",
             "Priority": "90"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Comedy_Stage_v07 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(206/250)",
-            "Status": "Rendering (23)",
+            "Progress": "84%",
+            "Tasks": "(210/250)",
+            "Status": "Rendering (24)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:10:30",
+            "est.": "00:07:39",
             "Priority": "60"
         }
     ]
