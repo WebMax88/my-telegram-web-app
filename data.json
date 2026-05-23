@@ -21,11 +21,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "46%",
-            "Tasks": "(115/250)",
+            "Tasks": "(116/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "06:17:23",
+            "est.": "06:14:29",
             "Priority": "60"
         },
         {
@@ -36,10 +36,10 @@
             "Plugin": "Nuke",
             "Progress": "98%",
             "Tasks": "(49/50)",
-            "Status": "Rendering (1)",
+            "Status": "Queued",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Concert_comp_v05.nk",
-            "est.": "00:00:01",
+            "est.": "unknown",
             "Priority": "90"
         }
     ],
@@ -66,12 +66,12 @@
             "Task_name": "NRG_v10_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(45/50)",
-            "Status": "Rendering (4)",
+            "Progress": "92%",
+            "Tasks": "(46/50)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:04:23",
+            "est.": "00:06:03",
             "Priority": "60"
         }
     ]
