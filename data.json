@@ -1,4 +1,36 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v11_s-/stage",
+            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(48/50)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:11:15",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -41,38 +73,6 @@
             "Render": "Concert_comp_v05.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v11_s-/stage",
-            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(47/50)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:05:20",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
