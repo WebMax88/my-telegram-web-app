@@ -1,1 +1,34 @@
-{}
+{
+    "ZIV_RETOUCH": [
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_062_comp_v01",
+            "Task_name": "ZIV_062_comp_v01.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "81%",
+            "Tasks": "(9/11)",
+            "Status": "Rendering (2)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_062_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Box_Ring_comp_v0",
+            "Task_name": "Box_Ring_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "24%",
+            "Tasks": "(12/50)",
+            "Status": "Rendering (36)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Box_Ring_comp_v05.nk",
+            "est.": "00:00:06",
+            "Priority": "90"
+        }
+    ]
+}
