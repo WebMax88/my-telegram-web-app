@@ -20,12 +20,12 @@
             "Task_name": "Concert_v006 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(102/125)",
+            "Progress": "84%",
+            "Tasks": "(106/125)",
             "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:07:24",
+            "est.": "00:03:42",
             "Priority": "60"
         },
         {
@@ -35,11 +35,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "37%",
-            "Tasks": "(93/250)",
+            "Tasks": "(94/250)",
             "Status": "Rendering (25)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:57:02",
+            "est.": "02:54:32",
             "Priority": "60"
         }
     ]
