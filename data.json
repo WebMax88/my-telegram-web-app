@@ -2,16 +2,30 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v21 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "28%",
+            "Tasks": "(70/250)",
+            "Status": "Rendering (27)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:06:49",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Box_Ring_comp_v0",
             "Task_name": "Box_Ring_comp_v04.nk",
             "User": "pavlyuchenkov",
             "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(25/50)",
-            "Status": "Rendering (20)",
+            "Progress": "96%",
+            "Tasks": "(48/50)",
+            "Status": "Rendering (2)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Box_Ring_comp_v04.nk",
-            "est.": "00:00:32",
+            "est.": "00:00:01",
             "Priority": "90"
         },
         {
@@ -20,12 +34,12 @@
             "Task_name": "Concert_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(63/250)",
+            "Progress": "26%",
+            "Tasks": "(65/250)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:39:07",
+            "est.": "02:37:23",
             "Priority": "60"
         },
         {
@@ -34,26 +48,12 @@
             "Task_name": "Concert_v006 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(64/125)",
+            "Progress": "58%",
+            "Tasks": "(73/125)",
             "Status": "Rendering (14)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:45:34",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v21 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(67/250)",
-            "Status": "Rendering (28)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:57:33",
+            "est.": "00:37:11",
             "Priority": "60"
         }
     ]
