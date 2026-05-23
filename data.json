@@ -6,12 +6,12 @@
             "Task_name": "Concert_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(146/250)",
+            "Progress": "61%",
+            "Tasks": "(153/250)",
             "Status": "Rendering (27)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:40:16",
+            "est.": "00:36:33",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Professional_Court_180_v21 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(116/250)",
+            "Progress": "48%",
+            "Tasks": "(121/250)",
             "Status": "Rendering (29)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:02:48",
+            "est.": "01:54:56",
             "Priority": "60"
         }
     ]
