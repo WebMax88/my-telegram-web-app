@@ -2,27 +2,13 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Comedy_Stage_com",
-            "Task_name": "Comedy_Stage_comp_v02.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(47/50)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Comedy_Stage_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Concert_v006-/ob",
             "Task_name": "Concert_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(226/250)",
-            "Status": "Rendering (24)",
+            "Progress": "92%",
+            "Tasks": "(231/250)",
+            "Status": "Rendering (19)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -49,11 +35,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "62%",
-            "Tasks": "(155/250)",
-            "Status": "Rendering (26)",
+            "Tasks": "(157/250)",
+            "Status": "Rendering (31)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:33:14",
+            "est.": "01:09:52",
             "Priority": "60"
         }
     ]
