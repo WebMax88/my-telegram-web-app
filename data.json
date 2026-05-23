@@ -1,4 +1,34 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v11_s-/stage",
+            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "44%",
+            "Tasks": "(22/50)",
+            "Status": "Rendering (28)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v10_s_crysta",
+            "Task_name": "NRG_v10_s_crystal - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "60%",
+            "Tasks": "(30/50)",
+            "Status": "Rendering (20)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -6,12 +36,12 @@
             "Task_name": "Professional_Court_180_v17 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(121/250)",
+            "Progress": "49%",
+            "Tasks": "(124/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:56:44",
+            "est.": "05:47:59",
             "Priority": "60"
         },
         {
@@ -55,36 +85,6 @@
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v11_s-/stage",
-            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(7/50)",
-            "Status": "Rendering (29)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:03:21",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v10_s_crysta",
-            "Task_name": "NRG_v10_s_crystal - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(26/50)",
-            "Status": "Rendering (24)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
