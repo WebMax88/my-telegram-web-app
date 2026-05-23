@@ -2,6 +2,20 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
+            "Name": "Concert_comp_v05",
+            "Task_name": "Concert_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v05.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "QC_splash_v20-/o",
             "Task_name": "QC_splash_v20 - /out/net",
             "User": "dmakarov",
@@ -20,27 +34,13 @@
             "Task_name": "Professional_Court_180_v17 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(152/250)",
+            "Progress": "61%",
+            "Tasks": "(153/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "04:23:40",
+            "est.": "04:19:51",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_comp_v05",
-            "Task_name": "Concert_comp_v05.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Concert_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ],
     "AUTODESK_PRLM": [
