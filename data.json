@@ -1,30 +1,16 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v11_s-/stage",
-            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(22/50)",
-            "Status": "Rendering (28)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v10_s_crysta",
-            "Task_name": "NRG_v10_s_crystal - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(30/50)",
-            "Status": "Rendering (20)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -36,26 +22,12 @@
             "Task_name": "Professional_Court_180_v17 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(124/250)",
+            "Progress": "50%",
+            "Tasks": "(125/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:47:59",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QC_splash_v20-/o",
-            "Task_name": "QC_splash_v20 - /out/net",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(121/121)",
-            "Status": "Corrupted",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "net",
-            "est.": "00:00:00",
+            "est.": "05:43:53",
             "Priority": "60"
         },
         {
@@ -71,20 +43,48 @@
             "Render": "Concert_comp_v05.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "AUTODESK_PRLM": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
-            "User": "goncharov",
+            "Name": "QC_splash_v20-/o",
+            "Task_name": "QC_splash_v20 - /out/net",
+            "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
+            "Progress": "100%",
+            "Tasks": "(121/121)",
+            "Status": "Corrupted",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "net",
+            "est.": "00:00:00",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v10_s_crysta",
+            "Task_name": "NRG_v10_s_crystal - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "64%",
+            "Tasks": "(32/50)",
+            "Status": "Rendering (18)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v11_s-/stage",
+            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "60%",
+            "Tasks": "(30/50)",
+            "Status": "Rendering (20)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
