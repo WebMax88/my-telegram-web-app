@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v11_s-/stage",
-            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(48/50)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:11:15",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
@@ -48,20 +32,6 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "QC_splash_v20-/o",
-            "Task_name": "QC_splash_v20 - /out/net",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(121/121)",
-            "Status": "Corrupted",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "net",
-            "est.": "00:00:00",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Concert_comp_v05",
             "Task_name": "Concert_comp_v05.nk",
             "User": "pavlyuchenkov",
@@ -73,6 +43,20 @@
             "Render": "Concert_comp_v05.nk",
             "est.": "unknown",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "QC_splash_v20-/o",
+            "Task_name": "QC_splash_v20 - /out/net",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "100%",
+            "Tasks": "(121/121)",
+            "Status": "Corrupted",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "net",
+            "est.": "00:00:00",
+            "Priority": "60"
         }
     ]
 }
