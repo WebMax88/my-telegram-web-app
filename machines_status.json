@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -70,7 +70,7 @@
         "user": "Mary Mochalova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -90,7 +90,7 @@
         "user": "Alexandra Ushakova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws59",
         "user": "Max Weber"
     },
