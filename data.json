@@ -2,16 +2,44 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v21 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "51%",
+            "Tasks": "(129/250)",
+            "Status": "Rendering (28)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:48:08",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_com",
+            "Task_name": "Comedy_Stage_comp_v02.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "52%",
+            "Tasks": "(26/50)",
+            "Status": "Rendering (24)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Comedy_Stage_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Concert_v006-/ob",
             "Task_name": "Concert_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(174/250)",
-            "Status": "Rendering (26)",
+            "Progress": "71%",
+            "Tasks": "(179/250)",
+            "Status": "Rendering (27)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:27:28",
+            "est.": "00:23:11",
             "Priority": "60"
         },
         {
@@ -27,34 +55,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v21 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(128/250)",
-            "Status": "Rendering (28)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:49:15",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Comedy_Stage_com",
-            "Task_name": "Comedy_Stage_comp_v02.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/50)",
-            "Status": "Rendering (24)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Comedy_Stage_comp_v02.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ]
 }
