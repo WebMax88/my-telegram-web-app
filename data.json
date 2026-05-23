@@ -20,12 +20,12 @@
             "Task_name": "Professional_Court_180_v17 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(112/250)",
+            "Progress": "46%",
+            "Tasks": "(115/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "06:27:34",
+            "est.": "06:17:23",
             "Priority": "60"
         },
         {
@@ -36,10 +36,10 @@
             "Plugin": "Nuke",
             "Progress": "98%",
             "Tasks": "(49/50)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Concert_comp_v05.nk",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
