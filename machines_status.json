@@ -85,7 +85,7 @@
         "user": "Alexander Kostin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws58",
         "user": "Alexandra Ushakova"
     },
@@ -175,7 +175,7 @@
         "user": "Dzhosha Rahmonov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws155",
         "user": "???????? Vova Syslov"
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
@@ -285,7 +285,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws215",
         "user": "Freelancer - Vova Syslov"
     },
