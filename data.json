@@ -2,6 +2,48 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v21 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "54%",
+            "Tasks": "(136/250)",
+            "Status": "Rendering (27)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:48:45",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_com",
+            "Task_name": "Comedy_Stage_comp_v02.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "78%",
+            "Tasks": "(39/50)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Comedy_Stage_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_v006-/ob",
+            "Task_name": "Concert_v006 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "74%",
+            "Tasks": "(186/250)",
+            "Status": "Rendering (27)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:19:25",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Concert_v006-/ob",
             "Task_name": "Concert_v006 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
@@ -13,48 +55,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_v006-/ob",
-            "Task_name": "Concert_v006 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(181/250)",
-            "Status": "Rendering (27)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:22:07",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v21 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(133/250)",
-            "Status": "Rendering (28)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:46:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_com",
-            "Task_name": "Comedy_Stage_comp_v02.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "76%",
-            "Tasks": "(38/50)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Comedy_Stage_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
