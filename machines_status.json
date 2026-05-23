@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -20,17 +20,17 @@
         "user": "for freelancers"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws46",
         "user": "Daniil Makarov"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws47",
         "user": "---"
     },
@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -60,12 +60,12 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
