@@ -1,16 +1,30 @@
 {
-    "AUTODESK_PRLM": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
-            "User": "goncharov",
+            "Name": "NRG_v11_s-/stage",
+            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
+            "Progress": "68%",
+            "Tasks": "(34/50)",
+            "Status": "Rendering (16)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v10_s_crysta",
+            "Task_name": "NRG_v10_s_crystal - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "68%",
+            "Tasks": "(34/50)",
+            "Status": "Rendering (16)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -32,20 +46,6 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "Concert_comp_v05",
-            "Task_name": "Concert_comp_v05.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Concert_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "QC_splash_v20-/o",
             "Task_name": "QC_splash_v20 - /out/net",
             "User": "dmakarov",
@@ -57,34 +57,34 @@
             "Render": "net",
             "est.": "00:00:00",
             "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v10_s_crysta",
-            "Task_name": "NRG_v10_s_crystal - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(32/50)",
-            "Status": "Rendering (18)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v11_s-/stage",
-            "Task_name": "NRG_v11_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Name": "Concert_comp_v05",
+            "Task_name": "Concert_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v05.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(30/50)",
-            "Status": "Rendering (20)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step",
             "est.": "00:00:01",
             "Priority": "60"
         }
