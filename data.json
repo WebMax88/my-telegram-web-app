@@ -1,35 +1,5 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v10_s-/stage",
-            "Task_name": "NRG_v10_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(37/50)",
-            "Status": "Rendering (12)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:01:07",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Concert_comp_v05",
-            "Task_name": "Concert_comp_v05.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Concert_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        },
         {
             "Task_Progress": "100%",
             "Name": "QC_splash_v20-/o",
@@ -51,12 +21,26 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "44%",
-            "Tasks": "(110/250)",
+            "Tasks": "(111/250)",
             "Status": "Rendering (9)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "06:33:59",
+            "est.": "06:32:26",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_comp_v05",
+            "Task_name": "Concert_comp_v05.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "98%",
+            "Tasks": "(49/50)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v05.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "AUTODESK_PRLM": [
@@ -72,6 +56,22 @@
             "Project": "AUTODESK_PRLM",
             "Render": "CLOUDS_step",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v10_s-/stage",
+            "Task_name": "NRG_v10_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "86%",
+            "Tasks": "(43/50)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:02:46",
             "Priority": "60"
         }
     ]
