@@ -2,34 +2,6 @@
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v17 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(74/250)",
-            "Status": "Rendering (9)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "08:29:44",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QC_splash_v20-/o",
-            "Task_name": "QC_splash_v20 - /out/net",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(121/121)",
-            "Status": "Corrupted",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "net",
-            "est.": "00:00:00",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Box_Ring_v006-/o",
             "Task_name": "Box_Ring_v006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
@@ -55,21 +27,49 @@
             "Render": "Concert_comp_v05.nk",
             "est.": "unknown",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v17 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "29%",
+            "Tasks": "(74/250)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "08:29:44",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "QC_splash_v20-/o",
+            "Task_name": "QC_splash_v20 - /out/net",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "100%",
+            "Tasks": "(121/121)",
+            "Status": "Corrupted",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "net",
+            "est.": "00:00:00",
+            "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "8%",
+            "Task_Progress": "76%",
             "Name": "NRG_v09_s-/stage",
             "Task_name": "NRG_v09_s - /stage/NRG_v09_s/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/50)",
-            "Status": "Rendering (48)",
+            "Progress": "38%",
+            "Tasks": "(19/50)",
+            "Status": "Rendering (30)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:00:10",
             "Priority": "60"
         }
     ],
