@@ -1,1 +1,18 @@
-{}
+{
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v17-/out",
+            "Task_name": "MAR_020_v17 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "67%",
+            "Tasks": "(42/62)",
+            "Status": "Rendering (20)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ]
+}
