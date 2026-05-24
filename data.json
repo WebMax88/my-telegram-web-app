@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v12_s-/stage",
-            "Task_name": "NRG_v12_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(33/50)",
-            "Status": "Rendering (16)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:01:34",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -36,26 +20,28 @@
             "Task_name": "Comedy_Stage_v08 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(130/250)",
-            "Status": "Rendering (29)",
+            "Progress": "58%",
+            "Tasks": "(145/250)",
+            "Status": "Rendering (30)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:35:56",
+            "est.": "00:28:46",
             "Priority": "75"
-        },
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v25 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "NRG_v12_s-/stage",
+            "Task_name": "NRG_v12_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
+            "Progress": "72%",
+            "Tasks": "(36/50)",
+            "Status": "Rendering (13)",
+            "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "00:01:58",
             "Priority": "60"
         }
     ],
@@ -66,12 +52,12 @@
             "Task_name": "MAR_020_v21 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(17/62)",
-            "Status": "Rendering (3)",
+            "Progress": "66%",
+            "Tasks": "(41/62)",
+            "Status": "Rendering (5)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
-            "est.": "00:15:30",
+            "est.": "00:03:44",
             "Priority": "60"
         }
     ]
