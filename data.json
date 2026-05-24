@@ -1,34 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v14-/out",
-            "Task_name": "MAR_020_v14 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v14-/out",
-            "Task_name": "MAR_020_v14 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(56/62)",
-            "Status": "Rendering (6)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -36,9 +6,9 @@
             "Task_name": "Box_Ring_v007 - /obj/lopnet1/volume/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(116/125)",
-            "Status": "Rendering (9)",
+            "Progress": "95%",
+            "Tasks": "(119/125)",
+            "Status": "Rendering (6)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
