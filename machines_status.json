@@ -35,7 +35,7 @@
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws48",
         "user": "Sergei Adlerberg"
     },
@@ -60,7 +60,7 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -115,7 +115,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws112",
         "user": "Fedor Smirnov"
     },
@@ -180,7 +180,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Stalled",
+        "status": "HouseCleaning",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
