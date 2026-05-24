@@ -6,12 +6,12 @@
             "Task_name": "MAR_020_v16 - /out/shelf",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(20/62)",
-            "Status": "Rendering (16)",
+            "Progress": "46%",
+            "Tasks": "(29/62)",
+            "Status": "Rendering (20)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "shelf",
-            "est.": "00:06:25",
+            "est.": "00:02:34",
             "Priority": "60"
         },
         {
@@ -20,29 +20,13 @@
             "Task_name": "MAR_020_v16 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(40/62)",
-            "Status": "Rendering (15)",
+            "Progress": "82%",
+            "Tasks": "(51/62)",
+            "Status": "Rendering (11)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
-            "est.": "00:00:33",
-            "Priority": "60"
-        }
-    ],
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "100%",
-            "Name": "ZIV_086_comp_v01",
-            "Task_name": "ZIV_086_comp_v01.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(4/8)",
-            "Status": "Rendering (4)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_086_comp_v01.nk",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "60"
         }
     ]
 }
