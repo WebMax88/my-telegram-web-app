@@ -6,13 +6,27 @@
             "Task_name": "Comedy_Stage_v08 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(242/250)",
-            "Status": "Rendering (8)",
+            "Progress": "98%",
+            "Tasks": "(245/250)",
+            "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "75"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_Screen_comp_v03.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "53%",
+            "Tasks": "(67/125)",
+            "Status": "Rendering (33)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Professional_Court_Screen_comp_v03.nk",
+            "est.": "00:00:30",
+            "Priority": "90"
         }
     ],
     "MAGNIT_ICE_ROCS": [
