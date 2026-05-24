@@ -1,4 +1,20 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v19-/out",
+            "Task_name": "MAR_020_v19 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(61/62)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -20,12 +36,12 @@
             "Task_name": "Professional_Court_Screen_comp_v02.nk",
             "User": "shindin",
             "Plugin": "Nuke",
-            "Progress": "44%",
-            "Tasks": "(110/250)",
-            "Status": "Rendering (1)",
+            "Progress": "47%",
+            "Tasks": "(119/250)",
+            "Status": "Queued",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Professional_Court_Screen_comp_v02.nk",
-            "est.": "02:22:01",
+            "est.": "unknown",
             "Priority": "90"
         },
         {
@@ -34,28 +50,12 @@
             "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(143/250)",
+            "Progress": "61%",
+            "Tasks": "(154/250)",
             "Status": "Rendering (43)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:35:47",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v19-/out",
-            "Task_name": "MAR_020_v19 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
+            "est.": "00:29:00",
             "Priority": "60"
         }
     ]
