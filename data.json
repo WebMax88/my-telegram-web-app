@@ -1,4 +1,20 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v18-/out",
+            "Task_name": "MAR_020_v18 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(61/62)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -6,26 +22,12 @@
             "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(44/250)",
-            "Status": "Rendering (20)",
+            "Progress": "18%",
+            "Tasks": "(46/250)",
+            "Status": "Rendering (21)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:43:19",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v25 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(57/250)",
-            "Status": "Rendering (23)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:31:42",
+            "est.": "02:33:23",
             "Priority": "60"
         },
         {
@@ -41,37 +43,19 @@
             "Render": "Professional_Court_Screen_comp_v02.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "ZIV_RETOUCH": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "ZIV_085_comp_v01",
-            "Task_name": "ZIV_085_comp_v01.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(5/10)",
-            "Status": "Rendering (5)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_085_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v18-/out",
-            "Task_name": "MAR_020_v18 - /out/hero",
-            "User": "shashkov",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v25 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
+            "Progress": "26%",
+            "Tasks": "(66/250)",
+            "Status": "Rendering (23)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:26:16",
             "Priority": "60"
         }
     ]
