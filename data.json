@@ -6,25 +6,11 @@
             "Task_name": "MAR_020_v16 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(58/62)",
-            "Status": "Rendering (4)",
+            "Progress": "96%",
+            "Tasks": "(60/62)",
+            "Status": "Rendering (2)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v16-/out",
-            "Task_name": "MAR_020_v16 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(56/62)",
-            "Status": "Rendering (6)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
             "est.": "00:00:01",
             "Priority": "60"
         }
