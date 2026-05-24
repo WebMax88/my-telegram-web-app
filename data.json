@@ -1,20 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v21-/out",
-            "Task_name": "MAR_020_v21 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -29,20 +13,22 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "75"
-        },
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_Screen_comp_v02.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Suspended",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Professional_Court_Screen_comp_v02.nk",
-            "est.": "unknown",
-            "Priority": "90"
+            "Name": "MAR_020_v21-/out",
+            "Task_name": "MAR_020_v21 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(61/62)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
