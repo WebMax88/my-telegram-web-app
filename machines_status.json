@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws47",
         "user": "---"
     },
@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -55,17 +55,17 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
