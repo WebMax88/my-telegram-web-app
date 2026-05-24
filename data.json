@@ -1,5 +1,35 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "9%",
+            "Name": "NRG_v12_s-/stage",
+            "Task_name": "NRG_v12_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/50)",
+            "Status": "Rendering (21)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "94%",
+            "Tasks": "(237/250)",
+            "Status": "Rendering (13)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Professional_Cou",
@@ -15,48 +45,18 @@
             "Priority": "90"
         },
         {
-            "Task_Progress": "7%",
+            "Task_Progress": "14%",
             "Name": "Comedy_Stage_v08",
             "Task_name": "Comedy_Stage_v08 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(18/250)",
-            "Status": "Rendering (23)",
+            "Progress": "11%",
+            "Tasks": "(28/250)",
+            "Status": "Rendering (22)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:40:33",
+            "est.": "01:39:32",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(234/250)",
-            "Status": "Rendering (16)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "0%",
-            "Name": "ZIV_119_comp_v01",
-            "Task_name": "ZIV_119_comp_v01.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/7)",
-            "Status": "Rendering (7)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_119_comp_v01.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ],
     "MAGNIT_ICE_ROCS": [
@@ -66,9 +66,9 @@
             "Task_name": "MAR_020_v20 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(59/62)",
-            "Status": "Rendering (3)",
+            "Progress": "98%",
+            "Tasks": "(61/62)",
+            "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
             "est.": "00:00:01",
