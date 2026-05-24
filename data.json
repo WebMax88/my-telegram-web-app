@@ -1,4 +1,20 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "0%",
+            "Name": "Comedy_Stage_com",
+            "Task_name": "Comedy_Stage_comp_v04.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/125)",
+            "Status": "Rendering (22)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Comedy_Stage_comp_v04.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -6,9 +22,9 @@
             "Task_name": "MAR_020_v21 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(57/62)",
-            "Status": "Rendering (5)",
+            "Progress": "93%",
+            "Tasks": "(58/62)",
+            "Status": "Rendering (4)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
             "est.": "00:00:01",
