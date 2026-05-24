@@ -55,12 +55,12 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
@@ -145,17 +145,17 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws149",
         "user": "Alexander Korsun"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -180,12 +180,12 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws157",
         "user": "Evgeniy Grigorev"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
@@ -205,12 +205,12 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws164",
         "user": "WS FOR FREELANCER "
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
