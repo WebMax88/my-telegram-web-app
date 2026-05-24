@@ -6,57 +6,13 @@
             "Task_name": "MAR_020_v21 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(54/62)",
-            "Status": "Rendering (8)",
+            "Progress": "91%",
+            "Tasks": "(57/62)",
+            "Status": "Rendering (5)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v21-/out",
-            "Task_name": "MAR_020_v21 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(61/62)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Comedy_Stage_com",
-            "Task_name": "Comedy_Stage_comp_v04.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(124/125)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Comedy_Stage_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
