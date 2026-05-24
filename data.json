@@ -6,26 +6,12 @@
             "Task_name": "Professional_Court_180_v25 - /stage/pc_180/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(98/250)",
+            "Progress": "44%",
+            "Tasks": "(110/250)",
             "Status": "Rendering (22)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:13:04",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(57/250)",
-            "Status": "Rendering (21)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "02:29:24",
+            "est.": "01:06:34",
             "Priority": "60"
         },
         {
@@ -40,6 +26,34 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "Professional_Court_Screen_comp_v02.nk",
             "est.": "unknown",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "24%",
+            "Tasks": "(61/250)",
+            "Status": "Rendering (22)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:20:18",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Concert_comp_v08",
+            "Task_name": "Concert_comp_v08.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "82%",
+            "Tasks": "(41/50)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Concert_comp_v08.nk",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
