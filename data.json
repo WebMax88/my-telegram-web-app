@@ -1,61 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "9%",
+            "Task_Progress": "26%",
             "Name": "NRG_v12_s-/stage",
             "Task_name": "NRG_v12_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/50)",
-            "Status": "Rendering (21)",
+            "Status": "Rendering (22)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(237/250)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_Screen_comp_v02.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(83/84)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Professional_Court_Screen_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "14%",
-            "Name": "Comedy_Stage_v08",
-            "Task_name": "Comedy_Stage_v08 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(28/250)",
-            "Status": "Rendering (22)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:39:32",
+            "est.": "00:13:16",
             "Priority": "60"
         }
     ],
@@ -71,6 +27,36 @@
             "Status": "Rendering (1)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Comedy_Stage_v08",
+            "Task_name": "Comedy_Stage_v08 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "16%",
+            "Tasks": "(40/250)",
+            "Status": "Rendering (22)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:36:00",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_180_v24 - /stage/pc_180/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(241/250)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
