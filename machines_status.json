@@ -65,12 +65,12 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
@@ -185,7 +185,7 @@
         "user": "Alena Glavatskikh"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws157",
         "user": "Evgeniy Grigorev"
     },
