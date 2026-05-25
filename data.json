@@ -1,19 +1,51 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v12 - /out/clouds_down",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "14%",
+            "Tasks": "(13/90)",
+            "Status": "Rendering (16)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds_down",
+            "est.": "00:06:00",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v07_p-/out/C",
-            "Task_name": "NRG_v07_p - /out/Crystal_back_random",
-            "User": "hozhaev",
+            "Name": "QC_splash_v27-/o",
+            "Task_name": "QC_splash_v27 - /obj/Fish/spectrum_for_under_water_mask/render",
+            "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(98/100)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "Crystal_back_random",
+            "Progress": "58%",
+            "Tasks": "(101/172)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "render",
+            "est.": "00:06:54",
+            "Priority": "75"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "QC_splash_v26-/o",
+            "Task_name": "QC_splash_v26 - /out/net",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(120/121)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "net",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
             "Name": "NRG_v15_s-/stage",
@@ -25,52 +57,6 @@
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QC_splash_v26-/o",
-            "Task_name": "QC_splash_v26 - /out/net",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(89/121)",
-            "Status": "Rendering (32)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "net",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QC_splash_v26-/o",
-            "Task_name": "QC_splash_v26 - /out/splash",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(60/62)",
-            "Status": "Rendering (2)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "splash",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v12 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
             "est.": "00:00:01",
             "Priority": "60"
         }
