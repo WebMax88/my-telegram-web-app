@@ -1,19 +1,35 @@
 {
-    "AUTODESK_PRLM": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v12 - /out/clouds",
-            "User": "goncharov",
+            "Name": "NRG_v07_p-/out/C",
+            "Task_name": "NRG_v07_p - /out/Crystal_back_random",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(82/90)",
-            "Status": "Rendering (8)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
+            "Progress": "77%",
+            "Tasks": "(77/100)",
+            "Status": "Rendering (23)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "Crystal_back_random",
             "est.": "00:00:01",
             "Priority": "60"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v15_s-/stage",
+            "Task_name": "NRG_v15_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "84%",
+            "Tasks": "(42/50)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:02:02",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v1",
@@ -31,45 +47,15 @@
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v12 - /out/main",
+            "Task_name": "Daytime_Earth_v12 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
+            "Progress": "91%",
+            "Tasks": "(82/90)",
+            "Status": "Rendering (8)",
             "Project": "AUTODESK_PRLM",
-            "Render": "main",
+            "Render": "clouds",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v07_p-/out/C",
-            "Task_name": "NRG_v07_p - /out/Crystal_back_random",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(72/100)",
-            "Status": "Rendering (28)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "Crystal_back_random",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v15_s-/stage",
-            "Task_name": "NRG_v15_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(35/50)",
-            "Status": "Rendering (14)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:01:01",
             "Priority": "60"
         }
     ]
