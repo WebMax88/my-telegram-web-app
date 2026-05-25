@@ -1,34 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v23-/out",
-            "Task_name": "MAR_020_v23 - /out/hero",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(42/62)",
-            "Status": "Rendering (16)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "hero",
-            "est.": "00:00:21",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v23-/out",
-            "Task_name": "MAR_020_v23 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(11/62)",
-            "Status": "Rendering (14)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:12:36",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -43,6 +13,36 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "50"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v23-/out",
+            "Task_name": "MAR_020_v23 - /out/shelf",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "35%",
+            "Tasks": "(22/62)",
+            "Status": "Rendering (22)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "shelf",
+            "est.": "00:04:36",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_v23-/out",
+            "Task_name": "MAR_020_v23 - /out/hero",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(54/62)",
+            "Status": "Rendering (8)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "hero",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
