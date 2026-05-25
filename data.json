@@ -1,20 +1,4 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v12 - /out/clouds_down",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(13/90)",
-            "Status": "Rendering (16)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds_down",
-            "est.": "00:06:00",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -22,26 +6,28 @@
             "Task_name": "QC_splash_v27 - /obj/Fish/spectrum_for_under_water_mask/render",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(101/172)",
-            "Status": "Rendering (6)",
+            "Progress": "90%",
+            "Tasks": "(156/172)",
+            "Status": "Rendering (16)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "render",
-            "est.": "00:06:54",
+            "est.": "00:00:01",
             "Priority": "75"
-        },
+        }
+    ],
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "QC_splash_v26-/o",
-            "Task_name": "QC_splash_v26 - /out/net",
-            "User": "dmakarov",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v12 - /out/clouds_down",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(120/121)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "net",
-            "est.": "00:00:01",
+            "Progress": "40%",
+            "Tasks": "(36/90)",
+            "Status": "Rendering (15)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds_down",
+            "est.": "00:04:12",
             "Priority": "60"
         }
     ],
