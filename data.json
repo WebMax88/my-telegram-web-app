@@ -1,21 +1,19 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v11 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(85/90)",
-            "Status": "Rendering (5)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "0%",
+            "Name": "NRG_v14_s-/stage",
+            "Task_name": "NRG_v14_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/50)",
+            "Status": "Queued",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "50"
+        },
         {
             "Task_Progress": "0%",
             "Name": "Krypto_Ride_v03-",
@@ -36,12 +34,12 @@
             "Task_name": "Krypto_Ride_v02 - /out/main",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/40)",
-            "Status": "Rendering (23)",
+            "Progress": "22%",
+            "Tasks": "(9/40)",
+            "Status": "Rendering (31)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "main",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "65"
         },
         {
@@ -50,12 +48,12 @@
             "Task_name": "NRG_v07_p - /out/Crystal_back_tilted",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(68/100)",
-            "Status": "Rendering (8)",
+            "Progress": "73%",
+            "Tasks": "(73/100)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back_tilted",
-            "est.": "00:52:51",
+            "est.": "02:20:22",
             "Priority": "60"
         },
         {
@@ -64,27 +62,13 @@
             "Task_name": "NRG_v07_p - /out/Crystal_back_straight",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(97/100)",
-            "Status": "Rendering (3)",
+            "Progress": "99%",
+            "Tasks": "(99/100)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back_straight",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "NRG_v14_s-/stage",
-            "Task_name": "NRG_v14_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/50)",
-            "Status": "Queued",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "50"
         },
         {
             "Task_Progress": "100%",
@@ -92,12 +76,28 @@
             "Task_name": "NRG_v07_p - /out/Crystal_back_random",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(37/100)",
-            "Status": "Rendering (10)",
+            "Progress": "39%",
+            "Tasks": "(39/100)",
+            "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back_random",
-            "est.": "02:34:45",
+            "est.": "03:15:15",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v12 - /out/main",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/90)",
+            "Status": "Rendering (17)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main",
+            "est.": "unknown",
             "Priority": "60"
         }
     ]
