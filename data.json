@@ -1,4 +1,20 @@
 {
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v0",
+            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(84/90)",
+            "Status": "Rendering (6)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "CLOUDS_step",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -22,28 +38,12 @@
             "Task_name": "MAR_020_v22 - /out/hero",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(58/62)",
-            "Status": "Rendering (4)",
+            "Progress": "77%",
+            "Tasks": "(48/62)",
+            "Status": "Rendering (14)",
             "Project": "MAGNIT_ICE_ROCS",
             "Render": "hero",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v0",
-            "Task_name": "Daytime_Earth_v09 - /out/CLOUDS_step",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/90)",
-            "Status": "Rendering (75)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "CLOUDS_step",
-            "est.": "unknown",
             "Priority": "60"
         }
     ]
