@@ -1,31 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "100%",
-            "Name": "NRG_v15_s-/stage",
-            "Task_name": "NRG_v15_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(49/50)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "68%",
+            "Task_Progress": "86%",
             "Name": "NRG_v16_s-/stage",
             "Task_name": "NRG_v16_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(26/50)",
-            "Status": "Rendering (23)",
+            "Progress": "84%",
+            "Tasks": "(42/50)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:00:41",
+            "est.": "00:03:10",
             "Priority": "60"
         }
     ]
