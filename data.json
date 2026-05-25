@@ -6,12 +6,12 @@
             "Task_name": "Daytime_Earth_v11 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(21/90)",
+            "Progress": "28%",
+            "Tasks": "(26/90)",
             "Status": "Rendering (15)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:26:23",
+            "est.": "00:28:23",
             "Priority": "60"
         },
         {
@@ -29,18 +29,32 @@
             "Priority": "60"
         }
     ],
-    "T2_INSTRUCTION": [
+    "ZIV_RETOUCH": [
         {
             "Task_Progress": "100%",
-            "Name": "TTI_005_comp_doo",
-            "Task_name": "TTI_005_comp_dooh_6sec_v45.nk",
-            "User": "lebedevich",
+            "Name": "ZIV_045_comp_v01",
+            "Task_name": "ZIV_045_comp_v01.nk",
+            "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "86%",
-            "Tasks": "(33/38)",
-            "Status": "Rendering (5)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "TTI_005_comp_dooh_6sec_v45.nk",
+            "Progress": "76%",
+            "Tasks": "(10/13)",
+            "Status": "Rendering (3)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_045_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "ZIV_038_comp_v01",
+            "Task_name": "ZIV_038_comp_v01.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "88%",
+            "Tasks": "(15/17)",
+            "Status": "Rendering (2)",
+            "Project": "ZIV_RETOUCH",
+            "Render": "ZIV_038_comp_v01.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
