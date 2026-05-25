@@ -13,20 +13,6 @@
             "Render": "hero",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_020_v23-/out",
-            "Task_name": "MAR_020_v23 - /out/shelf",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(59/62)",
-            "Status": "Rendering (3)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "shelf",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
