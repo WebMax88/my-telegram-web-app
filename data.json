@@ -20,28 +20,28 @@
             "Task_name": "Daytime_Earth_v11 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(13/90)",
+            "Progress": "17%",
+            "Tasks": "(16/90)",
             "Status": "Rendering (16)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:23:13",
+            "est.": "00:25:07",
             "Priority": "60"
         }
     ],
-    "ZIV_RETOUCH": [
+    "T2_INSTRUCTION": [
         {
-            "Task_Progress": "100%",
-            "Name": "ZIV_063_comp_v01",
-            "Task_name": "ZIV_063_comp_v01.nk",
-            "User": "shvetsov",
+            "Task_Progress": "0%",
+            "Name": "TTI_005_comp_doo",
+            "Task_name": "TTI_005_comp_dooh_6sec_v45.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "63%",
-            "Tasks": "(7/11)",
-            "Status": "Rendering (3)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_063_comp_v01.nk",
-            "est.": "00:00:07",
+            "Progress": "0%",
+            "Tasks": "(0/38)",
+            "Status": "Rendering (32)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "TTI_005_comp_dooh_6sec_v45.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
