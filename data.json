@@ -1,48 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "78%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v16 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "82%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_v16 - /stage/side_cam/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QC_splash_v24-/o",
-            "Task_name": "QC_splash_v24 - /obj/Fish/ocean_flip_sim/render",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(19/72)",
-            "Status": "Rendering (4)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "render",
-            "est.": "00:18:48",
-            "Priority": "100"
-        }
-    ],
     "MAGNIT_ICE_ROCS": [
         {
             "Task_Progress": "100%",
@@ -57,6 +13,22 @@
             "Render": "hero",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QC_splash_v24-/o",
+            "Task_name": "QC_splash_v24 - /obj/Fish/ocean_flip_sim/render",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "30%",
+            "Tasks": "(22/72)",
+            "Status": "Rendering (4)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "render",
+            "est.": "00:26:02",
+            "Priority": "100"
         }
     ]
 }
