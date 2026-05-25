@@ -1,20 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QC_splash_v27-/o",
-            "Task_name": "QC_splash_v27 - /obj/Fish/spectrum_for_under_water_mask/render",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(156/172)",
-            "Status": "Rendering (16)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "render",
-            "est.": "00:00:01",
-            "Priority": "75"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "Daytime_Earth_v12 - /out/clouds_down",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(36/90)",
-            "Status": "Rendering (15)",
+            "Progress": "65%",
+            "Tasks": "(59/90)",
+            "Status": "Rendering (16)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds_down",
-            "est.": "00:04:12",
+            "est.": "00:01:34",
             "Priority": "60"
         }
     ],
