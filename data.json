@@ -1,35 +1,5 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "MAR_030_L1_v06",
-            "Task_name": "MAR_030_L1_v06",
-            "User": "shashkov",
-            "Plugin": "Cinema4D",
-            "Progress": "5%",
-            "Tasks": "(6/113)",
-            "Status": "Rendering (5)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "MAR_030_L1_v06",
-            "est.": "00:16:39",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "0%",
-            "Name": "Krypto_Ride_v01-",
-            "Task_name": "Krypto_Ride_v01 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(25/40)",
-            "Status": "Rendering (15)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "65"
-        },
         {
             "Task_Progress": "100%",
             "Name": "NRG_v07_p-/out/C",
@@ -38,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "28%",
             "Tasks": "(28/100)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back_tilted",
-            "est.": "02:19:26",
+            "est.": "01:48:03",
             "Priority": "60"
         },
         {
@@ -50,12 +20,12 @@
             "Task_name": "NRG_v07_p - /out/Crystal_back_straight",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(34/100)",
-            "Status": "Rendering (8)",
+            "Progress": "38%",
+            "Tasks": "(38/100)",
+            "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back_straight",
-            "est.": "01:30:10",
+            "est.": "01:03:05",
             "Priority": "60"
         },
         {
@@ -64,13 +34,27 @@
             "Task_name": "NRG_v07_p - /out/Crystal_back_random",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(15/100)",
-            "Status": "Rendering (8)",
+            "Progress": "16%",
+            "Tasks": "(16/100)",
+            "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back_random",
-            "est.": "05:02:10",
+            "est.": "04:23:10",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Krypto_Ride_v01-",
+            "Task_name": "Krypto_Ride_v01 - /out/main",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "82%",
+            "Tasks": "(33/40)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "65"
         }
     ],
     "AUTODESK_PRLM": [
@@ -80,12 +64,28 @@
             "Task_name": "Daytime_Earth_v11 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(65/90)",
+            "Progress": "76%",
+            "Tasks": "(69/90)",
             "Status": "Rendering (16)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:09:31",
+            "est.": "00:05:18",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_030_L1_v06",
+            "Task_name": "MAR_030_L1_v06",
+            "User": "shashkov",
+            "Plugin": "Cinema4D",
+            "Progress": "43%",
+            "Tasks": "(49/113)",
+            "Status": "Rendering (8)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "MAR_030_L1_v06",
+            "est.": "00:05:49",
             "Priority": "60"
         }
     ]
