@@ -6,43 +6,13 @@
             "Task_name": "Daytime_Earth_v11 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(38/90)",
-            "Status": "Rendering (14)",
+            "Progress": "44%",
+            "Tasks": "(40/90)",
+            "Status": "Rendering (15)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:30:33",
+            "est.": "00:27:06",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "9%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v11 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "ZIV_RETOUCH": [
-        {
-            "Task_Progress": "0%",
-            "Name": "ZIV_055_comp_v01",
-            "Task_name": "ZIV_055_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "69%",
-            "Tasks": "(9/13)",
-            "Status": "Rendering (4)",
-            "Project": "ZIV_RETOUCH",
-            "Render": "ZIV_055_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
