@@ -6,9 +6,9 @@
             "Task_name": "Daytime_Earth_v12 - /out/clouds_down",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(86/90)",
-            "Status": "Rendering (4)",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds_down",
             "est.": "00:00:01",
@@ -17,7 +17,7 @@
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "4%",
+            "Task_Progress": "15%",
             "Name": "NRG_v16_s-/stage",
             "Task_name": "NRG_v16_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
