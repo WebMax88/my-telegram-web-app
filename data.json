@@ -1,59 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "0%",
-            "Name": "NRG_v14_s-/stage",
-            "Task_name": "NRG_v14_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/50)",
-            "Status": "Queued",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "50"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "NRG_v07_p-/out/C",
             "Task_name": "NRG_v07_p - /out/Crystal_back_random",
             "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(24/100)",
+            "Progress": "26%",
+            "Tasks": "(26/100)",
             "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "Crystal_back_random",
-            "est.": "02:10:57",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v07_p-/out/C",
-            "Task_name": "NRG_v07_p - /out/Crystal_back_straight",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(65/100)",
-            "Status": "Rendering (14)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "Crystal_back_straight",
-            "est.": "00:18:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v07_p-/out/C",
-            "Task_name": "NRG_v07_p - /out/Crystal_back_tilted",
-            "User": "hozhaev",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
-            "Status": "Rendering (15)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "Crystal_back_tilted",
-            "est.": "00:49:13",
+            "est.": "02:03:46",
             "Priority": "60"
         },
         {
@@ -69,6 +27,34 @@
             "Render": "main",
             "est.": "00:00:01",
             "Priority": "65"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v07_p-/out/C",
+            "Task_name": "NRG_v07_p - /out/Crystal_back_tilted",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "48%",
+            "Tasks": "(48/100)",
+            "Status": "Rendering (15)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "Crystal_back_tilted",
+            "est.": "00:43:12",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v07_p-/out/C",
+            "Task_name": "NRG_v07_p - /out/Crystal_back_straight",
+            "User": "hozhaev",
+            "Plugin": "Houdini",
+            "Progress": "68%",
+            "Tasks": "(68/100)",
+            "Status": "Rendering (15)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "Crystal_back_straight",
+            "est.": "00:13:49",
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
