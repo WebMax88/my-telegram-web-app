@@ -1,33 +1,17 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v12 - /out/clouds_down",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(89/90)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds_down",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "22%",
+            "Task_Progress": "36%",
             "Name": "NRG_v16_s-/stage",
             "Task_name": "NRG_v16_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(14/50)",
-            "Status": "Rendering (35)",
+            "Progress": "36%",
+            "Tasks": "(18/50)",
+            "Status": "Rendering (31)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:00:18",
+            "est.": "00:00:22",
             "Priority": "60"
         },
         {
