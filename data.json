@@ -6,13 +6,29 @@
             "Task_name": "Daytime_Earth_v13 - /out/clouds_down",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(68/90)",
-            "Status": "Rendering (18)",
+            "Progress": "91%",
+            "Tasks": "(82/90)",
+            "Status": "Rendering (8)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds_down",
-            "est.": "00:00:23",
+            "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_comp_v10",
+            "Task_name": "BNK_020_comp_v10.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "53%",
+            "Tasks": "(15/28)",
+            "Status": "Rendering (13)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_020_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
