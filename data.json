@@ -3,49 +3,35 @@
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v13 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(28/90)",
-            "Status": "Rendering (7)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "00:20:06",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
             "Task_name": "Daytime_Earth_v13 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(25/90)",
-            "Status": "Rendering (7)",
+            "Progress": "41%",
+            "Tasks": "(37/90)",
+            "Status": "Rendering (8)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "00:19:48",
+            "est.": "00:15:04",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v13 - /out/atmo",
+            "Task_name": "Daytime_Earth_v13 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(87/90)",
-            "Status": "Rendering (3)",
+            "Progress": "42%",
+            "Tasks": "(38/90)",
+            "Status": "Rendering (9)",
             "Project": "AUTODESK_PRLM",
-            "Render": "atmo",
-            "est.": "00:00:01",
+            "Render": "main",
+            "est.": "00:13:08",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "80%",
             "Name": "Krypto_Ride_v04-",
             "Task_name": "Krypto_Ride_v04 - /out/main",
             "User": "mochalova",
@@ -56,7 +42,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "main",
             "est.": "unknown",
-            "Priority": "50"
+            "Priority": "60"
         }
     ]
 }
