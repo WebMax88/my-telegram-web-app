@@ -6,12 +6,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v005 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(7/100)",
+            "Progress": "15%",
+            "Tasks": "(15/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:37:29",
+            "est.": "00:32:51",
             "Priority": "60"
         }
     ],
@@ -33,7 +33,7 @@
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "6%",
+            "Task_Progress": "9%",
             "Name": "NRG_v19_s-/stage",
             "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -47,7 +47,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "85%",
+            "Task_Progress": "86%",
             "Name": "NRG_v18_s-/stage",
             "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
