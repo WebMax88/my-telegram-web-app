@@ -1,7 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "79%",
+            "Task_Progress": "80%",
             "Name": "NRG_v18_s-/stage",
             "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -36,12 +36,12 @@
             "Task_name": "TST_010_w_4sec_v039 - /out/main_cosmos",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(42/100)",
-            "Status": "Rendering (7)",
+            "Progress": "66%",
+            "Tasks": "(66/100)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "main_cosmos",
-            "est.": "00:09:21",
+            "est.": "00:02:24",
             "Priority": "60"
         }
     ]
