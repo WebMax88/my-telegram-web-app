@@ -1,7 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "1%",
+            "Task_Progress": "3%",
             "Name": "NRG_v19_s-/stage",
             "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -27,20 +27,6 @@
             "Render": "usdrender_rop",
             "est.": "00:08:13",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Krypto_Ride_v04-",
-            "Task_name": "Krypto_Ride_v04 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(39/40)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "SIDE_MISSIONS_BK": [
@@ -50,12 +36,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v004 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(83/100)",
+            "Progress": "90%",
+            "Tasks": "(90/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:04:15",
+            "est.": "00:01:16",
             "Priority": "60"
         }
     ]
