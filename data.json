@@ -6,12 +6,12 @@
             "Task_name": "Daytime_Earth_v13 - /out/atmo",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(48/90)",
+            "Progress": "75%",
+            "Tasks": "(68/90)",
             "Status": "Rendering (6)",
             "Project": "AUTODESK_PRLM",
             "Render": "atmo",
-            "est.": "00:05:34",
+            "est.": "00:02:25",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Daytime_Earth_v13 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(20/90)",
-            "Status": "Rendering (4)",
+            "Progress": "27%",
+            "Tasks": "(25/90)",
+            "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:35:31",
+            "est.": "00:30:33",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "Daytime_Earth_v13 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(14/90)",
-            "Status": "Rendering (5)",
+            "Progress": "22%",
+            "Tasks": "(20/90)",
+            "Status": "Rendering (6)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "00:31:42",
+            "est.": "00:24:02",
             "Priority": "60"
         }
     ]
