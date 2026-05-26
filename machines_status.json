@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws47",
         "user": "---"
     },
@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -85,7 +85,7 @@
         "user": "Alexander Kostin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws58",
         "user": "Alexandra Ushakova"
     },
