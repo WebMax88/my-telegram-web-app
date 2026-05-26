@@ -1,19 +1,21 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "SIDE_MISSIONS_BK": [
         {
-            "Task_Progress": "75%",
-            "Name": "NRG_v18_s-/stage",
-            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v003 - /stage/main_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(2/4)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:38:09",
+            "Progress": "91%",
+            "Tasks": "(91/100)",
+            "Status": "Rendering (7)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:01:30",
             "Priority": "60"
-        },
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
             "Name": "NRG_v19_s-/stage",
@@ -27,6 +29,20 @@
             "Render": "usdrender_rop",
             "est.": "00:07:43",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "94%",
+            "Name": "NRG_v18_s-/stage",
+            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(2/4)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:38:09",
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
@@ -36,28 +52,12 @@
             "Task_name": "Daytime_Earth_v15 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(86/90)",
-            "Status": "Rendering (4)",
+            "Progress": "97%",
+            "Tasks": "(88/90)",
+            "Status": "Rendering (2)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v003 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(83/100)",
-            "Status": "Rendering (6)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:09:43",
             "Priority": "60"
         }
     ]
