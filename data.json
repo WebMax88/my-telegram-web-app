@@ -1,1 +1,18 @@
-{}
+{
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_020_comp_v06",
+            "Task_name": "MAR_020_comp_v06.nk",
+            "User": "f.smirnov",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(32/33)",
+            "Status": "Rendering (1)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "MAR_020_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ]
+}
