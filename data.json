@@ -1,19 +1,37 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v18_s-/stage",
-            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Name": "TST_010_w_4sec_v",
+            "Task_name": "TST_010_w_4sec_v037 - /out/main_cosmos",
+            "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(2/4)",
+            "Progress": "98%",
+            "Tasks": "(95/96)",
             "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:18:15",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "main_cosmos",
+            "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "0%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Toyota_v004 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/100)",
+            "Status": "Rendering (6)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
             "Name": "Krypto_Ride_v04-",
@@ -26,6 +44,20 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "main",
             "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v18_s-/stage",
+            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(2/4)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:18:15",
             "Priority": "60"
         }
     ],
