@@ -15,12 +15,12 @@
         "user": "Erik Baymukashev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws44",
         "user": "for freelancers"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -65,12 +65,12 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
