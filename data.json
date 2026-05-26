@@ -3,33 +3,47 @@
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v13 - /out/clouds",
+            "Task_name": "Daytime_Earth_v13 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(69/90)",
-            "Status": "Rendering (8)",
+            "Progress": "82%",
+            "Tasks": "(74/90)",
+            "Status": "Rendering (9)",
             "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "00:06:18",
+            "Render": "main",
+            "est.": "00:03:13",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v13 - /out/main",
+            "Task_name": "Daytime_Earth_v13 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(70/90)",
-            "Status": "Rendering (9)",
+            "Progress": "81%",
+            "Tasks": "(73/90)",
+            "Status": "Rendering (8)",
             "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "00:05:06",
+            "Render": "clouds",
+            "est.": "00:04:20",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v18_s-/stage",
+            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(1/4)",
+            "Status": "Rendering (2)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:07:38",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Krypto_Ride_v04-",
@@ -42,20 +56,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "main",
             "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "89%",
-            "Name": "NRG_v18_s-/stage",
-            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/4)",
-            "Status": "Rendering (3)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
             "Priority": "60"
         }
     ]
