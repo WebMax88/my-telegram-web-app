@@ -3,43 +3,15 @@
         {
             "Task_Progress": "100%",
             "Name": "WWC_HOLO_v04-/ou",
-            "Task_name": "WWC_HOLO_v04 - /out/runesCam02",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(187/200)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "runesCam02",
-            "est.": "00:01:38",
-            "Priority": "75"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v04-/ou",
             "Task_name": "WWC_HOLO_v04 - /out/pyro01",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(106/200)",
-            "Status": "Rendering (4)",
+            "Progress": "68%",
+            "Tasks": "(137/200)",
+            "Status": "Rendering (14)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "pyro01",
-            "est.": "00:24:40",
-            "Priority": "75"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v03-/ou",
-            "Task_name": "WWC_HOLO_v03 - /out/pop2",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(175/200)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pop2",
-            "est.": "00:03:44",
+            "est.": "00:04:17",
             "Priority": "75"
         },
         {
@@ -48,58 +20,16 @@
             "Task_name": "WWC_HOLO_v04 - /out/pyroCam02",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(73/200)",
-            "Status": "Rendering (5)",
+            "Progress": "46%",
+            "Tasks": "(92/200)",
+            "Status": "Rendering (16)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "pyroCam02",
-            "est.": "00:34:29",
-            "Priority": "75"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v03-/ou",
-            "Task_name": "WWC_HOLO_v03 - /out/pop2Cam02",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(165/200)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pop2Cam02",
-            "est.": "00:06:39",
-            "Priority": "75"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v04-/ou",
-            "Task_name": "WWC_HOLO_v04 - /out/runes",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(169/200)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "runes",
-            "est.": "00:03:29",
+            "est.": "00:08:52",
             "Priority": "75"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v20_s-/stage",
-            "Task_name": "NRG_v20_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(21/50)",
-            "Status": "Rendering (29)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
-        },
         {
             "Task_Progress": "100%",
             "Name": "NRG_v19_s-/stage",
@@ -113,6 +43,20 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v20_s-/stage",
+            "Task_name": "NRG_v20_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "42%",
+            "Tasks": "(21/50)",
+            "Status": "Rendering (29)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "50"
         }
     ]
 }
