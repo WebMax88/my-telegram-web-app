@@ -6,12 +6,12 @@
             "Task_name": "Daytime_Earth_v13 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(74/90)",
-            "Status": "Rendering (9)",
+            "Progress": "94%",
+            "Tasks": "(85/90)",
+            "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:03:13",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -20,30 +20,16 @@
             "Task_name": "Daytime_Earth_v13 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(73/90)",
-            "Status": "Rendering (8)",
+            "Progress": "97%",
+            "Tasks": "(88/90)",
+            "Status": "Rendering (2)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "00:04:20",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v18_s-/stage",
-            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(1/4)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:07:38",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Krypto_Ride_v04-",
@@ -57,6 +43,36 @@
             "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v18_s-/stage",
+            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(2/4)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:18:15",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_comp_v18",
+            "Task_name": "BNK_010_comp_v18.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "2%",
+            "Tasks": "(1/49)",
+            "Status": "Rendering (14)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_010_comp_v18.nk",
+            "est.": "00:00:20",
+            "Priority": "90"
         }
     ]
 }
