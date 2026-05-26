@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "84%",
             "Tasks": "(42/50)",
-            "Status": "Queued",
+            "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -36,25 +36,11 @@
             "Task_name": "WWC_HOLO_v04 - /out/pyroCam02",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(143/200)",
-            "Status": "Rendering (28)",
+            "Progress": "97%",
+            "Tasks": "(195/200)",
+            "Status": "Rendering (5)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "pyroCam02",
-            "est.": "00:01:55",
-            "Priority": "75"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v04-/ou",
-            "Task_name": "WWC_HOLO_v04 - /out/pyro01",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(198/200)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pyro01",
             "est.": "00:00:01",
             "Priority": "75"
         }
