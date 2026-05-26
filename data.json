@@ -1,49 +1,5 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v13 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(85/90)",
-            "Status": "Rendering (5)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v13 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(88/90)",
-            "Status": "Rendering (2)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Krypto_Ride_v04-",
-            "Task_name": "Krypto_Ride_v04 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(39/40)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "NRG_v18_s-/stage",
@@ -57,22 +13,36 @@
             "Render": "usdrender_rop",
             "est.": "00:18:15",
             "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "BNK_010_comp_v18",
-            "Task_name": "BNK_010_comp_v18.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "2%",
-            "Tasks": "(1/49)",
-            "Status": "Rendering (14)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "BNK_010_comp_v18.nk",
-            "est.": "00:00:20",
-            "Priority": "90"
+            "Name": "Krypto_Ride_v04-",
+            "Task_name": "Krypto_Ride_v04 - /out/main",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(39/40)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v13 - /out/main",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
