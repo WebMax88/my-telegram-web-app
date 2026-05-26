@@ -22,12 +22,12 @@
             "Task_name": "City_Streets_011 - /obj/lopnet1/shadow/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(12/121)",
-            "Status": "Rendering (17)",
+            "Progress": "50%",
+            "Tasks": "(61/121)",
+            "Status": "Rendering (18)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:11:08",
+            "est.": "00:05:08",
             "Priority": "60"
         },
         {
@@ -36,12 +36,12 @@
             "Task_name": "City_Streets_011 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(14/121)",
+            "Progress": "49%",
+            "Tasks": "(60/121)",
             "Status": "Rendering (16)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:10:49",
+            "est.": "00:05:23",
             "Priority": "60"
         }
     ]
