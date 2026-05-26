@@ -1,51 +1,7 @@
 {
-    "LADA_VESTA_SPORT_KV": [
-        {
-            "Task_Progress": "67%",
-            "Name": "LVS_KV_v06_mik-/",
-            "Task_name": "LVS_KV_v06_mik - /out/main_interior_cam5",
-            "User": "mikhaylin",
-            "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "LADA_VESTA_SPORT_KV",
-            "Render": "main_interior_cam5",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "LVS_KV_v06_mik-/",
-            "Task_name": "LVS_KV_v06_mik - /out/main_interior_cam2",
-            "User": "mikhaylin",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "LADA_VESTA_SPORT_KV",
-            "Render": "main_interior_cam2",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "LVS_KV_v06_mik-/",
-            "Task_name": "LVS_KV_v06_mik - /out/main_interior_cam1",
-            "User": "mikhaylin",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(1/1)",
-            "Status": "Completed",
-            "Project": "LADA_VESTA_SPORT_KV",
-            "Render": "main_interior_cam1",
-            "est.": "00:00:00",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "83%",
+            "Task_Progress": "84%",
             "Name": "NRG_v18_s-/stage",
             "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -69,6 +25,22 @@
             "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "25%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v15 - /out/main_still",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main_still",
             "est.": "unknown",
             "Priority": "60"
         }
