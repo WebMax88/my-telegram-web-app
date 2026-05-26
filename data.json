@@ -1,6 +1,20 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
+            "Task_Progress": "46%",
+            "Name": "NRG_v19_s-/stage",
+            "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(1/4)",
+            "Status": "Rendering (2)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:16:42",
+            "Priority": "60"
+        },
+        {
             "Task_Progress": "74%",
             "Name": "NRG_v18_s-/stage",
             "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
@@ -13,20 +27,6 @@
             "Render": "usdrender_rop",
             "est.": "00:38:09",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "43%",
-            "Name": "NRG_v19_s-/stage",
-            "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(1/4)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:16:42",
-            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
@@ -36,29 +36,13 @@
             "Task_name": "Daytime_Earth_v14 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(61/90)",
+            "Progress": "80%",
+            "Tasks": "(72/90)",
             "Status": "Rendering (15)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:03:05",
+            "est.": "00:00:41",
             "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_comp_v19",
-            "Task_name": "BNK_010_comp_v19.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(49/49)",
-            "Status": "Completed",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "BNK_010_comp_v19.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
         }
     ]
 }
