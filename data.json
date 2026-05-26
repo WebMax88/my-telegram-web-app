@@ -1,23 +1,51 @@
 {
-    "QIDDIYA_CHARLY": [
+    "SIDE_MISSIONS_BK": [
         {
-            "Task_Progress": "20%",
-            "Name": "City_streets_com",
-            "Task_name": "City_streets_comp_v05.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/25)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "City_streets_comp_v05.nk",
-            "est.": "unknown",
-            "Priority": "90"
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v003 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(4/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "02:47:10",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Toyota_v005 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(50/100)",
+            "Status": "Rendering (4)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:33:55",
+            "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "87%",
+            "Task_Progress": "26%",
+            "Name": "NRG_v19_s-/stage",
+            "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "16%",
+            "Tasks": "(8/50)",
+            "Status": "Rendering (40)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:01:26",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "88%",
             "Name": "NRG_v18_s-/stage",
             "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -28,50 +56,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
             "est.": "00:38:09",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "20%",
-            "Name": "NRG_v19_s-/stage",
-            "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/50)",
-            "Status": "Rendering (47)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:32",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Toyota_v005 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(42/100)",
-            "Status": "Rendering (4)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:39:51",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "89%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v003 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "unknown",
             "Priority": "60"
         }
     ]
