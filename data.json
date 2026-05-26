@@ -1,20 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "City_Streets_011",
-            "Task_name": "City_Streets_011 - /obj/lopnet1/main2/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/2)",
-            "Status": "Rendering (2)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "75%",
@@ -31,7 +15,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "53%",
+            "Task_Progress": "55%",
             "Name": "NRG_v19_s-/stage",
             "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -52,12 +36,28 @@
             "Task_name": "Daytime_Earth_v14 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(87/90)",
-            "Status": "Rendering (3)",
+            "Progress": "98%",
+            "Tasks": "(89/90)",
+            "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "0%",
+            "Name": "City_Streets_011",
+            "Task_name": "City_Streets_011 - /obj/lopnet1/main2/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/2)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
             "Priority": "60"
         }
     ]
