@@ -15,14 +15,14 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "98%",
+            "Task_Progress": "100%",
             "Name": "NRG_v20_s-/stage",
             "Task_name": "NRG_v20_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(8/50)",
-            "Status": "Rendering (42)",
+            "Progress": "30%",
+            "Tasks": "(15/50)",
+            "Status": "Rendering (35)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
