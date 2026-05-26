@@ -6,12 +6,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v005 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(82/100)",
+            "Progress": "85%",
+            "Tasks": "(85/100)",
             "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:14:25",
+            "est.": "00:11:33",
             "Priority": "60"
         },
         {
@@ -20,16 +20,30 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(17/100)",
+            "Progress": "19%",
+            "Tasks": "(19/100)",
             "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "02:25:50",
+            "est.": "02:22:16",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "49%",
+            "Name": "NRG_v19_s-/stage",
+            "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(16/50)",
+            "Status": "Rendering (27)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:08:03",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "90%",
             "Name": "NRG_v18_s-/stage",
@@ -42,20 +56,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
             "est.": "00:38:09",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "47%",
-            "Name": "NRG_v19_s-/stage",
-            "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(16/50)",
-            "Status": "Rendering (27)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:08:03",
             "Priority": "60"
         }
     ]
