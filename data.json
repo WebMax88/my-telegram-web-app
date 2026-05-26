@@ -2,20 +2,6 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v20_s-/stage",
-            "Task_name": "NRG_v20_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(21/50)",
-            "Status": "Rendering (29)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "NRG_v19_s-/stage",
             "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -27,35 +13,49 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v20_s-/stage",
+            "Task_name": "NRG_v20_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "42%",
+            "Tasks": "(21/50)",
+            "Status": "Rendering (29)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "50"
         }
     ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
             "Name": "WWC_HOLO_v04-/ou",
-            "Task_name": "WWC_HOLO_v04 - /out/pyro01",
+            "Task_name": "WWC_HOLO_v04 - /out/pyroCam02",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(172/200)",
-            "Status": "Rendering (14)",
+            "Progress": "71%",
+            "Tasks": "(143/200)",
+            "Status": "Rendering (28)",
             "Project": "WINLINE_WORLDCUP",
-            "Render": "pyro01",
-            "est.": "00:01:23",
+            "Render": "pyroCam02",
+            "est.": "00:01:55",
             "Priority": "75"
         },
         {
             "Task_Progress": "100%",
             "Name": "WWC_HOLO_v04-/ou",
-            "Task_name": "WWC_HOLO_v04 - /out/pyroCam02",
+            "Task_name": "WWC_HOLO_v04 - /out/pyro01",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(126/200)",
-            "Status": "Rendering (16)",
+            "Progress": "99%",
+            "Tasks": "(198/200)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
-            "Render": "pyroCam02",
-            "est.": "00:06:32",
+            "Render": "pyro01",
+            "est.": "00:00:01",
             "Priority": "75"
         }
     ]
