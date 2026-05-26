@@ -1,7 +1,23 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_comp_v18",
+            "Task_name": "BNK_010_comp_v18.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(49/49)",
+            "Status": "Completed",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "BNK_010_comp_v18.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "16%",
+            "Task_Progress": "39%",
             "Name": "NRG_v17_s-/stage",
             "Task_name": "NRG_v17_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
