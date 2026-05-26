@@ -1,21 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "0%",
-            "Name": "TST_020_v06-/obj",
-            "Task_name": "TST_020_v06 - /obj/lopnet1/girl_01/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "81%",
+            "Task_Progress": "82%",
             "Name": "NRG_v18_s-/stage",
             "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -26,48 +12,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
             "est.": "00:38:09",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_020_v06-/obj",
-            "Task_name": "TST_020_v06 - /obj/lopnet1/boy_02/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_020_v06-/obj",
-            "Task_name": "TST_020_v06 - /obj/lopnet1/girl_02/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_020_v06-/obj",
-            "Task_name": "TST_020_v06 - /obj/lopnet1/girl_03/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
             "Priority": "60"
         },
         {
@@ -83,20 +27,6 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_020_v06-/obj",
-            "Task_name": "TST_020_v06 - /obj/lopnet1/boy_01/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
         }
     ],
     "QIDDIYA_CHARLY": [
@@ -106,12 +36,12 @@
             "Task_name": "TST_010_w_4sec_v039 - /out/main_cosmos",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(14/100)",
-            "Status": "Rendering (13)",
+            "Progress": "68%",
+            "Tasks": "(68/100)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "main_cosmos",
-            "est.": "00:08:22",
+            "est.": "00:02:13",
             "Priority": "60"
         }
     ]
