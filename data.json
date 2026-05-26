@@ -1,21 +1,19 @@
 {
-    "SIDE_MISSIONS_BK": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Toyota_v004 - /stage/main_rop",
-            "User": "korukaev",
+            "Name": "NRG_v18_s-/stage",
+            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(7/100)",
-            "Status": "Rendering (7)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:37:32",
+            "Progress": "50%",
+            "Tasks": "(2/4)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:18:15",
             "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "Krypto_Ride_v04-",
@@ -29,19 +27,21 @@
             "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v18_s-/stage",
-            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Toyota_v004 - /stage/main_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(2/4)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:18:15",
+            "Progress": "14%",
+            "Tasks": "(14/100)",
+            "Status": "Rendering (7)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:35:30",
             "Priority": "60"
         }
     ]
