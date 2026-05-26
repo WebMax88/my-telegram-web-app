@@ -1,37 +1,7 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_020_v22-/out",
-            "Task_name": "BNK_020_v22 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(16/79)",
-            "Status": "Rendering (12)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:09:34",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_v22-/out",
-            "Task_name": "BNK_010_v22 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(49/97)",
-            "Status": "Rendering (11)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:04:52",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "93%",
+            "Task_Progress": "0%",
             "Name": "NRG_v18_s-/stage",
             "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -45,17 +15,17 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "74%",
+            "Task_Progress": "79%",
             "Name": "NRG_v19_s-/stage",
             "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(22/50)",
-            "Status": "Rendering (21)",
+            "Progress": "56%",
+            "Tasks": "(28/50)",
+            "Status": "Rendering (15)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:15:09",
+            "est.": "00:25:32",
             "Priority": "60"
         }
     ],
@@ -66,12 +36,12 @@
             "Task_name": "Daytime_Earth_v15 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(35/90)",
+            "Progress": "44%",
+            "Tasks": "(40/90)",
             "Status": "Rendering (16)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "00:16:38",
+            "est.": "00:15:16",
             "Priority": "60"
         }
     ],
@@ -82,12 +52,42 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
+            "Progress": "51%",
+            "Tasks": "(51/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:39:26",
+            "est.": "00:33:03",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_020_v22-/out",
+            "Task_name": "BNK_020_v22 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "53%",
+            "Tasks": "(42/79)",
+            "Status": "Rendering (15)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:03:46",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_v22-/out",
+            "Task_name": "BNK_010_v22 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "77%",
+            "Tasks": "(75/97)",
+            "Status": "Rendering (14)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:01:02",
             "Priority": "60"
         }
     ]
