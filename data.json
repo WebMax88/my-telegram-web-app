@@ -1,6 +1,34 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
+            "Task_Progress": "1%",
+            "Name": "NRG_v19_s-/stage",
+            "Task_name": "NRG_v19_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/4)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "69%",
+            "Name": "NRG_v18_s-/stage",
+            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(1/4)",
+            "Status": "Rendering (2)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:08:13",
+            "Priority": "60"
+        },
+        {
             "Task_Progress": "100%",
             "Name": "Krypto_Ride_v04-",
             "Task_name": "Krypto_Ride_v04 - /out/main",
@@ -13,20 +41,6 @@
             "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "68%",
-            "Name": "NRG_v18_s-/stage",
-            "Task_name": "NRG_v18_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(1/4)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:08:13",
-            "Priority": "60"
         }
     ],
     "SIDE_MISSIONS_BK": [
@@ -36,12 +50,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v004 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(73/100)",
-            "Status": "Rendering (6)",
+            "Progress": "83%",
+            "Tasks": "(83/100)",
+            "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:10:28",
+            "est.": "00:04:15",
             "Priority": "60"
         }
     ]
