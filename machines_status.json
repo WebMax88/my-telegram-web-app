@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Offline",
+        "status": "Idle",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -65,12 +65,12 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -160,7 +160,7 @@
         "user": "Vadim Raznov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
@@ -170,7 +170,7 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS153",
         "user": "Dzhosha Rahmonov"
     },
