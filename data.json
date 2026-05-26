@@ -1,4 +1,20 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "NRG_v20_s-/stage",
+            "Task_name": "NRG_v20_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "80%",
+            "Tasks": "(40/50)",
+            "Status": "Rendering (10)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "50"
+        }
+    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -13,22 +29,6 @@
             "Render": "pyroCam02",
             "est.": "00:00:01",
             "Priority": "75"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "NRG_v20_s-/stage",
-            "Task_name": "NRG_v20_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(38/50)",
-            "Status": "Rendering (12)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
         }
     ]
 }
