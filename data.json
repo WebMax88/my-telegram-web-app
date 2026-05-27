@@ -14,21 +14,5 @@
             "est.": "00:00:01",
             "Priority": "50"
         }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v04-/ou",
-            "Task_name": "WWC_HOLO_v04 - /out/pyroCam02",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(199/200)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pyroCam02",
-            "est.": "00:00:01",
-            "Priority": "75"
-        }
     ]
 }
