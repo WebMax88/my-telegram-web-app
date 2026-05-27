@@ -1,63 +1,5 @@
 {
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v08-/ou",
-            "Task_name": "WWC_HOLO_v08 - /out/runes",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(166/200)",
-            "Status": "Rendering (22)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "runes",
-            "est.": "00:00:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v08-/ou",
-            "Task_name": "WWC_HOLO_v08 - /out/pop2",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(132/200)",
-            "Status": "Rendering (23)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pop2",
-            "est.": "00:01:42",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v08-/ou",
-            "Task_name": "WWC_HOLO_v08 - /out/pedestal",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(141/200)",
-            "Status": "Rendering (24)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pedestal",
-            "est.": "00:01:21",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v18 - /out/atmo",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(95/96)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "atmo",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v1",
@@ -69,6 +11,20 @@
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v18 - /out/atmo",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(95/96)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "atmo",
             "est.": "00:00:01",
             "Priority": "60"
         }
