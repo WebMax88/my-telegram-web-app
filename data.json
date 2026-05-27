@@ -1,7 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "91%",
+            "Task_Progress": "92%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -36,12 +36,12 @@
             "Task_name": "Daytime_Earth_v18 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(68/96)",
-            "Status": "Rendering (20)",
+            "Progress": "82%",
+            "Tasks": "(79/96)",
+            "Status": "Rendering (17)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "00:04:38",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
