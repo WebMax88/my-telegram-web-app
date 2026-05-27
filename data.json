@@ -3,30 +3,46 @@
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/close_rop",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(47/100)",
-            "Status": "Rendering (2)",
+            "Progress": "64%",
+            "Tasks": "(64/100)",
+            "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "01:43:01",
+            "Render": "main_rop",
+            "est.": "00:44:06",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/main_rop",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(60/100)",
-            "Status": "Rendering (4)",
+            "Progress": "49%",
+            "Tasks": "(49/100)",
+            "Status": "Rendering (1)",
             "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:36:14",
+            "Render": "close_rop",
+            "est.": "03:23:02",
             "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "0%",
+            "Name": "CFI_260_comp_v18",
+            "Task_name": "CFI_260_comp_v18.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/36)",
+            "Status": "Rendering (8)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_260_comp_v18.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
