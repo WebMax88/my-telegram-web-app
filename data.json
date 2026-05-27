@@ -1,7 +1,55 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "69%",
+            "Name": "QC_splash_v29-/o",
+            "Task_name": "QC_splash_v29 - /obj/Fish/ocean_flip_sim/render",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "69%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "render",
+            "est.": "unknown",
+            "Priority": "85"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "42%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "17%",
+            "Tasks": "(17/96)",
+            "Status": "Rendering (14)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "00:27:12",
+            "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(6/100)",
+            "Status": "Rendering (5)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "01:05:51",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "63%",
+            "Task_Progress": "64%",
             "Name": "NRG_v21_s-/stage",
             "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -13,68 +61,6 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "50"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(2/100)",
-            "Status": "Rendering (5)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "01:07:56",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "61%",
-            "Name": "QC_splash_v29-/o",
-            "Task_name": "QC_splash_v29 - /obj/Fish/ocean_flip_sim/render",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "85"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "3%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(15/96)",
-            "Status": "Rendering (13)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "00:29:35",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "15%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "unknown",
-            "Priority": "60"
         }
     ]
 }
