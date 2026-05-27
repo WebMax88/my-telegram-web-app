@@ -1,20 +1,6 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "38%",
-            "Name": "NRG_v21_s-/stage",
-            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(13/25)",
-            "Status": "Rendering (12)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "Krypto_Ride_v05-",
             "Task_name": "Krypto_Ride_v05 - /out/main",
@@ -27,6 +13,20 @@
             "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "39%",
+            "Name": "NRG_v21_s-/stage",
+            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "52%",
+            "Tasks": "(13/25)",
+            "Status": "Rendering (12)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "50"
         }
     ],
     "QIDDIYA_CHARLY": [
@@ -36,12 +36,12 @@
             "Task_name": "Final_reveal_clouds_v01 - /obj/lopnet1/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/50)",
-            "Status": "Rendering (13)",
+            "Progress": "8%",
+            "Tasks": "(4/50)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:12:43",
             "Priority": "60"
         }
     ]
