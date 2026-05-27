@@ -6,26 +6,12 @@
             "Task_name": "stad_sh05_v03 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(150/200)",
-            "Status": "Rendering (5)",
+            "Progress": "84%",
+            "Tasks": "(169/200)",
+            "Status": "Rendering (7)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:27:42",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v03-/s",
-            "Task_name": "stad_sh05_v03 - /stage/volum/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(194/200)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:27",
+            "est.": "00:10:14",
             "Priority": "60"
         },
         {
@@ -34,32 +20,30 @@
             "Task_name": "stad_sh05_v03 - /stage/main1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(148/200)",
-            "Status": "Rendering (5)",
+            "Progress": "79%",
+            "Tasks": "(158/200)",
+            "Status": "Rendering (7)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:24:41",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v005 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(47/100)",
-            "Status": "Rendering (4)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:45:40",
+            "est.": "00:13:28",
             "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v18 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "8%",
+            "Tasks": "(8/96)",
+            "Status": "Rendering (6)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "05:55:26",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "0%",
             "Name": "Daytime_Earth_v1",
@@ -73,25 +57,27 @@
             "Render": "atmo",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v18 - /out/clouds",
-            "User": "goncharov",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v005 - /stage/main_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(7/96)",
-            "Status": "Rendering (5)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "07:16:03",
+            "Progress": "55%",
+            "Tasks": "(55/100)",
+            "Status": "Rendering (4)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:38:03",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "66%",
+            "Task_Progress": "69%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
