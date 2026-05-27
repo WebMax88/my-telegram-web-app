@@ -1,34 +1,4 @@
 {
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_square_v",
-            "Task_name": "BNK_010_square_v22 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(79/97)",
-            "Status": "Rendering (18)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_square_v",
-            "Task_name": "BNK_010_square_v22 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(96/97)",
-            "Status": "Rendering (1)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -50,12 +20,28 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(35/100)",
+            "Progress": "37%",
+            "Tasks": "(37/100)",
             "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "01:01:04",
+            "est.": "00:58:58",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_square_v",
+            "Task_name": "BNK_010_square_v22 - /out/grape",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(95/97)",
+            "Status": "Rendering (2)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "grape",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
