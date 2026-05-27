@@ -1,23 +1,7 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(52/96)",
-            "Status": "Rendering (7)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "00:54:39",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "82%",
+            "Task_Progress": "87%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -52,12 +36,28 @@
             "Task_name": "TST_010_w_4sec_v040 - /out/main_cosmos",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(82/175)",
+            "Progress": "54%",
+            "Tasks": "(95/175)",
             "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "main_cosmos",
-            "est.": "00:23:20",
+            "est.": "00:20:04",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "55%",
+            "Tasks": "(53/96)",
+            "Status": "Rendering (7)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "00:52:54",
             "Priority": "60"
         }
     ]
