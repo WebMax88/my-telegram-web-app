@@ -15,64 +15,6 @@
             "Priority": "50"
         }
     ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_square_v",
-            "Task_name": "BNK_010_square_v22 - /out/grape_shadow",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(68/97)",
-            "Status": "Rendering (8)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape_shadow",
-            "est.": "00:03:30",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_square_v",
-            "Task_name": "BNK_010_square_v22 - /out/melon",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(37/97)",
-            "Status": "Rendering (9)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon",
-            "est.": "00:13:30",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_square_v",
-            "Task_name": "BNK_010_square_v22 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(27/97)",
-            "Status": "Rendering (9)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:21:05",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_square_v",
-            "Task_name": "BNK_010_square_v22 - /out/melon_shadow",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(80/97)",
-            "Status": "Rendering (8)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "melon_shadow",
-            "est.": "00:01:22",
-            "Priority": "60"
-        }
-    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -80,12 +22,12 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(17/100)",
+            "Progress": "21%",
+            "Tasks": "(21/100)",
             "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
-            "est.": "01:49:47",
+            "est.": "01:43:46",
             "Priority": "60"
         },
         {
@@ -94,12 +36,42 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(21/100)",
+            "Progress": "26%",
+            "Tasks": "(26/100)",
             "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "01:14:54",
+            "est.": "01:09:58",
+            "Priority": "60"
+        }
+    ],
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_square_v",
+            "Task_name": "BNK_010_square_v22 - /out/melon",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(57/97)",
+            "Status": "Rendering (18)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "melon",
+            "est.": "00:03:19",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BNK_010_square_v",
+            "Task_name": "BNK_010_square_v22 - /out/grape",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "39%",
+            "Tasks": "(38/97)",
+            "Status": "Rendering (17)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "grape",
+            "est.": "00:08:13",
             "Priority": "60"
         }
     ]
