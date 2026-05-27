@@ -34,12 +34,12 @@
             "Task_name": "Daytime_Earth_v17 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(68/96)",
+            "Progress": "76%",
+            "Tasks": "(73/96)",
             "Status": "Rendering (7)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:09:36",
+            "est.": "00:07:25",
             "Priority": "60"
         }
     ],
@@ -50,18 +50,18 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(63/100)",
+            "Progress": "66%",
+            "Tasks": "(66/100)",
             "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:30:33",
+            "est.": "00:27:41",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "66%",
+            "Task_Progress": "72%",
             "Name": "NRG_v21_s-/stage",
             "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -75,7 +75,7 @@
             "Priority": "50"
         },
         {
-            "Task_Progress": "30%",
+            "Task_Progress": "35%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -89,7 +89,7 @@
             "Priority": "65"
         },
         {
-            "Task_Progress": "30%",
+            "Task_Progress": "60%",
             "Name": "TST_040_v01-/out",
             "Task_name": "TST_040_v01 - /out/main",
             "User": "mochalova",
