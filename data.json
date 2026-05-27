@@ -6,12 +6,12 @@
             "Task_name": "stad_sh05_v03 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(169/200)",
+            "Progress": "91%",
+            "Tasks": "(183/200)",
             "Status": "Rendering (7)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:10:14",
+            "est.": "00:04:12",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "stad_sh05_v03 - /stage/main1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(158/200)",
+            "Progress": "85%",
+            "Tasks": "(171/200)",
             "Status": "Rendering (7)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:13:28",
+            "est.": "00:08:43",
             "Priority": "60"
         }
     ],
@@ -36,12 +36,12 @@
             "Task_name": "Daytime_Earth_v18 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(8/96)",
+            "Progress": "10%",
+            "Tasks": "(10/96)",
             "Status": "Rendering (6)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "05:55:26",
+            "est.": "05:14:34",
             "Priority": "60"
         },
         {
@@ -66,18 +66,18 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v005 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(55/100)",
+            "Progress": "61%",
+            "Tasks": "(61/100)",
             "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:38:03",
+            "est.": "00:32:20",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "69%",
+            "Task_Progress": "71%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
