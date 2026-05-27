@@ -1,6 +1,20 @@
 {
     "AUTODESK_PRLM": [
         {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v18 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(93/96)",
+            "Status": "Rendering (3)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
             "Task_Progress": "0%",
             "Name": "Daytime_Earth_v1",
             "Task_name": "Daytime_Earth_v18 - /out/atmo",
@@ -11,20 +25,6 @@
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "atmo",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v18 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(92/96)",
-            "Status": "Rendering (4)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
             "est.": "00:00:01",
             "Priority": "60"
         }
