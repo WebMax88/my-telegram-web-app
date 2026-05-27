@@ -1,23 +1,7 @@
 {
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(98/100)",
-            "Status": "Rendering (2)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "9%",
+            "Task_Progress": "12%",
             "Name": "NRG_v21_s-/stage",
             "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
