@@ -1,19 +1,79 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "AUTODESK_PRLM": [
         {
-            "Task_Progress": "69%",
-            "Name": "NRG_v21_s-/stage",
-            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Task_Progress": "0%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/main",
+            "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(15/25)",
-            "Status": "Rendering (10)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
+            "Progress": "25%",
+            "Tasks": "(24/96)",
+            "Status": "Rendering (3)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "main",
+            "est.": "00:50:55",
+            "Priority": "60"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(31/96)",
+            "Status": "Rendering (5)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "01:19:10",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/atmo",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "64%",
+            "Tasks": "(62/96)",
+            "Status": "Rendering (3)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "atmo",
+            "est.": "00:06:49",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "1%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/atmo_vol",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "18%",
+            "Tasks": "(18/96)",
+            "Status": "Rendering (2)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "atmo_vol",
+            "est.": "00:49:44",
+            "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(25/100)",
+            "Status": "Rendering (4)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "01:05:58",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "0%",
             "Name": "NRG_v22_s-/stage",
@@ -27,80 +87,36 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "50"
+        },
+        {
+            "Task_Progress": "7%",
+            "Name": "NRG_v21_s-/stage",
+            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "60%",
+            "Tasks": "(15/25)",
+            "Status": "Rendering (10)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "50"
         }
     ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "1%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/atmo_vol",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(9/96)",
-            "Status": "Rendering (3)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "atmo_vol",
-            "est.": "00:36:40",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(15/96)",
-            "Status": "Rendering (3)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "00:54:46",
-            "Priority": "60"
-        },
+    "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(30/96)",
-            "Status": "Rendering (5)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "01:19:41",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/atmo",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(38/96)",
-            "Status": "Rendering (3)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "atmo",
-            "est.": "00:12:19",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(18/100)",
-            "Status": "Rendering (4)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "01:12:21",
-            "Priority": "60"
+            "Name": "CFI_010_comp_v20",
+            "Task_name": "CFI_010_comp_v20.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "87%",
+            "Tasks": "(14/16)",
+            "Status": "Rendering (2)",
+            "Project": "CFI_DJV",
+            "Render": "CFI_010_comp_v20.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
