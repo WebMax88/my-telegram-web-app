@@ -1,36 +1,4 @@
 {
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v005 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(94/100)",
-            "Status": "Rendering (6)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "83%",
-            "Name": "NRG_v22_s-/stage",
-            "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(12/18)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "55"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -52,13 +20,29 @@
             "Task_name": "Daytime_Earth_v18 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(40/96)",
-            "Status": "Rendering (18)",
+            "Progress": "47%",
+            "Tasks": "(46/96)",
+            "Status": "Rendering (21)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "00:28:01",
+            "est.": "00:17:37",
             "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "85%",
+            "Name": "NRG_v22_s-/stage",
+            "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "66%",
+            "Tasks": "(12/18)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "55"
         }
     ]
 }
