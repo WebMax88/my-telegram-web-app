@@ -1,21 +1,21 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "46%",
+            "Task_Progress": "57%",
             "Name": "NRG_v21_s-/stage",
             "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(15/25)",
-            "Status": "Rendering (10)",
+            "Progress": "68%",
+            "Tasks": "(17/25)",
+            "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "50"
         },
         {
-            "Task_Progress": "9%",
+            "Task_Progress": "20%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -36,12 +36,12 @@
             "Task_name": "Daytime_Earth_v17 - /out/atmo_vol",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(71/96)",
-            "Status": "Rendering (5)",
+            "Progress": "90%",
+            "Tasks": "(87/96)",
+            "Status": "Rendering (4)",
             "Project": "AUTODESK_PRLM",
             "Render": "atmo_vol",
-            "est.": "00:06:32",
+            "est.": "00:02:17",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "Daytime_Earth_v17 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(53/96)",
+            "Progress": "62%",
+            "Tasks": "(60/96)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:22:25",
+            "est.": "00:19:08",
             "Priority": "60"
         },
         {
@@ -64,12 +64,12 @@
             "Task_name": "Daytime_Earth_v17 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(37/96)",
+            "Progress": "40%",
+            "Tasks": "(39/96)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "01:34:14",
+            "est.": "01:31:50",
             "Priority": "60"
         }
     ],
@@ -80,12 +80,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(50/100)",
+            "Progress": "57%",
+            "Tasks": "(57/100)",
             "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:43:03",
+            "est.": "00:36:14",
             "Priority": "60"
         }
     ]
