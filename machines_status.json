@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
@@ -65,7 +65,7 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -280,7 +280,7 @@
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
