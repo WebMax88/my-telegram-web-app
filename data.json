@@ -1,7 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "36%",
+            "Task_Progress": "46%",
             "Name": "NRG_v21_s-/stage",
             "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -15,7 +15,7 @@
             "Priority": "50"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "9%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -36,12 +36,12 @@
             "Task_name": "Daytime_Earth_v17 - /out/atmo_vol",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(55/96)",
+            "Progress": "73%",
+            "Tasks": "(71/96)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "atmo_vol",
-            "est.": "00:12:11",
+            "est.": "00:06:32",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "Daytime_Earth_v17 - /out/main",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(46/96)",
-            "Status": "Rendering (4)",
+            "Progress": "55%",
+            "Tasks": "(53/96)",
+            "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "main",
-            "est.": "00:32:05",
+            "est.": "00:22:25",
             "Priority": "60"
         },
         {
@@ -80,12 +80,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
+            "Progress": "50%",
+            "Tasks": "(50/100)",
             "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:49:37",
+            "est.": "00:43:03",
             "Priority": "60"
         }
     ]
