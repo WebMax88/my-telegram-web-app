@@ -1,21 +1,39 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
-            "Name": "NRG_v21_s-/stage",
-            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Name": "TST_010_w_4sec_v",
+            "Task_name": "TST_010_w_4sec_v040 - /out/main_cosmos",
+            "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(19/25)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
-        },
+            "Progress": "68%",
+            "Tasks": "(120/175)",
+            "Status": "Rendering (7)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "main_cosmos",
+            "est.": "00:09:18",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
         {
-            "Task_Progress": "92%",
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(56/96)",
+            "Status": "Rendering (7)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "00:47:44",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "97%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -27,38 +45,20 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "65"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "TST_010_w_4sec_v",
-            "Task_name": "TST_010_w_4sec_v040 - /out/main_cosmos",
-            "User": "druz",
+            "Name": "NRG_v21_s-/stage",
+            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(106/175)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "main_cosmos",
-            "est.": "00:11:54",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(55/96)",
-            "Status": "Rendering (7)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "00:49:29",
-            "Priority": "60"
+            "Progress": "80%",
+            "Tasks": "(20/25)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "50"
         }
     ]
 }
