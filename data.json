@@ -6,18 +6,18 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v005 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(75/100)",
-            "Status": "Rendering (5)",
+            "Progress": "94%",
+            "Tasks": "(94/100)",
+            "Status": "Rendering (6)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:14:36",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "77%",
+            "Task_Progress": "83%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -52,12 +52,12 @@
             "Task_name": "Daytime_Earth_v18 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(17/96)",
-            "Status": "Rendering (17)",
+            "Progress": "41%",
+            "Tasks": "(40/96)",
+            "Status": "Rendering (18)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
-            "est.": "01:07:51",
+            "est.": "00:28:01",
             "Priority": "60"
         }
     ]
