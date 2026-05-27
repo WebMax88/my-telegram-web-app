@@ -1,21 +1,23 @@
 {
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v1",
+            "Task_name": "Daytime_Earth_v17 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(48/96)",
+            "Status": "Rendering (7)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "01:01:00",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "92%",
-            "Name": "NRG_v21_s-/stage",
-            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(18/25)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
-        },
-        {
-            "Task_Progress": "56%",
+            "Task_Progress": "66%",
             "Name": "NRG_v22_s-/stage",
             "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -30,17 +32,17 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "TST_040_v01-/out",
-            "Task_name": "TST_040_v01 - /out/main",
-            "User": "mochalova",
+            "Name": "NRG_v21_s-/stage",
+            "Task_name": "NRG_v21_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(19/20)",
-            "Status": "Rendering (1)",
+            "Progress": "76%",
+            "Tasks": "(19/25)",
+            "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "main",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "60"
+            "Priority": "50"
         }
     ],
     "SIDE_MISSIONS_BK": [
@@ -50,12 +52,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v004 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(83/100)",
+            "Progress": "90%",
+            "Tasks": "(90/100)",
             "Status": "Rendering (5)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:08:45",
+            "est.": "00:03:38",
             "Priority": "60"
         }
     ],
@@ -66,42 +68,12 @@
             "Task_name": "TST_010_w_4sec_v040 - /out/main_cosmos",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(22/175)",
-            "Status": "Rendering (4)",
+            "Progress": "25%",
+            "Tasks": "(45/175)",
+            "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "main_cosmos",
-            "est.": "00:50:19",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(46/96)",
-            "Status": "Rendering (5)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "01:19:51",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "Daytime_Earth_v1",
-            "Task_name": "Daytime_Earth_v17 - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(91/96)",
-            "Status": "Rendering (4)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main",
-            "est.": "00:00:49",
+            "est.": "00:34:01",
             "Priority": "60"
         }
     ]
