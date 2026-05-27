@@ -3,45 +3,29 @@
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/close_rop",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(40/100)",
-            "Status": "Rendering (3)",
+            "Progress": "51%",
+            "Tasks": "(51/100)",
+            "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "01:15:28",
+            "Render": "main_rop",
+            "est.": "00:45:29",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/main_rop",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(49/100)",
-            "Status": "Rendering (4)",
+            "Progress": "41%",
+            "Tasks": "(41/100)",
+            "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:47:38",
-            "Priority": "60"
-        }
-    ],
-    "MAGNIT_ICE_ROCS": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BNK_010_square_v",
-            "Task_name": "BNK_010_square_v22 - /out/grape",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(97/97)",
-            "Status": "Completed",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "grape",
-            "est.": "00:00:00",
+            "Render": "close_rop",
+            "est.": "01:14:11",
             "Priority": "60"
         }
     ]
