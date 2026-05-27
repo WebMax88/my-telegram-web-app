@@ -6,12 +6,12 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(35/100)",
+            "Progress": "38%",
+            "Tasks": "(38/100)",
             "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
-            "est.": "01:22:56",
+            "est.": "01:18:24",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v003 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
-            "Status": "Rendering (3)",
+            "Progress": "46%",
+            "Tasks": "(46/100)",
+            "Status": "Rendering (4)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "01:12:31",
+            "est.": "00:50:19",
             "Priority": "60"
         }
     ],
