@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "92%",
-            "Name": "NRG_v22_s-/stage",
-            "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(13/18)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "55"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -36,13 +20,29 @@
             "Task_name": "Daytime_Earth_v18 - /out/clouds",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(79/96)",
-            "Status": "Rendering (17)",
+            "Progress": "92%",
+            "Tasks": "(89/96)",
+            "Status": "Rendering (7)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "93%",
+            "Name": "NRG_v22_s-/stage",
+            "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(13/18)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "55"
         }
     ]
 }
