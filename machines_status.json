@@ -230,12 +230,12 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws204",
         "user": "Ilya Koryukaev"
     },
@@ -285,7 +285,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws215",
         "user": "Freelancer - Vova Syslov"
     },
