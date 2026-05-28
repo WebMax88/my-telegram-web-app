@@ -105,7 +105,7 @@
         "user": "Sonya Pankova"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
@@ -235,7 +235,7 @@
         "user": "Olesya Sidenina"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws204",
         "user": "Ilya Koryukaev"
     },
