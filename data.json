@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "38%",
-            "Name": "WBM_150_v01-/sta",
-            "Task_name": "WBM_150_v01 - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/63)",
-            "Status": "Rendering (50)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,28 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v006 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(76/100)",
+            "Progress": "88%",
+            "Tasks": "(88/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:09:25",
+            "est.": "00:02:43",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "49%",
+            "Name": "WBM_150_v01-/sta",
+            "Task_name": "WBM_150_v01 - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/63)",
+            "Status": "Rendering (48)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
             "Priority": "60"
         }
     ]
