@@ -14,21 +14,5 @@
             "est.": "00:00:01",
             "Priority": "50"
         }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v06-/s",
-            "Task_name": "stad_sh05_v06 - /stage/flags/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(195/200)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
     ]
 }
