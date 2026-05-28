@@ -17,44 +17,16 @@
     ],
     "AUTODESK_PRLM": [
         {
-            "Task_Progress": "49%",
-            "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v20 - /out/main_steel_2",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "main_steel_2",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "13%",
+            "Task_Progress": "76%",
             "Name": "Daytime_Earth_v2",
             "Task_name": "Daytime_Earth_v20 - /out/clouds_steel_2",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "13%",
+            "Progress": "76%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "clouds_steel_2",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "87%",
-            "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v20 - /out/clouds_steel_1",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds_steel_1",
             "est.": "unknown",
             "Priority": "60"
         }
