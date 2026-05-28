@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "64%",
+            "Task_Progress": "69%",
             "Name": "WBM_150_v01-/sta",
             "Task_name": "WBM_150_v01 - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(1/63)",
+            "Progress": "3%",
+            "Tasks": "(2/63)",
             "Status": "Rendering (48)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:11:25",
+            "est.": "00:10:45",
             "Priority": "60"
         }
     ]
