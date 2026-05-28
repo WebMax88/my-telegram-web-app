@@ -1,6 +1,20 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
+            "Task_Progress": "65%",
+            "Name": "NRG_v22_s-/stage",
+            "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "65%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
             "Task_Progress": "100%",
             "Name": "WBM_150_v01-/sta",
             "Task_name": "WBM_150_v01 - /stage/submit/usdrender_rop",
@@ -11,36 +25,6 @@
             "Status": "Rendering (31)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "55%",
-            "Name": "NRG_v22_s-/stage",
-            "Task_name": "NRG_v22_s - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "LADA_VESTA_SPORT_KV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "LVS_KV_v08_mik-/",
-            "Task_name": "LVS_KV_v08_mik - /out/main_tt",
-            "User": "mikhaylin",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(66/67)",
-            "Status": "Rendering (1)",
-            "Project": "LADA_VESTA_SPORT_KV",
-            "Render": "main_tt",
             "est.": "00:00:01",
             "Priority": "60"
         }
