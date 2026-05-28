@@ -6,12 +6,12 @@
             "Task_name": "stad_sh05_v06 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(68/200)",
+            "Progress": "35%",
+            "Tasks": "(70/200)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "04:45:26",
+            "est.": "04:40:50",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "stad_sh05_v06 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(75/200)",
+            "Progress": "38%",
+            "Tasks": "(77/200)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "04:42:27",
+            "est.": "04:38:31",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "stad_sh05_v06 - /stage/main1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(180/200)",
+            "Progress": "91%",
+            "Tasks": "(182/200)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:22:04",
+            "est.": "00:19:30",
             "Priority": "60"
         }
     ],
@@ -64,12 +64,12 @@
             "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(72/100)",
+            "Progress": "76%",
+            "Tasks": "(76/100)",
             "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:27:11",
+            "est.": "00:22:40",
             "Priority": "60"
         },
         {
@@ -78,18 +78,18 @@
             "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(61/100)",
+            "Progress": "64%",
+            "Tasks": "(64/100)",
             "Status": "Rendering (3)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
-            "est.": "00:39:47",
+            "est.": "00:36:20",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "30%",
+            "Task_Progress": "31%",
             "Name": "WBM_150_v02-/sta",
             "Task_name": "WBM_150_v02 - /stage/submit/usdrender_rop",
             "User": "ushakova",
