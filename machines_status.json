@@ -30,17 +30,17 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws47",
         "user": "---"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws48",
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -70,12 +70,12 @@
         "user": "Mary Mochalova"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -85,12 +85,12 @@
         "user": "Alexander Kostin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws58",
         "user": "Alexandra Ushakova"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws59",
         "user": "Max Weber"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -265,7 +265,7 @@
         "user": "Matvey Zubarev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
