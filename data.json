@@ -14,21 +14,5 @@
             "est.": "00:05:09",
             "Priority": "60"
         }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "76%",
-            "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v20 - /out/clouds_steel_2",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds_steel_2",
-            "est.": "unknown",
-            "Priority": "60"
-        }
     ]
 }
