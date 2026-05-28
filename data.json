@@ -6,12 +6,12 @@
             "Task_name": "stad_sh05_v06 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(44/200)",
+            "Progress": "23%",
+            "Tasks": "(46/200)",
             "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "07:56:44",
+            "est.": "07:50:16",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "stad_sh05_v06 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(27/200)",
+            "Progress": "14%",
+            "Tasks": "(29/200)",
             "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "09:35:26",
+            "est.": "09:27:51",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "stad_sh05_v06 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(110/200)",
-            "Status": "Rendering (1)",
+            "Progress": "57%",
+            "Tasks": "(115/200)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "06:27:13",
+            "est.": "02:58:53",
             "Priority": "60"
         },
         {
@@ -49,11 +49,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "60%",
-            "Tasks": "(120/200)",
+            "Tasks": "(121/200)",
             "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "02:03:54",
+            "est.": "02:02:30",
             "Priority": "60"
         },
         {
@@ -63,22 +63,22 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "19%",
-            "Tasks": "(38/200)",
+            "Tasks": "(39/200)",
             "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "08:50:09",
+            "est.": "08:46:18",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "33%",
+            "Task_Progress": "47%",
             "Name": "WBC_030_v02-/out",
             "Task_name": "WBC_030_v02 - /out/main",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "33%",
+            "Progress": "47%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
@@ -87,16 +87,90 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "23%",
+            "Task_Progress": "34%",
             "Name": "WBC_030_v01-/out",
             "Task_name": "WBC_030_v01 - /out/main",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "23%",
+            "Progress": "34%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "main",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "22%",
+            "Tasks": "(22/100)",
+            "Status": "Rendering (1)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "04:18:17",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_DVa_v001 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(46/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "01:15:28",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/close_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "14%",
+            "Tasks": "(14/100)",
+            "Status": "Rendering (1)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "05:05:36",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_DVa_v001 - /stage/main_glossy_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "41%",
+            "Tasks": "(41/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_glossy_rop",
+            "est.": "01:26:46",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "87%",
+            "Name": "Nighttime_Earth_",
+            "Task_name": "Nighttime_Earth_v04 - /out/clouds_steel_1",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds_steel_1",
             "est.": "unknown",
             "Priority": "60"
         }
@@ -108,25 +182,11 @@
             "Task_name": "LVS_KV_v09_mik - /out/main_tt",
             "User": "mikhaylin",
             "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(60/67)",
-            "Status": "Rendering (7)",
+            "Progress": "98%",
+            "Tasks": "(66/67)",
+            "Status": "Rendering (1)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "LVS_KV_v09_mik-/",
-            "Task_name": "LVS_KV_v09_mik - /out/main_tt_sunrise",
-            "User": "mikhaylin",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(63/67)",
-            "Status": "Rendering (4)",
-            "Project": "LADA_VESTA_SPORT_KV",
-            "Render": "main_tt_sunrise",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -145,80 +205,6 @@
             "Render": "BCH_030_comp_v08.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "22%",
-            "Name": "Nighttime_Earth_",
-            "Task_name": "Nighttime_Earth_v04 - /out/clouds_steel_1",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds_steel_1",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_DVa_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(42/100)",
-            "Status": "Rendering (2)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "01:21:10",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(21/100)",
-            "Status": "Queued",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(12/100)",
-            "Status": "Rendering (1)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "05:16:39",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_DVa_v001 - /stage/main_glossy_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(37/100)",
-            "Status": "Rendering (1)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_glossy_rop",
-            "est.": "03:09:55",
-            "Priority": "60"
         }
     ]
 }
