@@ -3,29 +3,15 @@
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(35/100)",
-            "Status": "Rendering (1)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "03:36:35",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
             "Task_name": "Side_Missions_BK_lookdev_DVa_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(94/100)",
-            "Status": "Rendering (1)",
+            "Progress": "97%",
+            "Tasks": "(97/100)",
+            "Status": "Rendering (2)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:14:17",
+            "est.": "00:01:25",
             "Priority": "60"
         },
         {
@@ -34,12 +20,12 @@
             "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
+            "Progress": "45%",
+            "Tasks": "(45/100)",
             "Status": "Rendering (1)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "03:07:47",
+            "est.": "03:01:04",
             "Priority": "60"
         },
         {
@@ -48,12 +34,26 @@
             "Task_name": "Side_Missions_BK_lookdev_DVa_v001 - /stage/main_glossy_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(89/100)",
-            "Status": "Queued",
+            "Progress": "91%",
+            "Tasks": "(91/100)",
+            "Status": "Rendering (2)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_glossy_rop",
-            "est.": "unknown",
+            "est.": "00:10:18",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v001 - /stage/close_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "37%",
+            "Tasks": "(37/100)",
+            "Status": "Rendering (1)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "03:27:58",
             "Priority": "60"
         }
     ],
@@ -61,43 +61,15 @@
         {
             "Task_Progress": "100%",
             "Name": "stad_sh05_v06-/s",
-            "Task_name": "stad_sh05_v06 - /stage/main1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(159/200)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:46:44",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v06-/s",
-            "Task_name": "stad_sh05_v06 - /stage/crowd_fg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(68/200)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "03:18:15",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v06-/s",
             "Task_name": "stad_sh05_v06 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(49/200)",
+            "Progress": "26%",
+            "Tasks": "(52/200)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "05:28:39",
+            "est.": "05:21:49",
             "Priority": "60"
         },
         {
@@ -106,18 +78,46 @@
             "Task_name": "stad_sh05_v06 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(57/200)",
+            "Progress": "30%",
+            "Tasks": "(60/200)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "05:20:47",
+            "est.": "05:15:47",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v06-/s",
+            "Task_name": "stad_sh05_v06 - /stage/crowd_fg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "36%",
+            "Tasks": "(72/200)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "03:12:53",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v06-/s",
+            "Task_name": "stad_sh05_v06 - /stage/main1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "81%",
+            "Tasks": "(162/200)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:43:07",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "10%",
+            "Task_Progress": "13%",
             "Name": "WBM_150_v02-/sta",
             "Task_name": "WBM_150_v02 - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -129,22 +129,6 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "50"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_comp_v06.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "68%",
-            "Tasks": "(17/25)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Professional_Court_comp_v06.nk",
-            "est.": "00:00:22",
-            "Priority": "90"
         }
     ]
 }
