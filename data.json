@@ -6,12 +6,12 @@
             "Task_name": "stad_sh05_v09 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(114/185)",
-            "Status": "Rendering (12)",
+            "Progress": "68%",
+            "Tasks": "(126/185)",
+            "Status": "Rendering (11)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:34:17",
+            "est.": "00:30:11",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "stad_sh05_v09 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(160/185)",
-            "Status": "Rendering (13)",
+            "Progress": "94%",
+            "Tasks": "(174/185)",
+            "Status": "Rendering (11)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:05:25",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "stad_sh05_v09 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(134/185)",
+            "Progress": "76%",
+            "Tasks": "(142/185)",
             "Status": "Rendering (12)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:24:29",
+            "est.": "00:19:39",
             "Priority": "60"
         }
     ],
@@ -50,12 +50,12 @@
             "Task_name": "WBM_060_v02 - /obj/ropnet1/nebulaz",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(64/155)",
-            "Status": "Rendering (11)",
+            "Progress": "49%",
+            "Tasks": "(76/155)",
+            "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:37:40",
+            "est.": "00:29:20",
             "Priority": "60"
         },
         {
@@ -64,12 +64,12 @@
             "Task_name": "WBM_110_v06 - /obj/ropnet1/nebulaz",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(33/125)",
+            "Progress": "32%",
+            "Tasks": "(40/125)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:00:29",
+            "est.": "00:54:19",
             "Priority": "60"
         }
     ]
