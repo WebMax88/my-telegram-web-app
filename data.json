@@ -1,21 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "100%",
-            "Name": "TST_040_v03-/out",
-            "Task_name": "TST_040_v03 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(41/72)",
-            "Status": "Rendering (27)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "main",
-            "est.": "00:01:39",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "12%",
+            "Task_Progress": "15%",
             "Name": "WBM_150_v03-/sta",
             "Task_name": "WBM_150_v03 - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -27,6 +13,20 @@
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_040_v03-/out",
+            "Task_name": "TST_040_v03 - /out/main",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "76%",
+            "Tasks": "(55/72)",
+            "Status": "Rendering (17)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "main",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ],
     "QIDDIYA_CHARLY": [
@@ -36,13 +36,27 @@
             "Task_name": "TST_010_w_7sec_ball_v047 - /out/main",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(68/175)",
-            "Status": "Rendering (8)",
+            "Progress": "65%",
+            "Tasks": "(114/175)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "main",
-            "est.": "00:18:06",
+            "est.": "00:05:53",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Paris_scene_comp",
+            "Task_name": "Paris_scene_comp_v04.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "55%",
+            "Tasks": "(27/49)",
+            "Status": "Rendering (18)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Paris_scene_comp_v04.nk",
+            "est.": "00:00:03",
+            "Priority": "90"
         }
     ]
 }
