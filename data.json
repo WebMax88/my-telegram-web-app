@@ -17,17 +17,17 @@
     ],
     "MAGNIT_ICE_ROCS": [
         {
-            "Task_Progress": "0%",
-            "Name": "MAR_025_comp_v02",
-            "Task_name": "MAR_025_comp_v02.nk",
-            "User": "pankova",
+            "Task_Progress": "100%",
+            "Name": "MAR_020_comp_v06",
+            "Task_name": "MAR_020_comp_v06.nk",
+            "User": "f.smirnov",
             "Plugin": "Nuke",
-            "Progress": "13%",
-            "Tasks": "(3/22)",
-            "Status": "Rendering (1)",
+            "Progress": "27%",
+            "Tasks": "(9/33)",
+            "Status": "Rendering (13)",
             "Project": "MAGNIT_ICE_ROCS",
-            "Render": "MAR_025_comp_v02.nk",
-            "est.": "00:07:35",
+            "Render": "MAR_020_comp_v06.nk",
+            "est.": "00:00:10",
             "Priority": "90"
         }
     ]
