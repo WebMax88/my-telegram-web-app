@@ -6,13 +6,41 @@
             "Task_name": "TST_010_w_7sec_ball_v046 - /out/main",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(138/175)",
-            "Status": "Rendering (11)",
+            "Progress": "87%",
+            "Tasks": "(153/175)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "main",
-            "est.": "00:03:38",
+            "est.": "00:01:19",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "20%",
+            "Name": "Open_Sea_comp_v1",
+            "Task_name": "Open_Sea_comp_v11.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "44%",
+            "Tasks": "(11/25)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Open_Sea_comp_v11.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Desert_comp_v02.",
+            "Task_name": "Desert_comp_v02.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "80%",
+            "Tasks": "(20/25)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Desert_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
