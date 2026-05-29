@@ -1,4 +1,34 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Sydney_scene_v00",
+            "Task_name": "Sydney_scene_v001 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(14/145)",
+            "Status": "Rendering (15)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:16:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Sydney_scene_v00",
+            "Task_name": "Sydney_scene_v001 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(10/145)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:16:30",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -22,9 +52,9 @@
             "Task_name": "LVS_KV_v10_mik - /out/main_tt",
             "User": "mikhaylin",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(51/67)",
-            "Status": "Rendering (16)",
+            "Progress": "98%",
+            "Tasks": "(66/67)",
+            "Status": "Rendering (1)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt",
             "est.": "00:00:01",
@@ -36,9 +66,9 @@
             "Task_name": "LVS_KV_v10_mik - /out/main_tt_sunrise",
             "User": "mikhaylin",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(57/67)",
-            "Status": "Rendering (10)",
+            "Progress": "98%",
+            "Tasks": "(66/67)",
+            "Status": "Rendering (1)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt_sunrise",
             "est.": "00:00:01",
