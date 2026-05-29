@@ -1,20 +1,4 @@
 {
-    "TUTORS": [
-        {
-            "Task_Progress": "73%",
-            "Name": "REFR_v03-/out/mo",
-            "Task_name": "REFR_v03 - /out/moscow_logo_fin",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(1/5)",
-            "Status": "Rendering (4)",
-            "Project": "TUTORS",
-            "Render": "moscow_logo_fin",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -29,6 +13,22 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "50"
+        }
+    ],
+    "TUTORS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "REFR_v03-/out/mo",
+            "Task_name": "REFR_v03 - /out/moscow_logo_fin",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "60%",
+            "Tasks": "(3/5)",
+            "Status": "Rendering (2)",
+            "Project": "TUTORS",
+            "Render": "moscow_logo_fin",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
