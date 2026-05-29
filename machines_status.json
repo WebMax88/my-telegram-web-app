@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -60,7 +60,7 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
