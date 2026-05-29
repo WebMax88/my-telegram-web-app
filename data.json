@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBM_110_v06-/obj",
-            "Task_name": "WBM_110_v06 - /obj/ropnet1/nebulaz",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(112/125)",
-            "Status": "Rendering (13)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -27,6 +11,22 @@
             "Status": "Rendering (1)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBM_110_v06-/obj",
+            "Task_name": "WBM_110_v06 - /obj/ropnet1/nebulaz",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(117/125)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
             "est.": "00:00:01",
             "Priority": "60"
         }
