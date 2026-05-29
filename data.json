@@ -14,21 +14,5 @@
             "est.": "00:00:01",
             "Priority": "50"
         }
-    ],
-    "CONCELLULAR_MOWER_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BCH_030_comp_v09",
-            "Task_name": "BCH_030_comp_v09.nk",
-            "User": "sattarov",
-            "Plugin": "Nuke",
-            "Progress": "92%",
-            "Tasks": "(26/28)",
-            "Status": "Rendering (2)",
-            "Project": "CONCELLULAR_MOWER_PRLM",
-            "Render": "BCH_030_comp_v09.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
