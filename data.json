@@ -1,7 +1,23 @@
 {
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "28%",
+            "Name": "Daytime_Earth_v2",
+            "Task_name": "Daytime_Earth_v21 - /out/clouds",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "28%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "clouds",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "55%",
+            "Task_Progress": "59%",
             "Name": "WBM_150_v03-/sta",
             "Task_name": "WBM_150_v03 - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -12,122 +28,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "0%",
-            "Name": "stad_sh05_v09-/s",
-            "Task_name": "stad_sh05_v09 - /stage/flags/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/185)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "stad_sh05_v09-/s",
-            "Task_name": "stad_sh05_v09 - /stage/crowd_bg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/185)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v09-/s",
-            "Task_name": "stad_sh05_v09 - /stage/main1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(1/185)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "02:51:10",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v09-/s",
-            "Task_name": "stad_sh05_v09 - /stage/ground1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(15/185)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "05:46:19",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v09-/s",
-            "Task_name": "stad_sh05_v09 - /stage/volum/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(1/185)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "07:24:25",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "stad_sh05_v09-/s",
-            "Task_name": "stad_sh05_v09 - /stage/crowd_fg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/185)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "49%",
-            "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v21 - /out/atmo_vol",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "atmo_vol",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "16%",
-            "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v21 - /out/clouds",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "clouds",
-            "est.": "unknown",
             "Priority": "60"
         }
     ]
