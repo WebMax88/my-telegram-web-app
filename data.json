@@ -14,21 +14,5 @@
             "est.": "00:00:01",
             "Priority": "50"
         }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v13-/ou",
-            "Task_name": "WWC_HOLO_v13 - /out/runes",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(198/200)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "runes",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
     ]
 }
