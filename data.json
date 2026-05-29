@@ -6,26 +6,12 @@
             "Task_name": "Sydney_scene_v001 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(108/145)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:02:47",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_w_7sec_b",
-            "Task_name": "TST_010_w_7sec_ball_v046 - /out/main",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(35/175)",
+            "Progress": "91%",
+            "Tasks": "(133/145)",
             "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
-            "Render": "main",
-            "est.": "00:15:58",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -34,29 +20,27 @@
             "Task_name": "Sydney_scene_v001 - /obj/lopnet1/shadow/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(118/145)",
-            "Status": "Rendering (14)",
+            "Progress": "100%",
+            "Tasks": "(145/145)",
+            "Status": "Completed",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:01:34",
+            "est.": "00:00:00",
             "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "WBM_150_v02-/sta",
-            "Task_name": "WBM_150_v02 - /stage/submit/usdrender_rop",
-            "User": "ushakova",
+            "Name": "TST_010_w_7sec_b",
+            "Task_name": "TST_010_w_7sec_ball_v046 - /out/main",
+            "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(62/63)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
+            "Progress": "33%",
+            "Tasks": "(58/175)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "main",
+            "est.": "00:13:16",
+            "Priority": "60"
         }
     ]
 }
