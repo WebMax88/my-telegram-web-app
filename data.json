@@ -1,46 +1,16 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "25%",
+            "Task_Progress": "28%",
             "Name": "WBM_150_v03-/sta",
             "Task_name": "WBM_150_v03 - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(2/18)",
-            "Status": "Rendering (16)",
+            "Progress": "27%",
+            "Tasks": "(5/18)",
+            "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_040_v03-/out",
-            "Task_name": "TST_040_v03 - /out/main",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(71/72)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_w_7sec_b",
-            "Task_name": "TST_010_w_7sec_ball_v046 - /out/main",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(174/175)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "main",
             "est.": "00:00:01",
             "Priority": "60"
         }
