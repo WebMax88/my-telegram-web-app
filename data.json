@@ -1,65 +1,5 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Sydney_scene_v00",
-            "Task_name": "Sydney_scene_v001 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(14/145)",
-            "Status": "Rendering (15)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:16:14",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Sydney_scene_v00",
-            "Task_name": "Sydney_scene_v001 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(10/145)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:16:30",
-            "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBM_150_v02-/sta",
-            "Task_name": "WBM_150_v02 - /stage/submit/usdrender_rop",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(62/63)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "50"
-        }
-    ],
     "LADA_VESTA_SPORT_KV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "LVS_KV_v10_mik-/",
-            "Task_name": "LVS_KV_v10_mik - /out/main_tt",
-            "User": "mikhaylin",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(66/67)",
-            "Status": "Rendering (1)",
-            "Project": "LADA_VESTA_SPORT_KV",
-            "Render": "main_tt",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "LVS_KV_v10_mik-/",
@@ -71,6 +11,20 @@
             "Status": "Rendering (1)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt_sunrise",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "LVS_KV_v10_mik-/",
+            "Task_name": "LVS_KV_v10_mik - /out/main_tt",
+            "User": "mikhaylin",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(66/67)",
+            "Status": "Rendering (1)",
+            "Project": "LADA_VESTA_SPORT_KV",
+            "Render": "main_tt",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -89,6 +43,52 @@
             "Render": "main_test",
             "est.": "unknown",
             "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Sydney_scene_v00",
+            "Task_name": "Sydney_scene_v001 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(37/145)",
+            "Status": "Rendering (15)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:11:10",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Sydney_scene_v00",
+            "Task_name": "Sydney_scene_v001 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "22%",
+            "Tasks": "(32/145)",
+            "Status": "Rendering (14)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:12:47",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBM_150_v02-/sta",
+            "Task_name": "WBM_150_v02 - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(62/63)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "50"
         }
     ]
 }
