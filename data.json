@@ -1,7 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "15%",
+            "Task_Progress": "18%",
             "Name": "WBM_150_v03-/sta",
             "Task_name": "WBM_150_v03 - /stage/submit/usdrender_rop",
             "User": "ushakova",
@@ -20,9 +20,9 @@
             "Task_name": "TST_040_v03 - /out/main",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(55/72)",
-            "Status": "Rendering (17)",
+            "Progress": "95%",
+            "Tasks": "(69/72)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "main",
             "est.": "00:00:01",
@@ -36,27 +36,13 @@
             "Task_name": "TST_010_w_7sec_ball_v047 - /out/main",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(114/175)",
+            "Progress": "84%",
+            "Tasks": "(148/175)",
             "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "main",
-            "est.": "00:05:53",
+            "est.": "00:01:57",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Paris_scene_comp",
-            "Task_name": "Paris_scene_comp_v04.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "55%",
-            "Tasks": "(27/49)",
-            "Status": "Rendering (18)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Paris_scene_comp_v04.nk",
-            "est.": "00:00:03",
-            "Priority": "90"
         }
     ]
 }
