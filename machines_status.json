@@ -60,7 +60,7 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -170,7 +170,7 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "WS153",
         "user": "Dzhosha Rahmonov"
     },
@@ -180,7 +180,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
