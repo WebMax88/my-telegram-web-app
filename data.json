@@ -14,5 +14,63 @@
             "est.": "00:00:01",
             "Priority": "50"
         }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v13-/ou",
+            "Task_name": "WWC_HOLO_v13 - /out/popHeroLightning",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "73%",
+            "Tasks": "(19/26)",
+            "Status": "Rendering (7)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "popHeroLightning",
+            "est.": "00:00:01",
+            "Priority": "85"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v13-/ou",
+            "Task_name": "WWC_HOLO_v13 - /out/runes",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "25%",
+            "Tasks": "(51/200)",
+            "Status": "Rendering (19)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "runes",
+            "est.": "00:07:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v13-/ou",
+            "Task_name": "WWC_HOLO_v13 - /out/pedestal",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "38%",
+            "Tasks": "(77/200)",
+            "Status": "Rendering (18)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "pedestal",
+            "est.": "00:04:48",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v13-/ou",
+            "Task_name": "WWC_HOLO_v13 - /out/pop2",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(55/200)",
+            "Status": "Rendering (16)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "pop2",
+            "est.": "00:08:11",
+            "Priority": "60"
+        }
     ]
 }
