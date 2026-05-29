@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws47",
         "user": "---"
     },
@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -90,7 +90,7 @@
         "user": "Alexandra Ushakova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws59",
         "user": "Max Weber"
     },
@@ -105,7 +105,7 @@
         "user": "Sonya Pankova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
