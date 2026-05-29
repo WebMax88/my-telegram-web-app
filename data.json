@@ -1,17 +1,31 @@
 {
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "64%",
+            "Task_Progress": "100%",
+            "Name": "Paris_scene_006-",
+            "Task_name": "Paris_scene_006 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "59%",
+            "Tasks": "(72/121)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:08:31",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "Desert_cloud_v01",
             "Task_name": "Desert_cloud_v01 - /obj/lopnet1/clouds/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(6/97)",
+            "Progress": "17%",
+            "Tasks": "(17/97)",
             "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:17:53",
+            "est.": "00:17:28",
             "Priority": "60"
         },
         {
@@ -20,32 +34,18 @@
             "Task_name": "Paris_scene_006 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(61/121)",
-            "Status": "Rendering (15)",
+            "Progress": "67%",
+            "Tasks": "(82/121)",
+            "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:06:20",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Paris_scene_006-",
-            "Task_name": "Paris_scene_006 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(56/121)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:08:08",
+            "est.": "00:06:05",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "20%",
+            "Task_Progress": "50%",
             "Name": "TST_040_v03-/out",
             "Task_name": "TST_040_v03 - /out/main",
             "User": "mochalova",
@@ -55,6 +55,20 @@
             "Status": "Rendering (16)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "main",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "WBM_150_v03-/sta",
+            "Task_name": "WBM_150_v03 - /stage/submit/usdrender_rop",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/18)",
+            "Status": "Rendering (9)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
         }
