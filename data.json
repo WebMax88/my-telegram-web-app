@@ -17,17 +17,17 @@
     ],
     "TUTORS": [
         {
-            "Task_Progress": "95%",
+            "Task_Progress": "100%",
             "Name": "REFR_v05-/out/mo",
             "Task_name": "REFR_v05 - /out/moskino_logo_c",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(1/5)",
-            "Status": "Rendering (3)",
+            "Progress": "60%",
+            "Tasks": "(3/5)",
+            "Status": "Rendering (1)",
             "Project": "TUTORS",
             "Render": "moskino_logo_c",
-            "est.": "00:08:07",
+            "est.": "00:25:35",
             "Priority": "60"
         }
     ]
