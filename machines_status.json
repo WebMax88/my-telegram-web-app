@@ -60,7 +60,7 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
