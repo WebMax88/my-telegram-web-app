@@ -6,12 +6,12 @@
             "Task_name": "WBM_110_v06 - /obj/ropnet1/nebulaz",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(53/125)",
+            "Progress": "49%",
+            "Tasks": "(62/125)",
             "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:39:48",
+            "est.": "00:33:44",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "TST_040_comp_v02.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(285/601)",
-            "Status": "Rendering (31)",
+            "Progress": "97%",
+            "Tasks": "(587/601)",
+            "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "TST_040_comp_v02.nk",
-            "est.": "00:07:39",
+            "est.": "00:00:01",
             "Priority": "90"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBM_060_v02 - /obj/ropnet1/nebulaz",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(97/155)",
+            "Progress": "72%",
+            "Tasks": "(113/155)",
             "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:18:22",
+            "est.": "00:12:07",
             "Priority": "60"
         }
     ],
@@ -64,12 +64,12 @@
             "Task_name": "stad_sh05_v09 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(158/185)",
-            "Status": "Rendering (12)",
+            "Progress": "90%",
+            "Tasks": "(167/185)",
+            "Status": "Rendering (15)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:09:44",
+            "est.": "00:01:33",
             "Priority": "60"
         },
         {
@@ -78,12 +78,12 @@
             "Task_name": "stad_sh05_v09 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(147/185)",
-            "Status": "Rendering (13)",
+            "Progress": "85%",
+            "Tasks": "(158/185)",
+            "Status": "Rendering (14)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:13:15",
+            "est.": "00:06:22",
             "Priority": "60"
         }
     ]
