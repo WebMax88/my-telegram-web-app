@@ -1,45 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "43%",
+            "Task_Progress": "46%",
             "Name": "WBM_150_v03-/sta",
             "Task_name": "WBM_150_v03 - /stage/submit/usdrender_rop",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(15/18)",
-            "Status": "Rendering (3)",
+            "Progress": "88%",
+            "Tasks": "(16/18)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "8%",
-            "Name": "WBC_030_v04-/out",
-            "Task_name": "WBC_030_v04 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "49%",
-            "Name": "WBC_030_v04-/out",
-            "Task_name": "WBC_030_v04 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "unknown",
             "Priority": "60"
         }
     ],
@@ -47,16 +19,88 @@
         {
             "Task_Progress": "0%",
             "Name": "stad_sh05_v09-/s",
-            "Task_name": "stad_sh05_v09 - /stage/ground1/usdrender_rop",
+            "Task_name": "stad_sh05_v09 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/185)",
-            "Status": "Rendering (12)",
+            "Status": "Queued",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
             "est.": "unknown",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "stad_sh05_v09-/s",
+            "Task_name": "stad_sh05_v09 - /stage/crowd_fg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/185)",
+            "Status": "Queued",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "stad_sh05_v09-/s",
+            "Task_name": "stad_sh05_v09 - /stage/main1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/185)",
+            "Status": "Queued",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v09-/s",
+            "Task_name": "stad_sh05_v09 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "5%",
+            "Tasks": "(11/185)",
+            "Status": "Rendering (2)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "04:00:34",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "stad_sh05_v09-/s",
+            "Task_name": "stad_sh05_v09 - /stage/crowd_bg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/185)",
+            "Status": "Queued",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Desert_cloud_v02",
+            "Task_name": "Desert_cloud_v02 - /obj/lopnet1/clouds/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(6/97)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:20:25",
+            "Priority": "61"
         }
     ]
 }
