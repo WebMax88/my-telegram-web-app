@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "60%",
+            "Task_Progress": "100%",
             "Name": "TST_040_comp_v02",
             "Task_name": "TST_040_comp_v02.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "3%",
-            "Tasks": "(24/601)",
+            "Progress": "40%",
+            "Tasks": "(244/601)",
             "Status": "Rendering (30)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "TST_040_comp_v02.nk",
-            "est.": "00:13:52",
+            "est.": "00:08:41",
             "Priority": "90"
         },
         {
@@ -20,9 +20,9 @@
             "Task_name": "WBM_110_v06 - /obj/ropnet1/nebulaz",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(121/125)",
-            "Status": "Rendering (4)",
+            "Progress": "98%",
+            "Tasks": "(123/125)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
             "est.": "00:00:01",
