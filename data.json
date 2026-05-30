@@ -6,12 +6,12 @@
             "Task_name": "LVS_KV_v11_mik_tt - /out/main_tt_afternoon",
             "User": "mikhaylin",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(23/67)",
+            "Progress": "77%",
+            "Tasks": "(52/67)",
             "Status": "Rendering (14)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt_afternoon",
-            "est.": "00:06:22",
+            "est.": "00:00:12",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "LVS_KV_v11_mik_tt - /out/main_tt_roads",
             "User": "mikhaylin",
             "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(20/67)",
-            "Status": "Rendering (13)",
+            "Progress": "62%",
+            "Tasks": "(42/67)",
+            "Status": "Rendering (10)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt_roads",
-            "est.": "00:08:28",
+            "est.": "00:04:49",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "LVS_KV_v11_mik_tt - /out/main_tt_garden",
             "User": "mikhaylin",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(21/67)",
-            "Status": "Rendering (13)",
+            "Progress": "76%",
+            "Tasks": "(51/67)",
+            "Status": "Rendering (14)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt_garden",
-            "est.": "00:07:42",
+            "est.": "00:00:21",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "LVS_KV_v11_mik_tt - /out/main_tt_evening_street",
             "User": "mikhaylin",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(19/67)",
-            "Status": "Rendering (13)",
+            "Progress": "65%",
+            "Tasks": "(44/67)",
+            "Status": "Rendering (14)",
             "Project": "LADA_VESTA_SPORT_KV",
             "Render": "main_tt_evening_street",
-            "est.": "00:08:53",
+            "est.": "00:02:02",
             "Priority": "60"
         }
     ]
