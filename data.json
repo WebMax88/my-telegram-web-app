@@ -6,12 +6,12 @@
             "Task_name": "WWC_HOLO_v16 - /out/pedestalLightnings",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(11/184)",
-            "Status": "Rendering (25)",
+            "Progress": "82%",
+            "Tasks": "(152/184)",
+            "Status": "Rendering (32)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "pedestalLightnings",
-            "est.": "00:06:51",
+            "est.": "00:00:01",
             "Priority": "85"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WWC_HOLO_v16 - /out/pedestal",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(13/184)",
-            "Status": "Rendering (24)",
+            "Progress": "77%",
+            "Tasks": "(142/184)",
+            "Status": "Rendering (32)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "pedestal",
-            "est.": "00:07:10",
+            "est.": "00:00:19",
             "Priority": "85"
         }
     ]
