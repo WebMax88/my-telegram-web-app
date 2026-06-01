@@ -1,34 +1,18 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "100%",
-            "Name": "TST_040_comp_v02",
-            "Task_name": "TST_040_comp_v02.nk",
-            "User": "stavile",
+            "Task_Progress": "60%",
+            "Name": "WWC_010_comp_v01",
+            "Task_name": "WWC_010_comp_v01.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(300/301)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_040_comp_v02.nk",
+            "Progress": "78%",
+            "Tasks": "(29/37)",
+            "Status": "Rendering (8)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v01.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Wrathog_v007 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(92/100)",
-            "Status": "Rendering (7)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:00:36",
-            "Priority": "60"
         }
     ]
 }
