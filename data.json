@@ -6,43 +6,13 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v007 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(76/100)",
+            "Progress": "82%",
+            "Tasks": "(82/100)",
             "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:10:27",
+            "est.": "00:06:43",
             "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "72%",
-            "Name": "WBC_030_v06-/out",
-            "Task_name": "WBC_030_v06 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_040_comp_v02",
-            "Task_name": "TST_040_comp_v02.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(300/301)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_040_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
