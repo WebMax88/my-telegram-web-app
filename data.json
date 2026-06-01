@@ -6,13 +6,43 @@
             "Task_name": "TST_040_comp_v02.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(292/301)",
-            "Status": "Rendering (9)",
+            "Progress": "99%",
+            "Tasks": "(300/301)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "TST_040_comp_v02.nk",
             "est.": "00:00:01",
             "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "4%",
+            "Name": "Sydney_scene_v00",
+            "Task_name": "Sydney_scene_v002 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(2/73)",
+            "Status": "Rendering (16)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:07:13",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "39%",
+            "Name": "Sydney_scene_v00",
+            "Task_name": "Sydney_scene_v002 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/73)",
+            "Status": "Rendering (16)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
         }
     ]
 }
