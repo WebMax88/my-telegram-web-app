@@ -6,12 +6,12 @@
             "Task_name": "WWC_30_v03 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(71/226)",
+            "Progress": "32%",
+            "Tasks": "(73/226)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "05:12:06",
+            "est.": "05:08:07",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WWC_30_v03 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(118/226)",
+            "Progress": "54%",
+            "Tasks": "(123/226)",
             "Status": "Rendering (4)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "02:42:55",
+            "est.": "02:34:39",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WWC_30_v03 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(60/226)",
+            "Progress": "27%",
+            "Tasks": "(63/226)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "06:04:42",
+            "est.": "05:57:34",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "WWC_30_v03 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(142/226)",
+            "Progress": "65%",
+            "Tasks": "(148/226)",
             "Status": "Rendering (4)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "01:15:24",
+            "est.": "01:09:11",
             "Priority": "60"
         }
     ],
