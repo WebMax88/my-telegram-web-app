@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -50,7 +50,7 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -85,7 +85,7 @@
         "user": "Alexander Kostin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws58",
         "user": "Alexandra Ushakova"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -165,7 +165,7 @@
         "user": "Alexander Povstyanoy"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws152",
         "user": "Maria Lukyanova"
     },
