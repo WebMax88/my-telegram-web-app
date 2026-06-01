@@ -1,48 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_040_comp_v02",
-            "Task_name": "TST_040_comp_v02.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(300/301)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_040_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_040_comp_v02",
-            "Task_name": "TST_040_comp_v02.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(300/301)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_040_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBM_150_comp_v04",
-            "Task_name": "WBM_150_comp_v04.nk",
-            "User": "savvin",
-            "Plugin": "Nuke",
-            "Progress": "92%",
-            "Tasks": "(12/13)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBM_150_comp_v04.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -50,13 +6,29 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v007 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(9/100)",
-            "Status": "Rendering (8)",
+            "Progress": "21%",
+            "Tasks": "(21/100)",
+            "Status": "Rendering (7)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:45:11",
+            "est.": "00:44:09",
             "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_040_comp_v02",
+            "Task_name": "TST_040_comp_v02.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "7%",
+            "Tasks": "(24/301)",
+            "Status": "Rendering (28)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "TST_040_comp_v02.nk",
+            "est.": "00:15:48",
+            "Priority": "90"
         }
     ]
 }
