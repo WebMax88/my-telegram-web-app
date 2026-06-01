@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov"
     },
     {
-        "status": "Stalled",
+        "status": "Rendering",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
@@ -180,7 +180,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -275,12 +275,12 @@
         "user": "----"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
