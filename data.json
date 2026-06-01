@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "80%",
+            "Task_Progress": "100%",
             "Name": "TST_040_comp_v02",
             "Task_name": "TST_040_comp_v02.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "8%",
-            "Tasks": "(25/301)",
+            "Progress": "38%",
+            "Tasks": "(117/301)",
             "Status": "Rendering (31)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "TST_040_comp_v02.nk",
-            "est.": "00:13:11",
+            "est.": "00:08:45",
             "Priority": "90"
         }
     ]
