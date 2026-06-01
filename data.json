@@ -6,12 +6,12 @@
             "Task_name": "WWC_30_v03 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(48/226)",
+            "Progress": "22%",
+            "Tasks": "(50/226)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "06:34:31",
+            "est.": "06:29:44",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WWC_30_v03 - /stage/main1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(105/226)",
+            "Progress": "47%",
+            "Tasks": "(108/226)",
             "Status": "Rendering (3)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "02:06:06",
+            "est.": "02:02:41",
             "Priority": "60"
         },
         {
@@ -49,11 +49,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "53%",
-            "Tasks": "(120/226)",
+            "Tasks": "(122/226)",
             "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "01:40:53",
+            "est.": "01:39:08",
             "Priority": "60"
         },
         {
@@ -63,11 +63,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "34%",
-            "Tasks": "(77/226)",
+            "Tasks": "(78/226)",
             "Status": "Rendering (1)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "08:25:52",
+            "est.": "08:32:01",
             "Priority": "60"
         },
         {
@@ -77,11 +77,11 @@
             "User": "aleksandrov",
             "Plugin": "Houdini",
             "Progress": "11%",
-            "Tasks": "(26/226)",
+            "Tasks": "(27/226)",
             "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "08:31:10",
+            "est.": "08:28:06",
             "Priority": "60"
         }
     ],
