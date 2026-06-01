@@ -60,7 +60,7 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
@@ -160,7 +160,7 @@
         "user": "Vadim Raznov"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
