@@ -1,4 +1,20 @@
 {
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "0%",
+            "Name": "Lighting_Sky_v14",
+            "Task_name": "Lighting_Sky_v14 - /out/Lighting",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/39)",
+            "Status": "Rendering (29)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "Lighting",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
