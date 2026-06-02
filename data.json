@@ -1,20 +1,4 @@
 {
-    "WINLINE_KNIFES": [
-        {
-            "Task_Progress": "0%",
-            "Name": "shot_010_comp_v1",
-            "Task_name": "shot_010_comp_v13.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "10%",
-            "Tasks": "(4/38)",
-            "Status": "Rendering (34)",
-            "Project": "WINLINE_KNIFES",
-            "Render": "shot_010_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -28,6 +12,22 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "WINLINE_KNIFES": [
+        {
+            "Task_Progress": "50%",
+            "Name": "shot_010_comp_v1",
+            "Task_name": "shot_010_comp_v13.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "78%",
+            "Tasks": "(30/38)",
+            "Status": "Rendering (7)",
+            "Project": "WINLINE_KNIFES",
+            "Render": "shot_010_comp_v13.nk",
+            "est.": "00:00:12",
             "Priority": "90"
         }
     ]
