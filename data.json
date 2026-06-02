@@ -1,33 +1,31 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_110_v07-/obj",
-            "Task_name": "WBC_110_v07 - /obj/ropnet1/vol",
-            "User": "glavatskih",
+            "Name": "WWC_30_v03-/stag",
+            "Task_name": "WWC_30_v03 - /stage/crowd_bg/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(124/125)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:00:01",
+            "Progress": "77%",
+            "Tasks": "(175/226)",
+            "Status": "Rendering (11)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:25:25",
             "Priority": "60"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "WWC_30_v03-/stag",
             "Task_name": "WWC_30_v03 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(218/226)",
-            "Status": "Rendering (7)",
+            "Progress": "99%",
+            "Tasks": "(224/226)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:00:48",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -50,26 +48,28 @@
             "Task_name": "Lighting_Sky_v13 - /out/Claude_Back",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(12/39)",
+            "Progress": "53%",
+            "Tasks": "(21/39)",
             "Status": "Rendering (16)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Claude_Back",
-            "est.": "00:03:53",
+            "est.": "00:00:36",
             "Priority": "60"
-        },
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WWC_30_v03-/stag",
-            "Task_name": "WWC_30_v03 - /stage/crowd_bg/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "WBC_110_v07-/obj",
+            "Task_name": "WBC_110_v07 - /obj/ropnet1/vol",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(171/226)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:47:47",
+            "Progress": "99%",
+            "Tasks": "(124/125)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
