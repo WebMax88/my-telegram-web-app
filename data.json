@@ -1,4 +1,20 @@
 {
+    "MAGNIT_ICE_ROCS": [
+        {
+            "Task_Progress": "100%",
+            "Name": "MAR_030_comp_v10",
+            "Task_name": "MAR_030_comp_v10.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "69%",
+            "Tasks": "(16/23)",
+            "Status": "Rendering (7)",
+            "Project": "MAGNIT_ICE_ROCS",
+            "Render": "MAR_030_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -6,9 +22,9 @@
             "Task_name": "WBC_090_v02 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(16/23)",
-            "Status": "Rendering (7)",
+            "Progress": "78%",
+            "Tasks": "(18/23)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:00:01",
