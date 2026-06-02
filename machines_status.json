@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws47",
         "user": "---"
     },
@@ -75,12 +75,12 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
