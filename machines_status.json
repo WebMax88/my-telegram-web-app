@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -255,7 +255,7 @@
         "user": "Maksim Shkrabo"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws209",
         "user": "Anton Alikov"
     },
