@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -30,17 +30,17 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws47",
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws48",
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -65,7 +65,7 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -165,7 +165,7 @@
         "user": "Alexander Povstyanoy"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws152",
         "user": "Maria Lukyanova"
     },
@@ -210,7 +210,7 @@
         "user": "Andrey Shindin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws164",
         "user": "WS FOR FREELANCER "
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
