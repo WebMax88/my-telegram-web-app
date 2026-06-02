@@ -14,5 +14,21 @@
             "est.": "00:00:01",
             "Priority": "60"
         }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Lighting_Sky_v13",
+            "Task_name": "Lighting_Sky_v13 - /out/Layout",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(38/39)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "Layout",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
     ]
 }
