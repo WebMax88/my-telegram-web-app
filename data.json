@@ -1,18 +1,18 @@
 {
-    "MAGNIT_ICE_ROCS": [
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "MAR_030_comp_v10",
-            "Task_name": "MAR_030_comp_v10.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "69%",
-            "Tasks": "(16/23)",
-            "Status": "Rendering (7)",
-            "Project": "MAGNIT_ICE_ROCS",
-            "Render": "MAR_030_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Name": "Daytime_Earth_v2",
+            "Task_name": "Daytime_Earth_v22 - /stage/plane/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "12%",
+            "Tasks": "(12/100)",
+            "Status": "Rendering (12)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:15:17",
+            "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
@@ -22,9 +22,9 @@
             "Task_name": "WBC_090_v02 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(18/23)",
-            "Status": "Rendering (5)",
+            "Progress": "82%",
+            "Tasks": "(19/23)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:00:01",
