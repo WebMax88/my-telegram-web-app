@@ -1,7 +1,23 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Sydney_scene_com",
+            "Task_name": "Sydney_scene_comp_v03.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(28/29)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Sydney_scene_comp_v03.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "53%",
+            "Task_Progress": "68%",
             "Name": "WBC_090_v02-/out",
             "Task_name": "WBC_090_v02 - /out/vol",
             "User": "mochalova",
