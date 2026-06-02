@@ -1,20 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Sydney_scene_v00",
-            "Task_name": "Sydney_scene_v004 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(72/73)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -22,9 +6,9 @@
             "Task_name": "WWC_010_comp_v04.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "73%",
-            "Tasks": "(19/26)",
-            "Status": "Rendering (7)",
+            "Progress": "92%",
+            "Tasks": "(24/26)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "WWC_010_comp_v04.nk",
             "est.": "00:00:01",
