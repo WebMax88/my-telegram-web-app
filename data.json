@@ -1,34 +1,4 @@
 {
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_v03-/stag",
-            "Task_name": "WWC_30_v03 - /stage/crowd_bg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(223/226)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Lighting_Sky_v13",
-            "Task_name": "Lighting_Sky_v13 - /out/Layout",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(38/39)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "Layout",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -41,6 +11,22 @@
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Lighting_Sky_v13",
+            "Task_name": "Lighting_Sky_v13 - /out/Layout",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(38/39)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "Layout",
             "est.": "00:00:01",
             "Priority": "60"
         }
