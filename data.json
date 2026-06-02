@@ -19,6 +19,20 @@
         {
             "Task_Progress": "100%",
             "Name": "WWC_30_v03-/stag",
+            "Task_name": "WWC_30_v03 - /stage/crowd_bg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "57%",
+            "Tasks": "(131/226)",
+            "Status": "Rendering (6)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "01:39:53",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_v03-/stag",
             "Task_name": "WWC_30_v03 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
@@ -28,20 +42,6 @@
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
             "est.": "01:19:08",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_v03-/stag",
-            "Task_name": "WWC_30_v03 - /stage/crowd_bg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(129/226)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "02:03:36",
             "Priority": "60"
         }
     ]
