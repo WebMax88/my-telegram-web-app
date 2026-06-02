@@ -1,4 +1,50 @@
 {
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v2",
+            "Task_name": "Daytime_Earth_v24 - /stage/plane/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "80%",
+            "Tasks": "(80/100)",
+            "Status": "Rendering (10)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:01:42",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v03-/out",
+            "Task_name": "WBC_100_v03 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(38/83)",
+            "Status": "Rendering (15)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:13:42",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v03-/out",
+            "Task_name": "WBC_100_v03 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "69%",
+            "Tasks": "(58/83)",
+            "Status": "Rendering (15)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:02:49",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -12,150 +58,6 @@
             "Project": "QIDDIYA_CHARLY",
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_070_comp_v01",
-            "Task_name": "QDY_070_comp_v01.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(8/16)",
-            "Status": "Rendering (8)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_070_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v27-/ou",
-            "Task_name": "WWC_HOLO_v27 - /out/pedestalLightnings",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(101/127)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pedestalLightnings",
-            "est.": "00:06:10",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v27-/ou",
-            "Task_name": "WWC_HOLO_v27 - /out/rayLightnings",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(17/18)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "rayLightnings",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v27-/ou",
-            "Task_name": "WWC_HOLO_v27 - /out/runes",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(93/127)",
-            "Status": "Rendering (9)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "runes",
-            "est.": "00:07:44",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v27-/ou",
-            "Task_name": "WWC_HOLO_v27 - /out/pop2",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(110/127)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pop2",
-            "est.": "00:02:48",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v27-/ou",
-            "Task_name": "WWC_HOLO_v27 - /out/arcLightnings",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(59/127)",
-            "Status": "Rendering (9)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "arcLightnings",
-            "est.": "00:26:29",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "80%",
-            "Name": "WWC_010_comp_v06",
-            "Task_name": "WWC_010_comp_v06.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "61%",
-            "Tasks": "(16/26)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v06.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v27-/ou",
-            "Task_name": "WWC_HOLO_v27 - /out/pedestal",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(89/127)",
-            "Status": "Rendering (9)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "pedestal",
-            "est.": "00:09:59",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Packshot_v10-/st",
-            "Task_name": "Packshot_v10 - /stage/Phone_start/usdrender_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(2/152)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:23:48",
-            "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_090_comp_v01",
-            "Task_name": "WBC_090_comp_v01.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(4/5)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_090_comp_v01.nk",
-            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
