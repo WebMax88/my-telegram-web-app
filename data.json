@@ -1,21 +1,33 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "QDY_420_comp_v01",
-            "Task_name": "QDY_420_comp_v01.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/9)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_420_comp_v01.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v08-/obj",
+            "Task_name": "WBC_060_v08 - /obj/ropnet1/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "34%",
+            "Tasks": "(53/155)",
+            "Status": "Rendering (16)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:58:44",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v08-/obj",
+            "Task_name": "WBC_060_v08 - /obj/ropnet1/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "89%",
+            "Tasks": "(139/155)",
+            "Status": "Rendering (16)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v03-/out",
@@ -29,49 +41,21 @@
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v08-/obj",
-            "Task_name": "WBC_060_v08 - /obj/ropnet1/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(40/155)",
-            "Status": "Rendering (17)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "01:03:40",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v08-/obj",
-            "Task_name": "WBC_060_v08 - /obj/ropnet1/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(120/155)",
-            "Status": "Rendering (16)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:04:31",
-            "Priority": "60"
         }
     ],
-    "WINLINE_KNIFES": [
+    "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "100%",
-            "Name": "shot_020_comp_v0",
-            "Task_name": "shot_020_comp_v05.nk",
-            "User": "loktev",
+            "Task_Progress": "0%",
+            "Name": "QDY_420_comp_v01",
+            "Task_name": "QDY_420_comp_v01.nk",
+            "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "26%",
-            "Tasks": "(4/15)",
-            "Status": "Rendering (11)",
-            "Project": "WINLINE_KNIFES",
-            "Render": "shot_020_comp_v05.nk",
-            "est.": "00:00:01",
+            "Progress": "0%",
+            "Tasks": "(0/9)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_420_comp_v01.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
