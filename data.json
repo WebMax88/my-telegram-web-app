@@ -1,1 +1,18 @@
-{}
+{
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Packshot_v09-/st",
+            "Task_name": "Packshot_v09 - /stage/main/usdrender_rop",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "14%",
+            "Tasks": "(18/127)",
+            "Status": "Rendering (34)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:03:15",
+            "Priority": "60"
+        }
+    ]
+}
