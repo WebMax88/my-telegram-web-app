@@ -14,21 +14,5 @@
             "est.": "unknown",
             "Priority": "90"
         }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v08-/obj",
-            "Task_name": "WBC_060_v08 - /obj/ropnet1/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(154/155)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
     ]
 }
