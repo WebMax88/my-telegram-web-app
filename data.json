@@ -1,46 +1,16 @@
 {
-    "SIDE_MISSIONS_BK": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v005 - /stage/main_rop",
-            "User": "korukaev",
+            "Name": "WBC_090_v03-/out",
+            "Task_name": "WBC_090_v03 - /out/vol",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(13/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:52:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_T60_v005 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(5/100)",
-            "Status": "Rendering (3)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "01:10:31",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Packshot_v10-/st",
-            "Task_name": "Packshot_v10 - /stage/main/usdrender_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(141/152)",
-            "Status": "Rendering (11)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
+            "Progress": "82%",
+            "Tasks": "(19/23)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -52,12 +22,12 @@
             "Task_name": "Daytime_Earth_v23 - /stage/plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(68/100)",
-            "Status": "Rendering (6)",
+            "Progress": "81%",
+            "Tasks": "(81/100)",
+            "Status": "Rendering (7)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:10:26",
+            "est.": "00:04:10",
             "Priority": "60"
         },
         {
@@ -66,28 +36,42 @@
             "Task_name": "Daytime_Earth_v23 - /stage/plane_trail/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(82/100)",
-            "Status": "Rendering (5)",
+            "Progress": "96%",
+            "Tasks": "(96/100)",
+            "Status": "Rendering (4)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:03:57",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
-    "WBW_KRYPTO_DEJAVU": [
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_090_v03-/out",
-            "Task_name": "WBC_090_v03 - /out/vol",
-            "User": "mochalova",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v005 - /stage/close_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(18/23)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:00:01",
+            "Progress": "14%",
+            "Tasks": "(14/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "00:57:49",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_T60_v005 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "22%",
+            "Tasks": "(22/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:45:14",
             "Priority": "60"
         }
     ]
