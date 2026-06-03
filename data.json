@@ -14,21 +14,5 @@
             "est.": "unknown",
             "Priority": "90"
         }
-    ],
-    "WINLINE_KNIFES": [
-        {
-            "Task_Progress": "100%",
-            "Name": "shot_020_comp_v0",
-            "Task_name": "shot_020_comp_v07.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "40%",
-            "Tasks": "(6/15)",
-            "Status": "Rendering (9)",
-            "Project": "WINLINE_KNIFES",
-            "Render": "shot_020_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
