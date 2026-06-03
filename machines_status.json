@@ -65,7 +65,7 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -230,7 +230,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
