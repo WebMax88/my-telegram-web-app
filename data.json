@@ -17,6 +17,20 @@
         {
             "Task_Progress": "100%",
             "Name": "TST_010_w_7sec_s",
+            "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/main/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "39%",
+            "Tasks": "(39/100)",
+            "Status": "Rendering (4)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "02:50:02",
+            "Priority": "59"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_w_7sec_s",
             "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/crowd/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
@@ -27,20 +41,6 @@
             "Render": "usdrender_rop",
             "est.": "05:25:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "95%",
-            "Name": "TST_010_w_7sec_s",
-            "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/main/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(36/100)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:19:59",
-            "Priority": "59"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
