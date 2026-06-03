@@ -3,29 +3,29 @@
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/close_rop",
+            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(49/100)",
-            "Status": "Queued",
+            "Progress": "54%",
+            "Tasks": "(54/100)",
+            "Status": "Rendering (1)",
             "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "unknown",
+            "Render": "main_rop",
+            "est.": "01:13:25",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/main_rop",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_green_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(50/100)",
+            "Progress": "5%",
+            "Tasks": "(5/100)",
             "Status": "Rendering (1)",
             "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "01:20:27",
+            "Render": "main_green_rop",
+            "est.": "02:39:51",
             "Priority": "60"
         },
         {
@@ -36,10 +36,10 @@
             "Plugin": "Houdini",
             "Progress": "8%",
             "Tasks": "(8/100)",
-            "Status": "Queued",
+            "Status": "Rendering (2)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_orange_rop",
-            "est.": "unknown",
+            "est.": "01:08:54",
             "Priority": "60"
         },
         {
@@ -50,42 +50,28 @@
             "Plugin": "Houdini",
             "Progress": "7%",
             "Tasks": "(7/100)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_purple_rop",
-            "est.": "unknown",
+            "est.": "02:16:51",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_green_rop",
+            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(4/100)",
-            "Status": "Queued",
+            "Progress": "50%",
+            "Tasks": "(50/100)",
+            "Status": "Rendering (1)",
             "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_green_rop",
-            "est.": "unknown",
+            "Render": "close_rop",
+            "est.": "01:22:10",
             "Priority": "60"
         }
     ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "QDY_500_v01-/sta",
-            "Task_name": "QDY_500_v01 - /stage/main/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/39)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "0%",
             "Name": "QDY_420_comp_v01",
@@ -99,21 +85,35 @@
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_060_comp_v04",
-            "Task_name": "WBC_060_comp_v04.nk",
-            "User": "shvetsov",
+            "Name": "QDY_500_v01-/sta",
+            "Task_name": "QDY_500_v01 - /stage/main/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "48%",
+            "Tasks": "(19/39)",
+            "Status": "Rendering (9)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:03:15",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "40%",
+            "Name": "WWC_010_comp_v07",
+            "Task_name": "WWC_010_comp_v07.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "41%",
-            "Tasks": "(13/31)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_060_comp_v04.nk",
-            "est.": "00:02:35",
+            "Progress": "0%",
+            "Tasks": "(0/26)",
+            "Status": "Rendering (19)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v07.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
