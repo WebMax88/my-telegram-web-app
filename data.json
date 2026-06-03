@@ -1,5 +1,35 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "0%",
+            "Name": "QDY_420_comp_v01",
+            "Task_name": "QDY_420_comp_v01.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/9)",
+            "Status": "Queued",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_420_comp_v01.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v18-/s",
+            "Task_name": "stad_sh05_v18 - /stage/crowd_fg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "84%",
+            "Tasks": "(107/127)",
+            "Status": "Rendering (20)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Lighting_Sky_v19",
@@ -17,46 +47,16 @@
         {
             "Task_Progress": "100%",
             "Name": "stad_sh05_v18-/s",
-            "Task_name": "stad_sh05_v18 - /stage/crowd_fg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(85/127)",
-            "Status": "Rendering (33)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:01:49",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v18-/s",
             "Task_name": "stad_sh05_v18 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(77/127)",
-            "Status": "Rendering (32)",
+            "Progress": "83%",
+            "Tasks": "(106/127)",
+            "Status": "Rendering (21)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:04:09",
+            "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "QDY_420_comp_v01",
-            "Task_name": "QDY_420_comp_v01.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/9)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_420_comp_v01.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ]
 }
