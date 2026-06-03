@@ -22,12 +22,12 @@
             "Task_name": "stad_sh05_v18 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(37/127)",
+            "Progress": "39%",
+            "Tasks": "(50/127)",
             "Status": "Rendering (34)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:13:10",
+            "est.": "00:09:49",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "stad_sh05_v18 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(53/127)",
-            "Status": "Rendering (32)",
+            "Progress": "57%",
+            "Tasks": "(73/127)",
+            "Status": "Rendering (33)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:08:55",
+            "est.": "00:04:14",
             "Priority": "60"
         }
     ]
