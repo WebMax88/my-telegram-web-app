@@ -1,5 +1,91 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v05-/out",
+            "Task_name": "WBC_100_v05 - /out/nebulaz_mask",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(23/83)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz_mask",
+            "est.": "00:20:12",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "55%",
+            "Name": "WBC_100_v05-/out",
+            "Task_name": "WBC_100_v05 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(4/83)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:39:28",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v05-/out",
+            "Task_name": "WBC_100_v05 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "10%",
+            "Tasks": "(9/83)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "00:57:35",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "17%",
+            "Name": "WBC_100_v05-/out",
+            "Task_name": "WBC_100_v05 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/83)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v05-/out",
+            "Task_name": "WBC_100_v05 - /out/vol_light",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(3/83)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "01:58:59",
+            "Priority": "60"
+        }
+    ],
     "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_purple_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "19%",
+            "Tasks": "(19/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_purple_rop",
+            "est.": "00:56:59",
+            "Priority": "70"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Side_Missions_BK",
@@ -20,12 +106,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_orange_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(17/100)",
+            "Progress": "23%",
+            "Tasks": "(23/100)",
             "Status": "Rendering (2)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_orange_rop",
-            "est.": "01:02:11",
+            "est.": "00:57:25",
             "Priority": "70"
         },
         {
@@ -34,12 +120,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_green_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(11/100)",
+            "Progress": "17%",
+            "Tasks": "(17/100)",
             "Status": "Rendering (2)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_green_rop",
-            "est.": "01:05:44",
+            "est.": "01:00:20",
             "Priority": "70"
         },
         {
@@ -54,92 +140,6 @@
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
             "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_purple_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(13/100)",
-            "Status": "Rendering (2)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_purple_rop",
-            "est.": "01:00:56",
-            "Priority": "70"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "6%",
-            "Name": "WBC_100_v05-/out",
-            "Task_name": "WBC_100_v05 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/83)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "39%",
-            "Name": "WBC_100_v05-/out",
-            "Task_name": "WBC_100_v05 - /out/vol_light",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/83)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v05-/out",
-            "Task_name": "WBC_100_v05 - /out/nebulaz_mask",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(10/83)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz_mask",
-            "est.": "00:23:44",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "11%",
-            "Name": "WBC_100_v05-/out",
-            "Task_name": "WBC_100_v05 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/83)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v05-/out",
-            "Task_name": "WBC_100_v05 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(1/83)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "01:08:35",
             "Priority": "60"
         }
     ],
@@ -164,29 +164,13 @@
             "Task_name": "QDY_500_v01 - /stage/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(33/39)",
-            "Status": "Rendering (6)",
+            "Progress": "97%",
+            "Tasks": "(38/39)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v07",
-            "Task_name": "WWC_010_comp_v07.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(25/26)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
