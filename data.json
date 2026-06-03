@@ -1,6 +1,20 @@
 {
     "QIDDIYA_CHARLY": [
         {
+            "Task_Progress": "100%",
+            "Name": "TST_010_w_7sec_s",
+            "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/main/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "49%",
+            "Tasks": "(49/100)",
+            "Status": "Rendering (2)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "05:26:13",
+            "Priority": "59"
+        },
+        {
             "Task_Progress": "0%",
             "Name": "QDY_420_comp_v01",
             "Task_name": "QDY_420_comp_v01.nk",
@@ -20,27 +34,13 @@
             "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/crowd/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(13/194)",
-            "Status": "Rendering (2)",
+            "Progress": "7%",
+            "Tasks": "(14/194)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "16:40:46",
+            "est.": "10:38:04",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_w_7sec_s",
-            "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/main/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(48/100)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:38:58",
-            "Priority": "59"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
@@ -57,6 +57,22 @@
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_KNIFES": [
+        {
+            "Task_Progress": "100%",
+            "Name": "shot_020_comp_v1",
+            "Task_name": "shot_020_comp_v10.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "93%",
+            "Tasks": "(14/15)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_KNIFES",
+            "Render": "shot_020_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
