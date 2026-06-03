@@ -14,21 +14,5 @@
             "est.": "unknown",
             "Priority": "90"
         }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "83%",
-            "Name": "WWC_HOLO_v33-/ob",
-            "Task_name": "WWC_HOLO_v33 - /obj/holo/arcsPyroSource/render",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(0/1)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "render",
-            "est.": "unknown",
-            "Priority": "85"
-        }
     ]
 }
