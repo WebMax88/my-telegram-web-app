@@ -2,16 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_090_v06-/out",
-            "Task_name": "WBC_090_v06 - /out/vol",
+            "Name": "WBC_100_v04-/out",
+            "Task_name": "WBC_100_v04 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(8/23)",
+            "Progress": "49%",
+            "Tasks": "(41/83)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:08:02",
+            "Render": "nebulaz",
+            "est.": "00:21:30",
             "Priority": "60"
         },
         {
@@ -20,26 +20,26 @@
             "Task_name": "WBC_100_v04 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(25/83)",
+            "Progress": "32%",
+            "Tasks": "(27/83)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:58:41",
+            "est.": "00:56:03",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v04-/out",
-            "Task_name": "WBC_100_v04 - /out/nebulaz",
+            "Name": "WBC_090_v06-/out",
+            "Task_name": "WBC_090_v06 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(40/83)",
-            "Status": "Rendering (12)",
+            "Progress": "39%",
+            "Tasks": "(9/23)",
+            "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:22:03",
+            "Render": "vol",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -57,22 +57,6 @@
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Lighting_Sky_v19",
-            "Task_name": "Lighting_Sky_v19 - /out/Claude_Back",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(38/39)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "Claude_Back",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
