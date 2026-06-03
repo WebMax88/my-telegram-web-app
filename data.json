@@ -17,17 +17,17 @@
     ],
     "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "74%",
+            "Task_Progress": "100%",
             "Name": "stad_sh05_v18-/s",
             "Task_name": "stad_sh05_v18 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(7/127)",
+            "Progress": "12%",
+            "Tasks": "(16/127)",
             "Status": "Rendering (34)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:17:13",
+            "est.": "00:18:50",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "stad_sh05_v18 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(30/127)",
-            "Status": "Rendering (31)",
+            "Progress": "30%",
+            "Tasks": "(39/127)",
+            "Status": "Rendering (33)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:14:25",
+            "est.": "00:11:53",
             "Priority": "60"
         }
     ]
