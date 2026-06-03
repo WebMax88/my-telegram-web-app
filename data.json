@@ -20,12 +20,12 @@
             "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/crowd/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(8/194)",
-            "Status": "Rendering (7)",
+            "Progress": "5%",
+            "Tasks": "(10/194)",
+            "Status": "Rendering (5)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "05:26:44",
+            "est.": "07:15:29",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/main/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(46/100)",
-            "Status": "Rendering (5)",
+            "Progress": "48%",
+            "Tasks": "(48/100)",
+            "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "02:13:14",
+            "est.": "03:38:58",
             "Priority": "59"
         }
     ],
