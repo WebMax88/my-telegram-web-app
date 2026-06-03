@@ -15,22 +15,6 @@
             "Priority": "90"
         }
     ],
-    "WINLINE_KNIFES": [
-        {
-            "Task_Progress": "100%",
-            "Name": "shot_010_comp_v1",
-            "Task_name": "shot_010_comp_v15.nk",
-            "User": "pankova",
-            "Plugin": "Nuke",
-            "Progress": "73%",
-            "Tasks": "(28/38)",
-            "Status": "Suspended",
-            "Project": "WINLINE_KNIFES",
-            "Render": "shot_010_comp_v15.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -38,25 +22,11 @@
             "Task_name": "Lighting_Sky_v19 - /out/Claude_Back",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(15/39)",
-            "Status": "Rendering (17)",
+            "Progress": "97%",
+            "Tasks": "(38/39)",
+            "Status": "Rendering (1)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Claude_Back",
-            "est.": "00:01:36",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Lighting_Sky_v19",
-            "Task_name": "Lighting_Sky_v19 - /out/Chips",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(37/39)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "Chips",
             "est.": "00:00:01",
             "Priority": "60"
         },
@@ -66,12 +36,12 @@
             "Task_name": "Lighting_Sky_v19 - /out/Layout",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(5/39)",
-            "Status": "Rendering (17)",
+            "Progress": "20%",
+            "Tasks": "(8/39)",
+            "Status": "Rendering (31)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Layout",
-            "est.": "00:08:11",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
