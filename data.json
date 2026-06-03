@@ -1,62 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_090_v06-/out",
-            "Task_name": "WBC_090_v06 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(12/23)",
-            "Status": "Rendering (8)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:06:06",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v04-/out",
-            "Task_name": "WBC_100_v04 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(4/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "02:33:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "82%",
-            "Name": "WBC_090_v06-/out",
-            "Task_name": "WBC_090_v06 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/23)",
-            "Status": "Rendering (14)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v04-/out",
-            "Task_name": "WBC_100_v04 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(6/83)",
-            "Status": "Rendering (8)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "01:08:52",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -86,6 +28,64 @@
             "Project": "WINLINE_WORLDCUP",
             "Render": "Claude_Back",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "92%",
+            "Name": "WBC_090_v06-/out",
+            "Task_name": "WBC_090_v06 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/23)",
+            "Status": "Rendering (14)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v04-/out",
+            "Task_name": "WBC_100_v04 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "8%",
+            "Tasks": "(7/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:22:04",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_090_v06-/out",
+            "Task_name": "WBC_090_v06 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "65%",
+            "Tasks": "(15/23)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v04-/out",
+            "Task_name": "WBC_100_v04 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(8/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "02:31:43",
             "Priority": "60"
         }
     ]
