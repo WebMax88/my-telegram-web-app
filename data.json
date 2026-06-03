@@ -3,15 +3,15 @@
         {
             "Task_Progress": "100%",
             "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v25 - /stage/plane_trail/usdrender_rop",
+            "Task_name": "Daytime_Earth_v25 - /stage/plane_fog/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(93/100)",
-            "Status": "Rendering (3)",
+            "Progress": "35%",
+            "Tasks": "(35/100)",
+            "Status": "Rendering (6)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:01:48",
+            "est.": "01:00:49",
             "Priority": "60"
         },
         {
@@ -20,27 +20,29 @@
             "Task_name": "Daytime_Earth_v25 - /stage/plane/usdrender_rop",
             "User": "goncharov",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(59/100)",
-            "Status": "Rendering (3)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:19:59",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v25 - /stage/plane_fog/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(27/100)",
+            "Progress": "88%",
+            "Tasks": "(88/100)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:22:23",
+            "est.": "00:02:15",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_comp_v03.",
+            "Task_name": "WWC_30_comp_v03.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "53%",
+            "Tasks": "(142/265)",
+            "Status": "Rendering (20)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v03.nk",
+            "est.": "00:01:07",
+            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
