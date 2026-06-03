@@ -1,4 +1,20 @@
 {
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v19-/s",
+            "Task_name": "stad_sh05_v19 - /stage/crowd_fg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(126/127)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -13,52 +29,6 @@
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v05-/out",
-            "Task_name": "WBC_100_v05 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(81/83)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v19-/s",
-            "Task_name": "stad_sh05_v19 - /stage/crowd_bg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(120/127)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v19-/s",
-            "Task_name": "stad_sh05_v19 - /stage/crowd_fg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(121/127)",
-            "Status": "Rendering (6)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
