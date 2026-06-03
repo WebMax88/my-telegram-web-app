@@ -14,21 +14,5 @@
             "est.": "unknown",
             "Priority": "90"
         }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v01",
-            "Task_name": "TST_030_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(299/300)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_030_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
