@@ -6,12 +6,12 @@
             "Task_name": "WBC_100_v05 - /out/vol_light",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(36/83)",
+            "Progress": "46%",
+            "Tasks": "(39/83)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "00:23:20",
+            "est.": "00:21:12",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WBC_100_v05 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(14/83)",
+            "Progress": "18%",
+            "Tasks": "(15/83)",
             "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:29:14",
+            "est.": "01:27:57",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBC_100_v05 - /out/vol_laser",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(29/83)",
+            "Progress": "44%",
+            "Tasks": "(37/83)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "00:17:58",
+            "est.": "00:15:05",
             "Priority": "60"
         }
     ],
