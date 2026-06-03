@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "0%",
-            "Name": "WBC_100_v05-/out",
-            "Task_name": "WBC_100_v05 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(7/83)",
-            "Status": "Rendering (33)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:11:52",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "stad_sh05_v19 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(91/127)",
+            "Progress": "76%",
+            "Tasks": "(97/127)",
             "Status": "Rendering (6)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:32:08",
+            "est.": "00:25:39",
             "Priority": "60"
         },
         {
@@ -36,12 +20,12 @@
             "Task_name": "stad_sh05_v19 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(97/127)",
-            "Status": "Rendering (6)",
+            "Progress": "78%",
+            "Tasks": "(100/127)",
+            "Status": "Rendering (7)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:25:31",
+            "est.": "00:18:25",
             "Priority": "60"
         }
     ],
@@ -59,6 +43,22 @@
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "59%",
+            "Name": "WBC_100_v05-/out",
+            "Task_name": "WBC_100_v05 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(23/83)",
+            "Status": "Rendering (33)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:08:55",
+            "Priority": "60"
         }
     ]
 }
