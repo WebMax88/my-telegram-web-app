@@ -1,4 +1,76 @@
 {
+    "SIDE_MISSIONS_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/main_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "35%",
+            "Tasks": "(35/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:51:45",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_green_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/100)",
+            "Status": "Queued",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_green_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_orange_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_orange_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "26%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Fish_v005 - /stage/main_purple_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/100)",
+            "Status": "Rendering (1)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_purple_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/close_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "39%",
+            "Tasks": "(39/100)",
+            "Status": "Rendering (2)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "00:48:52",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -17,48 +89,18 @@
     ],
     "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "40%",
+            "Task_Progress": "100%",
             "Name": "WWC_010_comp_v07",
             "Task_name": "WWC_010_comp_v07.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(25/26)",
-            "Status": "Rendering (1)",
+            "Progress": "7%",
+            "Tasks": "(2/26)",
+            "Status": "Rendering (19)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "WWC_010_comp_v07.nk",
-            "est.": "00:00:01",
+            "est.": "00:00:14",
             "Priority": "90"
-        }
-    ],
-    "SIDE_MISSIONS_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/main_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(29/100)",
-            "Status": "Rendering (2)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "main_rop",
-            "est.": "00:57:51",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Side_Missions_BK",
-            "Task_name": "Side_Missions_BK_lookdev_marine_a_v002 - /stage/close_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(30/100)",
-            "Status": "Rendering (2)",
-            "Project": "SIDE_MISSIONS_BK",
-            "Render": "close_rop",
-            "est.": "00:58:03",
-            "Priority": "60"
         }
     ]
 }
