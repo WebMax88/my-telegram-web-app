@@ -18,20 +18,6 @@
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "stad_sh05_v18-/s",
-            "Task_name": "stad_sh05_v18 - /stage/crowd_bg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(127/127)",
-            "Status": "Completed",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:00",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "Lighting_Sky_v19",
             "Task_name": "Lighting_Sky_v19 - /out/Claude_Back",
             "User": "gridasov",
