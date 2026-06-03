@@ -43,20 +43,18 @@
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "WINLINE_KNIFES": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "shot_030_comp_v1",
-            "Task_name": "shot_030_comp_v10.nk",
-            "User": "f.smirnov",
+            "Name": "WBC_100_comp_v02",
+            "Task_name": "WBC_100_comp_v02.nk",
+            "User": "savvin",
             "Plugin": "Nuke",
-            "Progress": "36%",
-            "Tasks": "(4/11)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_KNIFES",
-            "Render": "shot_030_comp_v10.nk",
+            "Progress": "94%",
+            "Tasks": "(16/17)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_v02.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
