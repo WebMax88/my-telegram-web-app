@@ -29,17 +29,17 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "84%",
+            "Task_Progress": "95%",
             "Name": "TST_010_w_7sec_s",
             "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/main/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(35/100)",
-            "Status": "Rendering (8)",
+            "Progress": "36%",
+            "Tasks": "(36/100)",
+            "Status": "Rendering (7)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:09:03",
+            "est.": "01:19:59",
             "Priority": "59"
         }
     ],
