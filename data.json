@@ -6,12 +6,12 @@
             "Task_name": "stad_sh05_v19 - /stage/crowd_bg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(100/127)",
+            "Progress": "81%",
+            "Tasks": "(103/127)",
             "Status": "Rendering (6)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:22:25",
+            "est.": "00:19:12",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "stad_sh05_v19 - /stage/crowd_fg/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(104/127)",
+            "Progress": "83%",
+            "Tasks": "(106/127)",
             "Status": "Rendering (7)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:14:53",
+            "est.": "00:13:07",
             "Priority": "60"
         }
     ],
@@ -52,12 +52,12 @@
             "Task_name": "WBC_100_v05 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(31/83)",
+            "Progress": "53%",
+            "Tasks": "(44/83)",
             "Status": "Rendering (33)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:06:46",
+            "est.": "00:02:09",
             "Priority": "60"
         }
     ]
