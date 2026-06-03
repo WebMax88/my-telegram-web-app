@@ -1,91 +1,21 @@
 {
-    "WINLINE_WORLDCUP": [
+    "WINLINE_KNIFES": [
         {
             "Task_Progress": "100%",
-            "Name": "stad_sh05_v19-/s",
-            "Task_name": "stad_sh05_v19 - /stage/crowd_bg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(65/127)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "02:07:22",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v19-/s",
-            "Task_name": "stad_sh05_v19 - /stage/crowd_fg/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(72/127)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "02:41:04",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Lighting_Sky_v22",
-            "Task_name": "Lighting_Sky_v22 - /out/Layout",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(38/39)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "Layout",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_v07-/stag",
-            "Task_name": "WWC_30_v07 - /stage/ground1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(221/226)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:02:18",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v19-/s",
-            "Task_name": "stad_sh05_v19 - /stage/main1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(105/127)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:37:17",
-            "Priority": "60"
+            "Name": "shot_210_comp_v0",
+            "Task_name": "shot_210_comp_v03.nk",
+            "User": "pankova",
+            "Plugin": "Nuke",
+            "Progress": "69%",
+            "Tasks": "(51/73)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_KNIFES",
+            "Render": "shot_210_comp_v03.nk",
+            "est.": "00:00:39",
+            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_w_7sec_s",
-            "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/crowd/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(53/194)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:55:09",
-            "Priority": "59"
-        },
         {
             "Task_Progress": "0%",
             "Name": "QDY_420_comp_v01",
@@ -99,23 +29,23 @@
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_w_7sec_s",
+            "Task_name": "TST_010_w_7sec_stadium_fly_v050 - /stage/crowd/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "29%",
+            "Tasks": "(57/194)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "04:04:27",
+            "Priority": "59"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v01",
-            "Task_name": "TST_030_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(299/300)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_030_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
         {
             "Task_Progress": "0%",
             "Name": "TST_030_comp_v01",
@@ -129,6 +59,64 @@
             "Render": "TST_030_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_v07-/stag",
+            "Task_name": "WWC_30_v07 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(225/226)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v19-/s",
+            "Task_name": "stad_sh05_v19 - /stage/main1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "84%",
+            "Tasks": "(107/127)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:14:57",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v19-/s",
+            "Task_name": "stad_sh05_v19 - /stage/crowd_bg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "53%",
+            "Tasks": "(68/127)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "02:00:49",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v19-/s",
+            "Task_name": "stad_sh05_v19 - /stage/crowd_fg/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(74/127)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "01:14:29",
+            "Priority": "60"
         }
     ]
 }
