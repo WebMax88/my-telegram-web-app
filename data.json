@@ -1,4 +1,20 @@
 {
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Daytime_Earth_v2",
+            "Task_name": "Daytime_Earth_v25 - /stage/plane_fog/usdrender_rop",
+            "User": "goncharov",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(50/100)",
+            "Status": "Rendering (10)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:27:13",
+            "Priority": "60"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -13,22 +29,6 @@
             "Render": "QDY_420_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Daytime_Earth_v2",
-            "Task_name": "Daytime_Earth_v25 - /stage/plane_fog/usdrender_rop",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(40/100)",
-            "Status": "Rendering (11)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:32:10",
-            "Priority": "60"
         }
     ]
 }
