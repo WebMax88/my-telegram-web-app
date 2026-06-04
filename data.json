@@ -2,30 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_060_v09-/obj",
-            "Task_name": "WBC_060_v09 - /obj/ropnet1/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(107/155)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "01:23:35",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_100_v08-/out",
             "Task_name": "WBC_100_v08 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(32/83)",
+            "Progress": "43%",
+            "Tasks": "(36/83)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "02:38:15",
+            "est.": "02:27:15",
             "Priority": "60"
         },
         {
@@ -34,12 +20,12 @@
             "Task_name": "WBC_100_v09 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(45/83)",
+            "Progress": "57%",
+            "Tasks": "(48/83)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:03:39",
+            "est.": "00:57:25",
             "Priority": "60"
         },
         {
@@ -48,12 +34,12 @@
             "Task_name": "WBC_060_v10 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(116/155)",
+            "Progress": "76%",
+            "Tasks": "(119/155)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:47:31",
+            "est.": "00:43:17",
             "Priority": "60"
         },
         {
@@ -69,49 +55,19 @@
             "Render": "vol_laser",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v09",
-            "Task_name": "WWC_010_comp_v09.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "76%",
-            "Tasks": "(20/26)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v09.nk",
-            "est.": "00:01:32",
-            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
-            "Name": "WWC_30_comp_v06.",
-            "Task_name": "WWC_30_comp_v06.nk",
-            "User": "raznov",
-            "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(278/278)",
-            "Status": "Completed",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_30_comp_v06.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Lighting_Sky_v25",
-            "Task_name": "Lighting_Sky_v25 - /out/Layout",
-            "User": "gridasov",
+            "Name": "WBC_060_v09-/obj",
+            "Task_name": "WBC_060_v09 - /obj/ropnet1/nebulaz",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(27/70)",
+            "Progress": "72%",
+            "Tasks": "(112/155)",
             "Status": "Rendering (6)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "Layout",
-            "est.": "00:45:33",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:13:27",
             "Priority": "60"
         }
     ],
@@ -128,6 +84,36 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Lighting_Sky_v25",
+            "Task_name": "Lighting_Sky_v25 - /out/Layout",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(32/70)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "Layout",
+            "est.": "00:52:02",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_010_comp_v09",
+            "Task_name": "WWC_010_comp_v09.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(24/26)",
+            "Status": "Rendering (2)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v09.nk",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
