@@ -1,4 +1,20 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_030_comp_v02",
+            "Task_name": "TST_030_comp_v02.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "99%",
+            "Tasks": "(299/300)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "TST_030_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -6,12 +22,12 @@
             "Task_name": "QDY_365_comp_v01.nk",
             "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "60%",
-            "Tasks": "(6/10)",
-            "Status": "Rendering (3)",
+            "Progress": "90%",
+            "Tasks": "(9/10)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "QDY_365_comp_v01.nk",
-            "est.": "00:00:08",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
