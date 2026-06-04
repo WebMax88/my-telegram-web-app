@@ -1,45 +1,31 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_comp_v10",
-            "Task_name": "WBC_100_comp_v10.nk",
-            "User": "savvin",
-            "Plugin": "Nuke",
-            "Progress": "66%",
-            "Tasks": "(2/3)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v09-/out",
-            "Task_name": "WBC_100_v09 - /out/nebulaz_mask",
-            "User": "ushakova",
+            "Name": "Packshot_v15-/st",
+            "Task_name": "Packshot_v15 - /stage/Ligthing_Phone_start/usdrender_rop",
+            "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(41/83)",
-            "Status": "Rendering (32)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz_mask",
-            "est.": "00:00:32",
+            "Progress": "64%",
+            "Tasks": "(64/100)",
+            "Status": "Rendering (16)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:01:13",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v08-/out",
-            "Task_name": "WBC_100_v08 - /out/vol_laser",
-            "User": "ushakova",
+            "Name": "Packshot_v15-/st",
+            "Task_name": "Packshot_v15 - /stage/Ligthing_Reflection_start/usdrender_rop",
+            "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(82/83)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:00:01",
+            "Progress": "59%",
+            "Tasks": "(59/100)",
+            "Status": "Rendering (15)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:01:26",
             "Priority": "60"
         }
     ],
@@ -57,6 +43,22 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v08-/out",
+            "Task_name": "WBC_100_v08 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(82/83)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
