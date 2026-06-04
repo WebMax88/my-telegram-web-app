@@ -6,12 +6,12 @@
             "Task_name": "WWC_HOLO_v42 - /stage/Shockwave/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(71/500)",
+            "Progress": "16%",
+            "Tasks": "(80/500)",
             "Status": "Rendering (21)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "01:41:55",
+            "est.": "01:53:12",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WWC_HOLO_v42 - /stage/arcsSmoke/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(57/500)",
+            "Progress": "12%",
+            "Tasks": "(63/500)",
             "Status": "Rendering (19)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "02:12:20",
+            "est.": "02:26:30",
             "Priority": "60"
         }
     ]
