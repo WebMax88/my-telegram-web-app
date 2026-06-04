@@ -35,7 +35,7 @@
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws48",
         "user": "Sergei Adlerberg"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
