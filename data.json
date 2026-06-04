@@ -2,6 +2,20 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "TST_030_comp_v02",
+            "Task_name": "TST_030_comp_v02.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "17%",
+            "Tasks": "(53/300)",
+            "Status": "Rendering (32)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "TST_030_comp_v02.nk",
+            "est.": "00:19:32",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_090_v07-/out",
             "Task_name": "WBC_090_v07 - /out/vol_light",
             "User": "ushakova",
@@ -27,34 +41,6 @@
             "Render": "nebulaz",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v02",
-            "Task_name": "TST_030_comp_v02.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "6%",
-            "Tasks": "(18/300)",
-            "Status": "Rendering (33)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_030_comp_v02.nk",
-            "est.": "00:18:08",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v02",
-            "Task_name": "TST_030_comp_v02.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(299/300)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_030_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
