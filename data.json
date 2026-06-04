@@ -1,34 +1,50 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_220_comp_v03",
-            "Task_name": "QDY_220_comp_v03.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(24/25)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_220_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
-            "Task_Progress": "7%",
+            "Task_Progress": "100%",
             "Name": "BND_0040_v05-/ob",
             "Task_name": "BND_0040_v05 - /obj/lopnet1/BND_0040/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(14/41)",
-            "Status": "Rendering (27)",
+            "Progress": "92%",
+            "Tasks": "(38/41)",
+            "Status": "Rendering (3)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_comp_v07",
+            "Task_name": "WBC_100_comp_v07.nk",
+            "User": "savvin",
+            "Plugin": "Nuke",
+            "Progress": "82%",
+            "Tasks": "(14/17)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_v07.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_365_comp_v01",
+            "Task_name": "QDY_365_comp_v01.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "90%",
+            "Tasks": "(9/10)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_365_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
