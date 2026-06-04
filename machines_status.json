@@ -1,6 +1,6 @@
 [
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -115,7 +115,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws112",
         "user": "Fedor Smirnov"
     },
