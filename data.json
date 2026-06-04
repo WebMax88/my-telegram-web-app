@@ -48,12 +48,12 @@
             "Task_name": "WBC_060_v09 - /obj/ropnet1/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(19/155)",
+            "Progress": "16%",
+            "Tasks": "(25/155)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:51:27",
+            "est.": "00:55:50",
             "Priority": "60"
         },
         {
@@ -62,12 +62,12 @@
             "Task_name": "WBC_060_v09 - /obj/ropnet1/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(13/155)",
+            "Progress": "12%",
+            "Tasks": "(19/155)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:29:44",
+            "est.": "01:25:21",
             "Priority": "60"
         },
         {
@@ -76,12 +76,12 @@
             "Task_name": "WBC_060_v09 - /obj/ropnet1/vol_light",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(11/155)",
-            "Status": "Rendering (6)",
+            "Progress": "9%",
+            "Tasks": "(14/155)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "01:33:07",
+            "est.": "01:14:30",
             "Priority": "60"
         }
     ],
