@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -10,7 +10,7 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
@@ -275,7 +275,7 @@
         "user": "----"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
