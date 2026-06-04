@@ -18,6 +18,20 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "TST_030_comp_v02",
+            "Task_name": "TST_030_comp_v02.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "32%",
+            "Tasks": "(96/300)",
+            "Status": "Rendering (31)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "TST_030_comp_v02.nk",
+            "est.": "00:15:47",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_090_v07-/out",
             "Task_name": "WBC_090_v07 - /out/vol_light",
             "User": "ushakova",
@@ -36,12 +50,12 @@
             "Task_name": "TST_030_comp_v02.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "12%",
-            "Tasks": "(37/300)",
-            "Status": "Rendering (29)",
+            "Progress": "99%",
+            "Tasks": "(299/300)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "TST_030_comp_v02.nk",
-            "est.": "00:21:37",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
