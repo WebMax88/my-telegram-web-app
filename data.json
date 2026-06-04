@@ -6,12 +6,12 @@
             "Task_name": "TST_030_comp_v02.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "50%",
-            "Tasks": "(151/300)",
-            "Status": "Rendering (35)",
+            "Progress": "64%",
+            "Tasks": "(193/300)",
+            "Status": "Rendering (42)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "TST_030_comp_v02.nk",
-            "est.": "00:09:14",
+            "est.": "00:04:23",
             "Priority": "90"
         },
         {
@@ -30,17 +30,17 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_090_v07-/out",
-            "Task_name": "WBC_090_v07 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(23/23)",
-            "Status": "Completed",
+            "Name": "TST_030_comp_v02",
+            "Task_name": "TST_030_comp_v02.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "99%",
+            "Tasks": "(299/300)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:00:00",
-            "Priority": "60"
+            "Render": "TST_030_comp_v02.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
