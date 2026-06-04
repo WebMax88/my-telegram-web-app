@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws47",
         "user": "---"
     },
@@ -110,17 +110,17 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws112",
         "user": "Fedor Smirnov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -285,7 +285,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws215",
         "user": "Freelancer - Vova Syslov"
     },
