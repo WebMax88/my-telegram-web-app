@@ -1,34 +1,4 @@
 {
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Packshot_v15-/st",
-            "Task_name": "Packshot_v15 - /stage/Ligthing_Phone_start/usdrender_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(64/100)",
-            "Status": "Rendering (16)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:01:13",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Packshot_v15-/st",
-            "Task_name": "Packshot_v15 - /stage/Ligthing_Reflection_start/usdrender_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(59/100)",
-            "Status": "Rendering (15)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:01:26",
-            "Priority": "60"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
