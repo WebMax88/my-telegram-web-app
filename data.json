@@ -1,34 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v08-/out",
-            "Task_name": "WBC_100_v08 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(78/83)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v08-/out",
-            "Task_name": "WBC_100_v08 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(82/83)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -52,12 +22,42 @@
             "Task_name": "Lighting_Sky_v26 - /out/Layout",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(23/70)",
-            "Status": "Rendering (27)",
+            "Progress": "50%",
+            "Tasks": "(35/70)",
+            "Status": "Rendering (28)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Layout",
-            "est.": "00:05:06",
+            "est.": "00:01:49",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v08-/out",
+            "Task_name": "WBC_100_v08 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(82/83)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v08-/out",
+            "Task_name": "WBC_100_v08 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(79/83)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
