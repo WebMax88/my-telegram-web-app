@@ -2,6 +2,20 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "TST_030_comp_v02",
+            "Task_name": "TST_030_comp_v02.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "57%",
+            "Tasks": "(172/300)",
+            "Status": "Rendering (33)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "TST_030_comp_v02.nk",
+            "est.": "00:07:58",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_060_v09-/obj",
             "Task_name": "WBC_060_v09 - /obj/ropnet1/vol_light",
             "User": "ushakova",
@@ -41,20 +55,6 @@
             "Render": "nebulaz",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v02",
-            "Task_name": "TST_030_comp_v02.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "41%",
-            "Tasks": "(124/300)",
-            "Status": "Rendering (36)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_030_comp_v02.nk",
-            "est.": "00:10:54",
-            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
