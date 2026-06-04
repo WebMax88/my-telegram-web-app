@@ -6,26 +6,12 @@
             "Task_name": "TST_030_comp_v02.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "99%",
-            "Tasks": "(299/300)",
-            "Status": "Rendering (1)",
+            "Progress": "37%",
+            "Tasks": "(111/300)",
+            "Status": "Rendering (27)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "TST_030_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_030_comp_v02",
-            "Task_name": "TST_030_comp_v02.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "27%",
-            "Tasks": "(83/300)",
-            "Status": "Rendering (28)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "TST_030_comp_v02.nk",
-            "est.": "00:17:49",
+            "est.": "00:15:49",
             "Priority": "90"
         }
     ]
