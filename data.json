@@ -1,33 +1,37 @@
 {
-    "WINLINE_WORLDCUP": [
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v42-/st",
-            "Task_name": "WWC_HOLO_v42 - /stage/Shockwave/usdrender_rop",
-            "User": "dmakarov",
+            "Name": "BND_0040_v06-/ob",
+            "Task_name": "BND_0040_v06 - /obj/lopnet1/BND_0040/usdrender_rop",
+            "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(65/500)",
-            "Status": "Rendering (17)",
-            "Project": "WINLINE_WORLDCUP",
+            "Progress": "21%",
+            "Tasks": "(9/41)",
+            "Status": "Rendering (12)",
+            "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "01:43:25",
+            "est.": "00:07:00",
             "Priority": "60"
-        },
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v08",
-            "Task_name": "WWC_010_comp_v08.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(25/26)",
+            "Name": "WBC_100_v06-/out",
+            "Task_name": "WBC_100_v06 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "50%",
+            "Tasks": "(1/2)",
             "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v08.nk",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
             "est.": "00:00:01",
-            "Priority": "90"
-        },
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
             "Name": "WWC_HOLO_v42-/st",
@@ -35,59 +39,25 @@
             "User": "dmakarov",
             "Plugin": "Houdini",
             "Progress": "10%",
-            "Tasks": "(51/500)",
-            "Status": "Rendering (20)",
+            "Tasks": "(53/500)",
+            "Status": "Rendering (17)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "01:27:59",
+            "est.": "02:02:24",
             "Priority": "60"
-        }
-    ],
-    "AUTODESK_PRLM": [
+        },
         {
-            "Task_Progress": "85%",
-            "Name": "BND_0040_v06-/ob",
-            "Task_name": "BND_0040_v06 - /obj/lopnet1/BND_0040/usdrender_rop",
-            "User": "glavatskih",
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v42-/st",
+            "Task_name": "WWC_HOLO_v42 - /stage/Shockwave/usdrender_rop",
+            "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(1/41)",
-            "Status": "Rendering (7)",
-            "Project": "AUTODESK_PRLM",
+            "Progress": "14%",
+            "Tasks": "(71/500)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:16:06",
-            "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "16%",
-            "Name": "WBC_100_v06-/out",
-            "Task_name": "WBC_100_v06 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/2)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "QDY_510_Ball_v03",
-            "Task_name": "QDY_510_Ball_v03 - /out/Ball",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/1)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Ball",
-            "est.": "unknown",
+            "est.": "03:39:48",
             "Priority": "60"
         }
     ]
