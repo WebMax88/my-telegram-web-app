@@ -20,28 +20,28 @@
             "Task_name": "WBC_100_v09 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(52/83)",
-            "Status": "Rendering (30)",
+            "Progress": "66%",
+            "Tasks": "(55/83)",
+            "Status": "Rendering (28)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:00:42",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
     "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "45%",
+            "Task_Progress": "100%",
             "Name": "Lighting_Sky_v26",
             "Task_name": "Lighting_Sky_v26 - /out/Layout",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(1/10)",
-            "Status": "Rendering (2)",
+            "Progress": "20%",
+            "Tasks": "(2/10)",
+            "Status": "Rendering (5)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Layout",
-            "est.": "00:21:48",
+            "est.": "00:04:00",
             "Priority": "60"
         }
     ],
