@@ -6,48 +6,18 @@
             "Task_name": "stad_sh05_v24 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(15/127)",
+            "Progress": "14%",
+            "Tasks": "(19/127)",
             "Status": "Rendering (6)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "01:38:29",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_290_v003-/ob",
-            "Task_name": "QDY_290_v003 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(39/61)",
-            "Status": "Rendering (22)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_290_v003-/ob",
-            "Task_name": "QDY_290_v003 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(58/61)",
-            "Status": "Rendering (3)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "01:33:43",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "4%",
+            "Task_Progress": "10%",
             "Name": "WBC_100_v10-/out",
             "Task_name": "WBC_100_v10 - /out/vol",
             "User": "ushakova",
@@ -61,18 +31,18 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "100%",
-            "Name": "WBC_090_comp_v03",
-            "Task_name": "WBC_090_comp_v03.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "40%",
-            "Tasks": "(2/5)",
-            "Status": "Rendering (3)",
+            "Task_Progress": "0%",
+            "Name": "WBC_100_v10-/out",
+            "Task_name": "WBC_100_v10 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_090_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Render": "nebulaz",
+            "est.": "unknown",
+            "Priority": "60"
         }
     ],
     "CFI_DJV": [
@@ -98,12 +68,12 @@
             "Task_name": "BND_0070_v03 - /obj/lopnet1/main/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(27/53)",
+            "Progress": "75%",
+            "Tasks": "(40/53)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:07:12",
+            "est.": "00:02:55",
             "Priority": "60"
         }
     ]
