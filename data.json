@@ -1,47 +1,17 @@
 {
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Lighting_Sky_v27",
-            "Task_name": "Lighting_Sky_v27 - /out/Layout",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(45/60)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "Layout",
-            "est.": "00:08:42",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0040_v12-/ob",
-            "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0050/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(16/44)",
-            "Status": "Rendering (9)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:11:19",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "BND_0040_v12-/ob",
             "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0020/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(20/33)",
-            "Status": "Rendering (9)",
+            "Progress": "96%",
+            "Tasks": "(32/33)",
+            "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:02:37",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -50,12 +20,12 @@
             "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0060/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(18/34)",
-            "Status": "Rendering (8)",
+            "Progress": "82%",
+            "Tasks": "(28/34)",
+            "Status": "Rendering (6)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:06:04",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -64,12 +34,26 @@
             "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0030/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(17/31)",
-            "Status": "Rendering (9)",
+            "Progress": "64%",
+            "Tasks": "(20/31)",
+            "Status": "Rendering (11)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:04:30",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BND_0040_v12-/ob",
+            "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0050/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "59%",
+            "Tasks": "(26/44)",
+            "Status": "Rendering (14)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:01:33",
             "Priority": "60"
         }
     ],
@@ -87,6 +71,36 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "60%",
+            "Name": "WWC_010_comp_v09",
+            "Task_name": "WWC_010_comp_v09.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "25%",
+            "Tasks": "(1/4)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v09.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Lighting_Sky_v27",
+            "Task_name": "Lighting_Sky_v27 - /out/Layout",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "76%",
+            "Tasks": "(46/60)",
+            "Status": "Rendering (13)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "Layout",
+            "est.": "00:01:20",
+            "Priority": "60"
         }
     ]
 }
