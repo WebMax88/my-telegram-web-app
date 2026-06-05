@@ -2,16 +2,44 @@
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
+            "Name": "stad_sh05_v22-/s",
+            "Task_name": "stad_sh05_v22 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(3/127)",
+            "Status": "Rendering (54)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:03:16",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WWC_010_comp_v09",
             "Task_name": "WWC_010_comp_v09.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "34%",
-            "Tasks": "(9/26)",
-            "Status": "Rendering (3)",
+            "Progress": "46%",
+            "Tasks": "(12/26)",
+            "Status": "Rendering (4)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "WWC_010_comp_v09.nk",
-            "est.": "00:19:31",
+            "est.": "00:10:29",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "WWC_30_comp_v07.",
+            "Task_name": "WWC_30_comp_v07.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/226)",
+            "Status": "Rendering (12)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v07.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ],
@@ -27,22 +55,6 @@
             "Status": "Queued",
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_020_comp_v01",
-            "Task_name": "TST_020_comp_v01.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/31)",
-            "Status": "Rendering (4)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "TST_020_comp_v01.nk",
             "est.": "unknown",
             "Priority": "90"
         }
