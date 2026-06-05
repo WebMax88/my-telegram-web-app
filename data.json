@@ -1,14 +1,44 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v10-/out",
+            "Task_name": "WBC_100_v10 - /out/vol_light",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(82/83)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Lighting_Sky_v28",
+            "Task_name": "Lighting_Sky_v28 - /out/Lighting",
+            "User": "gridasov",
+            "Plugin": "Houdini",
+            "Progress": "88%",
+            "Tasks": "(62/70)",
+            "Status": "Rendering (8)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "Lighting",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WWC_HOLO_v71-/st",
             "Task_name": "WWC_HOLO_v71 - /stage/Shockwave/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(113/127)",
-            "Status": "Rendering (14)",
+            "Progress": "92%",
+            "Tasks": "(118/127)",
+            "Status": "Rendering (9)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -20,26 +50,12 @@
             "Task_name": "Lighting_Sky_v28 - /out/Chips",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(15/70)",
-            "Status": "Rendering (22)",
+            "Progress": "54%",
+            "Tasks": "(38/70)",
+            "Status": "Rendering (30)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Chips",
-            "est.": "00:03:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Lighting_Sky_v28",
-            "Task_name": "Lighting_Sky_v28 - /out/Lighting",
-            "User": "gridasov",
-            "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(13/70)",
-            "Status": "Rendering (19)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "Lighting",
-            "est.": "00:04:24",
+            "est.": "00:00:13",
             "Priority": "60"
         }
     ],
@@ -57,22 +73,6 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v10-/out",
-            "Task_name": "WBC_100_v10 - /out/vol_light",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(82/83)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
