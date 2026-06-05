@@ -1,32 +1,18 @@
 {
-    "WINLINE_WORLDCUP": [
+    "T2_INSTRUCTION": [
         {
             "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v09",
-            "Task_name": "WWC_010_comp_v09.nk",
-            "User": "lebedevich",
+            "Name": "T2_I_sborka_v03.",
+            "Task_name": "T2_I_sborka_v03.nk",
+            "User": "algol",
             "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(25/26)",
+            "Progress": "97%",
+            "Tasks": "(37/38)",
             "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v09.nk",
+            "Project": "T2_INSTRUCTION",
+            "Render": "T2_I_sborka_v03.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_v08-/stag",
-            "Task_name": "WWC_30_v08 - /stage/ground1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(222/226)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "CFI_DJV": [
@@ -45,20 +31,20 @@
             "Priority": "90"
         }
     ],
-    "T2_INSTRUCTION": [
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "T2_I_sborka_v03.",
-            "Task_name": "T2_I_sborka_v03.nk",
-            "User": "algol",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(37/38)",
+            "Name": "WWC_30_v08-/stag",
+            "Task_name": "WWC_30_v08 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(225/226)",
             "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "T2_I_sborka_v03.nk",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "60"
         }
     ]
 }
