@@ -1,50 +1,4 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v69-/st",
-            "Task_name": "WWC_HOLO_v69 - /stage/Leaves/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(66/127)",
-            "Status": "Rendering (19)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:03:45",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v69-/st",
-            "Task_name": "WWC_HOLO_v69 - /stage/Leaves1/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(48/127)",
-            "Status": "Rendering (19)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:06:36",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -52,9 +6,9 @@
             "Task_name": "WBC_090_v11 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(11/23)",
-            "Status": "Rendering (12)",
+            "Progress": "52%",
+            "Tasks": "(12/23)",
+            "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:00:01",
@@ -80,13 +34,59 @@
             "Task_name": "WBC_100_v10 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(77/83)",
-            "Status": "Rendering (6)",
+            "Progress": "96%",
+            "Tasks": "(80/83)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v69-/st",
+            "Task_name": "WWC_HOLO_v69 - /stage/Leaves1/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "80%",
+            "Tasks": "(102/127)",
+            "Status": "Rendering (25)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v69-/st",
+            "Task_name": "WWC_HOLO_v69 - /stage/Leaves/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "95%",
+            "Tasks": "(121/127)",
+            "Status": "Rendering (6)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
