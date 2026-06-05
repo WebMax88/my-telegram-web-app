@@ -15,36 +15,6 @@
             "Priority": "90"
         }
     ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_comp_v07.",
-            "Task_name": "WWC_30_comp_v07.nk",
-            "User": "raznov",
-            "Plugin": "Nuke",
-            "Progress": "26%",
-            "Tasks": "(42/159)",
-            "Status": "Rendering (30)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_30_comp_v07.nk",
-            "est.": "00:01:19",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v71-/st",
-            "Task_name": "WWC_HOLO_v71 - /stage/Shockwave/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(123/127)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -57,6 +27,22 @@
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v71-/st",
+            "Task_name": "WWC_HOLO_v71 - /stage/Shockwave/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "96%",
+            "Tasks": "(123/127)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
