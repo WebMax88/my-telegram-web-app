@@ -1,4 +1,20 @@
 {
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -22,9 +38,9 @@
             "Task_name": "Lighting_Sky_v28 - /out/Lighting",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(62/70)",
-            "Status": "Rendering (8)",
+            "Progress": "98%",
+            "Tasks": "(69/70)",
+            "Status": "Rendering (1)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Lighting",
             "est.": "00:00:01",
@@ -36,9 +52,9 @@
             "Task_name": "WWC_HOLO_v71 - /stage/Shockwave/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(118/127)",
-            "Status": "Rendering (9)",
+            "Progress": "93%",
+            "Tasks": "(119/127)",
+            "Status": "Rendering (8)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
@@ -50,29 +66,13 @@
             "Task_name": "Lighting_Sky_v28 - /out/Chips",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(38/70)",
-            "Status": "Rendering (30)",
+            "Progress": "92%",
+            "Tasks": "(65/70)",
+            "Status": "Rendering (5)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Chips",
-            "est.": "00:00:13",
+            "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ]
 }
