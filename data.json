@@ -1,50 +1,4 @@
 {
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v22-/s",
-            "Task_name": "stad_sh05_v22 - /stage/ground1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(123/127)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v09",
-            "Task_name": "WWC_010_comp_v09.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(23/26)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v09.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "0%",
-            "Name": "T2_I_sborka_v03.",
-            "Task_name": "T2_I_sborka_v03.nk",
-            "User": "algol",
-            "Plugin": "Nuke",
-            "Progress": "10%",
-            "Tasks": "(4/38)",
-            "Status": "Rendering (24)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "T2_I_sborka_v03.nk",
-            "est.": "00:00:03",
-            "Priority": "90"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -58,6 +12,52 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_010_comp_v09",
+            "Task_name": "WWC_010_comp_v09.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(25/26)",
+            "Status": "Rendering (1)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v09.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v22-/s",
+            "Task_name": "stad_sh05_v22 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(125/127)",
+            "Status": "Rendering (2)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "T2_INSTRUCTION": [
+        {
+            "Task_Progress": "40%",
+            "Name": "T2_I_sborka_v03.",
+            "Task_name": "T2_I_sborka_v03.nk",
+            "User": "algol",
+            "Plugin": "Nuke",
+            "Progress": "2%",
+            "Tasks": "(1/38)",
+            "Status": "Rendering (26)",
+            "Project": "T2_INSTRUCTION",
+            "Render": "T2_I_sborka_v03.nk",
+            "est.": "00:03:15",
             "Priority": "90"
         }
     ]
