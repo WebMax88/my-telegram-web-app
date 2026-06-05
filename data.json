@@ -1,21 +1,35 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v10-/out",
-            "Task_name": "WBC_100_v10 - /out/vol_light",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(82/83)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "00:00:01",
-            "Priority": "60"
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ],
     "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_comp_v07.",
+            "Task_name": "WWC_30_comp_v07.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "26%",
+            "Tasks": "(42/159)",
+            "Status": "Rendering (30)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v07.nk",
+            "est.": "00:01:19",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WWC_HOLO_v71-/st",
@@ -31,20 +45,20 @@
             "Priority": "60"
         }
     ],
-    "CFI_DJV": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
+            "Name": "WBC_100_v10-/out",
+            "Task_name": "WBC_100_v10 - /out/vol_light",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "98%",
+            "Tasks": "(82/83)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
