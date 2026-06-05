@@ -1,4 +1,20 @@
 {
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -6,12 +22,12 @@
             "Task_name": "WWC_30_v08 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(84/226)",
-            "Status": "Rendering (38)",
+            "Progress": "74%",
+            "Tasks": "(169/226)",
+            "Status": "Rendering (51)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:05:10",
+            "est.": "00:00:16",
             "Priority": "60"
         },
         {
@@ -20,26 +36,12 @@
             "Task_name": "WWC_30_comp_v07.nk",
             "User": "raznov",
             "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(69/70)",
-            "Status": "Rendering (1)",
+            "Progress": "99%",
+            "Tasks": "(224/226)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "WWC_30_comp_v07.nk",
             "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_comp_v07.",
-            "Task_name": "WWC_30_comp_v07.nk",
-            "User": "raznov",
-            "Plugin": "Nuke",
-            "Progress": "42%",
-            "Tasks": "(95/226)",
-            "Status": "Rendering (25)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_30_comp_v07.nk",
-            "est.": "00:03:53",
             "Priority": "90"
         },
         {
@@ -57,38 +59,6 @@
             "Priority": "90"
         }
     ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "T2_INSTRUCTION": [
-        {
-            "Task_Progress": "100%",
-            "Name": "T2_I_sborka_v03.",
-            "Task_name": "T2_I_sborka_v03.nk",
-            "User": "algol",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(37/38)",
-            "Status": "Rendering (1)",
-            "Project": "T2_INSTRUCTION",
-            "Render": "T2_I_sborka_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
@@ -96,9 +66,9 @@
             "Task_name": "BND_0070_v02 - /obj/lopnet1/main/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(51/53)",
-            "Status": "Rendering (2)",
+            "Progress": "98%",
+            "Tasks": "(52/53)",
+            "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
