@@ -1,4 +1,20 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_comp_v10",
+            "Task_name": "WBC_100_comp_v10.nk",
+            "User": "savvin",
+            "Plugin": "Nuke",
+            "Progress": "94%",
+            "Tasks": "(16/17)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_v10.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -12,22 +28,6 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "40%",
-            "Name": "WBC_100_comp_v10",
-            "Task_name": "WBC_100_comp_v10.nk",
-            "User": "savvin",
-            "Plugin": "Nuke",
-            "Progress": "35%",
-            "Tasks": "(6/17)",
-            "Status": "Rendering (11)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_v10.nk",
-            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
