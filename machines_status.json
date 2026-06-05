@@ -10,12 +10,12 @@
         "user": "--- MacStudio"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws43",
         "user": "Erik Baymukashev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws44",
         "user": "for freelancers"
     },
@@ -40,12 +40,12 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -60,12 +60,12 @@
         "user": "Alexander Shashkov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws53",
         "user": "Paul Khozhaev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -80,12 +80,12 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws58",
         "user": "Alexandra Ushakova"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
@@ -170,17 +170,17 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS153",
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws155",
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -215,7 +215,7 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
@@ -260,7 +260,7 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
