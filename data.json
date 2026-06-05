@@ -6,12 +6,12 @@
             "Task_name": "Packshot_v14 - /stage/Ligthing_Reflection_start/usdrender_rop",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(36/100)",
-            "Status": "Rendering (9)",
+            "Progress": "87%",
+            "Tasks": "(87/100)",
+            "Status": "Rendering (5)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:03:36",
+            "est.": "00:00:56",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "Packshot_v14 - /stage/Ligthing_Phone_start/usdrender_rop",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(40/100)",
-            "Status": "Rendering (10)",
+            "Progress": "89%",
+            "Tasks": "(89/100)",
+            "Status": "Rendering (6)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:03:27",
+            "est.": "00:00:26",
             "Priority": "60"
         }
     ],
@@ -47,17 +47,17 @@
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "28%",
+            "Task_Progress": "38%",
             "Name": "WBC_100_v09-/out",
             "Task_name": "WBC_100_v09 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(18/83)",
-            "Status": "Rendering (14)",
+            "Progress": "22%",
+            "Tasks": "(19/83)",
+            "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:59:45",
+            "est.": "01:05:03",
             "Priority": "60"
         },
         {
