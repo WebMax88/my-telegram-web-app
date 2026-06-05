@@ -1,4 +1,20 @@
 {
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -6,12 +22,12 @@
             "Task_name": "WBC_100_v10 - /out/vol_laser",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(39/83)",
-            "Status": "Rendering (26)",
+            "Progress": "56%",
+            "Tasks": "(47/83)",
+            "Status": "Rendering (29)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "00:04:05",
+            "est.": "00:01:25",
             "Priority": "60"
         },
         {
@@ -36,29 +52,13 @@
             "Task_name": "WWC_HOLO_v71 - /stage/Shockwave/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(105/127)",
-            "Status": "Rendering (22)",
+            "Progress": "85%",
+            "Tasks": "(108/127)",
+            "Status": "Rendering (19)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
         }
     ]
 }
