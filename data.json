@@ -1,34 +1,4 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0040_v14-/ob",
-            "Task_name": "BND_0040_v14 - /obj/lopnet1/BND_0050/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0070_v03-/ob",
-            "Task_name": "BND_0070_v03 - /obj/lopnet1/main/usdrender_rop",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(19/53)",
-            "Status": "Rendering (11)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:03:27",
-            "Priority": "60"
-        }
-    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "0%",
@@ -36,13 +6,59 @@
             "Task_name": "Qiddiya_Landscape_comp_v07.nk",
             "User": "pavlyuchenkov",
             "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/34)",
-            "Status": "Rendering (18)",
+            "Progress": "41%",
+            "Tasks": "(14/34)",
+            "Status": "Rendering (15)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "Qiddiya_Landscape_comp_v07.nk",
+            "est.": "00:00:13",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_comp_v10.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "68%",
+            "Tasks": "(17/25)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Professional_Court_comp_v10.nk",
+            "est.": "00:00:07",
+            "Priority": "90"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "BND_0070_v03-/ob",
+            "Task_name": "BND_0070_v03 - /obj/lopnet1/main/usdrender_rop",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/53)",
+            "Status": "Rendering (3)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
@@ -63,33 +79,31 @@
     ],
     "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "56%",
-            "Name": "stad_sh05_v23-/s",
-            "Task_name": "stad_sh05_v23 - /stage/volum_spots/usdrender_rop",
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v24-/s",
+            "Task_name": "stad_sh05_v24 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(124/127)",
-            "Status": "Rendering (3)",
+            "Progress": "2%",
+            "Tasks": "(3/127)",
+            "Status": "Rendering (8)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "01:05:05",
             "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
+        },
         {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
+            "Task_Progress": "0%",
+            "Name": "WWC_30_comp_v07.",
+            "Task_name": "WWC_30_comp_v07.nk",
+            "User": "raznov",
             "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
+            "Progress": "2%",
+            "Tasks": "(3/117)",
+            "Status": "Rendering (21)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v07.nk",
+            "est.": "00:02:56",
             "Priority": "90"
         }
     ]
