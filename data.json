@@ -2,49 +2,17 @@
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "BND_0040_v12-/ob",
-            "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0030/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(30/31)",
+            "Name": "BND_0070_comp_v0",
+            "Task_name": "BND_0070_comp_v01.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "90%",
+            "Tasks": "(10/11)",
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_290_comp_v02",
-            "Task_name": "QDY_290_comp_v02.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(24/25)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_290_comp_v02.nk",
+            "Render": "BND_0070_comp_v01.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v51-/ou",
-            "Task_name": "WWC_HOLO_v51 - /out/runes",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(118/127)",
-            "Status": "Rendering (9)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "runes",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "CFI_DJV": [
