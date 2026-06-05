@@ -1,21 +1,79 @@
 {
-    "CFI_DJV": [
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
+            "Name": "BND_0040_v12-/ob",
+            "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0040/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "75%",
+            "Tasks": "(31/41)",
+            "Status": "Rendering (10)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BND_0040_v12-/ob",
+            "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0010/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "39%",
+            "Tasks": "(13/33)",
+            "Status": "Rendering (10)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:05:19",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_w_7sec_b",
+            "Task_name": "TST_010_w_7sec_ball_v061 - /out/main",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "8%",
+            "Tasks": "(4/50)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "main",
+            "est.": "00:05:17",
+            "Priority": "60"
         }
     ],
     "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_010_comp_v09",
+            "Task_name": "WWC_010_comp_v09.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "15%",
+            "Tasks": "(4/26)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v09.nk",
+            "est.": "00:26:31",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v51-/ou",
+            "Task_name": "WWC_HOLO_v51 - /out/runes",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "37%",
+            "Tasks": "(48/127)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "runes",
+            "est.": "00:17:53",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "Lighting_Sky_v27",
@@ -36,71 +94,29 @@
             "Task_name": "Lighting_Sky_v27 - /out/Layout",
             "User": "gridasov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(23/60)",
-            "Status": "Rendering (9)",
+            "Progress": "40%",
+            "Tasks": "(24/60)",
+            "Status": "Rendering (10)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "Layout",
-            "est.": "00:50:23",
+            "est.": "00:42:09",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v51-/ou",
-            "Task_name": "WWC_HOLO_v51 - /out/runes",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(45/127)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "runes",
-            "est.": "00:17:40",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v09",
-            "Task_name": "WWC_010_comp_v09.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "7%",
-            "Tasks": "(2/26)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v09.nk",
-            "est.": "00:30:17",
-            "Priority": "90"
         }
     ],
-    "AUTODESK_PRLM": [
+    "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "BND_0040_v12-/ob",
-            "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0040/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(27/41)",
-            "Status": "Rendering (11)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:01:24",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0040_v12-/ob",
-            "Task_name": "BND_0040_v12 - /obj/lopnet1/BND_0010/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(9/33)",
-            "Status": "Rendering (10)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:07:43",
-            "Priority": "60"
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
