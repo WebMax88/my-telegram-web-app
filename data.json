@@ -1,63 +1,33 @@
 {
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Packshot_v16-/st",
-            "Task_name": "Packshot_v16 - /stage/Phone_main/usdrender_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(123/152)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:07:21",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v56-/st",
-            "Task_name": "WWC_HOLO_v56 - /stage/Leaves/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(55/127)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:07:51",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v56-/st",
-            "Task_name": "WWC_HOLO_v56 - /stage/Leaves1/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(51/127)",
-            "Status": "Rendering (9)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:09:33",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v10",
-            "Task_name": "WWC_010_comp_v10.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "30%",
-            "Tasks": "(8/26)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v10.nk",
-            "est.": "00:10:32",
-            "Priority": "90"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v10-/out",
+            "Task_name": "WBC_100_v10 - /out/vol_light",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(73/83)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "00:01:08",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "56%",
+            "Name": "WBC_100_v10-/out",
+            "Task_name": "WBC_100_v10 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(4/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "01:54:00",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v10-/out",
@@ -70,50 +40,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
             "est.": "00:41:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v10-/out",
-            "Task_name": "WBC_100_v10 - /out/vol_light",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(69/83)",
-            "Status": "Rendering (8)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "00:03:25",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "41%",
-            "Name": "WBC_100_v10-/out",
-            "Task_name": "WBC_100_v10 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(4/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "01:54:00",
-            "Priority": "60"
-        }
-    ],
-    "NIKE_KNICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v002-/ob",
-            "Task_name": "TST_010_v002 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(74/100)",
-            "Status": "Rendering (8)",
-            "Project": "NIKE_KNICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:05:11",
             "Priority": "60"
         }
     ],
@@ -131,6 +57,80 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Packshot_v16-/st",
+            "Task_name": "Packshot_v16 - /stage/Phone_main/usdrender_rop",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "86%",
+            "Tasks": "(132/152)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:08:57",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v56-/st",
+            "Task_name": "WWC_HOLO_v56 - /stage/Leaves/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "65%",
+            "Tasks": "(83/127)",
+            "Status": "Rendering (7)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:06:22",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v56-/st",
+            "Task_name": "WWC_HOLO_v56 - /stage/Leaves1/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(74/127)",
+            "Status": "Rendering (9)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:06:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_010_comp_v10",
+            "Task_name": "WWC_010_comp_v10.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "38%",
+            "Tasks": "(10/26)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v10.nk",
+            "est.": "00:12:02",
+            "Priority": "90"
+        }
+    ],
+    "NIKE_KNICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_v002-/ob",
+            "Task_name": "TST_010_v002 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "86%",
+            "Tasks": "(86/100)",
+            "Status": "Rendering (8)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:01:44",
+            "Priority": "60"
         }
     ]
 }
