@@ -1,83 +1,35 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_290_comp_v03",
-            "Task_name": "QDY_290_comp_v03.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(24/25)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_290_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Packshot_v16-/st",
-            "Task_name": "Packshot_v16 - /stage/Phone_main/usdrender_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(96/152)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:15:08",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v54-/st",
-            "Task_name": "WWC_HOLO_v54 - /stage/Leaves/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(70/127)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:07:44",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "60%",
-            "Name": "WWC_010_comp_v10",
-            "Task_name": "WWC_010_comp_v10.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/26)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v10.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "NIKE_KNICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_v002-/ob",
-            "Task_name": "TST_010_v002 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(36/100)",
-            "Status": "Rendering (9)",
-            "Project": "NIKE_KNICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:14:00",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "3%",
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v10-/out",
+            "Task_name": "WBC_100_v10 - /out/vol_light",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "71%",
+            "Tasks": "(59/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "00:10:56",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v10-/out",
+            "Task_name": "WBC_100_v10 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(5/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:54:55",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "12%",
             "Name": "WBC_100_v10-/out",
             "Task_name": "WBC_100_v10 - /out/vol",
             "User": "ushakova",
@@ -89,33 +41,95 @@
             "Render": "vol",
             "est.": "unknown",
             "Priority": "60"
-        },
+        }
+    ],
+    "XFINITY_ZOMBIE_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v10-/out",
-            "Task_name": "WBC_100_v10 - /out/vol_light",
-            "User": "ushakova",
+            "Name": "XFC_030_v04-/out",
+            "Task_name": "XFC_030_v04 - /out/Paper",
+            "User": "hozhaev",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(53/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "00:14:15",
+            "Progress": "34%",
+            "Tasks": "(9/26)",
+            "Status": "Rendering (5)",
+            "Project": "XFINITY_ZOMBIE_PRLM",
+            "Render": "Paper",
+            "est.": "00:02:43",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "0%",
+            "Name": "WWC_HOLO_v56-/st",
+            "Task_name": "WWC_HOLO_v56 - /stage/Leaves1/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(3/127)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:35:55",
             "Priority": "60"
         },
         {
-            "Task_Progress": "87%",
-            "Name": "WBC_100_v10-/out",
-            "Task_name": "WBC_100_v10 - /out/nebulaz",
-            "User": "ushakova",
+            "Task_Progress": "0%",
+            "Name": "WWC_HOLO_v56-/st",
+            "Task_name": "WWC_HOLO_v56 - /stage/Leaves/usdrender_rop",
+            "User": "dmakarov",
             "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(3/127)",
+            "Status": "Rendering (8)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:17:45",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "20%",
+            "Name": "WWC_010_comp_v10",
+            "Task_name": "WWC_010_comp_v10.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
             "Progress": "0%",
-            "Tasks": "(0/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
+            "Tasks": "(0/26)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v10.nk",
             "est.": "unknown",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Packshot_v16-/st",
+            "Task_name": "Packshot_v16 - /stage/Phone_main/usdrender_rop",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "67%",
+            "Tasks": "(103/152)",
+            "Status": "Rendering (7)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:13:25",
+            "Priority": "60"
+        }
+    ],
+    "NIKE_KNICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_v002-/ob",
+            "Task_name": "TST_010_v002 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "49%",
+            "Tasks": "(49/100)",
+            "Status": "Rendering (7)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:14:30",
             "Priority": "60"
         }
     ],
@@ -132,6 +146,22 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_110_transiti",
+            "Task_name": "QDY_110_transition_v01.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "33%",
+            "Tasks": "(7/21)",
+            "Status": "Rendering (8)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_110_transition_v01.nk",
+            "est.": "00:00:13",
             "Priority": "90"
         }
     ]
