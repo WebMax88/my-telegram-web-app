@@ -6,43 +6,29 @@
             "Task_name": "stad_sh05_v24 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(10/127)",
+            "Progress": "11%",
+            "Tasks": "(15/127)",
             "Status": "Rendering (6)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "01:45:11",
+            "est.": "01:38:29",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_comp_v07.",
-            "Task_name": "WWC_30_comp_v07.nk",
-            "User": "raznov",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(114/117)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_30_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "60%",
-            "Name": "Qiddiya_Landscap",
-            "Task_name": "Qiddiya_Landscape_comp_v07.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(32/34)",
-            "Status": "Rendering (2)",
+            "Task_Progress": "100%",
+            "Name": "QDY_290_v003-/ob",
+            "Task_name": "QDY_290_v003 - /obj/lopnet1/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "63%",
+            "Tasks": "(39/61)",
+            "Status": "Rendering (22)",
             "Project": "QIDDIYA_CHARLY",
-            "Render": "Qiddiya_Landscape_comp_v07.nk",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "90"
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -50,26 +36,12 @@
             "Task_name": "QDY_290_v003 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(27/61)",
-            "Status": "Rendering (14)",
+            "Progress": "95%",
+            "Tasks": "(58/61)",
+            "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:03:47",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "QDY_290_v003-/ob",
-            "Task_name": "QDY_290_v003 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/61)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -101,20 +73,6 @@
             "Render": "WBC_090_comp_v03.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_comp_v13",
-            "Task_name": "WBC_100_comp_v13.nk",
-            "User": "savvin",
-            "Plugin": "Nuke",
-            "Progress": "52%",
-            "Tasks": "(9/17)",
-            "Status": "Rendering (8)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "CFI_DJV": [
@@ -140,12 +98,12 @@
             "Task_name": "BND_0070_v03 - /obj/lopnet1/main/usdrender_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(10/53)",
+            "Progress": "50%",
+            "Tasks": "(27/53)",
             "Status": "Rendering (5)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:11:49",
+            "est.": "00:07:12",
             "Priority": "60"
         }
     ]
