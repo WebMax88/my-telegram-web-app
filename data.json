@@ -1,17 +1,17 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_comp_v11",
-            "Task_name": "WBC_100_comp_v11.nk",
-            "User": "savvin",
+            "Task_Progress": "60%",
+            "Name": "WWC_010_comp_v09",
+            "Task_name": "WWC_010_comp_v09.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(16/17)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_v11.nk",
-            "est.": "00:00:01",
+            "Progress": "0%",
+            "Tasks": "(0/26)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v09.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ],
