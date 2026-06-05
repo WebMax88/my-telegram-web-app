@@ -1,4 +1,20 @@
 {
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "20%",
+            "Name": "TST_020_comp_v01",
+            "Task_name": "TST_020_comp_v01.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "77%",
+            "Tasks": "(24/31)",
+            "Status": "Rendering (7)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "TST_020_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
