@@ -30,5 +30,21 @@
             "est.": "unknown",
             "Priority": "90"
         }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_comp_v07.",
+            "Task_name": "WWC_30_comp_v07.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "41%",
+            "Tasks": "(116/278)",
+            "Status": "Rendering (22)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v07.nk",
+            "est.": "00:01:50",
+            "Priority": "90"
+        }
     ]
 }
