@@ -1,4 +1,36 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Open_Sea_Flag_v3",
+            "Task_name": "Open_Sea_Flag_v36 - /out/flag",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(118/121)",
+            "Status": "Rendering (2)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "flag",
+            "est.": "00:00:56",
+            "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_comp_v12",
+            "Task_name": "TST_050_comp_v12.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "63%",
+            "Tasks": "(12/19)",
+            "Status": "Rendering (7)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_050_comp_v12.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -6,12 +38,12 @@
             "Task_name": "stad_sh05_v27 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(88/127)",
+            "Progress": "80%",
+            "Tasks": "(102/127)",
             "Status": "Rendering (13)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:15:57",
+            "est.": "00:06:55",
             "Priority": "60"
         }
     ],
@@ -28,52 +60,6 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_050_comp_v12",
-            "Task_name": "TST_050_comp_v12.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/35)",
-            "Status": "Rendering (5)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_v12.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "Open_Sea_Flag_v3",
-            "Task_name": "Open_Sea_Flag_v36 - /out/flag",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/121)",
-            "Status": "Rendering (53)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "flag",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_110_comp_v02",
-            "Task_name": "QDY_110_comp_v02.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "23%",
-            "Tasks": "(4/17)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_110_comp_v02.nk",
-            "est.": "00:00:19",
             "Priority": "90"
         }
     ]
