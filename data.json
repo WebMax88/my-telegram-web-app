@@ -1,17 +1,33 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Qiddiya_Landscap",
+            "Task_name": "Qiddiya_Landscape_comp_v08.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "26%",
+            "Tasks": "(9/34)",
+            "Status": "Rendering (25)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Qiddiya_Landscape_comp_v08.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "100%",
             "Name": "WWC_30_comp_v08.",
             "Task_name": "WWC_30_comp_v08.nk",
             "User": "raznov",
             "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/226)",
-            "Status": "Rendering (12)",
+            "Progress": "98%",
+            "Tasks": "(222/226)",
+            "Status": "Rendering (4)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "WWC_30_comp_v08.nk",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
