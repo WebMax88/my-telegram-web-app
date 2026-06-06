@@ -1,20 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Open_Sea_Flag_v3",
-            "Task_name": "Open_Sea_Flag_v35 - /out/flag",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(27/121)",
-            "Status": "Rendering (15)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "flag",
-            "est.": "00:07:42",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "stad_sh05_v27 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(65/127)",
+            "Progress": "52%",
+            "Tasks": "(67/127)",
             "Status": "Rendering (13)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:31:03",
+            "est.": "00:29:37",
             "Priority": "60"
         }
     ],
@@ -45,6 +29,22 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Open_Sea_Flag_v3",
+            "Task_name": "Open_Sea_Flag_v35 - /out/flag",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(56/121)",
+            "Status": "Rendering (16)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "flag",
+            "est.": "00:04:47",
+            "Priority": "60"
         }
     ]
 }
