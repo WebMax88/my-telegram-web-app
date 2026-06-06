@@ -1,30 +1,30 @@
 {
     "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "76%",
+            "Task_Progress": "81%",
             "Name": "stad_sh05_v26-/s",
             "Task_name": "stad_sh05_v26 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(75/127)",
+            "Progress": "63%",
+            "Tasks": "(81/127)",
             "Status": "Rendering (14)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:23:21",
+            "est.": "00:19:27",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "60%",
+            "Task_Progress": "100%",
             "Name": "WBC_100_comp_v14",
             "Task_name": "WBC_100_comp_v14.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "11%",
-            "Tasks": "(2/17)",
-            "Status": "Rendering (15)",
+            "Progress": "88%",
+            "Tasks": "(15/17)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_100_comp_v14.nk",
             "est.": "00:00:01",
