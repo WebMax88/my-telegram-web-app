@@ -145,12 +145,12 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws149",
         "user": "Alexander Korsun"
     },
@@ -170,7 +170,7 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS153",
         "user": "---"
     },
@@ -180,7 +180,7 @@
         "user": "???????? Vova Syslov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
