@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "72%",
+            "Task_Progress": "100%",
             "Name": "WBC_100_v11-/out",
             "Task_name": "WBC_100_v11 - /out/vol_laser",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(21/83)",
-            "Status": "Rendering (35)",
+            "Progress": "63%",
+            "Tasks": "(53/83)",
+            "Status": "Rendering (30)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "00:03:19",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
