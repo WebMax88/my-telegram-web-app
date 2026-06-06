@@ -1,23 +1,7 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
-            "Task_Progress": "58%",
+            "Task_Progress": "62%",
             "Name": "stad_sh05_v26-/s",
             "Task_name": "stad_sh05_v26 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
@@ -31,19 +15,19 @@
             "Priority": "60"
         }
     ],
-    "WBW_KRYPTO_DEJAVU": [
+    "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_comp_v14",
-            "Task_name": "WBC_100_comp_v14.nk",
-            "User": "stavile",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(16/17)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_v14.nk",
-            "est.": "00:00:01",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
