@@ -1,21 +1,19 @@
 {
-    "CFI_DJV": [
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
+            "Name": "WWC_010_comp_v11",
+            "Task_name": "WWC_010_comp_v11.nk",
+            "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
+            "Progress": "92%",
+            "Tasks": "(24/26)",
+            "Status": "Rendering (2)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v11.nk",
+            "est.": "00:00:01",
             "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "WWC_010_comp_v11",
@@ -29,19 +27,21 @@
             "Render": "WWC_010_comp_v11.nk",
             "est.": "00:00:01",
             "Priority": "90"
-        },
+        }
+    ],
+    "CFI_DJV": [
         {
             "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v11",
-            "Task_name": "WWC_010_comp_v11.nk",
-            "User": "lebedevich",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(23/26)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v11.nk",
-            "est.": "00:00:01",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
