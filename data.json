@@ -1,20 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_370_Ball_v02",
-            "Task_name": "QDY_370_Ball_v02 - /out/Ball",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(35/73)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Ball",
-            "est.": "00:06:06",
-            "Priority": "60"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "stad_sh05_v27 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(27/127)",
+            "Progress": "24%",
+            "Tasks": "(31/127)",
             "Status": "Rendering (7)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "01:14:05",
+            "est.": "01:11:47",
             "Priority": "60"
         }
     ],
@@ -45,6 +29,22 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_370_Ball_v02",
+            "Task_name": "QDY_370_Ball_v02 - /out/Ball",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "82%",
+            "Tasks": "(60/73)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Ball",
+            "est.": "00:01:23",
+            "Priority": "60"
         }
     ]
 }
