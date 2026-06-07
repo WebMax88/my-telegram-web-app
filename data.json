@@ -1,17 +1,31 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "87%",
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v11-/out",
+            "Task_name": "WBC_060_v11 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "20%",
+            "Tasks": "(32/155)",
+            "Status": "Rendering (12)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:51:05",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_060_v11-/out",
             "Task_name": "WBC_060_v11 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(5/155)",
+            "Progress": "7%",
+            "Tasks": "(11/155)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "02:03:10",
+            "est.": "02:35:31",
             "Priority": "60"
         },
         {
@@ -20,26 +34,12 @@
             "Task_name": "WBC_060_v11 - /out/vol_light",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(33/155)",
+            "Progress": "28%",
+            "Tasks": "(44/155)",
             "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "00:36:49",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v11-/out",
-            "Task_name": "WBC_060_v11 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(22/155)",
-            "Status": "Rendering (12)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:47:15",
+            "est.": "00:34:22",
             "Priority": "60"
         }
     ],
