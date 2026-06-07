@@ -13,6 +13,20 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_comp_v08.",
+            "Task_name": "WWC_30_comp_v08.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "46%",
+            "Tasks": "(61/131)",
+            "Status": "Rendering (29)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v08.nk",
+            "est.": "00:00:27",
+            "Priority": "90"
         }
     ],
     "CFI_DJV": [
