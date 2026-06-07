@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "40%",
             "Tasks": "(34/83)",
-            "Status": "Rendering (17)",
+            "Status": "Rendering (18)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:08:21",
+            "est.": "01:02:32",
             "Priority": "60"
         },
         {
@@ -20,13 +20,29 @@
             "Task_name": "WBC_090_v14 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(1/23)",
+            "Progress": "8%",
+            "Tasks": "(2/23)",
             "Status": "Rendering (17)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:17:29",
+            "est.": "00:14:17",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_comp_v08.",
+            "Task_name": "WWC_30_comp_v08.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "22%",
+            "Tasks": "(63/278)",
+            "Status": "Rendering (24)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v08.nk",
+            "est.": "00:02:21",
+            "Priority": "90"
         }
     ],
     "CFI_DJV": [
@@ -52,12 +68,12 @@
             "Task_name": "QDY_140_comp_v05.nk",
             "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "13%",
-            "Tasks": "(3/23)",
-            "Status": "Rendering (11)",
+            "Progress": "95%",
+            "Tasks": "(22/23)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "QDY_140_comp_v05.nk",
-            "est.": "00:01:40",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
