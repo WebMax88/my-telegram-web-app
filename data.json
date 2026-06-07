@@ -1,34 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_090_v14-/out",
-            "Task_name": "WBC_090_v14 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(10/23)",
-            "Status": "Rendering (13)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v12-/out",
-            "Task_name": "WBC_100_v12 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(52/83)",
-            "Status": "Rendering (13)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:54:42",
-            "Priority": "60"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -45,33 +15,63 @@
             "Priority": "90"
         }
     ],
-    "NIKE_KNICKS_PRLM": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "KAT_100_v002-/ob",
-            "Task_name": "KAT_100_v002 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
+            "Name": "WBC_100_v12-/out",
+            "Task_name": "WBC_100_v12 - /out/vol",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(13/137)",
-            "Status": "Rendering (9)",
-            "Project": "NIKE_KNICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:26:32",
+            "Progress": "66%",
+            "Tasks": "(55/83)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "01:01:03",
             "Priority": "60"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_090_v14-/out",
+            "Task_name": "WBC_090_v14 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "47%",
+            "Tasks": "(11/23)",
+            "Status": "Rendering (12)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "NIKE_KNICKS_PRLM": [
         {
             "Task_Progress": "100%",
             "Name": "KAT_100_v002-/ob",
             "Task_name": "KAT_100_v002 - /obj/lopnet1/shadow/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(25/137)",
+            "Progress": "29%",
+            "Tasks": "(41/137)",
+            "Status": "Rendering (10)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:26:35",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "KAT_100_v002-/ob",
+            "Task_name": "KAT_100_v002 - /obj/lopnet1/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(38/137)",
             "Status": "Rendering (9)",
             "Project": "NIKE_KNICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:34:55",
+            "est.": "00:19:53",
             "Priority": "60"
         },
         {
@@ -80,12 +80,12 @@
             "Task_name": "KAT_100_v002 - /obj/lopnet1/for_ai/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(27/137)",
-            "Status": "Rendering (9)",
+            "Progress": "46%",
+            "Tasks": "(64/137)",
+            "Status": "Rendering (10)",
             "Project": "NIKE_KNICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:14:53",
+            "est.": "00:08:33",
             "Priority": "60"
         }
     ],
@@ -96,9 +96,9 @@
             "Task_name": "WWC_010_comp_v13.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "92%",
-            "Tasks": "(24/26)",
-            "Status": "Rendering (2)",
+            "Progress": "96%",
+            "Tasks": "(25/26)",
+            "Status": "Rendering (1)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "WWC_010_comp_v13.nk",
             "est.": "00:00:01",
