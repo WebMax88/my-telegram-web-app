@@ -2,30 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v12-/out",
-            "Task_name": "WBC_100_v12 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(83/83)",
-            "Status": "Completed",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:00:00",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_100_v11-/out",
             "Task_name": "WBC_100_v11 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(48/83)",
-            "Status": "Rendering (21)",
+            "Progress": "60%",
+            "Tasks": "(50/83)",
+            "Status": "Rendering (22)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:23:21",
+            "est.": "00:17:45",
             "Priority": "60"
         },
         {
@@ -46,30 +32,16 @@
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v75-/st",
-            "Task_name": "WWC_HOLO_v75 - /stage/debrisBG/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/127)",
-            "Status": "Rendering (20)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
             "Name": "WWC_HOLO_v76-/st",
             "Task_name": "WWC_HOLO_v76 - /stage/debrisFG/usdrender_rop",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/127)",
-            "Status": "Rendering (4)",
+            "Progress": "28%",
+            "Tasks": "(36/127)",
+            "Status": "Rendering (23)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:03:54",
             "Priority": "60"
         }
     ],
