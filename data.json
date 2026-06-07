@@ -1,7 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "8%",
+            "Task_Progress": "19%",
             "Name": "WBC_090_v14-/out",
             "Task_name": "WBC_090_v14 - /out/nebulaz",
             "User": "ushakova",
@@ -15,32 +15,18 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "3%",
+            "Task_Progress": "7%",
             "Name": "WBC_090_v14-/out",
             "Task_name": "WBC_090_v14 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "3%",
+            "Progress": "7%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
             "est.": "unknown",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v17.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(15/17)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v17.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "CFI_DJV": [
