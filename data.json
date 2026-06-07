@@ -1,23 +1,7 @@
 {
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "8%",
             "Name": "WBC_090_v14-/out",
             "Task_name": "WBC_090_v14 - /out/nebulaz",
             "User": "ushakova",
@@ -31,17 +15,47 @@
             "Priority": "60"
         },
         {
+            "Task_Progress": "3%",
+            "Name": "WBC_090_v14-/out",
+            "Task_name": "WBC_090_v14 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
             "Task_Progress": "100%",
             "Name": "WBC_100_comp_sta",
             "Task_name": "WBC_100_comp_stavile_v17.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "64%",
-            "Tasks": "(11/17)",
-            "Status": "Rendering (6)",
+            "Progress": "88%",
+            "Tasks": "(15/17)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_100_comp_stavile_v17.nk",
             "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
