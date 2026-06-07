@@ -1,21 +1,19 @@
 {
-    "WINLINE_WORLDCUP": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v73-/st",
-            "Task_name": "WWC_HOLO_v73 - /stage/debrisBG/usdrender_rop",
-            "User": "dmakarov",
+            "Name": "WBC_100_v11-/out",
+            "Task_name": "WBC_100_v11 - /out/vol",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(2/21)",
-            "Status": "Rendering (4)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:06:36",
-            "Priority": "75"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
+            "Progress": "30%",
+            "Tasks": "(25/83)",
+            "Status": "Rendering (13)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "02:02:29",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_090_v12-/out",
@@ -28,20 +26,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:14:33",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v11-/out",
-            "Task_name": "WBC_100_v11 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(23/83)",
-            "Status": "Rendering (15)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "01:46:17",
             "Priority": "60"
         }
     ],
@@ -59,6 +43,22 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v73-/st",
+            "Task_name": "WWC_HOLO_v73 - /stage/debrisBG/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "42%",
+            "Tasks": "(9/21)",
+            "Status": "Rendering (5)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:02:04",
+            "Priority": "75"
         }
     ]
 }
