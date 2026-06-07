@@ -6,12 +6,12 @@
             "Task_name": "WBC_100_v11 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(25/83)",
-            "Status": "Rendering (13)",
+            "Progress": "33%",
+            "Tasks": "(28/83)",
+            "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "02:02:29",
+            "est.": "02:33:58",
             "Priority": "60"
         },
         {
@@ -29,6 +29,22 @@
             "Priority": "60"
         }
     ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v73-/st",
+            "Task_name": "WWC_HOLO_v73 - /stage/debrisBG/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "57%",
+            "Tasks": "(12/21)",
+            "Status": "Rendering (9)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "75"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -43,22 +59,6 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_HOLO_v73-/st",
-            "Task_name": "WWC_HOLO_v73 - /stage/debrisBG/usdrender_rop",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(9/21)",
-            "Status": "Rendering (5)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:02:04",
-            "Priority": "75"
         }
     ]
 }
