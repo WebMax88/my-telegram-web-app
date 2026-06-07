@@ -1,48 +1,48 @@
 {
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v73-/st",
+            "Task_name": "WWC_HOLO_v73 - /stage/debrisBG/usdrender_rop",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(2/21)",
+            "Status": "Rendering (4)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:06:36",
+            "Priority": "75"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_090_v12-/out",
+            "Task_name": "WBC_090_v12 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "17%",
+            "Tasks": "(4/23)",
+            "Status": "Rendering (16)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:14:33",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v11-/out",
             "Task_name": "WBC_100_v11 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(21/83)",
-            "Status": "Rendering (17)",
+            "Progress": "27%",
+            "Tasks": "(23/83)",
+            "Status": "Rendering (15)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:34:13",
+            "est.": "01:46:17",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "95%",
-            "Name": "WBC_090_v12-/out",
-            "Task_name": "WBC_090_v12 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(3/23)",
-            "Status": "Rendering (17)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:11:14",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Qiddiya_Landscap",
-            "Task_name": "Qiddiya_Landscape_comp_v10.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "98%",
-            "Tasks": "(84/85)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Qiddiya_Landscape_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "CFI_DJV": [
