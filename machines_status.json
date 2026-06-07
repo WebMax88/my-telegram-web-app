@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
@@ -205,7 +205,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
