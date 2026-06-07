@@ -17,7 +17,7 @@
     ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "54%",
+            "Task_Progress": "73%",
             "Name": "WBC_090_v14-/out",
             "Task_name": "WBC_090_v14 - /out/nebulaz",
             "User": "ushakova",
@@ -31,12 +31,12 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "21%",
+            "Task_Progress": "27%",
             "Name": "WBC_090_v14-/out",
             "Task_name": "WBC_090_v14 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "21%",
+            "Progress": "27%",
             "Tasks": "(0/1)",
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
