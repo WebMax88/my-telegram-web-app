@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v17.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(15/17)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v17.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -28,6 +12,38 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_comp_v09.",
+            "Task_name": "WWC_30_comp_v09.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "21%",
+            "Tasks": "(4/19)",
+            "Status": "Rendering (15)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v09.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v17.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "94%",
+            "Tasks": "(16/17)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v17.nk",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
