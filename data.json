@@ -1,5 +1,35 @@
 {
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v17.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "94%",
+            "Tasks": "(16/17)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v17.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v12-/out",
@@ -27,52 +57,6 @@
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v17.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(15/17)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v17.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v14",
-            "Task_name": "WWC_010_comp_v14.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "92%",
-            "Tasks": "(24/26)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
