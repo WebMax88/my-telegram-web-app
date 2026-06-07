@@ -15,19 +15,19 @@
             "Priority": "90"
         }
     ],
-    "WINLINE_WORLDCUP": [
+    "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v15",
-            "Task_name": "WWC_010_comp_v15.nk",
-            "User": "lebedevich",
+            "Task_Progress": "0%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v17.nk",
+            "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(25/26)",
-            "Status": "Rendering (1)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v15.nk",
-            "est.": "00:00:01",
+            "Progress": "0%",
+            "Tasks": "(0/17)",
+            "Status": "Rendering (17)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v17.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
