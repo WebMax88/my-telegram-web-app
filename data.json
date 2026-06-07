@@ -6,12 +6,12 @@
             "Task_name": "WBC_060_v11 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(21/155)",
+            "Progress": "16%",
+            "Tasks": "(25/155)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "02:11:45",
+            "est.": "02:08:55",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WBC_060_v11 - /out/vol_light",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(72/155)",
+            "Progress": "52%",
+            "Tasks": "(82/155)",
             "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "00:26:03",
+            "est.": "00:22:40",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBC_060_v11 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "30%",
-            "Tasks": "(48/155)",
+            "Progress": "35%",
+            "Tasks": "(55/155)",
             "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:49:00",
+            "est.": "00:46:23",
             "Priority": "60"
         }
     ],
