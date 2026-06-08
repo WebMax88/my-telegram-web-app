@@ -1,48 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v14-/out",
-            "Task_name": "WBC_100_v14 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(7/83)",
-            "Status": "Rendering (10)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "01:07:11",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v14-/out",
-            "Task_name": "WBC_100_v14 - /out/floor_shadow",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(58/83)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "floor_shadow",
-            "est.": "00:08:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_090_v15-/out",
-            "Task_name": "WBC_090_v15 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(18/23)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -61,47 +17,61 @@
     ],
     "NIKE_KNICKS_PRLM": [
         {
-            "Task_Progress": "0%",
-            "Name": "KAT_120_v002-/ob",
-            "Task_name": "KAT_120_v002 - /obj/lopnet1/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(71/80)",
-            "Status": "Rendering (9)",
-            "Project": "NIKE_KNICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "KAT_120_v002-/ob",
             "Task_name": "KAT_120_v002 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "61%",
-            "Tasks": "(49/80)",
-            "Status": "Rendering (7)",
+            "Progress": "68%",
+            "Tasks": "(55/80)",
+            "Status": "Rendering (15)",
             "Project": "NIKE_KNICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:18:12",
+            "est.": "00:03:33",
             "Priority": "60"
         }
     ],
-    "AUTODESK_PRLM": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "BND_0070_v04-/ob",
-            "Task_name": "BND_0070_v04 - /obj/lopnet1/main/usdrender_rop",
-            "User": "goncharov",
+            "Name": "WBC_100_v14-/out",
+            "Task_name": "WBC_100_v14 - /out/nebulaz",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(52/53)",
-            "Status": "Rendering (1)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
+            "Progress": "16%",
+            "Tasks": "(14/83)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:22:17",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_090_v15-/out",
+            "Task_name": "WBC_090_v15 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "86%",
+            "Tasks": "(20/23)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
             "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v14-/out",
+            "Task_name": "WBC_100_v14 - /out/floor_shadow",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "89%",
+            "Tasks": "(74/83)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "floor_shadow",
+            "est.": "00:01:00",
             "Priority": "60"
         }
     ],
@@ -112,12 +82,12 @@
             "Task_name": "TST_020_v05 - /out/main",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(1/152)",
-            "Status": "Rendering (4)",
+            "Progress": "21%",
+            "Tasks": "(33/152)",
+            "Status": "Rendering (6)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "main",
-            "est.": "00:31:08",
+            "est.": "00:16:33",
             "Priority": "60"
         },
         {
@@ -126,12 +96,28 @@
             "Task_name": "TST_020_v05 - /out/Visor",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(4/152)",
-            "Status": "Rendering (5)",
+            "Progress": "33%",
+            "Tasks": "(51/152)",
+            "Status": "Rendering (6)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "Visor",
-            "est.": "00:24:25",
+            "est.": "00:10:36",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_370_Ball_v03",
+            "Task_name": "QDY_370_Ball_v03 - /out/Ball",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "47%",
+            "Tasks": "(35/73)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Ball",
+            "est.": "00:03:19",
             "Priority": "60"
         }
     ]
