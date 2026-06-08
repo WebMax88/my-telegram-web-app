@@ -1,4 +1,48 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v074 - /stage/crowd_part_1/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(82/181)",
+            "Status": "Rendering (7)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "01:42:36",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v072 - /stage/crowd_part_2/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "41%",
+            "Tasks": "(151/361)",
+            "Status": "Rendering (7)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:26:17",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v074 - /stage/main_part_1/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(48/181)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "03:35:24",
+            "Priority": "60"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -13,50 +57,6 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v074 - /stage/main_part_1/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(48/181)",
-            "Status": "Rendering (6)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:35:24",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v074 - /stage/crowd_part_1/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(79/181)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "01:44:17",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v072 - /stage/crowd_part_2/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(149/361)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:28:17",
-            "Priority": "60"
         }
     ]
 }
