@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v13-/out",
-            "Task_name": "WBC_060_v13 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(35/155)",
-            "Status": "Rendering (30)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:13:07",
-            "Priority": "60"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -38,13 +22,29 @@
             "Task_name": "BCH_010_comp_v18.nk",
             "User": "sattarov",
             "Plugin": "Nuke",
-            "Progress": "65%",
-            "Tasks": "(21/32)",
-            "Status": "Rendering (11)",
+            "Progress": "96%",
+            "Tasks": "(31/32)",
+            "Status": "Rendering (1)",
             "Project": "CONCELLULAR_MOWER_PRLM",
             "Render": "BCH_010_comp_v18.nk",
             "est.": "00:00:01",
             "Priority": "90"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v13-/out",
+            "Task_name": "WBC_060_v13 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "30%",
+            "Tasks": "(48/155)",
+            "Status": "Rendering (30)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "00:11:13",
+            "Priority": "60"
         }
     ]
 }
