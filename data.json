@@ -1,59 +1,17 @@
 {
-    "SCANIA_BK": [
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Pa",
-            "Task_name": "Holo_v06 - /out/Pattern",
-            "User": "dmakarov",
+            "Name": "stad_sh05_v28-/s",
+            "Task_name": "stad_sh05_v28 - /stage/volum_atm/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(244/250)",
-            "Status": "Rendering (6)",
-            "Project": "SCANIA_BK",
-            "Render": "Pattern",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Co",
-            "Task_name": "Holo_v06 - /out/Contuor",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(219/250)",
-            "Status": "Rendering (24)",
-            "Project": "SCANIA_BK",
-            "Render": "Contuor",
-            "est.": "00:00:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Co",
-            "Task_name": "Holo_v06 - /out/Cover",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(248/250)",
+            "Progress": "98%",
+            "Tasks": "(125/127)",
             "Status": "Rendering (2)",
-            "Project": "SCANIA_BK",
-            "Render": "Cover",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Vo",
-            "Task_name": "Holo_v06 - /out/Voxels",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(165/250)",
-            "Status": "Rendering (24)",
-            "Project": "SCANIA_BK",
-            "Render": "Voxels",
-            "est.": "00:03:04",
             "Priority": "60"
         }
     ],
@@ -73,22 +31,6 @@
             "Priority": "90"
         }
     ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v28-/s",
-            "Task_name": "stad_sh05_v28 - /stage/volum_atm/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(125/127)",
-            "Status": "Rendering (2)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -96,9 +38,9 @@
             "Task_name": "WBC_100_v15 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "93%",
-            "Tasks": "(78/83)",
-            "Status": "Rendering (5)",
+            "Progress": "95%",
+            "Tasks": "(79/83)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:00:01",
