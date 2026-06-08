@@ -3,19 +3,19 @@
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v15-/out",
-            "Task_name": "WBC_100_v15 - /out/nebulaz",
+            "Task_name": "WBC_100_v15 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(15/83)",
-            "Status": "Rendering (8)",
+            "Progress": "24%",
+            "Tasks": "(20/83)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "01:37:24",
+            "Render": "vol_laser",
+            "est.": "01:37:42",
             "Priority": "60"
         },
         {
-            "Task_Progress": "70%",
+            "Task_Progress": "80%",
             "Name": "WBC_100_v15-/out",
             "Task_name": "WBC_100_v15 - /out/vol",
             "User": "mochalova",
@@ -31,6 +31,34 @@
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v15-/out",
+            "Task_name": "WBC_100_v15 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "21%",
+            "Tasks": "(18/83)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "02:10:03",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v15-/out",
+            "Task_name": "WBC_100_v15 - /out/nebulaz_mask",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "68%",
+            "Tasks": "(57/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz_mask",
+            "est.": "00:05:35",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v15-/out",
             "Task_name": "WBC_100_v15 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
@@ -40,64 +68,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
             "est.": "00:41:46",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v15-/out",
-            "Task_name": "WBC_100_v15 - /out/nebulaz_mask",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(56/83)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz_mask",
-            "est.": "00:53:38",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v15-/out",
-            "Task_name": "WBC_100_v15 - /out/vol_laser",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(19/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "01:40:50",
-            "Priority": "60"
-        }
-    ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v28-/s",
-            "Task_name": "stad_sh05_v28 - /stage/ground1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(25/127)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "01:32:10",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v28-/s",
-            "Task_name": "stad_sh05_v28 - /stage/volum_atm/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(32/127)",
-            "Status": "Rendering (10)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "01:07:32",
             "Priority": "60"
         }
     ],
@@ -117,36 +87,34 @@
             "Priority": "90"
         }
     ],
-    "NIKE_KNICKS_PRLM": [
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "KAT_100_v004-/ob",
-            "Task_name": "KAT_100_v004 - /obj/lopnet1/main/usdrender_rop",
-            "User": "veber",
+            "Name": "stad_sh05_v28-/s",
+            "Task_name": "stad_sh05_v28 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(41/46)",
-            "Status": "Rendering (5)",
-            "Project": "NIKE_KNICKS_PRLM",
+            "Progress": "22%",
+            "Tasks": "(28/127)",
+            "Status": "Rendering (13)",
+            "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "01:07:31",
             "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "Professional_Cou",
-            "Task_name": "Professional_Court_comp_v11.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(20/25)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "Professional_Court_comp_v11.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Name": "stad_sh05_v28-/s",
+            "Task_name": "stad_sh05_v28 - /stage/volum_atm/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(35/127)",
+            "Status": "Rendering (11)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:57:31",
+            "Priority": "60"
         }
     ]
 }
