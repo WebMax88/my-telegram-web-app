@@ -1,33 +1,31 @@
 {
-    "CFI_DJV": [
+    "NIKE_KNICKS_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
+            "Name": "KAT_100_comp_v03",
+            "Task_name": "KAT_100_comp_v03.nk",
+            "User": "savvin",
             "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
+            "Progress": "100%",
+            "Tasks": "(28/28)",
+            "Status": "Completed",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "KAT_100_comp_v03.nk",
+            "est.": "00:00:00",
             "Priority": "90"
-        }
-    ],
-    "NIKE_KNICKS_PRLM": [
+        },
         {
             "Task_Progress": "100%",
             "Name": "KAT_120_comp_v01",
             "Task_name": "KAT_120_comp_v01.nk",
             "User": "sattarov",
             "Plugin": "Nuke",
-            "Progress": "62%",
-            "Tasks": "(30/48)",
-            "Status": "Rendering (18)",
+            "Progress": "33%",
+            "Tasks": "(16/48)",
+            "Status": "Rendering (29)",
             "Project": "NIKE_KNICKS_PRLM",
             "Render": "KAT_120_comp_v01.nk",
-            "est.": "00:00:01",
+            "est.": "00:00:05",
             "Priority": "90"
         }
     ],
@@ -45,6 +43,22 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
