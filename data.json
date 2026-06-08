@@ -1,49 +1,33 @@
 {
-    "WINLINE_WORLDCUP": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "stad_sh05_v28-/s",
-            "Task_name": "stad_sh05_v28 - /stage/volum_atm/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(32/127)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "01:39:53",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v28-/s",
-            "Task_name": "stad_sh05_v28 - /stage/volum_spots/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(118/127)",
-            "Status": "Rendering (7)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "00:00:31",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v28-/s",
-            "Task_name": "stad_sh05_v28 - /stage/ground1/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "WBC_100_v15-/out",
+            "Task_name": "WBC_100_v15 - /out/nebulaz",
+            "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "18%",
-            "Tasks": "(24/127)",
-            "Status": "Rendering (6)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "02:43:34",
+            "Tasks": "(15/83)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:37:24",
             "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
+        },
+        {
+            "Task_Progress": "70%",
+            "Name": "WBC_100_v15-/out",
+            "Task_name": "WBC_100_v15 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(4/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "06:13:14",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v15-/out",
@@ -52,10 +36,10 @@
             "Plugin": "Houdini",
             "Progress": "11%",
             "Tasks": "(2/17)",
-            "Status": "Rendering (6)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "00:55:09",
+            "est.": "00:41:46",
             "Priority": "60"
         },
         {
@@ -64,12 +48,12 @@
             "Task_name": "WBC_100_v15 - /out/nebulaz_mask",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(53/83)",
+            "Progress": "67%",
+            "Tasks": "(56/83)",
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_mask",
-            "est.": "01:00:30",
+            "est.": "00:53:38",
             "Priority": "60"
         },
         {
@@ -78,40 +62,42 @@
             "Task_name": "WBC_100_v15 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(18/83)",
-            "Status": "Rendering (6)",
+            "Progress": "22%",
+            "Tasks": "(19/83)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "02:03:13",
+            "est.": "01:40:50",
+            "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v28-/s",
+            "Task_name": "stad_sh05_v28 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "19%",
+            "Tasks": "(25/127)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "01:32:10",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v15-/out",
-            "Task_name": "WBC_100_v15 - /out/nebulaz",
-            "User": "mochalova",
+            "Name": "stad_sh05_v28-/s",
+            "Task_name": "stad_sh05_v28 - /stage/volum_atm/usdrender_rop",
+            "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(14/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "01:55:21",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "62%",
-            "Name": "WBC_100_v15-/out",
-            "Task_name": "WBC_100_v15 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(3/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "05:27:23",
+            "Progress": "25%",
+            "Tasks": "(32/127)",
+            "Status": "Rendering (10)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "01:07:32",
             "Priority": "60"
         }
     ],
@@ -138,13 +124,29 @@
             "Task_name": "KAT_100_v004 - /obj/lopnet1/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(36/46)",
-            "Status": "Rendering (7)",
+            "Progress": "89%",
+            "Tasks": "(41/46)",
+            "Status": "Rendering (5)",
             "Project": "NIKE_KNICKS_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:01:23",
+            "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Professional_Cou",
+            "Task_name": "Professional_Court_comp_v11.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "80%",
+            "Tasks": "(20/25)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "Professional_Court_comp_v11.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
