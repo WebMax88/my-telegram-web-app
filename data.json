@@ -15,6 +15,22 @@
             "Priority": "90"
         }
     ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_110_comp_v04",
+            "Task_name": "QDY_110_comp_v04.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(17/17)",
+            "Status": "Completed",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_110_comp_v04.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -22,12 +38,12 @@
             "Task_name": "WBC_100_v13 - /out/vol_laser",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(19/83)",
+            "Progress": "30%",
+            "Tasks": "(25/83)",
             "Status": "Rendering (32)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "00:07:08",
+            "est.": "00:06:46",
             "Priority": "60"
         }
     ]
