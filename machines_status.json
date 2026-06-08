@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
@@ -210,22 +210,22 @@
         "user": "Andrey Shindin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws164",
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws202",
         "user": "Pavel Kufterin"
     },
@@ -260,12 +260,12 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
@@ -280,7 +280,7 @@
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
