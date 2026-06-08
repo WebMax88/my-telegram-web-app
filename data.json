@@ -6,13 +6,27 @@
             "Task_name": "TST_020_comp_v03.nk",
             "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "87%",
-            "Tasks": "(27/31)",
-            "Status": "Rendering (4)",
+            "Progress": "96%",
+            "Tasks": "(30/31)",
+            "Status": "Rendering (1)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "TST_020_comp_v03.nk",
             "est.": "00:00:01",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_020_v06-/out",
+            "Task_name": "TST_020_v06 - /out/Visor",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "46%",
+            "Tasks": "(71/152)",
+            "Status": "Rendering (30)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "Visor",
+            "est.": "00:01:11",
+            "Priority": "60"
         }
     ],
     "CFI_DJV": [
@@ -28,22 +42,6 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0070_comp_v0",
-            "Task_name": "BND_0070_comp_v04.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "54%",
-            "Tasks": "(6/11)",
-            "Status": "Rendering (5)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "BND_0070_comp_v04.nk",
-            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
