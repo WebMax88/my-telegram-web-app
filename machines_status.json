@@ -65,7 +65,7 @@
         "user": "Paul Khozhaev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws54",
         "user": "Mary Mochalova"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
@@ -260,17 +260,17 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws212",
         "user": "----"
     },
