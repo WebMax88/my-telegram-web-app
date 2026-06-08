@@ -1,4 +1,20 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v072 - /stage/crowd_part_2/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(360/361)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -22,28 +38,12 @@
             "Task_name": "WWC_30_v13 - /stage/flags/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(77/226)",
+            "Progress": "52%",
+            "Tasks": "(118/226)",
             "Status": "Rendering (64)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:08:03",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v072 - /stage/crowd_part_2/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(360/361)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "00:04:04",
             "Priority": "60"
         }
     ]
