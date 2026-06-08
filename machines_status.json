@@ -15,7 +15,7 @@
         "user": "Erik Baymukashev"
     },
     {
-        "status": "StartingJob",
+        "status": "Rendering",
         "machine": "ws44",
         "user": "for freelancers"
     },
@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws47",
         "user": "---"
     },
@@ -100,7 +100,7 @@
         "user": "Dmitrii Kovtoenko"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws108",
         "user": "Sonya Pankova"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
