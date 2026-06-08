@@ -1,78 +1,4 @@
 {
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Pa",
-            "Task_name": "Holo_v06 - /out/Pattern",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(74/250)",
-            "Status": "Rendering (13)",
-            "Project": "SCANIA_BK",
-            "Render": "Pattern",
-            "est.": "00:09:33",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Co",
-            "Task_name": "Holo_v06 - /out/Contuor",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(63/250)",
-            "Status": "Rendering (15)",
-            "Project": "SCANIA_BK",
-            "Render": "Contuor",
-            "est.": "00:10:31",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Co",
-            "Task_name": "Holo_v06 - /out/Cover",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(69/250)",
-            "Status": "Rendering (12)",
-            "Project": "SCANIA_BK",
-            "Render": "Cover",
-            "est.": "00:10:48",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v06-/out/Vo",
-            "Task_name": "Holo_v06 - /out/Voxels",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(41/250)",
-            "Status": "Rendering (13)",
-            "Project": "SCANIA_BK",
-            "Render": "Voxels",
-            "est.": "00:18:37",
-            "Priority": "60"
-        }
-    ],
-    "CFI_DJV": [
-        {
-            "Task_Progress": "100%",
-            "Name": "CFI_280_comp_v08",
-            "Task_name": "CFI_280_comp_v08.nk",
-            "User": "alikov",
-            "Plugin": "Nuke",
-            "Progress": "47%",
-            "Tasks": "(18/38)",
-            "Status": "Queued",
-            "Project": "CFI_DJV",
-            "Render": "CFI_280_comp_v08.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -96,13 +22,87 @@
             "Task_name": "WBC_100_v15 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(76/83)",
-            "Status": "Rendering (7)",
+            "Progress": "93%",
+            "Tasks": "(78/83)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "SCANIA_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v06-/out/Pa",
+            "Task_name": "Holo_v06 - /out/Pattern",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "58%",
+            "Tasks": "(146/250)",
+            "Status": "Rendering (11)",
+            "Project": "SCANIA_BK",
+            "Render": "Pattern",
+            "est.": "00:07:10",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v06-/out/Co",
+            "Task_name": "Holo_v06 - /out/Contuor",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "52%",
+            "Tasks": "(131/250)",
+            "Status": "Rendering (13)",
+            "Project": "SCANIA_BK",
+            "Render": "Contuor",
+            "est.": "00:07:51",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v06-/out/Co",
+            "Task_name": "Holo_v06 - /out/Cover",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "59%",
+            "Tasks": "(148/250)",
+            "Status": "Rendering (11)",
+            "Project": "SCANIA_BK",
+            "Render": "Cover",
+            "est.": "00:06:59",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v06-/out/Vo",
+            "Task_name": "Holo_v06 - /out/Voxels",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "39%",
+            "Tasks": "(99/250)",
+            "Status": "Rendering (14)",
+            "Project": "SCANIA_BK",
+            "Render": "Voxels",
+            "est.": "00:11:47",
+            "Priority": "60"
+        }
+    ],
+    "CFI_DJV": [
+        {
+            "Task_Progress": "100%",
+            "Name": "CFI_280_comp_v08",
+            "Task_name": "CFI_280_comp_v08.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "47%",
+            "Tasks": "(18/38)",
+            "Status": "Queued",
+            "Project": "CFI_DJV",
+            "Render": "CFI_280_comp_v08.nk",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
