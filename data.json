@@ -15,22 +15,6 @@
             "Priority": "60"
         }
     ],
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_30_comp_v10.",
-            "Task_name": "WWC_30_comp_v10.nk",
-            "User": "raznov",
-            "Plugin": "Nuke",
-            "Progress": "28%",
-            "Tasks": "(65/226)",
-            "Status": "Rendering (28)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_30_comp_v10.nk",
-            "est.": "00:02:36",
-            "Priority": "90"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -54,12 +38,12 @@
             "Task_name": "Final_reveal_clouds_v03 - /obj/lopnet1/main/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "90%",
-            "Tasks": "(90/100)",
-            "Status": "Rendering (6)",
+            "Progress": "99%",
+            "Tasks": "(99/100)",
+            "Status": "Rendering (1)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:01:29",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -68,28 +52,12 @@
             "Task_name": "Final_reveal_clouds_v03 - /obj/lopnet1/clouds_l2/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
-            "Status": "Rendering (7)",
+            "Progress": "47%",
+            "Tasks": "(47/100)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:40:40",
-            "Priority": "60"
-        }
-    ],
-    "NIKE_KNICKS_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "KAT_100_v003-/ob",
-            "Task_name": "KAT_100_v003 - /obj/lopnet1/for_ai/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(120/137)",
-            "Status": "Rendering (17)",
-            "Project": "NIKE_KNICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
+            "est.": "00:19:52",
             "Priority": "60"
         }
     ]
