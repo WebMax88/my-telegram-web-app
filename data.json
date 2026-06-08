@@ -1,18 +1,18 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v13-/out",
-            "Task_name": "WBC_100_v13 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
+            "Name": "WWC_30_comp_v10.",
+            "Task_name": "WWC_30_comp_v10.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
             "Progress": "98%",
-            "Tasks": "(82/83)",
+            "Tasks": "(77/78)",
             "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v10.nk",
             "est.": "00:00:01",
-            "Priority": "60"
+            "Priority": "90"
         }
     ],
     "CFI_DJV": [
@@ -31,33 +31,35 @@
             "Priority": "90"
         }
     ],
-    "QIDDIYA_CHARLY": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "Final_reveal_clo",
-            "Task_name": "Final_reveal_clouds_v03 - /obj/lopnet1/main/usdrender_rop",
-            "User": "aleksandrov",
+            "Name": "WBC_100_v13-/out",
+            "Task_name": "WBC_100_v13 - /out/nebulaz",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(99/100)",
+            "Progress": "98%",
+            "Tasks": "(82/83)",
             "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
             "est.": "00:00:01",
             "Priority": "60"
-        },
+        }
+    ],
+    "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
             "Name": "Final_reveal_clo",
             "Task_name": "Final_reveal_clouds_v03 - /obj/lopnet1/clouds_l2/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "54%",
-            "Tasks": "(54/100)",
-            "Status": "Rendering (11)",
+            "Progress": "68%",
+            "Tasks": "(68/100)",
+            "Status": "Rendering (13)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:19:22",
+            "est.": "00:09:00",
             "Priority": "60"
         }
     ]
