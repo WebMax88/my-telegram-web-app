@@ -17,20 +17,6 @@
     ],
     "QIDDIYA_CHARLY": [
         {
-            "Task_Progress": "0%",
-            "Name": "QDY_100_comp_v02",
-            "Task_name": "QDY_100_comp_v02.nk",
-            "User": "a.ivanov",
-            "Plugin": "Nuke",
-            "Progress": "54%",
-            "Tasks": "(6/11)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_100_comp_v02.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "TST_010_stadium_",
             "Task_name": "TST_010_stadium_fly_v072 - /stage/crowd_part_2/usdrender_rop",
