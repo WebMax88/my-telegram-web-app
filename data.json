@@ -1,20 +1,4 @@
 {
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_020_comp_v05",
-            "Task_name": "TST_020_comp_v05.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "83%",
-            "Tasks": "(26/31)",
-            "Status": "Rendering (5)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "TST_020_comp_v05.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -45,6 +29,36 @@
             "Render": "BCH_045_comp_v12.nk",
             "est.": "unknown",
             "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v79-/ou",
+            "Task_name": "WWC_HOLO_v79 - /out/pedestalLightnings",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "18%",
+            "Tasks": "(23/127)",
+            "Status": "Rendering (23)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "pedestalLightnings",
+            "est.": "00:11:00",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_HOLO_v79-/ou",
+            "Task_name": "WWC_HOLO_v79 - /out/pedestal",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(12/127)",
+            "Status": "Rendering (21)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "pedestal",
+            "est.": "00:16:23",
+            "Priority": "60"
         }
     ]
 }
