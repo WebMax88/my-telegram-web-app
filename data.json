@@ -14,21 +14,5 @@
             "est.": "unknown",
             "Priority": "90"
         }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_005_comp_v07",
-            "Task_name": "TST_005_comp_v07.nk",
-            "User": "sidenina",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(8/9)",
-            "Status": "Rendering (1)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_005_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
