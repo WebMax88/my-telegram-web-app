@@ -14,37 +14,5 @@
             "est.": "unknown",
             "Priority": "90"
         }
-    ],
-    "XFINITY_ZOMBIE_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "XFC_030_comp_v01",
-            "Task_name": "XFC_030_comp_v01.nk",
-            "User": "shindin",
-            "Plugin": "Nuke",
-            "Progress": "76%",
-            "Tasks": "(20/26)",
-            "Status": "Rendering (6)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "XFC_030_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_020_comp_v03",
-            "Task_name": "TST_020_comp_v03.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "90%",
-            "Tasks": "(28/31)",
-            "Status": "Rendering (3)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "TST_020_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
     ]
 }
