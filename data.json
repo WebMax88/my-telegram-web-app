@@ -1,4 +1,78 @@
 {
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "0%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v072 - /stage/main_part_2/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/361)",
+            "Status": "Rendering (5)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v072 - /stage/main_part_1/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
+            "Status": "Rendering (1)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "83%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v072 - /stage/main_part_1/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "14%",
+            "Tasks": "(6/41)",
+            "Status": "Rendering (7)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:36:32",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v11-/out",
+            "Task_name": "WBC_060_v11 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "92%",
+            "Tasks": "(144/155)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v11-/out",
+            "Task_name": "WBC_060_v11 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "33%",
+            "Tasks": "(52/155)",
+            "Status": "Rendering (26)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "00:14:02",
+            "Priority": "60"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -13,66 +87,6 @@
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
             "Priority": "90"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v11-/out",
-            "Task_name": "WBC_060_v11 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(35/155)",
-            "Status": "Rendering (19)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:24:28",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v11-/out",
-            "Task_name": "WBC_060_v11 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(138/155)",
-            "Status": "Rendering (17)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v072 - /stage/main_part_1/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/41)",
-            "Status": "Rendering (13)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v072 - /stage/main_part_2/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/361)",
-            "Status": "Queued",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "60"
         }
     ]
 }
