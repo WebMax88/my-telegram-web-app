@@ -6,13 +6,29 @@
             "Task_name": "BND_0040_v16 - /obj/lopnet1/BND_0040/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(14/41)",
-            "Status": "Rendering (27)",
+            "Progress": "95%",
+            "Tasks": "(39/41)",
+            "Status": "Rendering (2)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "60"
+        }
+    ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_020_comp_v03",
+            "Task_name": "TST_020_comp_v03.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "83%",
+            "Tasks": "(26/31)",
+            "Status": "Rendering (5)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "TST_020_comp_v03.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "CFI_DJV": [
