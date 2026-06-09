@@ -1,34 +1,4 @@
 {
-    "WINLINE_WORLDCUP": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v18",
-            "Task_name": "WWC_010_comp_v18.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "53%",
-            "Tasks": "(14/26)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v18.nk",
-            "est.": "00:22:52",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WWC_010_comp_v19",
-            "Task_name": "WWC_010_comp_v19.nk",
-            "User": "lebedevich",
-            "Plugin": "Nuke",
-            "Progress": "65%",
-            "Tasks": "(17/26)",
-            "Status": "Rendering (3)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "WWC_010_comp_v19.nk",
-            "est.": "00:09:48",
-            "Priority": "90"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -45,19 +15,65 @@
             "Priority": "90"
         }
     ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_020_v10-/out",
+            "Task_name": "TST_020_v10 - /out/main",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "78%",
+            "Tasks": "(119/152)",
+            "Status": "Rendering (2)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "main",
+            "est.": "00:25:01",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_510_comp_v07",
+            "Task_name": "QDY_510_comp_v07.nk",
+            "User": "godomin",
+            "Plugin": "Nuke",
+            "Progress": "39%",
+            "Tasks": "(36/91)",
+            "Status": "Rendering (10)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_510_comp_v07.nk",
+            "est.": "00:07:29",
+            "Priority": "90"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v01-/out",
-            "Task_name": "WBC_110_v01 - /out/vol_laser",
+            "Task_name": "WBC_110_v01 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(37/159)",
+            "Progress": "10%",
+            "Tasks": "(16/159)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "02:53:39",
+            "Render": "nebulaz",
+            "est.": "06:51:33",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v14-/out",
+            "Task_name": "WBC_060_v14 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "26%",
+            "Tasks": "(41/155)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "04:20:10",
             "Priority": "60"
         },
         {
@@ -66,12 +82,12 @@
             "Task_name": "WBC_110_v01 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(26/159)",
+            "Progress": "18%",
+            "Tasks": "(29/159)",
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "04:31:54",
+            "est.": "04:29:38",
             "Priority": "60"
         },
         {
@@ -91,76 +107,60 @@
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v01-/out",
-            "Task_name": "WBC_110_v01 - /out/vol",
+            "Task_name": "WBC_110_v01 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(26/159)",
-            "Status": "Rendering (4)",
+            "Progress": "25%",
+            "Tasks": "(41/159)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "03:52:24",
+            "Render": "vol_laser",
+            "est.": "02:46:03",
             "Priority": "60"
         },
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v01-/out",
-            "Task_name": "WBC_110_v01 - /out/nebulaz",
+            "Task_name": "WBC_110_v01 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(15/159)",
-            "Status": "Rendering (5)",
+            "Progress": "18%",
+            "Tasks": "(29/159)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "06:59:18",
+            "Render": "vol",
+            "est.": "03:43:16",
             "Priority": "60"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_010_comp_v18",
+            "Task_name": "WWC_010_comp_v18.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "61%",
+            "Tasks": "(16/26)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v18.nk",
+            "est.": "00:17:04",
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_060_v14-/out",
-            "Task_name": "WBC_060_v14 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(38/155)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "04:30:44",
-            "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v07-/out/Vo",
-            "Task_name": "Holo_v07 - /out/Voxels",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Rendering (1)",
-            "Project": "SCANIA_BK",
-            "Render": "Voxels",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_020_v10-/out",
-            "Task_name": "TST_020_v10 - /out/main",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(101/152)",
-            "Status": "Rendering (4)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "main",
-            "est.": "00:19:12",
-            "Priority": "60"
+            "Name": "WWC_010_comp_v19",
+            "Task_name": "WWC_010_comp_v19.nk",
+            "User": "lebedevich",
+            "Plugin": "Nuke",
+            "Progress": "76%",
+            "Tasks": "(20/26)",
+            "Status": "Rendering (3)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_010_comp_v19.nk",
+            "est.": "00:04:28",
+            "Priority": "90"
         }
     ]
 }
