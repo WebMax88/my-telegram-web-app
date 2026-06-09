@@ -1,4 +1,20 @@
 {
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_020_comp_v06",
+            "Task_name": "TST_020_comp_v06.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(30/31)",
+            "Status": "Rendering (1)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "TST_020_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "CFI_DJV": [
         {
             "Task_Progress": "100%",
@@ -12,22 +28,6 @@
             "Project": "CFI_DJV",
             "Render": "CFI_280_comp_v08.nk",
             "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_020_comp_v06",
-            "Task_name": "TST_020_comp_v06.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(29/31)",
-            "Status": "Rendering (2)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "TST_020_comp_v06.nk",
-            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
