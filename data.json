@@ -1,20 +1,4 @@
 {
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_020_comp_v06",
-            "Task_name": "TST_020_comp_v06.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "87%",
-            "Tasks": "(27/31)",
-            "Status": "Rendering (4)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "TST_020_comp_v06.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "WINLINE_WORLDCUP": [
         {
             "Task_Progress": "100%",
@@ -22,11 +6,27 @@
             "Task_name": "WWC_010_comp_v16.nk",
             "User": "lebedevich",
             "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(21/26)",
-            "Status": "Rendering (5)",
+            "Progress": "92%",
+            "Tasks": "(24/26)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "WWC_010_comp_v16.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_020_comp_v06",
+            "Task_name": "TST_020_comp_v06.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "93%",
+            "Tasks": "(29/31)",
+            "Status": "Rendering (2)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "TST_020_comp_v06.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
