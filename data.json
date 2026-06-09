@@ -1,106 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_420_comp_v05",
-            "Task_name": "QDY_420_comp_v05.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "22%",
-            "Tasks": "(2/9)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_420_comp_v05.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v078 - /stage/main_part_2/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(79/361)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "03:41:34",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_stadium_",
-            "Task_name": "TST_010_stadium_fly_v078 - /stage/main_part_1/usdrender_rop",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(38/41)",
-            "Status": "Rendering (2)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:06:41",
-            "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v08-/out/Co",
-            "Task_name": "Holo_v08 - /out/CoverFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(178/250)",
-            "Status": "Rendering (7)",
-            "Project": "SCANIA_BK",
-            "Render": "CoverFull",
-            "est.": "00:39:35",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v08-/out/Vo",
-            "Task_name": "Holo_v08 - /out/VoxelsFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(107/250)",
-            "Status": "Rendering (7)",
-            "Project": "SCANIA_BK",
-            "Render": "VoxelsFull",
-            "est.": "02:10:56",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v08-/out/Pa",
-            "Task_name": "Holo_v08 - /out/PatternFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(144/250)",
-            "Status": "Rendering (7)",
-            "Project": "SCANIA_BK",
-            "Render": "PatternFull",
-            "est.": "01:11:16",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v08-/out/al",
-            "Task_name": "Holo_v08 - /out/all_all",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(147/250)",
-            "Status": "Rendering (8)",
-            "Project": "SCANIA_BK",
-            "Render": "all_all",
-            "est.": "01:07:58",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -117,33 +15,91 @@
             "Priority": "90"
         }
     ],
-    "WBW_KRYPTO_DEJAVU": [
+    "SCANIA_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_060_v14-/out",
-            "Task_name": "WBC_060_v14 - /out/nebulaz",
-            "User": "ushakova",
+            "Name": "Holo_v08-/out/Co",
+            "Task_name": "Holo_v08 - /out/CoverFull",
+            "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(144/155)",
-            "Status": "Rendering (8)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:03:31",
+            "Progress": "78%",
+            "Tasks": "(195/250)",
+            "Status": "Rendering (7)",
+            "Project": "SCANIA_BK",
+            "Render": "CoverFull",
+            "est.": "00:28:24",
             "Priority": "60"
         },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v08-/out/Pa",
+            "Task_name": "Holo_v08 - /out/PatternFull",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "64%",
+            "Tasks": "(160/250)",
+            "Status": "Rendering (7)",
+            "Project": "SCANIA_BK",
+            "Render": "PatternFull",
+            "est.": "00:57:25",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v08-/out/Vo",
+            "Task_name": "Holo_v08 - /out/VoxelsFull",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(114/250)",
+            "Status": "Rendering (7)",
+            "Project": "SCANIA_BK",
+            "Render": "VoxelsFull",
+            "est.": "02:04:27",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v08-/out/al",
+            "Task_name": "Holo_v08 - /out/all_all",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "62%",
+            "Tasks": "(155/250)",
+            "Status": "Rendering (7)",
+            "Project": "SCANIA_BK",
+            "Render": "all_all",
+            "est.": "01:12:12",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v01-/out",
             "Task_name": "WBC_110_v01 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(129/159)",
+            "Progress": "84%",
+            "Tasks": "(135/159)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "00:26:59",
+            "est.": "00:20:00",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v01-/out",
+            "Task_name": "WBC_110_v01 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "42%",
+            "Tasks": "(68/159)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "02:43:34",
             "Priority": "60"
         },
         {
@@ -162,16 +118,32 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_110_v01-/out",
-            "Task_name": "WBC_110_v01 - /out/nebulaz",
-            "User": "mochalova",
+            "Name": "WBC_060_v14-/out",
+            "Task_name": "WBC_060_v14 - /out/nebulaz",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(65/159)",
+            "Progress": "94%",
+            "Tasks": "(147/155)",
             "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "02:51:04",
+            "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_stadium_",
+            "Task_name": "TST_010_stadium_fly_v078 - /stage/main_part_2/usdrender_rop",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "24%",
+            "Tasks": "(88/361)",
+            "Status": "Rendering (6)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "04:10:36",
             "Priority": "60"
         }
     ]
