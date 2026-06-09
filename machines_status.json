@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -195,12 +195,12 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
