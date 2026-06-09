@@ -1,17 +1,31 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v16-/out",
-            "Task_name": "WBC_100_v16 - /out/nebulaz",
-            "User": "mochalova",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v005 - /stage/main_rop",
+            "User": "kufterin",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(20/83)",
-            "Status": "Rendering (30)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:14:12",
+            "Progress": "6%",
+            "Tasks": "(6/100)",
+            "Status": "Rendering (6)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "00:21:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_DVa_char_v005 - /stage/close_rop",
+            "User": "kufterin",
+            "Plugin": "Houdini",
+            "Progress": "5%",
+            "Tasks": "(5/100)",
+            "Status": "Rendering (5)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "close_rop",
+            "est.": "00:28:08",
             "Priority": "60"
         }
     ],
@@ -22,12 +36,28 @@
             "Task_name": "stad_sh05_v29 - /stage/volum_atm/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "94%",
-            "Tasks": "(120/127)",
-            "Status": "Rendering (7)",
+            "Progress": "98%",
+            "Tasks": "(125/127)",
+            "Status": "Rendering (2)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
+            "Priority": "60"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v16-/out",
+            "Task_name": "WBC_100_v16 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "37%",
+            "Tasks": "(31/83)",
+            "Status": "Rendering (30)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:09:51",
             "Priority": "60"
         }
     ],
