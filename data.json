@@ -2,16 +2,16 @@
     "NJM_SPOTLIGHT_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "TST_020_v08-/out",
-            "Task_name": "TST_020_v08 - /out/Visor",
+            "Name": "TST_020_v09-/out",
+            "Task_name": "TST_020_v09 - /out/Visor",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(102/152)",
-            "Status": "Rendering (34)",
+            "Progress": "3%",
+            "Tasks": "(5/152)",
+            "Status": "Rendering (33)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "Visor",
-            "est.": "00:00:26",
+            "est.": "00:03:45",
             "Priority": "60"
         }
     ]
