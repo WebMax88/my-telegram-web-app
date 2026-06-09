@@ -3,29 +3,15 @@
         {
             "Task_Progress": "100%",
             "Name": "BND_0040_v18-/ob",
-            "Task_name": "BND_0040_v18 - /obj/lopnet1/BND_0050/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(19/44)",
-            "Status": "Rendering (8)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:13:59",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0040_v18-/ob",
             "Task_name": "BND_0040_v18 - /obj/lopnet1/BND_0040/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(28/41)",
-            "Status": "Rendering (8)",
+            "Progress": "92%",
+            "Tasks": "(38/41)",
+            "Status": "Rendering (3)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:03:26",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -34,12 +20,12 @@
             "Task_name": "BND_0040_v18 - /obj/lopnet1/BND_0060/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(11/34)",
-            "Status": "Rendering (8)",
+            "Progress": "35%",
+            "Tasks": "(12/34)",
+            "Status": "Rendering (9)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:18:18",
+            "est.": "00:13:53",
             "Priority": "60"
         },
         {
@@ -50,10 +36,10 @@
             "Plugin": "Houdini",
             "Progress": "19%",
             "Tasks": "(6/31)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (9)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:39:14",
+            "est.": "00:32:49",
             "Priority": "60"
         },
         {
@@ -69,21 +55,49 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "BND_0040_v18-/ob",
+            "Task_name": "BND_0040_v18 - /obj/lopnet1/BND_0050/usdrender_rop",
+            "User": "glavatskih",
+            "Plugin": "Houdini",
+            "Progress": "52%",
+            "Tasks": "(23/44)",
+            "Status": "Rendering (9)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:08:49",
+            "Priority": "60"
         }
     ],
     "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "stad_sh05_v29-/s",
+            "Task_name": "stad_sh05_v29 - /stage/ground1/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "33%",
+            "Tasks": "(43/127)",
+            "Status": "Rendering (9)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "usdrender_rop",
+            "est.": "00:44:39",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "WWC_30_v15-/stag",
             "Task_name": "WWC_30_v15 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(172/226)",
-            "Status": "Rendering (9)",
+            "Progress": "83%",
+            "Tasks": "(188/226)",
+            "Status": "Rendering (10)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:13:20",
+            "est.": "00:07:26",
             "Priority": "60"
         },
         {
@@ -92,26 +106,12 @@
             "Task_name": "stad_sh05_v29 - /stage/volum_atm/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(34/127)",
-            "Status": "Rendering (8)",
-            "Project": "WINLINE_WORLDCUP",
-            "Render": "usdrender_rop",
-            "est.": "01:30:41",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "stad_sh05_v29-/s",
-            "Task_name": "stad_sh05_v29 - /stage/ground1/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
             "Progress": "29%",
-            "Tasks": "(38/127)",
-            "Status": "Rendering (8)",
+            "Tasks": "(37/127)",
+            "Status": "Rendering (9)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:53:39",
+            "est.": "01:15:20",
             "Priority": "60"
         }
     ]
