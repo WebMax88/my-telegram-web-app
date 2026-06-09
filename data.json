@@ -6,12 +6,12 @@
             "Task_name": "WWC_30_v15 - /stage/ground1/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(25/226)",
-            "Status": "Rendering (19)",
+            "Progress": "22%",
+            "Tasks": "(51/226)",
+            "Status": "Rendering (21)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "usdrender_rop",
-            "est.": "00:18:19",
+            "est.": "00:14:40",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WWC_HOLO_v81 - /out/pedestalLightnings",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "14%",
-            "Tasks": "(19/127)",
+            "Progress": "28%",
+            "Tasks": "(36/127)",
             "Status": "Rendering (20)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "pedestalLightnings",
-            "est.": "00:12:58",
+            "est.": "00:11:31",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WWC_HOLO_v81 - /out/pedestal",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(14/127)",
-            "Status": "Rendering (19)",
+            "Progress": "24%",
+            "Tasks": "(31/127)",
+            "Status": "Rendering (22)",
             "Project": "WINLINE_WORLDCUP",
             "Render": "pedestal",
-            "est.": "00:16:49",
+            "est.": "00:13:15",
             "Priority": "60"
         }
     ]
