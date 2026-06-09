@@ -2,6 +2,20 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "WBC_110_v01-/out",
+            "Task_name": "WBC_110_v01 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(158/159)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_090_v16-/out",
             "Task_name": "WBC_090_v16 - /out/vol",
             "User": "ushakova",
@@ -11,20 +25,6 @@
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v01-/out",
-            "Task_name": "WBC_110_v01 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(155/159)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
             "est.": "00:00:01",
             "Priority": "60"
         }
@@ -52,12 +52,12 @@
             "Task_name": "TST_010_stadium_fly_v078 - /stage/main_part_2/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "66%",
-            "Tasks": "(241/361)",
-            "Status": "Rendering (9)",
+            "Progress": "69%",
+            "Tasks": "(250/361)",
+            "Status": "Rendering (10)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:06:34",
+            "est.": "00:54:21",
             "Priority": "60"
         }
     ],
