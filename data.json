@@ -2,58 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v19-/out",
-            "Task_name": "WBC_100_v19 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(52/83)",
-            "Status": "Rendering (8)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:54:47",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v04-/out",
-            "Task_name": "WBC_110_v04 - /out/vol_light",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(120/159)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "00:31:41",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v04-/out",
-            "Task_name": "WBC_110_v04 - /out/vol_laser",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(112/159)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:46:25",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_110_v04-/out",
             "Task_name": "WBC_110_v04 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(38/159)",
+            "Progress": "24%",
+            "Tasks": "(39/159)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "05:57:24",
+            "est.": "05:52:58",
             "Priority": "60"
         },
         {
@@ -62,12 +20,70 @@
             "Task_name": "WBC_060_v15 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(112/155)",
-            "Status": "Rendering (7)",
+            "Progress": "76%",
+            "Tasks": "(118/155)",
+            "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:43:42",
+            "est.": "00:43:10",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v19-/out",
+            "Task_name": "WBC_100_v19 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "65%",
+            "Tasks": "(54/83)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:49:37",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v04-/out",
+            "Task_name": "WBC_110_v04 - /out/vol_light",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "78%",
+            "Tasks": "(125/159)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "00:26:39",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v04-/out",
+            "Task_name": "WBC_110_v04 - /out/vol_laser",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "73%",
+            "Tasks": "(117/159)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "01:04:22",
+            "Priority": "60"
+        }
+    ],
+    "SCANIA_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v14-/out/Vo",
+            "Task_name": "Holo_v14 - /out/VoxelsFull",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(248/250)",
+            "Status": "Rendering (2)",
+            "Project": "SCANIA_BK",
+            "Render": "VoxelsFull",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -85,22 +101,6 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v14-/out/Vo",
-            "Task_name": "Holo_v14 - /out/VoxelsFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(248/250)",
-            "Status": "Rendering (2)",
-            "Project": "SCANIA_BK",
-            "Render": "VoxelsFull",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
