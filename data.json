@@ -1,4 +1,78 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/vol_laser",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "49%",
+            "Tasks": "(79/159)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "02:55:45",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/vol_light",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "65%",
+            "Tasks": "(104/159)",
+            "Status": "Rendering (2)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "03:23:00",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "90%",
+            "Tasks": "(144/159)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:12:52",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(38/159)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "12:48:46",
+            "Priority": "55"
+        }
+    ],
+    "SCANIA_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_comp_v01",
+            "Task_name": "TST_010_comp_v01.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "68%",
+            "Tasks": "(34/50)",
+            "Status": "Rendering (8)",
+            "Project": "SCANIA_BK",
+            "Render": "TST_010_comp_v01.nk",
+            "est.": "00:00:34",
+            "Priority": "90"
+        }
+    ],
     "QIDDIYA_CHARLY": [
         {
             "Task_Progress": "100%",
@@ -15,90 +89,62 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "9%",
+            "Task_Progress": "100%",
+            "Name": "QDY_510_Ai_cln__",
+            "Task_name": "QDY_510_Ai_cln__v02.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "46%",
+            "Tasks": "(34/73)",
+            "Status": "Rendering (8)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_510_Ai_cln__v02.nk",
+            "est.": "00:02:15",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "45%",
             "Name": "TST_010_stadium_",
             "Task_name": "TST_010_stadium_fly_v081 - /stage/main_part_1/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(10/41)",
+            "Progress": "39%",
+            "Tasks": "(16/41)",
             "Status": "Rendering (20)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:05:01",
+            "est.": "00:02:11",
             "Priority": "70"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "46%",
             "Name": "TST_010_stadium_",
             "Task_name": "TST_010_stadium_fly_v081 - /stage/main_part_2/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(18/361)",
-            "Status": "Rendering (20)",
+            "Progress": "10%",
+            "Tasks": "(37/361)",
+            "Status": "Rendering (18)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "01:42:46",
+            "est.": "01:42:17",
             "Priority": "65"
         }
     ],
-    "WBW_KRYPTO_DEJAVU": [
+    "AVITO_NEDVIZHIMOST": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/nebulaz",
-            "User": "mochalova",
+            "Name": "AVITJET_v38-/out",
+            "Task_name": "AVITJET_v38 - /out/main",
+            "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(35/159)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "07:30:35",
-            "Priority": "55"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(140/159)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:12:04",
-            "Priority": "55"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol_laser",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(78/159)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "02:12:07",
-            "Priority": "55"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol_light",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "64%",
-            "Tasks": "(102/159)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "01:42:01",
-            "Priority": "55"
+            "Progress": "7%",
+            "Tasks": "(3/40)",
+            "Status": "Queued",
+            "Project": "AVITO_NEDVIZHIMOST",
+            "Render": "main",
+            "est.": "unknown",
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
