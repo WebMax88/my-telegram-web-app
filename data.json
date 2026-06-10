@@ -2,16 +2,44 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "WBC_110_v04-/out",
+            "Task_name": "WBC_110_v04 - /out/vol_light",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "45%",
+            "Tasks": "(72/159)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "01:22:37",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v19-/out",
+            "Task_name": "WBC_100_v19 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "37%",
+            "Tasks": "(31/83)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:41:49",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_060_v15-/out",
             "Task_name": "WBC_060_v15 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(58/155)",
-            "Status": "Rendering (6)",
+            "Progress": "39%",
+            "Tasks": "(61/155)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "02:28:49",
+            "est.": "02:01:41",
             "Priority": "60"
         },
         {
@@ -22,10 +50,10 @@
             "Plugin": "Houdini",
             "Progress": "13%",
             "Tasks": "(21/159)",
-            "Status": "Rendering (5)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "09:52:17",
+            "est.": "06:56:42",
             "Priority": "60"
         },
         {
@@ -34,54 +62,12 @@
             "Task_name": "WBC_110_v04 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(61/159)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "02:13:04",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v04-/out",
-            "Task_name": "WBC_110_v04 - /out/vol_light",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(69/159)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "02:35:59",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v19-/out",
-            "Task_name": "WBC_100_v19 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(30/83)",
+            "Progress": "40%",
+            "Tasks": "(65/159)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "02:26:22",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v04-/out",
-            "Task_name": "WBC_110_v04 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(156/159)",
-            "Status": "Rendering (3)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:00:01",
+            "Render": "vol_laser",
+            "est.": "01:44:17",
             "Priority": "60"
         }
     ],
@@ -99,6 +85,22 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
+        }
+    ],
+    "AVITO_NEDVIZHIMOST": [
+        {
+            "Task_Progress": "100%",
+            "Name": "AVITJET_v41-/out",
+            "Task_name": "AVITJET_v41 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "17%",
+            "Tasks": "(7/40)",
+            "Status": "Rendering (17)",
+            "Project": "AVITO_NEDVIZHIMOST",
+            "Render": "main",
+            "est.": "00:01:04",
+            "Priority": "60"
         }
     ],
     "SCANIA_BK": [
