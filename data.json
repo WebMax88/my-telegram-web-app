@@ -29,17 +29,31 @@
             "Priority": "55"
         },
         {
-            "Task_Progress": "60%",
+            "Task_Progress": "0%",
             "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/nebulaz",
+            "Task_name": "WBC_110_v02 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/159)",
-            "Status": "Rendering (13)",
+            "Status": "Queued",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "unknown",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(6/159)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "unknown",
+            "est.": "06:00:46",
             "Priority": "55"
         },
         {
@@ -64,23 +78,9 @@
             "Plugin": "Houdini",
             "Progress": "11%",
             "Tasks": "(19/159)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "18:28:41",
-            "Priority": "55"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol_laser",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/159)",
             "Status": "Queued",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
+            "Render": "vol_light",
             "est.": "unknown",
             "Priority": "55"
         }
@@ -99,6 +99,20 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
+        },
+        {
+            "Task_Progress": "60%",
+            "Name": "BND_0070_comp_v0",
+            "Task_name": "BND_0070_comp_v07.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "45%",
+            "Tasks": "(5/11)",
+            "Status": "Rendering (6)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "BND_0070_comp_v07.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "SCANIA_BK": [
@@ -108,12 +122,12 @@
             "Task_name": "Holo_v10 - /out/ContuorFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(39/250)",
-            "Status": "Rendering (12)",
+            "Progress": "25%",
+            "Tasks": "(63/250)",
+            "Status": "Rendering (15)",
             "Project": "SCANIA_BK",
             "Render": "ContuorFull",
-            "est.": "00:34:00",
+            "est.": "00:24:06",
             "Priority": "60"
         },
         {
@@ -122,12 +136,12 @@
             "Task_name": "Holo_v10 - /out/VoxelsFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "6%",
-            "Tasks": "(16/250)",
-            "Status": "Rendering (13)",
+            "Progress": "12%",
+            "Tasks": "(31/250)",
+            "Status": "Rendering (14)",
             "Project": "SCANIA_BK",
             "Render": "VoxelsFull",
-            "est.": "01:15:35",
+            "est.": "01:06:58",
             "Priority": "60"
         },
         {
@@ -136,12 +150,12 @@
             "Task_name": "Holo_v10 - /out/CoverFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(39/250)",
+            "Progress": "28%",
+            "Tasks": "(70/250)",
             "Status": "Rendering (14)",
             "Project": "SCANIA_BK",
             "Render": "CoverFull",
-            "est.": "00:29:49",
+            "est.": "00:25:43",
             "Priority": "60"
         },
         {
@@ -150,12 +164,12 @@
             "Task_name": "Holo_v10 - /out/PatternFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(20/250)",
-            "Status": "Rendering (13)",
+            "Progress": "16%",
+            "Tasks": "(42/250)",
+            "Status": "Rendering (15)",
             "Project": "SCANIA_BK",
             "Render": "PatternFull",
-            "est.": "01:03:13",
+            "est.": "00:47:58",
             "Priority": "60"
         }
     ]
