@@ -1,6 +1,6 @@
 [
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -170,7 +170,7 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS153",
         "user": "---"
     },
