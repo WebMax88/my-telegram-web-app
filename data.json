@@ -1,20 +1,6 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "0%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/floor_shadow",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/159)",
-            "Status": "Queued",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "floor_shadow",
-            "est.": "unknown",
-            "Priority": "55"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "WBC_110_v02-/out",
             "Task_name": "WBC_110_v02 - /out/nebulaz",
@@ -31,14 +17,14 @@
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/nebulaz_mask",
+            "Task_name": "WBC_110_v02 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(4/159)",
+            "Progress": "11%",
+            "Tasks": "(19/159)",
             "Status": "Queued",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz_mask",
+            "Render": "vol_light",
             "est.": "unknown",
             "Priority": "55"
         },
@@ -71,16 +57,30 @@
             "Priority": "55"
         },
         {
-            "Task_Progress": "100%",
+            "Task_Progress": "0%",
             "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol_light",
+            "Task_name": "WBC_110_v02 - /out/floor_shadow",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(19/159)",
+            "Progress": "0%",
+            "Tasks": "(0/159)",
             "Status": "Queued",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
+            "Render": "floor_shadow",
+            "est.": "unknown",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/nebulaz_mask",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(4/159)",
+            "Status": "Queued",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz_mask",
             "est.": "unknown",
             "Priority": "55"
         }
@@ -92,40 +92,12 @@
             "Task_name": "Holo_v10 - /out/CoverFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(175/250)",
-            "Status": "Rendering (12)",
+            "Progress": "80%",
+            "Tasks": "(201/250)",
+            "Status": "Rendering (13)",
             "Project": "SCANIA_BK",
             "Render": "CoverFull",
-            "est.": "00:15:37",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v10-/out/Pa",
-            "Task_name": "Holo_v10 - /out/PatternFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(155/250)",
-            "Status": "Rendering (12)",
-            "Project": "SCANIA_BK",
-            "Render": "PatternFull",
-            "est.": "00:23:08",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v10-/out/Co",
-            "Task_name": "Holo_v10 - /out/ContuorFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(230/250)",
-            "Status": "Rendering (11)",
-            "Project": "SCANIA_BK",
-            "Render": "ContuorFull",
-            "est.": "00:01:47",
+            "est.": "00:08:07",
             "Priority": "60"
         },
         {
@@ -134,28 +106,42 @@
             "Task_name": "Holo_v10 - /out/VoxelsFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(111/250)",
+            "Progress": "50%",
+            "Tasks": "(125/250)",
             "Status": "Rendering (10)",
             "Project": "SCANIA_BK",
             "Render": "VoxelsFull",
-            "est.": "00:58:20",
+            "est.": "00:52:02",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v10-/out/Pa",
+            "Task_name": "Holo_v10 - /out/PatternFull",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "70%",
+            "Tasks": "(177/250)",
+            "Status": "Rendering (11)",
+            "Project": "SCANIA_BK",
+            "Render": "PatternFull",
+            "est.": "00:18:29",
             "Priority": "60"
         }
     ],
     "AVITO_NEDVIZHIMOST": [
         {
             "Task_Progress": "100%",
-            "Name": "AVITJET_v33-/out",
-            "Task_name": "AVITJET_v33 - /out/sobs_1",
+            "Name": "AVITJET_v34-/out",
+            "Task_name": "AVITJET_v34 - /out/comm",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(38/40)",
-            "Status": "Rendering (2)",
+            "Progress": "50%",
+            "Tasks": "(20/40)",
+            "Status": "Rendering (11)",
             "Project": "AVITO_NEDVIZHIMOST",
-            "Render": "sobs_1",
-            "est.": "00:00:01",
+            "Render": "comm",
+            "est.": "00:01:40",
             "Priority": "60"
         },
         {
@@ -164,12 +150,12 @@
             "Task_name": "AVITJET_v34 - /out/sobs_2",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "48%",
-            "Tasks": "(24/50)",
-            "Status": "Rendering (12)",
+            "Progress": "72%",
+            "Tasks": "(36/50)",
+            "Status": "Rendering (9)",
             "Project": "AVITO_NEDVIZHIMOST",
             "Render": "sobs_2",
-            "est.": "00:01:58",
+            "est.": "00:01:08",
             "Priority": "60"
         }
     ],
@@ -186,6 +172,22 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
+    "NIKE_KNICKS_PRLM": [
+        {
+            "Task_Progress": "40%",
+            "Name": "KAT_100_comp_v11",
+            "Task_name": "KAT_100_comp_v11.nk",
+            "User": "savvin",
+            "Plugin": "Nuke",
+            "Progress": "7%",
+            "Tasks": "(2/28)",
+            "Status": "Rendering (22)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "KAT_100_comp_v11.nk",
+            "est.": "00:00:07",
             "Priority": "90"
         }
     ]
