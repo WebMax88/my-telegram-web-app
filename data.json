@@ -6,12 +6,12 @@
             "Task_name": "WBC_060_comp_v05.nk",
             "User": "shvetsov",
             "Plugin": "Nuke",
-            "Progress": "38%",
-            "Tasks": "(20/52)",
-            "Status": "Rendering (12)",
+            "Progress": "100%",
+            "Tasks": "(52/52)",
+            "Status": "Completed",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_060_comp_v05.nk",
-            "est.": "00:04:57",
+            "est.": "00:00:00",
             "Priority": "90"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WBC_110_v02 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(46/159)",
+            "Progress": "31%",
+            "Tasks": "(50/159)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "02:24:05",
+            "est.": "02:20:39",
             "Priority": "55"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBC_110_v02 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(26/159)",
+            "Progress": "18%",
+            "Tasks": "(29/159)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "02:44:16",
+            "est.": "02:40:22",
             "Priority": "55"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "WBC_110_v02 - /out/floor_shadow",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(69/159)",
-            "Status": "Rendering (4)",
+            "Progress": "52%",
+            "Tasks": "(84/159)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "floor_shadow",
-            "est.": "00:44:17",
+            "est.": "00:28:08",
             "Priority": "55"
         },
         {
@@ -62,12 +62,12 @@
             "Task_name": "WBC_110_v02 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(44/159)",
+            "Progress": "33%",
+            "Tasks": "(53/159)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:13:57",
+            "est.": "01:07:03",
             "Priority": "55"
         },
         {
@@ -77,11 +77,11 @@
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "11%",
-            "Tasks": "(18/159)",
+            "Tasks": "(19/159)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "08:08:47",
+            "est.": "08:04:54",
             "Priority": "55"
         },
         {
@@ -90,12 +90,12 @@
             "Task_name": "WBC_110_v02 - /out/nebulaz_mask",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "68%",
-            "Tasks": "(109/159)",
+            "Progress": "83%",
+            "Tasks": "(132/159)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_mask",
-            "est.": "00:11:20",
+            "est.": "00:05:19",
             "Priority": "55"
         }
     ],
@@ -112,6 +112,22 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
+    "WINLINE_WORLDCUP": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WWC_30_comp_v13.",
+            "Task_name": "WWC_30_comp_v13.nk",
+            "User": "raznov",
+            "Plugin": "Nuke",
+            "Progress": "41%",
+            "Tasks": "(116/278)",
+            "Status": "Rendering (29)",
+            "Project": "WINLINE_WORLDCUP",
+            "Render": "WWC_30_comp_v13.nk",
+            "est.": "00:02:17",
             "Priority": "90"
         }
     ]
