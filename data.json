@@ -1,4 +1,48 @@
 {
+    "AVITO_NEDVIZHIMOST": [
+        {
+            "Task_Progress": "100%",
+            "Name": "AVITJET_v36-/out",
+            "Task_name": "AVITJET_v36 - /out/sobs2",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "86%",
+            "Tasks": "(43/50)",
+            "Status": "Rendering (7)",
+            "Project": "AVITO_NEDVIZHIMOST",
+            "Render": "sobs2",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "AVITJET_v35-/out",
+            "Task_name": "AVITJET_v35 - /out/sobs1",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(39/40)",
+            "Status": "Rendering (1)",
+            "Project": "AVITO_NEDVIZHIMOST",
+            "Render": "sobs1",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "AVITJET_v37-/out",
+            "Task_name": "AVITJET_v37 - /out/sobs2",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/50)",
+            "Status": "Rendering (21)",
+            "Project": "AVITO_NEDVIZHIMOST",
+            "Render": "sobs2",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "0%",
@@ -8,9 +52,23 @@
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/159)",
-            "Status": "Queued",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "floor_shadow",
+            "est.": "unknown",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/159)",
+            "Status": "Rendering (2)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
             "est.": "unknown",
             "Priority": "55"
         },
@@ -22,10 +80,10 @@
             "Plugin": "Houdini",
             "Progress": "7%",
             "Tasks": "(12/159)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "04:29:02",
+            "est.": "17:15:17",
             "Priority": "55"
         },
         {
@@ -34,23 +92,23 @@
             "Task_name": "WBC_110_v02 - /out/nebulaz_mask",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(4/159)",
-            "Status": "Queued",
+            "Progress": "7%",
+            "Tasks": "(12/159)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_mask",
-            "est.": "unknown",
+            "est.": "00:57:44",
             "Priority": "55"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "8%",
             "Name": "WBC_110_v02-/out",
             "Task_name": "WBC_110_v02 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/159)",
-            "Status": "Queued",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
             "est.": "unknown",
@@ -64,57 +122,11 @@
             "Plugin": "Houdini",
             "Progress": "11%",
             "Tasks": "(19/159)",
-            "Status": "Queued",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "unknown",
+            "est.": "02:31:32",
             "Priority": "55"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/159)",
-            "Status": "Queued",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "unknown",
-            "Priority": "55"
-        }
-    ],
-    "AVITO_NEDVIZHIMOST": [
-        {
-            "Task_Progress": "100%",
-            "Name": "AVITJET_v35-/out",
-            "Task_name": "AVITJET_v35 - /out/sobs1",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "7%",
-            "Tasks": "(3/40)",
-            "Status": "Rendering (5)",
-            "Project": "AVITO_NEDVIZHIMOST",
-            "Render": "sobs1",
-            "est.": "00:06:05",
-            "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v10-/out/Vo",
-            "Task_name": "Holo_v10 - /out/VoxelsFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "77%",
-            "Tasks": "(194/250)",
-            "Status": "Rendering (50)",
-            "Project": "SCANIA_BK",
-            "Render": "VoxelsFull",
-            "est.": "00:00:32",
-            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
@@ -130,22 +142,6 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
-            "Priority": "90"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_510_Ai_cln__",
-            "Task_name": "QDY_510_Ai_cln__v02.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "80%",
-            "Tasks": "(59/73)",
-            "Status": "Rendering (9)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_510_Ai_cln__v02.nk",
-            "est.": "00:00:08",
             "Priority": "90"
         }
     ]
