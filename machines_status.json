@@ -25,7 +25,7 @@
         "user": "Ruslan Ziganshin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws46",
         "user": "Daniil Makarov"
     },
@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "StartingJob",
+        "status": "Rendering",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -180,7 +180,7 @@
         "user": "Freelancer - Denis Pokhodyaev"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -215,12 +215,12 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
