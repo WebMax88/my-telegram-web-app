@@ -12,7 +12,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
             "est.": "unknown",
-            "Priority": "55"
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -40,7 +40,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
             "est.": "unknown",
-            "Priority": "55"
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -68,7 +68,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "unknown",
-            "Priority": "55"
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -96,7 +96,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_mask",
             "est.": "unknown",
-            "Priority": "55"
+            "Priority": "60"
         },
         {
             "Task_Progress": "0%",
@@ -110,7 +110,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
             "est.": "unknown",
-            "Priority": "55"
+            "Priority": "60"
         },
         {
             "Task_Progress": "100%",
@@ -118,12 +118,12 @@
             "Task_name": "WBC_060_v15 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(1/155)",
+            "Progress": "1%",
+            "Tasks": "(2/155)",
             "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "12:11:58",
+            "est.": "11:50:13",
             "Priority": "60"
         },
         {
@@ -138,7 +138,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "floor_shadow",
             "est.": "unknown",
-            "Priority": "55"
+            "Priority": "60"
         }
     ],
     "NJM_SPOTLIGHT_PRLM": [
@@ -178,26 +178,28 @@
             "Task_name": "TST_010_stadium_fly_v083 - /stage/main_part_2/usdrender_rop",
             "User": "druz",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(265/365)",
-            "Status": "Rendering (24)",
+            "Progress": "80%",
+            "Tasks": "(293/365)",
+            "Status": "Rendering (25)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:17:26",
+            "est.": "00:10:26",
             "Priority": "75"
-        },
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
         {
-            "Task_Progress": "100%",
-            "Name": "QDY_510_comp_v08",
-            "Task_name": "QDY_510_comp_v08.nk",
-            "User": "godomin",
+            "Task_Progress": "0%",
+            "Name": "TST_050_comp_v13",
+            "Task_name": "TST_050_comp_v13.nk",
+            "User": "pavlyuchenkov",
             "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(37/37)",
-            "Status": "Completed",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_510_comp_v08.nk",
-            "est.": "00:00:00",
+            "Progress": "0%",
+            "Tasks": "(0/16)",
+            "Status": "Rendering (11)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_050_comp_v13.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ],
@@ -222,12 +224,12 @@
             "Task_name": "BND_0040_v24 - /obj/lopnet1/BND_0050/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(43/44)",
-            "Status": "Queued",
+            "Progress": "100%",
+            "Tasks": "(44/44)",
+            "Status": "Completed",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:00:00",
             "Priority": "60"
         },
         {
@@ -250,12 +252,12 @@
             "Task_name": "BND_0040_v24 - /obj/lopnet1/BND_0040/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(15/41)",
+            "Progress": "39%",
+            "Tasks": "(16/41)",
             "Status": "Rendering (1)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "03:37:45",
+            "est.": "03:39:00",
             "Priority": "60"
         },
         {
@@ -273,22 +275,6 @@
             "Priority": "60"
         }
     ],
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_050_comp_v13",
-            "Task_name": "TST_050_comp_v13.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/16)",
-            "Status": "Rendering (14)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_v13.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "SCANIA_BK": [
         {
             "Task_Progress": "100%",
@@ -296,12 +282,12 @@
             "Task_name": "Holo_v14 - /out/ContuorFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(144/250)",
-            "Status": "Rendering (3)",
+            "Progress": "59%",
+            "Tasks": "(149/250)",
+            "Status": "Rendering (1)",
             "Project": "SCANIA_BK",
             "Render": "ContuorFull",
-            "est.": "01:33:03",
+            "est.": "04:32:44",
             "Priority": "60"
         },
         {
@@ -310,12 +296,12 @@
             "Task_name": "Holo_v14 - /out/PatternFull",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(95/250)",
-            "Status": "Rendering (7)",
+            "Progress": "40%",
+            "Tasks": "(102/250)",
+            "Status": "Rendering (1)",
             "Project": "SCANIA_BK",
             "Render": "PatternFull",
-            "est.": "01:26:29",
+            "est.": "09:57:12",
             "Priority": "60"
         },
         {
@@ -326,7 +312,7 @@
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/125)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "SCANIA_BK",
             "Render": "PatternFullFrame",
             "est.": "unknown",
@@ -375,17 +361,17 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "100%",
             "Name": "Holo_v17-/out/Co",
             "Task_name": "Holo_v17 - /out/CoverFullFrame",
             "User": "dmakarov",
             "Plugin": "Houdini",
             "Progress": "0%",
-            "Tasks": "(0/125)",
-            "Status": "Queued",
+            "Tasks": "(1/125)",
+            "Status": "Rendering (1)",
             "Project": "SCANIA_BK",
             "Render": "CoverFullFrame",
-            "est.": "unknown",
+            "est.": "04:04:43",
             "Priority": "60"
         },
         {
@@ -403,17 +389,17 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "100%",
             "Name": "Holo_v17-/out/Co",
             "Task_name": "Holo_v17 - /out/ContuorFullFrame",
             "User": "dmakarov",
             "Plugin": "Houdini",
             "Progress": "0%",
-            "Tasks": "(0/125)",
-            "Status": "Queued",
+            "Tasks": "(1/125)",
+            "Status": "Rendering (1)",
             "Project": "SCANIA_BK",
             "Render": "ContuorFullFrame",
-            "est.": "unknown",
+            "est.": "04:40:37",
             "Priority": "60"
         },
         {
@@ -423,11 +409,11 @@
             "User": "dmakarov",
             "Plugin": "Houdini",
             "Progress": "72%",
-            "Tasks": "(180/250)",
-            "Status": "Queued",
+            "Tasks": "(182/250)",
+            "Status": "Rendering (2)",
             "Project": "SCANIA_BK",
             "Render": "ContuorFront",
-            "est.": "unknown",
+            "est.": "00:49:23",
             "Priority": "60"
         },
         {
@@ -436,12 +422,12 @@
             "Task_name": "Holo_v17 - /out/all_all_Frame",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(21/125)",
+            "Progress": "39%",
+            "Tasks": "(49/125)",
             "Status": "Rendering (15)",
             "Project": "SCANIA_BK",
             "Render": "all_all_Frame",
-            "est.": "00:26:06",
+            "est.": "00:17:26",
             "Priority": "75"
         }
     ]
