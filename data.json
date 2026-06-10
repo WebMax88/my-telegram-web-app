@@ -1,51 +1,5 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Final_reveal_clo",
-            "Task_name": "Final_reveal_clouds_v05 - /obj/lopnet1/clouds_l3/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(23/51)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:04:51",
-            "Priority": "60"
-        }
-    ],
-    "NIKE_KNICKS_PRLM": [
-        {
-            "Task_Progress": "20%",
-            "Name": "KAT_120_v002-/ob",
-            "Task_name": "KAT_120_v002 - /obj/lopnet1/crowd/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(2/120)",
-            "Status": "Rendering (34)",
-            "Project": "NIKE_KNICKS_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:07:55",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol_laser",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(44/159)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "02:22:54",
-            "Priority": "55"
-        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v02-/out",
@@ -63,6 +17,34 @@
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/vol_light",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "41%",
+            "Tasks": "(66/159)",
+            "Status": "Queued",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "unknown",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
+            "Task_name": "WBC_110_v02 - /out/vol_laser",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "30%",
+            "Tasks": "(49/159)",
+            "Status": "Queued",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "unknown",
+            "Priority": "55"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v02-/out",
             "Task_name": "WBC_110_v02 - /out/floor_shadow",
             "User": "mochalova",
             "Plugin": "Houdini",
@@ -72,20 +54,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "floor_shadow",
             "est.": "unknown",
-            "Priority": "55"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v02-/out",
-            "Task_name": "WBC_110_v02 - /out/vol_light",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(63/159)",
-            "Status": "Rendering (3)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "04:17:43",
             "Priority": "55"
         },
         {
@@ -116,6 +84,66 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
+    "NIKE_KNICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "KAT_120_v002-/ob",
+            "Task_name": "KAT_120_v002 - /obj/lopnet1/crowd/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "52%",
+            "Tasks": "(63/120)",
+            "Status": "Rendering (40)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:01:36",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "KAT_120_comp_v04",
+            "Task_name": "KAT_120_comp_v04.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "87%",
+            "Tasks": "(42/48)",
+            "Status": "Rendering (6)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "KAT_120_comp_v04.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Final_reveal_clo",
+            "Task_name": "Final_reveal_clouds_v05 - /obj/lopnet1/clouds_l3/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "54%",
+            "Tasks": "(28/51)",
+            "Status": "Rendering (12)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:03:34",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_510_Ai_cln__",
+            "Task_name": "QDY_510_Ai_cln__v02.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "16%",
+            "Tasks": "(12/73)",
+            "Status": "Rendering (7)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_510_Ai_cln__v02.nk",
+            "est.": "00:05:05",
             "Priority": "90"
         }
     ]
