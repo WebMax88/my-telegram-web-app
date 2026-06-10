@@ -2,16 +2,30 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "WBC_060_v15-/out",
+            "Task_name": "WBC_060_v15 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "87%",
+            "Tasks": "(135/155)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:15:04",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_100_v19-/out",
             "Task_name": "WBC_100_v19 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(58/83)",
+            "Progress": "73%",
+            "Tasks": "(61/83)",
             "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:40:23",
+            "est.": "00:33:14",
             "Priority": "60"
         },
         {
@@ -20,12 +34,12 @@
             "Task_name": "WBC_110_v04 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "86%",
-            "Tasks": "(138/159)",
+            "Progress": "88%",
+            "Tasks": "(141/159)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "00:13:51",
+            "est.": "00:10:50",
             "Priority": "60"
         },
         {
@@ -34,12 +48,12 @@
             "Task_name": "WBC_110_v04 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "79%",
-            "Tasks": "(126/159)",
+            "Progress": "83%",
+            "Tasks": "(132/159)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "00:25:04",
+            "est.": "00:19:12",
             "Priority": "60"
         },
         {
@@ -48,26 +62,28 @@
             "Task_name": "WBC_110_v04 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(43/159)",
+            "Progress": "28%",
+            "Tasks": "(45/159)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "05:36:41",
+            "est.": "05:26:39",
             "Priority": "60"
-        },
+        }
+    ],
+    "SCANIA_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_060_v15-/out",
-            "Task_name": "WBC_060_v15 - /out/nebulaz",
-            "User": "ushakova",
+            "Name": "Holo_v14-/out/Vo",
+            "Task_name": "Holo_v14 - /out/VoxelsFull",
+            "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(129/155)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:22:13",
+            "Progress": "99%",
+            "Tasks": "(249/250)",
+            "Status": "Rendering (1)",
+            "Project": "SCANIA_BK",
+            "Render": "VoxelsFull",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -85,22 +101,6 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v14-/out/Vo",
-            "Task_name": "Holo_v14 - /out/VoxelsFull",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(249/250)",
-            "Status": "Rendering (1)",
-            "Project": "SCANIA_BK",
-            "Render": "VoxelsFull",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
