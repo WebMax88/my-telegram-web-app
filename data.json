@@ -6,12 +6,12 @@
             "Task_name": "WBC_110_v05 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "42%",
-            "Tasks": "(68/159)",
-            "Status": "Rendering (31)",
+            "Progress": "44%",
+            "Tasks": "(70/159)",
+            "Status": "Rendering (30)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:06:15",
+            "est.": "01:07:38",
             "Priority": "70"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WBC_060_comp_v06.nk",
             "User": "shvetsov",
             "Plugin": "Nuke",
-            "Progress": "63%",
-            "Tasks": "(33/52)",
-            "Status": "Rendering (11)",
+            "Progress": "96%",
+            "Tasks": "(50/52)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_060_comp_v06.nk",
-            "est.": "00:01:28",
+            "est.": "00:00:01",
             "Priority": "90"
         }
     ],
