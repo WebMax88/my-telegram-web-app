@@ -15,7 +15,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "14%",
+            "Task_Progress": "23%",
             "Name": "WBC_100_v20-/out",
             "Task_name": "WBC_100_v20 - /out/vol",
             "User": "mochalova",
@@ -29,21 +29,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v19.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(16/17)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v19.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "26%",
+            "Task_Progress": "46%",
             "Name": "WBC_100_v20-/out",
             "Task_name": "WBC_100_v20 - /out/nebulaz",
             "User": "mochalova",
@@ -58,6 +44,20 @@
         }
     ],
     "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "BND_0130_comp_v0",
+            "Task_name": "BND_0130_comp_v04.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "37%",
+            "Tasks": "(3/8)",
+            "Status": "Rendering (5)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "BND_0130_comp_v04.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "0%",
             "Name": "BND_0130_comp_v0",
