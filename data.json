@@ -6,12 +6,12 @@
             "Task_name": "AVITJET_v46 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(1/40)",
-            "Status": "Rendering (18)",
+            "Progress": "65%",
+            "Tasks": "(26/40)",
+            "Status": "Rendering (14)",
             "Project": "AVITO_NEDVIZHIMOST",
             "Render": "main",
-            "est.": "00:01:10",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -23,11 +23,11 @@
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "13%",
-            "Tasks": "(21/159)",
+            "Tasks": "(22/159)",
             "Status": "Rendering (31)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:46:45",
+            "est.": "01:48:21",
             "Priority": "70"
         }
     ],
