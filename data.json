@@ -1,62 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v20-/out",
-            "Task_name": "WBC_100_v20 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(13/83)",
-            "Status": "Rendering (11)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "05:28:45",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "40%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v19.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "70%",
-            "Tasks": "(12/17)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v19.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v20-/out",
-            "Task_name": "WBC_100_v20 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(52/83)",
-            "Status": "Rendering (11)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:32:39",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "WBC_100_v20-/out",
-            "Task_name": "WBC_100_v20 - /out/car",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/83)",
-            "Status": "Rendering (3)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "car",
-            "est.": "unknown",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -85,6 +27,80 @@
             "Render": "usdrender_rop",
             "est.": "00:00:01",
             "Priority": "59"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "80%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v19.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "94%",
+            "Tasks": "(16/17)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v19.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v20-/out",
+            "Task_name": "WBC_100_v20 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "21%",
+            "Tasks": "(18/83)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "05:00:51",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v20-/out",
+            "Task_name": "WBC_100_v20 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "72%",
+            "Tasks": "(60/83)",
+            "Status": "Rendering (12)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:16:30",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "WBC_100_v20-/out",
+            "Task_name": "WBC_100_v20 - /out/car",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/83)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "car",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "QDY_510_comp_v10",
+            "Task_name": "QDY_510_comp_v10.nk",
+            "User": "godomin",
+            "Plugin": "Nuke",
+            "Progress": "76%",
+            "Tasks": "(70/91)",
+            "Status": "Rendering (15)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "QDY_510_comp_v10.nk",
+            "est.": "00:00:10",
+            "Priority": "90"
         }
     ]
 }
