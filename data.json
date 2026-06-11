@@ -15,22 +15,6 @@
             "Priority": "65"
         }
     ],
-    "AVITO_NEDVIZHIMOST": [
-        {
-            "Task_Progress": "100%",
-            "Name": "AVITJET_v44-/out",
-            "Task_name": "AVITJET_v44 - /out/main",
-            "User": "shashkov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(39/40)",
-            "Status": "Rendering (1)",
-            "Project": "AVITO_NEDVIZHIMOST",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
