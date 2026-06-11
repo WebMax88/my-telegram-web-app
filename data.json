@@ -1,4 +1,20 @@
 {
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "SPO_100_comp_v01",
+            "Task_name": "SPO_100_comp_v01.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "91%",
+            "Tasks": "(41/45)",
+            "Status": "Rendering (4)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_100_comp_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -12,22 +28,6 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
-            "Priority": "90"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_100_comp_v01",
-            "Task_name": "SPO_100_comp_v01.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(40/45)",
-            "Status": "Rendering (5)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_100_comp_v01.nk",
-            "est.": "00:00:01",
             "Priority": "90"
         }
     ]
