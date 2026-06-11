@@ -1,6 +1,20 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v20.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "76%",
+            "Tasks": "(13/17)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v20.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
             "Task_Progress": "0%",
             "Name": "WBC_100_v20-/out",
             "Task_name": "WBC_100_v20 - /out/car",
@@ -13,20 +27,6 @@
             "Render": "car",
             "est.": "unknown",
             "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v20.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "64%",
-            "Tasks": "(11/17)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v20.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "SCANIA_BK": [
