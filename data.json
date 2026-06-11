@@ -1,34 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Final_reveal_clo",
-            "Task_name": "Final_reveal_clouds_v09 - /obj/lopnet1/clouds_l3/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(14/56)",
-            "Status": "Rendering (8)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:09:39",
-            "Priority": "65"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Final_reveal_clo",
-            "Task_name": "Final_reveal_clouds_v09 - /obj/lopnet1/clouds_l4/usdrender_rop",
-            "User": "aleksandrov",
-            "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(9/16)",
-            "Status": "Rendering (7)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "65"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -43,6 +13,22 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Final_reveal_clo",
+            "Task_name": "Final_reveal_clouds_v09 - /obj/lopnet1/clouds_l3/usdrender_rop",
+            "User": "aleksandrov",
+            "Plugin": "Houdini",
+            "Progress": "37%",
+            "Tasks": "(21/56)",
+            "Status": "Rendering (15)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "usdrender_rop",
+            "est.": "00:04:13",
+            "Priority": "65"
         }
     ]
 }
