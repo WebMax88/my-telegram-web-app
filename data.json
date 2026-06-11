@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v05-/out",
-            "Task_name": "WBC_110_v05 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(132/159)",
-            "Status": "Rendering (27)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:00:01",
-            "Priority": "70"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -31,32 +15,18 @@
             "Priority": "90"
         }
     ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "0%",
-            "Name": "QDY_510_comp_v10",
-            "Task_name": "QDY_510_comp_v10.nk",
-            "User": "godomin",
-            "Plugin": "Nuke",
-            "Progress": "52%",
-            "Tasks": "(11/21)",
-            "Status": "Rendering (10)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_510_comp_v10.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "TST_010_w_7sec_b",
-            "Task_name": "TST_010_w_7sec_ball_v085 - /out/main",
-            "User": "druz",
+            "Name": "WBC_110_v05-/out",
+            "Task_name": "WBC_110_v05 - /out/vol",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(174/175)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "main",
+            "Progress": "86%",
+            "Tasks": "(138/159)",
+            "Status": "Rendering (21)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
             "est.": "00:00:01",
             "Priority": "70"
         }
