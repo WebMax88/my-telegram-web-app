@@ -2,16 +2,44 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "WBC_100_v20-/out",
+            "Task_name": "WBC_100_v20 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(8/83)",
+            "Status": "Rendering (12)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "04:20:45",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v20-/out",
+            "Task_name": "WBC_100_v20 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "32%",
+            "Tasks": "(27/83)",
+            "Status": "Rendering (12)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:07:02",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_110_comp_v01",
             "Task_name": "WBC_110_comp_v01.nk",
             "User": "shvetsov",
             "Plugin": "Nuke",
-            "Progress": "43%",
-            "Tasks": "(14/32)",
-            "Status": "Rendering (9)",
+            "Progress": "62%",
+            "Tasks": "(20/32)",
+            "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_110_comp_v01.nk",
-            "est.": "00:06:48",
+            "est.": "00:01:19",
             "Priority": "90"
         },
         {
@@ -27,81 +55,25 @@
             "Render": "car",
             "est.": "unknown",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v20-/out",
-            "Task_name": "WBC_100_v20 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(26/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "02:09:47",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v20-/out",
-            "Task_name": "WBC_100_v20 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(8/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "08:02:29",
-            "Priority": "60"
         }
     ],
-    "XFINITY_ZOMBIE_PRLM": [
+    "NIKE_KNICKS_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "DRN_001_v008-/st",
-            "Task_name": "DRN_001_v008 - /stage/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(89/91)",
+            "Name": "KAT_100_comp_v17",
+            "Task_name": "KAT_100_comp_v17.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "92%",
+            "Tasks": "(26/28)",
             "Status": "Rendering (2)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "KAT_100_comp_v17.nk",
             "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "DRN_001_v008-/st",
-            "Task_name": "DRN_001_v008 - /stage/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(69/91)",
-            "Status": "Rendering (8)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:02:15",
-            "Priority": "60"
+            "Priority": "90"
         }
     ],
     "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0040_v27-/ob",
-            "Task_name": "BND_0040_v27 - /obj/lopnet1/BND_0040/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(38/41)",
-            "Status": "Rendering (3)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "59"
-        },
         {
             "Task_Progress": "0%",
             "Name": "BND_0130_comp_v0",
@@ -117,18 +89,18 @@
             "Priority": "90"
         }
     ],
-    "NIKE_KNICKS_PRLM": [
+    "NJM_SPOTLIGHT_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "KAT_100_comp_v17",
-            "Task_name": "KAT_100_comp_v17.nk",
-            "User": "a.ivanov",
+            "Name": "SPO_100_comp_v01",
+            "Task_name": "SPO_100_comp_v01.nk",
+            "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(27/28)",
-            "Status": "Rendering (1)",
-            "Project": "NIKE_KNICKS_PRLM",
-            "Render": "KAT_100_comp_v17.nk",
+            "Progress": "60%",
+            "Tasks": "(27/45)",
+            "Status": "Rendering (18)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_100_comp_v01.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
