@@ -22,12 +22,12 @@
             "Task_name": "Final_reveal_clouds_v08 - /obj/lopnet1/clouds_l4/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(8/16)",
-            "Status": "Rendering (7)",
+            "Progress": "81%",
+            "Tasks": "(13/16)",
+            "Status": "Rendering (3)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:00:18",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -36,12 +36,12 @@
             "Task_name": "Final_reveal_clouds_v08 - /obj/lopnet1/clouds_l3/usdrender_rop",
             "User": "aleksandrov",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(12/56)",
-            "Status": "Rendering (8)",
+            "Progress": "32%",
+            "Tasks": "(18/56)",
+            "Status": "Rendering (12)",
             "Project": "QIDDIYA_CHARLY",
             "Render": "usdrender_rop",
-            "est.": "00:08:54",
+            "est.": "00:05:43",
             "Priority": "60"
         }
     ]
