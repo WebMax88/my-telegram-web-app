@@ -20,29 +20,27 @@
             "Task_name": "AVITJET_v44 - /out/main",
             "User": "shashkov",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(33/40)",
-            "Status": "Rendering (7)",
+            "Progress": "97%",
+            "Tasks": "(39/40)",
+            "Status": "Queued",
             "Project": "AVITO_NEDVIZHIMOST",
             "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "42%",
-            "Name": "WBC_110_v05-/out",
-            "Task_name": "WBC_110_v05 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/159)",
-            "Status": "Rendering (35)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
             "est.": "unknown",
-            "Priority": "70"
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "AVITJET_v45-/out",
+            "Task_name": "AVITJET_v45 - /out/main",
+            "User": "shashkov",
+            "Plugin": "Houdini",
+            "Progress": "40%",
+            "Tasks": "(16/40)",
+            "Status": "Rendering (14)",
+            "Project": "AVITO_NEDVIZHIMOST",
+            "Render": "main",
+            "est.": "00:01:11",
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
@@ -58,6 +56,38 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "61%",
+            "Name": "WBC_110_v05-/out",
+            "Task_name": "WBC_110_v05 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/159)",
+            "Status": "Rendering (34)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "unknown",
+            "Priority": "70"
+        }
+    ],
+    "NIKE_KNICKS_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "KAT_120_comp_v08",
+            "Task_name": "KAT_120_comp_v08.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/48)",
+            "Status": "Rendering (8)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "KAT_120_comp_v08.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
