@@ -1,31 +1,49 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "NJM_SPOTLIGHT_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_060_comp_v06",
-            "Task_name": "WBC_060_comp_v06.nk",
-            "User": "shvetsov",
+            "Name": "SPO_100_comp_v01",
+            "Task_name": "SPO_100_comp_v01.nk",
+            "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "51%",
-            "Tasks": "(27/52)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_060_comp_v06.nk",
-            "est.": "00:05:14",
+            "Progress": "88%",
+            "Tasks": "(40/45)",
+            "Status": "Rendering (5)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_100_comp_v01.nk",
+            "est.": "00:00:01",
             "Priority": "90"
-        },
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
             "Name": "WBC_110_v05-/out",
             "Task_name": "WBC_110_v05 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "71%",
-            "Tasks": "(114/159)",
-            "Status": "Rendering (26)",
+            "Progress": "72%",
+            "Tasks": "(116/159)",
+            "Status": "Rendering (30)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:25:22",
+            "est.": "00:15:00",
+            "Priority": "70"
+        }
+    ],
+    "QIDDIYA_CHARLY": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_010_w_7sec_b",
+            "Task_name": "TST_010_w_7sec_ball_v085 - /out/main",
+            "User": "druz",
+            "Plugin": "Houdini",
+            "Progress": "69%",
+            "Tasks": "(121/175)",
+            "Status": "Rendering (11)",
+            "Project": "QIDDIYA_CHARLY",
+            "Render": "main",
+            "est.": "00:05:53",
             "Priority": "70"
         }
     ],
@@ -43,22 +61,6 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_w_7sec_b",
-            "Task_name": "TST_010_w_7sec_ball_v085 - /out/main",
-            "User": "druz",
-            "Plugin": "Houdini",
-            "Progress": "52%",
-            "Tasks": "(91/175)",
-            "Status": "Rendering (5)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "main",
-            "est.": "00:23:04",
-            "Priority": "70"
         }
     ]
 }
