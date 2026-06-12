@@ -1,7 +1,7 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "60%",
+            "Task_Progress": "88%",
             "Name": "WBC_100_v24-/out",
             "Task_name": "WBC_100_v24 - /out/nebulaz",
             "User": "mochalova",
@@ -48,12 +48,12 @@
             "Task_name": "WBC_100_v23 - /out/car",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(67/83)",
+            "Progress": "86%",
+            "Tasks": "(72/83)",
             "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "car",
-            "est.": "00:08:58",
+            "est.": "00:03:19",
             "Priority": "70"
         }
     ],
@@ -80,12 +80,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v008 - /stage/main_rop",
             "User": "kufterin",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(53/100)",
+            "Progress": "66%",
+            "Tasks": "(66/100)",
             "Status": "Rendering (13)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:11:36",
+            "est.": "00:07:07",
             "Priority": "60"
         }
     ]
