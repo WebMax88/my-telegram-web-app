@@ -1,20 +1,4 @@
 {
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_510_comp_v14",
-            "Task_name": "QDY_510_comp_v14.nk",
-            "User": "godomin",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(27/28)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_510_comp_v14.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "WBC_100_v24 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(62/83)",
+            "Progress": "78%",
+            "Tasks": "(65/83)",
             "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:20:50",
+            "est.": "00:15:23",
             "Priority": "70"
         },
         {
@@ -50,12 +34,12 @@
             "Task_name": "WBC_110_v09 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "58%",
-            "Tasks": "(93/159)",
+            "Progress": "59%",
+            "Tasks": "(94/159)",
             "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "03:23:19",
+            "est.": "03:19:02",
             "Priority": "70"
         }
     ],
