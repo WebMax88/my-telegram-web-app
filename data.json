@@ -2,30 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_110_v09-/out",
-            "Task_name": "WBC_110_v09 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(90/159)",
-            "Status": "Rendering (11)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "03:34:30",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_100_v24-/out",
             "Task_name": "WBC_100_v24 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "65%",
-            "Tasks": "(54/83)",
+            "Progress": "66%",
+            "Tasks": "(55/83)",
             "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:36:23",
+            "est.": "00:34:23",
             "Priority": "70"
         },
         {
@@ -34,12 +20,26 @@
             "Task_name": "WBC_100_v23 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "25%",
-            "Tasks": "(21/83)",
+            "Progress": "26%",
+            "Tasks": "(22/83)",
             "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "04:52:12",
+            "est.": "04:44:08",
+            "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v09-/out",
+            "Task_name": "WBC_110_v09 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "57%",
+            "Tasks": "(92/159)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "03:26:05",
             "Priority": "70"
         }
     ],
