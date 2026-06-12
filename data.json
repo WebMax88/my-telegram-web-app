@@ -1,34 +1,18 @@
 {
-    "AUTODESK_PRLM": [
-        {
-            "Task_Progress": "0%",
-            "Name": "BND_0130_comp_v0",
-            "Task_name": "BND_0130_comp_v01.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/8)",
-            "Status": "Queued",
-            "Project": "AUTODESK_PRLM",
-            "Render": "BND_0130_comp_v01.nk",
-            "est.": "00:00:00",
-            "Priority": "90"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "0%",
-            "Name": "WBC_060_v17-/out",
-            "Task_name": "WBC_060_v17 - /out/nebulaz",
-            "User": "ushakova",
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v09-/out",
+            "Task_name": "WBC_110_v09 - /out/vol",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/155)",
-            "Status": "Queued",
+            "Progress": "72%",
+            "Tasks": "(116/159)",
+            "Status": "Rendering (16)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "unknown",
-            "Priority": "60"
+            "Render": "vol",
+            "est.": "01:07:35",
+            "Priority": "70"
         },
         {
             "Task_Progress": "100%",
@@ -45,18 +29,64 @@
             "Priority": "70"
         },
         {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v09-/out",
-            "Task_name": "WBC_110_v09 - /out/vol",
-            "User": "mochalova",
+            "Task_Progress": "0%",
+            "Name": "WBC_060_v17-/out",
+            "Task_name": "WBC_060_v17 - /out/nebulaz",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(116/159)",
-            "Status": "Rendering (16)",
+            "Progress": "0%",
+            "Tasks": "(0/155)",
+            "Status": "Queued",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "01:07:35",
-            "Priority": "70"
+            "Render": "nebulaz",
+            "est.": "unknown",
+            "Priority": "60"
+        }
+    ],
+    "AUTODESK_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "BND_0130_comp_v0",
+            "Task_name": "BND_0130_comp_v01.nk",
+            "User": "lukyanova",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/8)",
+            "Status": "Queued",
+            "Project": "AUTODESK_PRLM",
+            "Render": "BND_0130_comp_v01.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
+    "XFINITY_ZOMBIE_PRLM": [
+        {
+            "Task_Progress": "0%",
+            "Name": "DRN_001_v009-/st",
+            "Task_name": "DRN_001_v009 - /stage/shadow/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/46)",
+            "Status": "Queued",
+            "Project": "XFINITY_ZOMBIE_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "DRN_001_v009-/st",
+            "Task_name": "DRN_001_v009 - /stage/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/46)",
+            "Status": "Queued",
+            "Project": "XFINITY_ZOMBIE_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "unknown",
+            "Priority": "60"
         }
     ]
 }
