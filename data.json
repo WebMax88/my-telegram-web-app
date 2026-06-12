@@ -1,62 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v23-/out",
-            "Task_name": "WBC_100_v23 - /out/car",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(81/83)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "car",
-            "est.": "00:00:01",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v24-/out",
-            "Task_name": "WBC_100_v24 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(3/83)",
-            "Status": "Rendering (10)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "01:54:02",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v23-/out",
-            "Task_name": "WBC_100_v23 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(8/83)",
-            "Status": "Rendering (10)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "05:50:52",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v09-/out",
-            "Task_name": "WBC_110_v09 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(63/159)",
-            "Status": "Rendering (10)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "05:52:21",
-            "Priority": "70"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -73,6 +15,50 @@
             "Priority": "90"
         }
     ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v24-/out",
+            "Task_name": "WBC_100_v24 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(5/83)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "01:50:01",
+            "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v23-/out",
+            "Task_name": "WBC_100_v23 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "9%",
+            "Tasks": "(8/83)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "05:14:04",
+            "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v09-/out",
+            "Task_name": "WBC_110_v09 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "40%",
+            "Tasks": "(65/159)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "05:10:38",
+            "Priority": "70"
+        }
+    ],
     "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
@@ -80,29 +66,13 @@
             "Task_name": "Side_Missions_BK_lookdev_Wrathog_v008 - /stage/main_rop",
             "User": "kufterin",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(81/100)",
-            "Status": "Rendering (10)",
+            "Progress": "99%",
+            "Tasks": "(99/100)",
+            "Status": "Rendering (1)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:03:54",
+            "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_050_comp_v01",
-            "Task_name": "SPO_050_comp_v01.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "30%",
-            "Tasks": "(8/26)",
-            "Status": "Rendering (4)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_050_comp_v01.nk",
-            "est.": "00:01:09",
-            "Priority": "90"
         }
     ]
 }
