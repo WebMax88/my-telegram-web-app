@@ -2,44 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v21.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "94%",
-            "Tasks": "(16/17)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v21.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_v10-/out",
-            "Task_name": "WBC_110_v10 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(3/159)",
-            "Status": "Rendering (3)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "15:08:34",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_100_v25-/out",
             "Task_name": "WBC_100_v25 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "22%",
-            "Tasks": "(19/83)",
-            "Status": "Rendering (3)",
+            "Progress": "24%",
+            "Tasks": "(20/83)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "06:53:57",
+            "est.": "04:58:55",
             "Priority": "60"
         },
         {
@@ -55,6 +27,36 @@
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v10-/out",
+            "Task_name": "WBC_110_v10 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "2%",
+            "Tasks": "(4/159)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "14:49:58",
+            "Priority": "60"
+        }
+    ],
+    "NIKE_KNICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "KAT_100_comp_v21",
+            "Task_name": "KAT_100_comp_v21.nk",
+            "User": "shindin",
+            "Plugin": "Nuke",
+            "Progress": "80%",
+            "Tasks": "(37/46)",
+            "Status": "Rendering (9)",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "KAT_100_comp_v21.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ],
     "AUTODESK_PRLM": [
