@@ -1,33 +1,35 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
+    "XFINITY_ZOMBIE_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_110_v09-/out",
-            "Task_name": "WBC_110_v09 - /out/vol",
-            "User": "mochalova",
+            "Name": "DRN_001_v009-/st",
+            "Task_name": "DRN_001_v009 - /stage/shadow/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(118/159)",
-            "Status": "Rendering (15)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "01:09:34",
-            "Priority": "70"
+            "Progress": "19%",
+            "Tasks": "(9/46)",
+            "Status": "Rendering (3)",
+            "Project": "XFINITY_ZOMBIE_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:20:07",
+            "Priority": "75"
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_comp_sta",
-            "Task_name": "WBC_100_comp_stavile_v21.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "64%",
-            "Tasks": "(11/17)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_100_comp_stavile_v21.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
+            "Name": "DRN_001_v009-/st",
+            "Task_name": "DRN_001_v009 - /stage/main/usdrender_rop",
+            "User": "veber",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(3/46)",
+            "Status": "Rendering (4)",
+            "Project": "XFINITY_ZOMBIE_PRLM",
+            "Render": "usdrender_rop",
+            "est.": "00:22:57",
+            "Priority": "75"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v23-/out",
@@ -55,36 +57,20 @@
             "Render": "nebulaz",
             "est.": "unknown",
             "Priority": "60"
-        }
-    ],
-    "XFINITY_ZOMBIE_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DRN_001_v009-/st",
-            "Task_name": "DRN_001_v009 - /stage/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/46)",
-            "Status": "Rendering (2)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:38:14",
-            "Priority": "75"
         },
         {
-            "Task_Progress": "0%",
-            "Name": "DRN_001_v009-/st",
-            "Task_name": "DRN_001_v009 - /stage/main/usdrender_rop",
-            "User": "veber",
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v09-/out",
+            "Task_name": "WBC_110_v09 - /out/vol",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/46)",
-            "Status": "Rendering (1)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "unknown",
-            "Priority": "75"
+            "Progress": "76%",
+            "Tasks": "(122/159)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "01:34:16",
+            "Priority": "70"
         }
     ],
     "AUTODESK_PRLM": [
