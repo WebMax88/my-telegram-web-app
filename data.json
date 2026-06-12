@@ -8,25 +8,25 @@
             "Plugin": "Houdini",
             "Progress": "28%",
             "Tasks": "(24/83)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "car",
-            "est.": "02:16:52",
+            "est.": "00:46:44",
             "Priority": "60"
         },
         {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v23-/out",
-            "Task_name": "WBC_100_v23 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(77/83)",
-            "Status": "Rendering (6)",
+            "Task_Progress": "60%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v21.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "29%",
+            "Tasks": "(5/17)",
+            "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
+            "Render": "WBC_100_comp_stavile_v21.nk",
             "est.": "00:00:01",
-            "Priority": "70"
+            "Priority": "90"
         },
         {
             "Task_Progress": "100%",
@@ -36,11 +36,25 @@
             "Plugin": "Houdini",
             "Progress": "30%",
             "Tasks": "(25/83)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "05:56:52",
+            "est.": "01:45:58",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v23-/out",
+            "Task_name": "WBC_100_v23 - /out/vol",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "93%",
+            "Tasks": "(78/83)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:00:01",
+            "Priority": "70"
         },
         {
             "Task_Progress": "100%",
@@ -50,27 +64,11 @@
             "Plugin": "Houdini",
             "Progress": "6%",
             "Tasks": "(11/159)",
-            "Status": "Rendering (2)",
+            "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "21:39:55",
+            "est.": "04:35:01",
             "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v35-/out/As",
-            "Task_name": "Holo_v35 - /out/Assembly",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "69%",
-            "Tasks": "(87/125)",
-            "Status": "Rendering (38)",
-            "Project": "SCANIA_BK",
-            "Render": "Assembly",
-            "est.": "00:00:01",
-            "Priority": "80"
         }
     ],
     "AUTODESK_PRLM": [
