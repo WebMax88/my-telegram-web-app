@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "Rendering",
+        "status": "HouseCleaning",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws47",
         "user": "---"
     },
@@ -115,7 +115,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "StartingJob",
+        "status": "Rendering",
         "machine": "ws112",
         "user": "Fedor Smirnov"
     },
@@ -130,7 +130,7 @@
         "user": "Misha Tabratov   IT disabled"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws141",
         "user": "Anton Yurkov"
     },
