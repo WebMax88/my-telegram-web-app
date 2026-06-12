@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "33.33%",
+            "Task_Progress": "100%",
             "Name": "WBC_060_comp_v08",
             "Task_name": "WBC_060_comp_v08.nk",
             "User": "shvetsov",
             "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/52)",
-            "Status": "Rendering (15)",
+            "Progress": "46%",
+            "Tasks": "(24/52)",
+            "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_060_comp_v08.nk",
-            "est.": "unknown",
+            "est.": "00:01:43",
             "Priority": "90"
         },
         {
