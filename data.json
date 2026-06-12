@@ -2,16 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v23-/out",
-            "Task_name": "WBC_100_v23 - /out/car",
+            "Name": "WBC_110_v09-/out",
+            "Task_name": "WBC_110_v09 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(8/83)",
+            "Progress": "32%",
+            "Tasks": "(51/159)",
             "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "car",
-            "est.": "01:21:58",
+            "Render": "vol",
+            "est.": "08:32:44",
             "Priority": "70"
         },
         {
@@ -20,30 +20,30 @@
             "Task_name": "WBC_100_v23 - /out/foreground",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "50%",
-            "Tasks": "(14/28)",
-            "Status": "Rendering (8)",
+            "Progress": "78%",
+            "Tasks": "(22/28)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "foreground",
-            "est.": "00:05:14",
+            "est.": "00:00:51",
             "Priority": "70"
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_110_v09-/out",
-            "Task_name": "WBC_110_v09 - /out/vol",
+            "Name": "WBC_100_v23-/out",
+            "Task_name": "WBC_100_v23 - /out/car",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(50/159)",
-            "Status": "Rendering (8)",
+            "Progress": "13%",
+            "Tasks": "(11/83)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "08:32:31",
+            "Render": "car",
+            "est.": "01:34:30",
             "Priority": "70"
         },
         {
-            "Task_Progress": "62%",
+            "Task_Progress": "65%",
             "Name": "WBC_100_v23-/out",
             "Task_name": "WBC_100_v23 - /out/vol",
             "User": "mochalova",
@@ -55,22 +55,6 @@
             "Render": "vol",
             "est.": "unknown",
             "Priority": "70"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_510_comp_v12",
-            "Task_name": "QDY_510_comp_v12.nk",
-            "User": "godomin",
-            "Plugin": "Nuke",
-            "Progress": "97%",
-            "Tasks": "(36/37)",
-            "Status": "Rendering (1)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_510_comp_v12.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "AUTODESK_PRLM": [
