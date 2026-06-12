@@ -20,12 +20,12 @@
             "Task_name": "WBC_100_v24 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(11/83)",
+            "Progress": "15%",
+            "Tasks": "(13/83)",
             "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:39:32",
+            "est.": "01:35:35",
             "Priority": "70"
         },
         {
@@ -64,12 +64,12 @@
             "Task_name": "BND_0040_v29 - /obj/lopnet1/BND_0150/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "38%",
-            "Tasks": "(13/34)",
+            "Progress": "47%",
+            "Tasks": "(16/34)",
             "Status": "Rendering (18)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:01:15",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
