@@ -15,6 +15,22 @@
             "Priority": "70"
         }
     ],
+    "NIKE_KNICKS_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "KAT_100_comp_v20",
+            "Task_name": "KAT_100_comp_v20.nk",
+            "User": "a.ivanov",
+            "Plugin": "Nuke",
+            "Progress": "100%",
+            "Tasks": "(28/28)",
+            "Status": "Completed",
+            "Project": "NIKE_KNICKS_PRLM",
+            "Render": "KAT_100_comp_v20.nk",
+            "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
