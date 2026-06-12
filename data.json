@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "0%",
-            "Name": "WBC_100_v23-/out",
-            "Task_name": "WBC_100_v23 - /out/foreground",
+            "Task_Progress": "100%",
+            "Name": "WBC_110_v09-/out",
+            "Task_name": "WBC_110_v09 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "96%",
-            "Tasks": "(27/28)",
-            "Status": "Rendering (1)",
+            "Progress": "32%",
+            "Tasks": "(51/159)",
+            "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "foreground",
-            "est.": "00:00:01",
+            "Render": "vol",
+            "est.": "06:01:42",
             "Priority": "70"
         },
         {
@@ -30,30 +30,16 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_110_v09-/out",
-            "Task_name": "WBC_110_v09 - /out/vol",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "32%",
-            "Tasks": "(51/159)",
-            "Status": "Rendering (11)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "06:01:42",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_100_v23-/out",
             "Task_name": "WBC_100_v23 - /out/car",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "19%",
-            "Tasks": "(16/83)",
-            "Status": "Rendering (10)",
+            "Progress": "21%",
+            "Tasks": "(18/83)",
+            "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "car",
-            "est.": "00:58:19",
+            "est.": "00:49:04",
             "Priority": "70"
         }
     ],
@@ -70,36 +56,6 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
-            "Priority": "90"
-        }
-    ],
-    "QIDDIYA_CHARLY": [
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_510_comp_v13",
-            "Task_name": "QDY_510_comp_v13.nk",
-            "User": "godomin",
-            "Plugin": "Nuke",
-            "Progress": "59%",
-            "Tasks": "(22/37)",
-            "Status": "Rendering (12)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_510_comp_v13.nk",
-            "est.": "00:00:09",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "QDY_510_comp_v13",
-            "Task_name": "QDY_510_comp_v13.nk",
-            "User": "godomin",
-            "Plugin": "Nuke",
-            "Progress": "2%",
-            "Tasks": "(1/37)",
-            "Status": "Rendering (14)",
-            "Project": "QIDDIYA_CHARLY",
-            "Render": "QDY_510_comp_v13.nk",
-            "est.": "00:00:54",
             "Priority": "90"
         }
     ]
