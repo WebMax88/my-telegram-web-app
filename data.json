@@ -7,11 +7,25 @@
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "32%",
-            "Tasks": "(51/159)",
+            "Tasks": "(52/159)",
             "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "06:01:42",
+            "est.": "06:06:10",
+            "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v23-/out",
+            "Task_name": "WBC_100_v23 - /out/car",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "30%",
+            "Tasks": "(25/83)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "car",
+            "est.": "00:42:27",
             "Priority": "70"
         },
         {
@@ -26,20 +40,6 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "05:23:26",
-            "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v23-/out",
-            "Task_name": "WBC_100_v23 - /out/car",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(18/83)",
-            "Status": "Rendering (11)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "car",
-            "est.": "00:49:04",
             "Priority": "70"
         }
     ],
