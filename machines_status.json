@@ -45,7 +45,7 @@
         "user": "Vadim Mikhailin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws50",
         "user": "Ruslan Anisimov"
     },
@@ -90,7 +90,7 @@
         "user": "Alexandra Ushakova"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws59",
         "user": "Max Weber"
     },
@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -160,7 +160,7 @@
         "user": "Vadim Raznov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws151",
         "user": "Alexander Povstyanoy"
     },
@@ -230,7 +230,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
