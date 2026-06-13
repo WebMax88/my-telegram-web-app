@@ -1,20 +1,4 @@
 {
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v40-/out/Vo",
-            "Task_name": "Holo_v40 - /out/VoxelsNT",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(124/125)",
-            "Status": "Rendering (1)",
-            "Project": "SCANIA_BK",
-            "Render": "VoxelsNT",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -45,6 +29,22 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
+        }
+    ],
+    "SCANIA_BK": [
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v40-/out/Vo",
+            "Task_name": "Holo_v40 - /out/VoxelsNT",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(124/125)",
+            "Status": "Rendering (1)",
+            "Project": "SCANIA_BK",
+            "Render": "VoxelsNT",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ]
 }
