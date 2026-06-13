@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -55,7 +55,7 @@
         "user": "Bogdan Chernobrovyi"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws52",
         "user": "Alexander Shashkov"
     },
