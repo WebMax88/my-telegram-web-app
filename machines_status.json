@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws49",
         "user": "Vadim Mikhailin"
     },
@@ -145,12 +145,12 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws149",
         "user": "Alexander Korsun"
     },
@@ -200,7 +200,7 @@
         "user": "Nail Sattarov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
@@ -210,7 +210,7 @@
         "user": "Andrey Shindin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws164",
         "user": "WS FOR FREELANCER "
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
@@ -230,12 +230,12 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws204",
         "user": "Ilya Koryukaev"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
@@ -270,12 +270,12 @@
         "user": "Andrey Shvetsov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws212",
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
@@ -285,7 +285,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws215",
         "user": "---"
     },
