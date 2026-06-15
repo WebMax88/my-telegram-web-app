@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -30,7 +30,7 @@
         "user": "Daniil Makarov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws47",
         "user": "---"
     },
@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws49",
         "user": "---"
     },
@@ -50,7 +50,7 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -105,7 +105,7 @@
         "user": "Sonya Pankova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws109",
         "user": "Aleksey Eremeev"
     },
@@ -120,7 +120,7 @@
         "user": "Fedor Smirnov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws113",
         "user": "Kostya Loktev"
     },
@@ -155,7 +155,7 @@
         "user": "Alexander Korsun"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws150",
         "user": "Vadim Raznov"
     },
@@ -170,7 +170,7 @@
         "user": "Maria Lukyanova"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "WS153",
         "user": "---"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
@@ -205,7 +205,7 @@
         "user": "Yuriy Bodolanov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws163",
         "user": "Andrey Shindin"
     },
@@ -220,17 +220,17 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws202",
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
