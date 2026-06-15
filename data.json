@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "64%",
+            "Task_Progress": "100%",
             "Name": "WBC_060_v18-/out",
             "Task_name": "WBC_060_v18 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(14/155)",
+            "Progress": "27%",
+            "Tasks": "(42/155)",
             "Status": "Rendering (38)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:22:39",
+            "est.": "00:18:55",
             "Priority": "60"
         }
     ],
