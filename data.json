@@ -1,20 +1,6 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "98%",
-            "Name": "WBM_010_v02-/out",
-            "Task_name": "WBM_010_v02 - /out/vol_laser",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(4/109)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "05:39:05",
-            "Priority": "60"
-        },
-        {
             "Task_Progress": "100%",
             "Name": "WBC_060_v20-/out",
             "Task_name": "WBC_060_v20 - /out/vol_laser",
@@ -22,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "34%",
             "Tasks": "(54/155)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "unknown",
+            "est.": "06:44:09",
             "Priority": "70"
         },
         {
@@ -36,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "28%",
             "Tasks": "(45/159)",
-            "Status": "Queued",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "unknown",
+            "est.": "23:05:50",
             "Priority": "70"
         },
         {
@@ -50,10 +36,10 @@
             "Plugin": "Houdini",
             "Progress": "34%",
             "Tasks": "(53/155)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "unknown",
+            "est.": "08:02:21",
             "Priority": "70"
         },
         {
@@ -78,10 +64,10 @@
             "Plugin": "Houdini",
             "Progress": "16%",
             "Tasks": "(26/159)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "19:47:59",
+            "est.": "09:38:35",
             "Priority": "70"
         },
         {
@@ -90,12 +76,12 @@
             "Task_name": "WBM_010_v02 - /out/vol_light",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(5/109)",
-            "Status": "Rendering (4)",
+            "Progress": "6%",
+            "Tasks": "(7/109)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "04:00:12",
+            "est.": "05:05:28",
             "Priority": "60"
         },
         {
@@ -106,21 +92,21 @@
             "Plugin": "Houdini",
             "Progress": "87%",
             "Tasks": "(28/32)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "01:11:12",
+            "est.": "00:06:46",
             "Priority": "70"
         },
         {
-            "Task_Progress": "20%",
+            "Task_Progress": "30%",
             "Name": "WBM_010_v02-/out",
             "Task_name": "WBM_010_v02 - /out/vol",
             "User": "korukaev",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/109)",
-            "Status": "Rendering (5)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "unknown",
@@ -134,10 +120,10 @@
             "Plugin": "Houdini",
             "Progress": "25%",
             "Tasks": "(39/155)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "unknown",
+            "est.": "11:40:49",
             "Priority": "70"
         },
         {
@@ -146,13 +132,27 @@
             "Task_name": "WBC_060_v20 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(72/155)",
-            "Status": "Rendering (25)",
+            "Progress": "62%",
+            "Tasks": "(97/155)",
+            "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:20:08",
-            "Priority": "75"
+            "est.": "00:27:53",
+            "Priority": "70"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBM_010_v02-/out",
+            "Task_name": "WBM_010_v02 - /out/vol_laser",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "6%",
+            "Tasks": "(7/109)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "07:01:57",
+            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
