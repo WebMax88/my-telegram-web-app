@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "StartingJob",
+        "status": "Rendering",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -250,7 +250,7 @@
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
@@ -260,7 +260,7 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
@@ -270,7 +270,7 @@
         "user": "Andrey Shvetsov"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws212",
         "user": "---"
     },
