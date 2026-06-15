@@ -50,7 +50,7 @@
         "user": "Ruslan Anisimov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws51",
         "user": "Bogdan Chernobrovyi"
     },
@@ -245,12 +245,12 @@
         "user": "---"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws207",
         "user": "Dmitrii Aleksandrov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws208",
         "user": "Maksim Shkrabo"
     },
@@ -270,7 +270,7 @@
         "user": "Andrey Shvetsov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws212",
         "user": "---"
     },
