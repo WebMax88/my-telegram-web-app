@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Rendering",
+        "status": "StartingJob",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -180,12 +180,12 @@
         "user": "Freelancer - Denis Pokhodyaev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws157",
         "user": "Evgeniy Grigorev"
     },
