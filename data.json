@@ -2,6 +2,20 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "WBC_060_v21-/out",
+            "Task_name": "WBC_060_v21 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "94%",
+            "Tasks": "(147/155)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBC_110_v11-/out",
             "Task_name": "WBC_110_v11 - /out/vol",
             "User": "mochalova",
@@ -13,20 +27,6 @@
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "70"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v21-/out",
-            "Task_name": "WBC_060_v21 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(139/155)",
-            "Status": "Rendering (16)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "AUTODESK_PRLM": [
