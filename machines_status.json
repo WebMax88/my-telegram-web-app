@@ -1,6 +1,6 @@
 [
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws33",
         "user": "Emil Savvin"
     },
@@ -40,7 +40,7 @@
         "user": "Sergei Adlerberg"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws49",
         "user": "---"
     },
@@ -180,7 +180,7 @@
         "user": "Freelancer - Denis Pokhodyaev"
     },
     {
-        "status": "Rendering",
+        "status": "Stalled",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
