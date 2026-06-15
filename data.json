@@ -1,20 +1,6 @@
 {
     "AUTODESK_PRLM": [
         {
-            "Task_Progress": "100%",
-            "Name": "BND_0040_v30-/ob",
-            "Task_name": "BND_0040_v30 - /obj/lopnet1/BND_0150/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(34/34)",
-            "Status": "Completed",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:00",
-            "Priority": "60"
-        },
-        {
             "Task_Progress": "0%",
             "Name": "BND_0130_comp_v0",
             "Task_name": "BND_0130_comp_v01.nk",
@@ -27,20 +13,6 @@
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "BND_0040_v30-/ob",
-            "Task_name": "BND_0040_v30 - /obj/lopnet1/BND_0110_std/usdrender_rop",
-            "User": "glavatskih",
-            "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(44/48)",
-            "Status": "Rendering (4)",
-            "Project": "AUTODESK_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
