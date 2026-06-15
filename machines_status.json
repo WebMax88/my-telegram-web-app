@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Stalled",
+        "status": "Idle",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -115,7 +115,7 @@
         "user": "Dmitry Gridasov"
     },
     {
-        "status": "Offline",
+        "status": "Rendering",
         "machine": "ws112",
         "user": "Fedor Smirnov"
     },
@@ -180,7 +180,7 @@
         "user": "Freelancer - Denis Pokhodyaev"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws156",
         "user": "Alena Glavatskikh"
     },
@@ -215,7 +215,7 @@
         "user": "WS FOR FREELANCER "
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws165",
         "user": "Sergei Stavile"
     },
