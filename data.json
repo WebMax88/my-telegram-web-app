@@ -20,12 +20,12 @@
             "Task_name": "WBC_110_v11 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(92/159)",
-            "Status": "Rendering (31)",
+            "Progress": "61%",
+            "Tasks": "(97/159)",
+            "Status": "Rendering (30)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:38:02",
+            "est.": "00:34:56",
             "Priority": "70"
         },
         {
@@ -150,12 +150,12 @@
             "Task_name": "SPO_100_v04 - /out/Visor",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "29%",
-            "Tasks": "(36/123)",
-            "Status": "Queued",
+            "Progress": "31%",
+            "Tasks": "(39/123)",
+            "Status": "Rendering (1)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "Visor",
-            "est.": "unknown",
+            "est.": "02:08:09",
             "Priority": "60"
         }
     ]
