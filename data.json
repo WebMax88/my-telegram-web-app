@@ -8,24 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "18%",
             "Tasks": "(15/83)",
-            "Status": "Rendering (10)",
+            "Status": "Rendering (13)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "06:34:56",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v27-/out",
-            "Task_name": "WBC_100_v27 - /out/vol_laser",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "87%",
-            "Tasks": "(73/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "00:05:14",
+            "est.": "04:48:04",
             "Priority": "60"
         },
         {
@@ -36,27 +22,25 @@
             "Plugin": "Houdini",
             "Progress": "43%",
             "Tasks": "(36/83)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "02:10:36",
+            "est.": "01:03:09",
             "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "Holo_v58-/out/Sm",
-            "Task_name": "Holo_v58 - /out/SmoothGlitch",
-            "User": "dmakarov",
+            "Name": "WBC_100_v27-/out",
+            "Task_name": "WBC_100_v27 - /out/vol_laser",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(102/125)",
-            "Status": "Rendering (23)",
-            "Project": "SCANIA_BK",
-            "Render": "SmoothGlitch",
+            "Progress": "92%",
+            "Tasks": "(77/83)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
             "est.": "00:00:01",
-            "Priority": "85"
+            "Priority": "60"
         }
     ]
 }
