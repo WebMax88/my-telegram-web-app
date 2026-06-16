@@ -12,7 +12,7 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
             "est.": "00:00:01",
-            "Priority": "80"
+            "Priority": "85"
         },
         {
             "Task_Progress": "100%",
@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "39%",
             "Tasks": "(43/109)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "06:12:37",
+            "est.": "09:27:48",
             "Priority": "60"
         },
         {
@@ -34,27 +34,27 @@
             "Task_name": "WBM_010_v03 - /out/nebulaz",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(39/109)",
+            "Progress": "37%",
+            "Tasks": "(41/109)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "03:01:00",
+            "est.": "02:54:19",
             "Priority": "60"
         },
         {
-            "Task_Progress": "55%",
+            "Task_Progress": "77%",
             "Name": "WBC_110_v12-/out",
             "Task_name": "WBC_110_v12 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(3/35)",
-            "Status": "Rendering (11)",
+            "Progress": "20%",
+            "Tasks": "(7/35)",
+            "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:41:37",
-            "Priority": "80"
+            "est.": "00:23:59",
+            "Priority": "85"
         },
         {
             "Task_Progress": "100%",
@@ -62,27 +62,27 @@
             "Task_name": "WBM_010_v03 - /out/vol_light",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(51/109)",
+            "Progress": "48%",
+            "Tasks": "(53/109)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "02:16:04",
+            "est.": "02:10:10",
             "Priority": "60"
         },
         {
-            "Task_Progress": "92%",
+            "Task_Progress": "100%",
             "Name": "WBC_110_v12-/out",
             "Task_name": "WBC_110_v12 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(2/60)",
-            "Status": "Rendering (12)",
+            "Progress": "13%",
+            "Tasks": "(8/60)",
+            "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:38:55",
-            "Priority": "80"
+            "est.": "01:13:42",
+            "Priority": "85"
         }
     ],
     "XFINITY_ZOMBIE_PRLM": [
@@ -92,27 +92,27 @@
             "Task_name": "DRN_001_v012 - /stage/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(29/46)",
-            "Status": "Rendering (5)",
+            "Progress": "89%",
+            "Tasks": "(41/46)",
+            "Status": "Queued",
             "Project": "XFINITY_ZOMBIE_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:05:00",
+            "est.": "unknown",
             "Priority": "80"
         }
     ],
-    "SUMMER_CLASSIC_JOZI": [
+    "SCANIA_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "TST_050_comp_L1-",
-            "Task_name": "TST_050_comp_L1-L3_v17.nk",
-            "User": "pavlyuchenkov",
+            "Name": "TST_010_comp_v10",
+            "Task_name": "TST_010_comp_v10.nk",
+            "User": "lukyanova",
             "Plugin": "Nuke",
-            "Progress": "34%",
-            "Tasks": "(14/41)",
-            "Status": "Rendering (27)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_L1-L3_v17.nk",
+            "Progress": "88%",
+            "Tasks": "(15/17)",
+            "Status": "Rendering (2)",
+            "Project": "SCANIA_BK",
+            "Render": "TST_010_comp_v10.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
