@@ -1,4 +1,20 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_comp_v03",
+            "Task_name": "WBC_110_comp_v03.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "84%",
+            "Tasks": "(44/52)",
+            "Status": "Rendering (8)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_110_comp_v03.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
+    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -15,22 +31,6 @@
             "Priority": "90"
         }
     ],
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_comp_v03",
-            "Task_name": "WBC_110_comp_v03.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "53%",
-            "Tasks": "(28/52)",
-            "Status": "Rendering (12)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_110_comp_v03.nk",
-            "est.": "00:02:43",
-            "Priority": "90"
-        }
-    ],
     "NJM_SPOTLIGHT_PRLM": [
         {
             "Task_Progress": "100%",
@@ -38,23 +38,9 @@
             "Task_name": "SPO_100_comp_v03.nk",
             "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "33%",
-            "Tasks": "(15/45)",
-            "Status": "Rendering (30)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_100_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_100_comp_v03",
-            "Task_name": "SPO_100_comp_v03.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "95%",
-            "Tasks": "(43/45)",
-            "Status": "Rendering (2)",
+            "Progress": "91%",
+            "Tasks": "(41/45)",
+            "Status": "Rendering (4)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "SPO_100_comp_v03.nk",
             "est.": "00:00:01",
