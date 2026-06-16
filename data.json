@@ -16,20 +16,6 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBM_010_v03-/out",
-            "Task_name": "WBM_010_v03 - /out/nebulaz",
-            "User": "korukaev",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(107/109)",
-            "Status": "Rendering (2)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_100_v27-/out",
             "Task_name": "WBC_100_v27 - /out/floor",
             "User": "mochalova",
@@ -41,20 +27,18 @@
             "Render": "floor",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "Scania_BK_TT_v04",
-            "Task_name": "Scania_BK_TT_v04 - /stage/main_rop",
-            "User": "chernovbrovyj",
+            "Name": "WBM_010_v03-/out",
+            "Task_name": "WBM_010_v03 - /out/vol_light",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "91%",
-            "Tasks": "(91/100)",
-            "Status": "Rendering (9)",
-            "Project": "SCANIA_BK",
-            "Render": "main_rop",
+            "Progress": "99%",
+            "Tasks": "(108/109)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
             "est.": "00:00:01",
             "Priority": "60"
         }
