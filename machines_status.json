@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -230,12 +230,12 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws204",
         "user": "Ilya Koryukaev"
     },
@@ -270,7 +270,7 @@
         "user": "Andrey Shvetsov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws212",
         "user": "---"
     },
