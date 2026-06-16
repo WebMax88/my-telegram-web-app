@@ -6,12 +6,12 @@
             "Task_name": "WBM_010_v03 - /out/vol_light",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "51%",
-            "Tasks": "(56/109)",
+            "Progress": "52%",
+            "Tasks": "(57/109)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "02:02:39",
+            "est.": "01:59:43",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "WBM_010_v03 - /out/vol_laser",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "40%",
-            "Tasks": "(44/109)",
+            "Progress": "41%",
+            "Tasks": "(45/109)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "06:04:17",
+            "est.": "05:57:02",
             "Priority": "60"
         },
         {
@@ -62,12 +62,12 @@
             "Task_name": "WBM_010_v03 - /out/nebulaz",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "39%",
-            "Tasks": "(43/109)",
+            "Progress": "41%",
+            "Tasks": "(45/109)",
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "03:34:50",
+            "est.": "03:28:01",
             "Priority": "60"
         },
         {
@@ -78,10 +78,10 @@
             "Plugin": "Houdini",
             "Progress": "28%",
             "Tasks": "(10/35)",
-            "Status": "Rendering (12)",
+            "Status": "Rendering (14)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:30:24",
+            "est.": "00:22:03",
             "Priority": "80"
         }
     ],
@@ -92,12 +92,12 @@
             "Task_name": "DRN_001_v012 - /stage/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(41/46)",
-            "Status": "Rendering (3)",
+            "Progress": "97%",
+            "Tasks": "(45/46)",
+            "Status": "Rendering (1)",
             "Project": "XFINITY_ZOMBIE_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:01:06",
+            "est.": "00:00:01",
             "Priority": "80"
         }
     ]
