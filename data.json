@@ -1,20 +1,4 @@
 {
-    "SUMMER_CLASSIC_JOZI": [
-        {
-            "Task_Progress": "0%",
-            "Name": "TST_050_comp_L4-",
-            "Task_name": "TST_050_comp_L4-L6_v18.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/21)",
-            "Status": "Rendering (12)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_L4-L6_v18.nk",
-            "est.": "unknown",
-            "Priority": "90"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -22,54 +6,26 @@
             "Task_name": "WBC_100_v27 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(2/83)",
+            "Progress": "3%",
+            "Tasks": "(3/83)",
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "03:02:20",
+            "est.": "03:11:40",
             "Priority": "60"
         },
         {
-            "Task_Progress": "48%",
+            "Task_Progress": "61%",
             "Name": "WBC_100_v27-/out",
             "Task_name": "WBC_100_v27 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(1/83)",
-            "Status": "Rendering (7)",
+            "Progress": "4%",
+            "Tasks": "(4/83)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "03:10:26",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v27-/out",
-            "Task_name": "WBC_100_v27 - /out/vol_laser",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(2/83)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "04:21:42",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v27-/out",
-            "Task_name": "WBC_100_v27 - /out/car",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(9/83)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "car",
-            "est.": "02:31:28",
+            "est.": "04:46:43",
             "Priority": "60"
         },
         {
@@ -84,6 +40,48 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v27-/out",
+            "Task_name": "WBC_100_v27 - /out/car",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "10%",
+            "Tasks": "(9/83)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "car",
+            "est.": "01:38:05",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "WBM_010_comp_v02",
+            "Task_name": "WBM_010_comp_v02.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/22)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBM_010_comp_v02.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v27-/out",
+            "Task_name": "WBC_100_v27 - /out/vol_laser",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(3/83)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "04:15:44",
             "Priority": "60"
         }
     ]
