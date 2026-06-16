@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "19%",
             "Tasks": "(16/83)",
-            "Status": "Rendering (14)",
+            "Status": "Rendering (16)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "04:16:27",
+            "est.": "03:35:55",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WBC_100_v27 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(37/83)",
-            "Status": "Rendering (15)",
+            "Progress": "48%",
+            "Tasks": "(40/83)",
+            "Status": "Rendering (16)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:55:55",
+            "est.": "00:45:38",
             "Priority": "60"
         },
         {
@@ -34,29 +34,13 @@
             "Task_name": "WBC_100_v27 - /out/vol_laser",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "95%",
-            "Tasks": "(79/83)",
-            "Status": "Rendering (4)",
+            "Progress": "98%",
+            "Tasks": "(82/83)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
             "est.": "00:00:01",
             "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_comp_v11",
-            "Task_name": "TST_010_comp_v11.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "5%",
-            "Tasks": "(1/17)",
-            "Status": "Rendering (16)",
-            "Project": "SCANIA_BK",
-            "Render": "TST_010_comp_v11.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
