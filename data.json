@@ -6,12 +6,12 @@
             "Task_name": "WBC_100_v27 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(15/83)",
+            "Progress": "19%",
+            "Tasks": "(16/83)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "05:29:21",
+            "est.": "05:27:01",
             "Priority": "60"
         },
         {
@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "30%",
             "Tasks": "(25/83)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "03:56:02",
+            "est.": "02:53:48",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBC_100_v27 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "34%",
-            "Tasks": "(29/83)",
+            "Progress": "36%",
+            "Tasks": "(30/83)",
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "02:06:11",
+            "est.": "02:03:16",
             "Priority": "60"
         },
         {
@@ -48,16 +48,16 @@
             "Task_name": "WBC_100_comp_stavile_v24.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "58%",
-            "Tasks": "(10/17)",
-            "Status": "Rendering (7)",
+            "Progress": "76%",
+            "Tasks": "(13/17)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_100_comp_stavile_v24.nk",
             "est.": "00:00:01",
             "Priority": "90"
         },
         {
-            "Task_Progress": "42%",
+            "Task_Progress": "48%",
             "Name": "WBC_100_v27-/out",
             "Task_name": "WBC_100_v27 - /out/vol",
             "User": "mochalova",
@@ -90,12 +90,12 @@
             "Task_name": "WBC_100_v27 - /out/car",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(48/83)",
+            "Progress": "62%",
+            "Tasks": "(52/83)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "car",
-            "est.": "00:48:01",
+            "est.": "00:41:09",
             "Priority": "60"
         }
     ]
