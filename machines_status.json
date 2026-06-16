@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Rendering",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -200,7 +200,7 @@
         "user": "Nail Sattarov"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "ws162",
         "user": "Yuriy Bodolanov"
     },
@@ -265,7 +265,7 @@
         "user": "Matvey Zubarev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws211",
         "user": "Andrey Shvetsov"
     },
