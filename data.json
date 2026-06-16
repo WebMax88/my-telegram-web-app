@@ -1,20 +1,4 @@
 {
-    "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_comp_v03",
-            "Task_name": "WBC_110_comp_v03.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "84%",
-            "Tasks": "(44/52)",
-            "Status": "Rendering (8)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_110_comp_v03.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
     "AUTODESK_PRLM": [
         {
             "Task_Progress": "0%",
@@ -38,9 +22,9 @@
             "Task_name": "SPO_100_comp_v03.nk",
             "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "91%",
-            "Tasks": "(41/45)",
-            "Status": "Rendering (4)",
+            "Progress": "93%",
+            "Tasks": "(42/45)",
+            "Status": "Rendering (3)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "SPO_100_comp_v03.nk",
             "est.": "00:00:01",
