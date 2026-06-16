@@ -6,9 +6,9 @@
             "Task_name": "SPO_100_comp_v03.nk",
             "User": "loktev",
             "Plugin": "Nuke",
-            "Progress": "44%",
-            "Tasks": "(20/45)",
-            "Status": "Rendering (25)",
+            "Progress": "91%",
+            "Tasks": "(41/45)",
+            "Status": "Rendering (4)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "SPO_100_comp_v03.nk",
             "est.": "00:00:01",
@@ -28,6 +28,22 @@
             "Project": "AUTODESK_PRLM",
             "Render": "BND_0130_comp_v01.nk",
             "est.": "00:00:00",
+            "Priority": "90"
+        }
+    ],
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_110_comp_v03",
+            "Task_name": "WBC_110_comp_v03.nk",
+            "User": "shvetsov",
+            "Plugin": "Nuke",
+            "Progress": "23%",
+            "Tasks": "(12/52)",
+            "Status": "Rendering (12)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_110_comp_v03.nk",
+            "est.": "00:07:29",
             "Priority": "90"
         }
     ]
