@@ -80,7 +80,7 @@
         "user": "Artem Ivanov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws57",
         "user": "Alexander Kostin"
     },
@@ -220,12 +220,12 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws202",
         "user": "Pavel Kufterin"
     },
@@ -245,7 +245,7 @@
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws207",
         "user": "Dmitrii Aleksandrov"
     },
@@ -260,7 +260,7 @@
         "user": "Anton Alikov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws210",
         "user": "Matvey Zubarev"
     },
@@ -270,12 +270,12 @@
         "user": "Andrey Shvetsov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws212",
         "user": "---"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
@@ -285,7 +285,7 @@
         "user": "Vasilii Druz"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws215",
         "user": "---"
     },
