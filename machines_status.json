@@ -20,7 +20,7 @@
         "user": "for freelancers"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws45",
         "user": "Ruslan Ziganshin"
     },
@@ -75,7 +75,7 @@
         "user": "Alexey Golovatskiy"
     },
     {
-        "status": "Idle",
+        "status": "Stalled",
         "machine": "ws56",
         "user": "Artem Ivanov"
     },
@@ -195,7 +195,7 @@
         "user": "--DEAD--"
     },
     {
-        "status": "Idle",
+        "status": "Rendering",
         "machine": "ws160",
         "user": "Nail Sattarov"
     },
