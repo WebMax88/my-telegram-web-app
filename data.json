@@ -6,12 +6,26 @@
             "Task_name": "WBC_100_v27 - /out/vol",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(23/83)",
-            "Status": "Rendering (14)",
+            "Progress": "30%",
+            "Tasks": "(25/83)",
+            "Status": "Rendering (16)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "03:51:44",
+            "est.": "03:03:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v27-/out",
+            "Task_name": "WBC_100_v27 - /out/nebulaz",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "73%",
+            "Tasks": "(61/83)",
+            "Status": "Rendering (16)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "00:09:56",
             "Priority": "60"
         },
         {
@@ -27,36 +41,6 @@
             "Render": "vol_laser",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v27-/out",
-            "Task_name": "WBC_100_v27 - /out/nebulaz",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(61/83)",
-            "Status": "Rendering (14)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "00:15:08",
-            "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v60-/out/Sm",
-            "Task_name": "Holo_v60 - /out/SmoothGlitch",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(98/125)",
-            "Status": "Rendering (26)",
-            "Project": "SCANIA_BK",
-            "Render": "SmoothGlitch",
-            "est.": "00:00:01",
-            "Priority": "80"
         }
     ]
 }
