@@ -29,17 +29,17 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "85%",
+            "Task_Progress": "91%",
             "Name": "WBC_090_v20-/out",
             "Task_name": "WBC_090_v20 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(6/45)",
+            "Progress": "15%",
+            "Tasks": "(7/45)",
             "Status": "Rendering (35)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "00:04:58",
+            "est.": "00:03:48",
             "Priority": "60"
         }
     ]
