@@ -3,6 +3,20 @@
         {
             "Task_Progress": "100%",
             "Name": "WBM_010_v03-/out",
+            "Task_name": "WBM_010_v03 - /out/vol_light",
+            "User": "korukaev",
+            "Plugin": "Houdini",
+            "Progress": "99%",
+            "Tasks": "(108/109)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "00:00:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBM_010_v03-/out",
             "Task_name": "WBM_010_v03 - /out/nebulaz",
             "User": "korukaev",
             "Plugin": "Houdini",
