@@ -1,17 +1,17 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "9%",
+            "Task_Progress": "70%",
             "Name": "WBC_100_v28-/out",
             "Task_name": "WBC_100_v28 - /out/vol_light",
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "51%",
             "Tasks": "(43/83)",
-            "Status": "Rendering (29)",
+            "Status": "Rendering (28)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "00:03:13",
+            "est.": "00:03:38",
             "Priority": "60"
         }
     ]
