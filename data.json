@@ -1,34 +1,4 @@
 {
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_050_comp_v07",
-            "Task_name": "SPO_050_comp_v07.nk",
-            "User": "shkrabo",
-            "Plugin": "Nuke",
-            "Progress": "11%",
-            "Tasks": "(3/26)",
-            "Status": "Rendering (11)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_050_comp_v07.nk",
-            "est.": "00:00:56",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "FLB_120_v02-/out",
-            "Task_name": "FLB_120_v02 - /out/mask",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "81%",
-            "Tasks": "(111/137)",
-            "Status": "Rendering (3)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "mask",
-            "est.": "00:05:10",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -36,40 +6,12 @@
             "Task_name": "WBC_060_v22 - /out/vol_light",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "21%",
-            "Tasks": "(33/155)",
+            "Progress": "24%",
+            "Tasks": "(38/155)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "01:27:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v22-/out",
-            "Task_name": "WBC_060_v22 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(24/155)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "02:14:21",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_060_v22-/out",
-            "Task_name": "WBC_060_v22 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "18%",
-            "Tasks": "(28/155)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "01:43:46",
+            "est.": "01:27:19",
             "Priority": "60"
         },
         {
@@ -78,12 +20,12 @@
             "Task_name": "WBC_060_v22 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(15/155)",
+            "Progress": "10%",
+            "Tasks": "(17/155)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "04:38:07",
+            "est.": "04:33:34",
             "Priority": "60"
         },
         {
@@ -92,12 +34,70 @@
             "Task_name": "WBC_100_v28 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "28%",
-            "Tasks": "(24/83)",
-            "Status": "Rendering (6)",
+            "Progress": "31%",
+            "Tasks": "(26/83)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "06:01:53",
+            "est.": "07:32:22",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v22-/out",
+            "Task_name": "WBC_060_v22 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "21%",
+            "Tasks": "(33/155)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "02:04:01",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_060_v22-/out",
+            "Task_name": "WBC_060_v22 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "17%",
+            "Tasks": "(27/155)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "01:50:26",
+            "Priority": "60"
+        }
+    ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "40%",
+            "Name": "SPO_100_comp_v06",
+            "Task_name": "SPO_100_comp_v06.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/25)",
+            "Status": "Rendering (24)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_100_comp_v06.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "FLB_120_v02-/out",
+            "Task_name": "FLB_120_v02 - /out/mask",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "97%",
+            "Tasks": "(133/137)",
+            "Status": "Rendering (4)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "mask",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ],
@@ -108,12 +108,12 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v006 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(56/100)",
-            "Status": "Rendering (1)",
+            "Progress": "61%",
+            "Tasks": "(61/100)",
+            "Status": "Rendering (6)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "01:34:31",
+            "est.": "00:12:43",
             "Priority": "60"
         },
         {
@@ -122,12 +122,12 @@
             "Task_name": "Side_Missions_BK_lookdev_T60_v006 - /stage/close_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "43%",
-            "Tasks": "(43/100)",
-            "Status": "Queued",
+            "Progress": "47%",
+            "Tasks": "(47/100)",
+            "Status": "Rendering (5)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "close_rop",
-            "est.": "unknown",
+            "est.": "00:24:10",
             "Priority": "60"
         }
     ]
