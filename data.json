@@ -1,20 +1,4 @@
 {
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_100_v07-/out",
-            "Task_name": "SPO_100_v07 - /out/Visor",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(122/123)",
-            "Status": "Rendering (1)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "Visor",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -22,12 +6,12 @@
             "Task_name": "WBC_060_v22 - /obj/Crowd_construct/crowd/render",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(57/155)",
-            "Status": "Rendering (21)",
+            "Progress": "54%",
+            "Tasks": "(85/155)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "render",
-            "est.": "00:06:18",
+            "est.": "00:29:10",
             "Priority": "90"
         }
     ]
