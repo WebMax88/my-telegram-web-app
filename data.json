@@ -1,5 +1,35 @@
 {
+    "WBW_KRYPTO_DEJAVU": [
+        {
+            "Task_Progress": "20%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v26.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/17)",
+            "Status": "Rendering (17)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v26.nk",
+            "est.": "unknown",
+            "Priority": "90"
+        }
+    ],
     "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "SPO_100_comp_v06",
+            "Task_name": "SPO_100_comp_v06.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "96%",
+            "Tasks": "(24/25)",
+            "Status": "Rendering (1)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_100_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
         {
             "Task_Progress": "100%",
             "Name": "SPO_100_v06-/out",
@@ -13,36 +43,6 @@
             "Render": "Visor",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_100_comp_v06",
-            "Task_name": "SPO_100_comp_v06.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "56%",
-            "Tasks": "(14/25)",
-            "Status": "Rendering (11)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_100_comp_v06.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "TST_010_comp_v13",
-            "Task_name": "TST_010_comp_v13.nk",
-            "User": "lukyanova",
-            "Plugin": "Nuke",
-            "Progress": "64%",
-            "Tasks": "(11/17)",
-            "Status": "Rendering (6)",
-            "Project": "SCANIA_BK",
-            "Render": "TST_010_comp_v13.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ]
 }
