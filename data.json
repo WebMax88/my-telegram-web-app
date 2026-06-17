@@ -1,48 +1,18 @@
 {
-    "SCANIA_BK": [
+    "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "100%",
-            "Name": "Holo_v03_gonchar",
-            "Task_name": "Holo_v03_goncharov - /out/main",
-            "User": "goncharov",
-            "Plugin": "Houdini",
-            "Progress": "97%",
-            "Tasks": "(83/85)",
-            "Status": "Rendering (2)",
-            "Project": "SCANIA_BK",
-            "Render": "main",
-            "est.": "00:00:01",
-            "Priority": "60"
-        }
-    ],
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_100_comp_v06",
-            "Task_name": "SPO_100_comp_v06.nk",
-            "User": "loktev",
+            "Task_Progress": "0%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v26.nk",
+            "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(24/25)",
-            "Status": "Rendering (1)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_100_comp_v06.nk",
-            "est.": "00:00:01",
+            "Progress": "0%",
+            "Tasks": "(0/17)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v26.nk",
+            "est.": "unknown",
             "Priority": "90"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "SPO_100_v06-/out",
-            "Task_name": "SPO_100_v06 - /out/Visor",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(123/123)",
-            "Status": "Completed",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "Visor",
-            "est.": "00:00:00",
-            "Priority": "60"
         }
     ]
 }
