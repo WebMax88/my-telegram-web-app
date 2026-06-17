@@ -6,11 +6,25 @@
             "Task_name": "WBC_100_comp_stavile_v25.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "88%",
-            "Tasks": "(15/17)",
-            "Status": "Rendering (2)",
+            "Progress": "94%",
+            "Tasks": "(16/17)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBC_100_comp_stavile_v25.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "60%",
+            "Name": "WBM_010_comp_v04",
+            "Task_name": "WBM_010_comp_v04.nk",
+            "User": "alikov",
+            "Plugin": "Nuke",
+            "Progress": "59%",
+            "Tasks": "(13/22)",
+            "Status": "Rendering (9)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBM_010_comp_v04.nk",
             "est.": "00:00:01",
             "Priority": "90"
         }
