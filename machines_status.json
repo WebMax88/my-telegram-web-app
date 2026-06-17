@@ -110,7 +110,7 @@
         "user": "Aleksey Eremeev"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws110",
         "user": "Dmitry Gridasov"
     },
@@ -145,7 +145,7 @@
         "user": "Egor Lebedevich"
     },
     {
-        "status": "Rendering",
+        "status": "Idle",
         "machine": "WS147",
         "user": "Maria Grigoreva"
     },
@@ -185,7 +185,7 @@
         "user": "Alena Glavatskikh"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws157",
         "user": "Evgeniy Grigorev"
     },
@@ -220,7 +220,7 @@
         "user": "Sergei Stavile"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws201",
         "user": "Ivan Godomin"
     },
@@ -270,7 +270,7 @@
         "user": "Andrey Shvetsov"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws212",
         "user": "---"
     },
