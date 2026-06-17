@@ -2,16 +2,16 @@
     "SCANIA_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "Holo_v66-/out/Wa",
-            "Task_name": "Holo_v66 - /out/WavesStaticNT",
+            "Name": "Holo_v66-/out/Fa",
+            "Task_name": "Holo_v66 - /out/FadeLinesNT",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "44%",
-            "Tasks": "(38/85)",
-            "Status": "Rendering (7)",
+            "Progress": "64%",
+            "Tasks": "(55/85)",
+            "Status": "Rendering (3)",
             "Project": "SCANIA_BK",
-            "Render": "WavesStaticNT",
-            "est.": "00:09:10",
+            "Render": "FadeLinesNT",
+            "est.": "00:13:44",
             "Priority": "60"
         },
         {
@@ -20,26 +20,12 @@
             "Task_name": "Holo_v66 - /out/SmoothGlitch",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "45%",
-            "Tasks": "(39/85)",
-            "Status": "Rendering (5)",
+            "Progress": "60%",
+            "Tasks": "(51/85)",
+            "Status": "Rendering (6)",
             "Project": "SCANIA_BK",
             "Render": "SmoothGlitch",
-            "est.": "00:13:35",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "Holo_v66-/out/Fa",
-            "Task_name": "Holo_v66 - /out/FadeLinesNT",
-            "User": "dmakarov",
-            "Plugin": "Houdini",
-            "Progress": "41%",
-            "Tasks": "(35/85)",
-            "Status": "Rendering (5)",
-            "Project": "SCANIA_BK",
-            "Render": "FadeLinesNT",
-            "est.": "00:14:22",
+            "est.": "00:08:03",
             "Priority": "60"
         },
         {
@@ -48,12 +34,12 @@
             "Task_name": "Holo_v66 - /out/FadeSymbols",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(21/85)",
-            "Status": "Rendering (4)",
+            "Progress": "37%",
+            "Tasks": "(32/85)",
+            "Status": "Rendering (5)",
             "Project": "SCANIA_BK",
             "Render": "FadeSymbols",
-            "est.": "00:35:17",
+            "est.": "00:21:58",
             "Priority": "60"
         },
         {
@@ -62,30 +48,30 @@
             "Task_name": "Holo_v66 - /out/SharpGlitch",
             "User": "dmakarov",
             "Plugin": "Houdini",
-            "Progress": "37%",
-            "Tasks": "(32/85)",
-            "Status": "Rendering (4)",
+            "Progress": "52%",
+            "Tasks": "(45/85)",
+            "Status": "Rendering (5)",
             "Project": "SCANIA_BK",
             "Render": "SharpGlitch",
-            "est.": "00:19:37",
+            "est.": "00:11:20",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "Holo_v66-/out/Wa",
+            "Task_name": "Holo_v66 - /out/WavesStaticNT",
+            "User": "dmakarov",
+            "Plugin": "Houdini",
+            "Progress": "67%",
+            "Tasks": "(57/85)",
+            "Status": "Rendering (5)",
+            "Project": "SCANIA_BK",
+            "Render": "WavesStaticNT",
+            "est.": "00:07:49",
             "Priority": "60"
         }
     ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "0%",
-            "Name": "WBC_060_v22-/out",
-            "Task_name": "WBC_060_v22 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/155)",
-            "Status": "Queued",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "unknown",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "0%",
             "Name": "WBC_060_v22-/out",
@@ -115,7 +101,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "35%",
             "Name": "WBC_060_v22-/out",
             "Task_name": "WBC_060_v22 - /out/nebulaz",
             "User": "ushakova",
@@ -129,7 +115,21 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "11%",
+            "Task_Progress": "0%",
+            "Name": "WBC_060_v22-/out",
+            "Task_name": "WBC_060_v22 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/155)",
+            "Status": "Queued",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "22%",
             "Name": "WBC_100_v28-/out",
             "Task_name": "WBC_100_v28 - /out/nebulaz",
             "User": "mochalova",
@@ -150,12 +150,12 @@
             "Task_name": "SPO_140_comp_v02.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "100%",
-            "Tasks": "(17/17)",
-            "Status": "Completed",
+            "Progress": "0%",
+            "Tasks": "(0/17)",
+            "Status": "Rendering (12)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "SPO_140_comp_v02.nk",
-            "est.": "00:00:00",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
