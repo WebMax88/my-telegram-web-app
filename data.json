@@ -1,17 +1,17 @@
 {
-    "NJM_SPOTLIGHT_PRLM": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "SPO_050_comp_v06",
-            "Task_name": "SPO_050_comp_v06.nk",
-            "User": "shkrabo",
+            "Name": "WBM_010_comp_v04",
+            "Task_name": "WBM_010_comp_v04.nk",
+            "User": "alikov",
             "Plugin": "Nuke",
-            "Progress": "73%",
-            "Tasks": "(19/26)",
-            "Status": "Rendering (7)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_050_comp_v06.nk",
-            "est.": "00:00:01",
+            "Progress": "40%",
+            "Tasks": "(9/22)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBM_010_comp_v04.nk",
+            "est.": "00:00:22",
             "Priority": "90"
         }
     ]
