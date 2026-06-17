@@ -1,17 +1,31 @@
 {
-    "NJM_SPOTLIGHT_PRLM": [
+    "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "SPO_050_comp_v06",
-            "Task_name": "SPO_050_comp_v06.nk",
-            "User": "shkrabo",
+            "Name": "WBM_120_matte_v0",
+            "Task_name": "WBM_120_matte_v01.nk",
+            "User": "sattarov",
             "Plugin": "Nuke",
-            "Progress": "76%",
-            "Tasks": "(20/26)",
-            "Status": "Rendering (5)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_050_comp_v06.nk",
-            "est.": "00:00:05",
+            "Progress": "96%",
+            "Tasks": "(26/27)",
+            "Status": "Rendering (1)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBM_120_matte_v01.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "WBC_100_comp_sta",
+            "Task_name": "WBC_100_comp_stavile_v25.nk",
+            "User": "stavile",
+            "Plugin": "Nuke",
+            "Progress": "0%",
+            "Tasks": "(0/17)",
+            "Status": "Rendering (17)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "WBC_100_comp_stavile_v25.nk",
+            "est.": "unknown",
             "Priority": "90"
         }
     ]
