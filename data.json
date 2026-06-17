@@ -14,5 +14,21 @@
             "est.": "00:00:01",
             "Priority": "60"
         }
+    ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "SPO_100_comp_v06",
+            "Task_name": "SPO_100_comp_v06.nk",
+            "User": "loktev",
+            "Plugin": "Nuke",
+            "Progress": "84%",
+            "Tasks": "(21/25)",
+            "Status": "Rendering (4)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_100_comp_v06.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
+        }
     ]
 }
