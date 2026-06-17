@@ -1,1 +1,32 @@
-{}
+{
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "FLB_120_v01-/out",
+            "Task_name": "FLB_120_v01 - /out/mask",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "42%",
+            "Tasks": "(42/100)",
+            "Status": "Rendering (15)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "mask",
+            "est.": "00:01:29",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "FLB_120_v01-/out",
+            "Task_name": "FLB_120_v01 - /out/reflection",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "40%",
+            "Tasks": "(40/100)",
+            "Status": "Rendering (15)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "reflection",
+            "est.": "00:01:31",
+            "Priority": "60"
+        }
+    ]
+}
