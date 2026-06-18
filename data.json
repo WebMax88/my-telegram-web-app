@@ -1,35 +1,5 @@
 {
-    "NJM_SPOTLIGHT_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "FLB_120_v04-/out",
-            "Task_name": "FLB_120_v04 - /out/shadow",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(68/137)",
-            "Status": "Rendering (5)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "shadow",
-            "est.": "00:05:16",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(4/17)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "03:18:10",
-            "Priority": "60"
-        },
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v29-/out",
@@ -70,6 +40,36 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "unknown",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(4/17)",
+            "Status": "Rendering (6)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "03:18:10",
+            "Priority": "60"
+        }
+    ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "FLB_120_v04-/out",
+            "Task_name": "FLB_120_v04 - /out/shadow",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "75%",
+            "Tasks": "(103/137)",
+            "Status": "Rendering (5)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "shadow",
+            "est.": "00:02:22",
             "Priority": "60"
         }
     ]
