@@ -1,34 +1,6 @@
 {
     "WBW_KRYPTO_DEJAVU": [
         {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(6/17)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "01:14:14",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/vol_light",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(12/17)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_light",
-            "est.": "00:00:01",
-            "Priority": "60"
-        },
-        {
             "Task_Progress": "40%",
             "Name": "WBC_100_v29-/out",
             "Task_name": "WBC_100_v29 - /out/vol",
@@ -55,6 +27,34 @@
             "Render": "nebulaz",
             "est.": "01:43:35",
             "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "35%",
+            "Tasks": "(6/17)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "01:14:14",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/vol_light",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "70%",
+            "Tasks": "(12/17)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_light",
+            "est.": "00:00:01",
+            "Priority": "60"
         }
     ],
     "NJM_SPOTLIGHT_PRLM": [
@@ -64,12 +64,12 @@
             "Task_name": "FLB_120_v05 - /out/shadow",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "5%",
-            "Tasks": "(8/137)",
+            "Progress": "14%",
+            "Tasks": "(20/137)",
             "Status": "Rendering (1)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "shadow",
-            "est.": "00:56:29",
+            "est.": "00:51:20",
             "Priority": "60"
         }
     ]
