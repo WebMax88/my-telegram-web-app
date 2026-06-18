@@ -3,6 +3,20 @@
         {
             "Task_Progress": "100%",
             "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "23%",
+            "Tasks": "(4/17)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "09:36:31",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v29-/out",
             "Task_name": "WBC_100_v29 - /out/vol_laser",
             "User": "ushakova",
             "Plugin": "Houdini",
@@ -20,12 +34,12 @@
             "Task_name": "WBC_100_v28 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "84%",
-            "Tasks": "(70/83)",
-            "Status": "Rendering (12)",
+            "Progress": "87%",
+            "Tasks": "(73/83)",
+            "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:03:41",
+            "est.": "00:00:01",
             "Priority": "65"
         },
         {
@@ -55,35 +69,35 @@
             "Render": "vol_light",
             "est.": "02:35:03",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "17%",
-            "Tasks": "(3/17)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "06:23:36",
-            "Priority": "60"
         }
     ],
     "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "SPO_100_v09-/out",
+            "Task_name": "SPO_100_v09 - /out/Visor",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(4/123)",
+            "Status": "Rendering (1)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "Visor",
+            "est.": "01:44:45",
+            "Priority": "60"
+        },
         {
             "Task_Progress": "100%",
             "Name": "FLB_120_v03-/out",
             "Task_name": "FLB_120_v03 - /out/shadow",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "10%",
-            "Tasks": "(14/137)",
-            "Status": "Rendering (1)",
+            "Progress": "29%",
+            "Tasks": "(40/137)",
+            "Status": "Rendering (3)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "shadow",
-            "est.": "00:47:31",
+            "est.": "00:11:35",
             "Priority": "60"
         }
     ]
