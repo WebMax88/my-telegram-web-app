@@ -6,12 +6,12 @@
             "Task_name": "WBC_100_v29 - /out/vol_laser",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(2/17)",
-            "Status": "Rendering (5)",
+            "Progress": "17%",
+            "Tasks": "(3/17)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser",
-            "est.": "03:23:17",
+            "est.": "05:43:43",
             "Priority": "60"
         },
         {
@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "80%",
             "Tasks": "(67/83)",
-            "Status": "Rendering (11)",
+            "Status": "Rendering (12)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "00:20:14",
+            "est.": "00:14:50",
             "Priority": "65"
         },
         {
