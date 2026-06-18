@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "50%",
             "Tasks": "(42/83)",
-            "Status": "Rendering (8)",
+            "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "03:21:48",
+            "est.": "02:53:56",
             "Priority": "65"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBC_060_v22 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "85%",
-            "Tasks": "(133/155)",
+            "Progress": "86%",
+            "Tasks": "(134/155)",
             "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "02:33:45",
+            "est.": "02:25:24",
             "Priority": "60"
         },
         {
@@ -91,12 +91,28 @@
             "User": "ushakova",
             "Plugin": "Houdini",
             "Progress": "78%",
-            "Tasks": "(121/155)",
-            "Status": "Rendering (2)",
+            "Tasks": "(122/155)",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "02:16:51",
+            "est.": "04:33:47",
             "Priority": "60"
+        }
+    ],
+    "SUMMER_CLASSIC_JOZI": [
+        {
+            "Task_Progress": "100%",
+            "Name": "TST_050_comp_L1-",
+            "Task_name": "TST_050_comp_L1-L3_v18.nk",
+            "User": "pavlyuchenkov",
+            "Plugin": "Nuke",
+            "Progress": "11%",
+            "Tasks": "(2/17)",
+            "Status": "Rendering (15)",
+            "Project": "SUMMER_CLASSIC_JOZI",
+            "Render": "TST_050_comp_L1-L3_v18.nk",
+            "est.": "00:00:01",
+            "Priority": "90"
         }
     ]
 }
