@@ -34,12 +34,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_light_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(16/45)",
+            "Progress": "37%",
+            "Tasks": "(17/45)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light_L1",
-            "est.": "04:14:07",
+            "est.": "04:03:23",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "WBM_120_v01 - /out/nebulaz_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(13/83)",
+            "Progress": "16%",
+            "Tasks": "(14/83)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_L3",
-            "est.": "09:40:54",
+            "est.": "09:32:46",
             "Priority": "60"
         },
         {
@@ -90,12 +90,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_laser_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(9/45)",
+            "Progress": "22%",
+            "Tasks": "(10/45)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser_L3",
-            "est.": "07:09:20",
+            "est.": "06:48:21",
             "Priority": "60"
         },
         {
@@ -132,12 +132,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "2%",
-            "Tasks": "(4/135)",
+            "Progress": "3%",
+            "Tasks": "(5/135)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "16:15:03",
+            "est.": "15:34:27",
             "Priority": "60"
         },
         {
