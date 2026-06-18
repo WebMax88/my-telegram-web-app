@@ -2,48 +2,6 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_090_v21-/out",
-            "Task_name": "WBC_090_v21 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(7/45)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "17:59:47",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBM_120_v01-/out",
-            "Task_name": "WBM_120_v01 - /out/vol_L3",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "8%",
-            "Tasks": "(12/135)",
-            "Status": "Rendering (3)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_L3",
-            "est.": "09:22:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBM_120_v01-/out",
-            "Task_name": "WBM_120_v01 - /out/nebulaz_L1",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "55%",
-            "Tasks": "(46/83)",
-            "Status": "Rendering (4)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz_L1",
-            "est.": "03:16:27",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBM_120_v01-/out",
             "Task_name": "WBM_120_v01 - /out/vol_laser_L3",
             "User": "mochalova",
@@ -76,12 +34,12 @@
             "Task_name": "WBC_100_v29 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(15/25)",
+            "Progress": "64%",
+            "Tasks": "(16/25)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:49:25",
+            "est.": "01:32:24",
             "Priority": "60"
         },
         {
@@ -134,10 +92,10 @@
             "Plugin": "Houdini",
             "Progress": "33%",
             "Tasks": "(15/45)",
-            "Status": "Rendering (3)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser_L1",
-            "est.": "08:40:55",
+            "est.": "06:16:13",
             "Priority": "60"
         },
         {
@@ -152,6 +110,48 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light_L1",
             "est.": "00:49:35",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_090_v21-/out",
+            "Task_name": "WBC_090_v21 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "15%",
+            "Tasks": "(7/45)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "17:59:47",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBM_120_v01-/out",
+            "Task_name": "WBM_120_v01 - /out/vol_L3",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "8%",
+            "Tasks": "(12/135)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_L3",
+            "est.": "09:22:12",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBM_120_v01-/out",
+            "Task_name": "WBM_120_v01 - /out/nebulaz_L1",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "56%",
+            "Tasks": "(47/83)",
+            "Status": "Rendering (4)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz_L1",
+            "est.": "03:12:55",
             "Priority": "60"
         }
     ]
