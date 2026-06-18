@@ -20,12 +20,12 @@
             "Task_name": "WBC_100_v29 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "23%",
-            "Tasks": "(4/17)",
-            "Status": "Rendering (8)",
+            "Progress": "29%",
+            "Tasks": "(5/17)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:43:35",
+            "est.": "01:55:58",
             "Priority": "60"
         },
         {
@@ -59,17 +59,31 @@
     ],
     "NJM_SPOTLIGHT_PRLM": [
         {
+            "Task_Progress": "60%",
+            "Name": "SPO_090_comp_v12",
+            "Task_name": "SPO_090_comp_v12.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "36%",
+            "Tasks": "(8/22)",
+            "Status": "Rendering (11)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_090_comp_v12.nk",
+            "est.": "00:00:04",
+            "Priority": "90"
+        },
+        {
             "Task_Progress": "100%",
             "Name": "FLB_120_v05-/out",
             "Task_name": "FLB_120_v05 - /out/shadow",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(49/137)",
+            "Progress": "63%",
+            "Tasks": "(87/137)",
             "Status": "Rendering (2)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "shadow",
-            "est.": "00:18:54",
+            "est.": "00:10:13",
             "Priority": "60"
         }
     ]
