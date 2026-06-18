@@ -6,12 +6,12 @@
             "Task_name": "WBC_100_v28 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "46%",
-            "Tasks": "(39/83)",
-            "Status": "Rendering (4)",
+            "Progress": "48%",
+            "Tasks": "(40/83)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "08:17:16",
+            "est.": "10:58:36",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBC_060_v22 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "63%",
-            "Tasks": "(99/155)",
+            "Progress": "66%",
+            "Tasks": "(103/155)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "03:06:19",
+            "est.": "02:48:01",
             "Priority": "60"
         },
         {
@@ -50,10 +50,10 @@
             "Plugin": "Houdini",
             "Progress": "11%",
             "Tasks": "(2/17)",
-            "Status": "Rendering (4)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "03:47:55",
+            "est.": "02:45:07",
             "Priority": "60"
         },
         {
@@ -71,7 +71,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "20%",
             "Name": "WBC_100_v29-/out",
             "Task_name": "WBC_100_v29 - /out/nebulaz",
             "User": "ushakova",
@@ -90,27 +90,13 @@
             "Task_name": "WBC_060_v22 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "62%",
-            "Tasks": "(97/155)",
+            "Progress": "65%",
+            "Tasks": "(101/155)",
             "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:27:44",
+            "est.": "01:21:17",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_110_comp_v05",
-            "Task_name": "WBC_110_comp_v05.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "25%",
-            "Tasks": "(16/63)",
-            "Status": "Rendering (13)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_110_comp_v05.nk",
-            "est.": "00:02:09",
-            "Priority": "90"
         }
     ]
 }
