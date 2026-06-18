@@ -2,30 +2,16 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_090_v21-/out",
-            "Task_name": "WBC_090_v21 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "20%",
-            "Tasks": "(9/45)",
-            "Status": "Rendering (3)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "04:15:10",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBM_120_v01-/out",
             "Task_name": "WBM_120_v01 - /out/nebulaz_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "15%",
-            "Tasks": "(13/83)",
+            "Progress": "19%",
+            "Tasks": "(16/83)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_L1",
-            "est.": "08:43:18",
+            "est.": "08:28:00",
             "Priority": "60"
         },
         {
@@ -48,12 +34,12 @@
             "Task_name": "WBM_120_v01 - /out/nebulaz_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "9%",
-            "Tasks": "(8/83)",
+            "Progress": "10%",
+            "Tasks": "(9/83)",
             "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_L3",
-            "est.": "15:45:01",
+            "est.": "15:34:32",
             "Priority": "60"
         },
         {
@@ -62,12 +48,12 @@
             "Task_name": "WBC_100_v29 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "12%",
-            "Tasks": "(3/25)",
+            "Progress": "16%",
+            "Tasks": "(4/25)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "04:05:22",
+            "est.": "04:03:08",
             "Priority": "60"
         },
         {
@@ -90,16 +76,16 @@
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(2/135)",
+            "Progress": "2%",
+            "Tasks": "(3/135)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "16:45:57",
+            "est.": "15:51:24",
             "Priority": "60"
         },
         {
-            "Task_Progress": "66%",
+            "Task_Progress": "75%",
             "Name": "WBC_100_v29-/out",
             "Task_name": "WBC_100_v29 - /out/vol",
             "User": "ushakova",
@@ -160,12 +146,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_light_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "24%",
-            "Tasks": "(11/45)",
+            "Progress": "26%",
+            "Tasks": "(12/45)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light_L1",
-            "est.": "05:01:20",
+            "est.": "04:50:14",
             "Priority": "60"
         },
         {
@@ -183,7 +169,7 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "70%",
+            "Task_Progress": "74%",
             "Name": "WBM_120_v01-/out",
             "Task_name": "WBM_120_v01 - /out/vol_L3",
             "User": "mochalova",
@@ -194,6 +180,20 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
             "est.": "00:53:19",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_090_v21-/out",
+            "Task_name": "WBC_090_v21 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "22%",
+            "Tasks": "(10/45)",
+            "Status": "Rendering (3)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "03:59:15",
             "Priority": "60"
         }
     ]
