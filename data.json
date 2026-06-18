@@ -8,11 +8,11 @@
             "Plugin": "Houdini",
             "Progress": "50%",
             "Tasks": "(42/83)",
-            "Status": "Rendering (2)",
+            "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "15:53:58",
-            "Priority": "60"
+            "est.": "03:21:48",
+            "Priority": "65"
         },
         {
             "Task_Progress": "0%",
@@ -34,12 +34,12 @@
             "Task_name": "WBC_060_v22 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "82%",
-            "Tasks": "(128/155)",
-            "Status": "Rendering (5)",
+            "Progress": "85%",
+            "Tasks": "(133/155)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:09:03",
+            "est.": "02:33:45",
             "Priority": "60"
         },
         {
@@ -48,12 +48,12 @@
             "Task_name": "WBC_100_v29 - /out/vol_light",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(2/17)",
-            "Status": "Rendering (5)",
+            "Progress": "17%",
+            "Tasks": "(3/17)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "02:45:07",
+            "est.": "03:21:20",
             "Priority": "60"
         },
         {
@@ -90,12 +90,12 @@
             "Task_name": "WBC_060_v22 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "76%",
-            "Tasks": "(118/155)",
-            "Status": "Rendering (4)",
+            "Progress": "78%",
+            "Tasks": "(121/155)",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:09:49",
+            "est.": "02:16:51",
             "Priority": "60"
         }
     ]
