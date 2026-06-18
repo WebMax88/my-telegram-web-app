@@ -20,12 +20,12 @@
             "Task_name": "WBC_100_v29 - /out/vol_light",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "35%",
-            "Tasks": "(6/17)",
-            "Status": "Rendering (5)",
+            "Progress": "41%",
+            "Tasks": "(7/17)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_light",
-            "est.": "01:49:08",
+            "est.": "02:30:46",
             "Priority": "60"
         },
         {
@@ -64,40 +64,26 @@
             "Plugin": "Houdini",
             "Progress": "67%",
             "Tasks": "(56/83)",
-            "Status": "Rendering (9)",
+            "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:33:11",
+            "est.": "01:19:12",
             "Priority": "65"
         }
     ],
     "NJM_SPOTLIGHT_PRLM": [
         {
-            "Task_Progress": "100%",
+            "Task_Progress": "0%",
             "Name": "SPO_090_comp_v11",
             "Task_name": "SPO_090_comp_v11.nk",
             "User": "shkrabo",
             "Plugin": "Nuke",
-            "Progress": "95%",
-            "Tasks": "(21/22)",
-            "Status": "Rendering (1)",
+            "Progress": "4%",
+            "Tasks": "(1/22)",
+            "Status": "Rendering (13)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "SPO_090_comp_v11.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
-        },
-        {
-            "Task_Progress": "0%",
-            "Name": "SPO_100_comp_v07",
-            "Task_name": "SPO_100_comp_v07.nk",
-            "User": "loktev",
-            "Plugin": "Nuke",
-            "Progress": "0%",
-            "Tasks": "(0/25)",
-            "Status": "Rendering (24)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_100_comp_v07.nk",
-            "est.": "unknown",
+            "est.": "00:00:15",
             "Priority": "90"
         }
     ]
