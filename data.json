@@ -2,34 +2,6 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/nebulaz",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(2/17)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "nebulaz",
-            "est.": "04:57:12",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/vol_laser",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "11%",
-            "Tasks": "(2/17)",
-            "Status": "Rendering (5)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_laser",
-            "est.": "03:23:17",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBC_060_v22-/out",
             "Task_name": "WBC_060_v22 - /out/vol",
             "User": "ushakova",
@@ -48,12 +20,12 @@
             "Task_name": "WBC_100_v28 - /out/nebulaz",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "67%",
-            "Tasks": "(56/83)",
+            "Progress": "68%",
+            "Tasks": "(57/83)",
             "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:19:12",
+            "est.": "01:14:09",
             "Priority": "65"
         },
         {
@@ -83,22 +55,34 @@
             "Render": "vol_light",
             "est.": "02:30:46",
             "Priority": "60"
-        }
-    ],
-    "SUMMER_CLASSIC_JOZI": [
+        },
         {
             "Task_Progress": "100%",
-            "Name": "TST_050_comp_L1-",
-            "Task_name": "TST_050_comp_L1-L3_v19.nk",
-            "User": "pavlyuchenkov",
-            "Plugin": "Nuke",
-            "Progress": "23%",
-            "Tasks": "(4/17)",
-            "Status": "Rendering (13)",
-            "Project": "SUMMER_CLASSIC_JOZI",
-            "Render": "TST_050_comp_L1-L3_v19.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/nebulaz",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "11%",
+            "Tasks": "(2/17)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "nebulaz",
+            "est.": "04:57:12",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/vol_laser",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "11%",
+            "Tasks": "(2/17)",
+            "Status": "Rendering (5)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol_laser",
+            "est.": "03:23:17",
+            "Priority": "60"
         }
     ]
 }
