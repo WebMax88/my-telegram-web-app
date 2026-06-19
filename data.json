@@ -6,12 +6,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "53%",
-            "Tasks": "(72/135)",
-            "Status": "Rendering (6)",
+            "Progress": "54%",
+            "Tasks": "(73/135)",
+            "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
-            "est.": "13:14:45",
+            "est.": "08:21:26",
             "Priority": "60"
         },
         {
@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "68%",
             "Tasks": "(92/135)",
-            "Status": "Rendering (4)",
+            "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "10:30:01",
+            "est.": "04:04:06",
             "Priority": "60"
         },
         {
@@ -50,12 +50,12 @@
             "Task_name": "DRN_002_v004 - /stage/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "70%",
-            "Tasks": "(34/48)",
-            "Status": "Rendering (3)",
+            "Progress": "95%",
+            "Tasks": "(46/48)",
+            "Status": "Rendering (2)",
             "Project": "XFINITY_ZOMBIE_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:06:49",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -64,41 +64,11 @@
             "Task_name": "DRN_001_v013 - /stage/main/usdrender_rop",
             "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "73%",
-            "Tasks": "(34/46)",
-            "Status": "Rendering (3)",
+            "Progress": "97%",
+            "Tasks": "(45/46)",
+            "Status": "Rendering (1)",
             "Project": "XFINITY_ZOMBIE_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:06:54",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "DRN_002_v004-/st",
-            "Task_name": "DRN_002_v004 - /stage/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(40/48)",
-            "Status": "Rendering (4)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:01:38",
-            "Priority": "60"
-        }
-    ],
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Scania_BK_TT_v07",
-            "Task_name": "Scania_BK_TT_v07 - /stage/main_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "98%",
-            "Tasks": "(98/100)",
-            "Status": "Rendering (2)",
-            "Project": "SCANIA_BK",
-            "Render": "main_rop",
             "est.": "00:00:01",
             "Priority": "60"
         }
