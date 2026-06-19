@@ -57,19 +57,19 @@
             "Priority": "60"
         }
     ],
-    "NJM_SPOTLIGHT_PRLM": [
+    "AUTODESK_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "SPO_050_comp_v08",
-            "Task_name": "SPO_050_comp_v08.nk",
-            "User": "shkrabo",
+            "Name": "BND_0010_comp_v0",
+            "Task_name": "BND_0010_comp_v05.nk",
+            "User": "sidenina",
             "Plugin": "Nuke",
-            "Progress": "19%",
-            "Tasks": "(5/26)",
-            "Status": "Rendering (3)",
-            "Project": "NJM_SPOTLIGHT_PRLM",
-            "Render": "SPO_050_comp_v08.nk",
-            "est.": "00:01:51",
+            "Progress": "14%",
+            "Tasks": "(1/7)",
+            "Status": "Rendering (4)",
+            "Project": "AUTODESK_PRLM",
+            "Render": "BND_0010_comp_v05.nk",
+            "est.": "00:00:12",
             "Priority": "90"
         }
     ],
@@ -80,12 +80,12 @@
             "Task_name": "Side_Missions_BK_lookdev_Toyota_v007 - /stage/main_rop",
             "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(26/100)",
-            "Status": "Rendering (9)",
+            "Progress": "35%",
+            "Tasks": "(35/100)",
+            "Status": "Rendering (10)",
             "Project": "SIDE_MISSIONS_BK",
             "Render": "main_rop",
-            "est.": "00:23:24",
+            "est.": "00:17:57",
             "Priority": "60"
         }
     ]
