@@ -62,12 +62,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "36%",
-            "Tasks": "(49/135)",
+            "Progress": "38%",
+            "Tasks": "(52/135)",
             "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "09:03:02",
+            "est.": "08:46:42",
             "Priority": "60"
         },
         {
@@ -76,12 +76,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "33%",
-            "Tasks": "(45/135)",
+            "Progress": "34%",
+            "Tasks": "(46/135)",
             "Status": "Rendering (9)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
-            "est.": "12:36:06",
+            "est.": "12:23:37",
             "Priority": "60"
         }
     ]
