@@ -2,6 +2,20 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "WBC_100_v30-/out",
+            "Task_name": "WBC_100_v30 - /out/floor",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "4%",
+            "Tasks": "(4/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "floor",
+            "est.": "14:15:40",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBM_120_v01-/out",
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
@@ -41,20 +55,52 @@
             "Render": "vol",
             "est.": "06:15:21",
             "Priority": "60"
-        },
+        }
+    ],
+    "SIDE_MISSIONS_BK": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v30-/out",
-            "Task_name": "WBC_100_v30 - /out/floor",
-            "User": "mochalova",
+            "Name": "Side_Missions_BK",
+            "Task_name": "Side_Missions_BK_lookdev_Toyota_v007 - /stage/main_rop",
+            "User": "korukaev",
             "Plugin": "Houdini",
-            "Progress": "3%",
-            "Tasks": "(3/83)",
-            "Status": "Rendering (7)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "floor",
-            "est.": "14:27:11",
+            "Progress": "9%",
+            "Tasks": "(9/100)",
+            "Status": "Rendering (3)",
+            "Project": "SIDE_MISSIONS_BK",
+            "Render": "main_rop",
+            "est.": "01:32:37",
             "Priority": "60"
+        }
+    ],
+    "NJM_SPOTLIGHT_PRLM": [
+        {
+            "Task_Progress": "100%",
+            "Name": "SPO_050_comp_v08",
+            "Task_name": "SPO_050_comp_v08.nk",
+            "User": "shkrabo",
+            "Plugin": "Nuke",
+            "Progress": "53%",
+            "Tasks": "(14/26)",
+            "Status": "Rendering (7)",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "SPO_050_comp_v08.nk",
+            "est.": "00:00:09",
+            "Priority": "90"
+        },
+        {
+            "Task_Progress": "0%",
+            "Name": "SPO_100_v11-/out",
+            "Task_name": "SPO_100_v11 - /out/Visor",
+            "User": "chernovbrovyj",
+            "Plugin": "Houdini",
+            "Progress": "0%",
+            "Tasks": "(0/1)",
+            "Status": "Queued",
+            "Project": "NJM_SPOTLIGHT_PRLM",
+            "Render": "Visor",
+            "est.": "unknown",
+            "Priority": "90"
         }
     ]
 }
