@@ -34,9 +34,9 @@
             "Task_name": "WBC_100_v29 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "92%",
-            "Tasks": "(77/83)",
-            "Status": "Rendering (6)",
+            "Progress": "95%",
+            "Tasks": "(79/83)",
+            "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
             "est.": "00:00:01",
@@ -50,10 +50,10 @@
             "Plugin": "Houdini",
             "Progress": "36%",
             "Tasks": "(30/83)",
-            "Status": "Rendering (16)",
+            "Status": "Rendering (18)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "floor",
-            "est.": "03:45:11",
+            "est.": "03:09:21",
             "Priority": "60"
         }
     ]
