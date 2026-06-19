@@ -6,12 +6,12 @@
             "Task_name": "WBM_120_v01 - /out/nebulaz_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "49%",
-            "Tasks": "(41/83)",
+            "Progress": "50%",
+            "Tasks": "(42/83)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_L3",
-            "est.": "05:40:33",
+            "est.": "05:31:30",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WBC_100_v29 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "72%",
-            "Tasks": "(18/25)",
+            "Progress": "76%",
+            "Tasks": "(19/25)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "01:07:30",
+            "est.": "00:49:51",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBM_120_v01 - /out/nebulaz_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(49/83)",
+            "Progress": "60%",
+            "Tasks": "(50/83)",
             "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz_L1",
-            "est.": "04:08:13",
+            "est.": "04:02:57",
             "Priority": "60"
         },
         {
@@ -76,12 +76,12 @@
             "Task_name": "WBC_090_v21 - /out/nebulaz",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "4%",
-            "Tasks": "(2/45)",
+            "Progress": "8%",
+            "Tasks": "(4/45)",
             "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "nebulaz",
-            "est.": "04:39:22",
+            "est.": "04:26:51",
             "Priority": "60"
         },
         {
