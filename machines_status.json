@@ -275,12 +275,12 @@
         "user": "---"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws213",
         "user": "Artemy Goncharov"
     },
     {
-        "status": "Idle",
+        "status": "HouseCleaning",
         "machine": "ws214",
         "user": "Vasilii Druz"
     },
