@@ -20,12 +20,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "78%",
-            "Tasks": "(106/135)",
+            "Progress": "80%",
+            "Tasks": "(108/135)",
             "Status": "Rendering (11)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
-            "est.": "02:20:39",
+            "est.": "02:04:31",
             "Priority": "60"
         },
         {
@@ -34,12 +34,12 @@
             "Task_name": "WBC_100_v29 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "80%",
-            "Tasks": "(67/83)",
+            "Progress": "83%",
+            "Tasks": "(69/83)",
             "Status": "Rendering (10)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "01:11:29",
+            "est.": "00:47:45",
             "Priority": "60"
         },
         {
