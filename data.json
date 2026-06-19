@@ -2,20 +2,48 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "63%",
+            "Tasks": "(53/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "06:32:52",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v30-/out",
+            "Task_name": "WBC_100_v30 - /out/floor",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "3%",
+            "Tasks": "(3/83)",
+            "Status": "Rendering (7)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "floor",
+            "est.": "14:27:11",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
             "Name": "WBM_120_v01-/out",
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "80%",
             "Tasks": "(109/135)",
-            "Status": "Rendering (5)",
+            "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "04:34:41",
+            "est.": "02:27:09",
             "Priority": "60"
         },
         {
-            "Task_Progress": "60%",
+            "Task_Progress": "80%",
             "Name": "WBM_120_comp_v01",
             "Task_name": "WBM_120_comp_v01.nk",
             "User": "stavile",
@@ -30,61 +58,17 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v30-/out",
-            "Task_name": "WBC_100_v30 - /out/floor",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "1%",
-            "Tasks": "(1/83)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "floor",
-            "est.": "17:40:18",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(50/83)",
-            "Status": "Rendering (6)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "09:00:35",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBM_120_v01-/out",
             "Task_name": "WBM_120_v01 - /out/vol_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(82/135)",
+            "Progress": "62%",
+            "Tasks": "(85/135)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
-            "est.": "09:23:06",
+            "est.": "08:42:09",
             "Priority": "60"
-        }
-    ],
-    "XFINITY_ZOMBIE_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DRN_002_v005-/st",
-            "Task_name": "DRN_002_v005 - /stage/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "89%",
-            "Tasks": "(43/48)",
-            "Status": "Rendering (5)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:00:01",
-            "Priority": "75"
         }
     ]
 }
