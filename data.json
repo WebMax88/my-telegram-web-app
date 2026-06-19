@@ -90,12 +90,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(18/135)",
+            "Progress": "14%",
+            "Tasks": "(19/135)",
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
-            "est.": "16:39:40",
+            "est.": "15:51:52",
             "Priority": "60"
         },
         {
@@ -104,12 +104,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "13%",
-            "Tasks": "(18/135)",
+            "Progress": "14%",
+            "Tasks": "(19/135)",
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "04:07:53",
+            "est.": "03:48:26",
             "Priority": "60"
         },
         {
@@ -132,12 +132,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_laser_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "57%",
-            "Tasks": "(26/45)",
+            "Progress": "62%",
+            "Tasks": "(28/45)",
             "Status": "Rendering (4)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_laser_L1",
-            "est.": "03:27:51",
+            "est.": "03:02:37",
             "Priority": "60"
         }
     ]
