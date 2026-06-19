@@ -6,12 +6,12 @@
             "Task_name": "BND_0040_v35 - /obj/lopnet1/BND_240/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "16%",
-            "Tasks": "(9/54)",
-            "Status": "Rendering (8)",
+            "Progress": "33%",
+            "Tasks": "(18/54)",
+            "Status": "Rendering (9)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:22:10",
+            "est.": "00:14:26",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "BND_0040_v35 - /obj/lopnet1/BND_0050/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "47%",
-            "Tasks": "(21/44)",
-            "Status": "Rendering (9)",
+            "Progress": "61%",
+            "Tasks": "(27/44)",
+            "Status": "Rendering (8)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:09:16",
+            "est.": "00:07:00",
             "Priority": "60"
         }
     ],
@@ -85,20 +85,6 @@
             "Render": "vol_L3",
             "est.": "07:06:59",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "66.67%",
-            "Name": "WBC_090_comp_v07",
-            "Task_name": "WBC_090_comp_v07.nk",
-            "User": "shvetsov",
-            "Plugin": "Nuke",
-            "Progress": "93%",
-            "Tasks": "(14/15)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBC_090_comp_v07.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
     "NJM_SPOTLIGHT_PRLM": [
@@ -108,12 +94,12 @@
             "Task_name": "SPO_100_v11 - /out/Visor",
             "User": "chernovbrovyj",
             "Plugin": "Houdini",
-            "Progress": "26%",
-            "Tasks": "(33/123)",
+            "Progress": "44%",
+            "Tasks": "(55/123)",
             "Status": "Rendering (4)",
             "Project": "NJM_SPOTLIGHT_PRLM",
             "Render": "Visor",
-            "est.": "00:21:25",
+            "est.": "00:16:10",
             "Priority": "60"
         }
     ]
