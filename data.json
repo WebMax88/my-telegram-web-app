@@ -1,33 +1,17 @@
 {
-    "SCANIA_BK": [
-        {
-            "Task_Progress": "100%",
-            "Name": "Scania_BK_TT_v07",
-            "Task_name": "Scania_BK_TT_v07 - /stage/main_rop",
-            "User": "chernovbrovyj",
-            "Plugin": "Houdini",
-            "Progress": "100%",
-            "Tasks": "(100/100)",
-            "Status": "Completed",
-            "Project": "SCANIA_BK",
-            "Render": "main_rop",
-            "est.": "00:00:00",
-            "Priority": "60"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/vol",
-            "User": "ushakova",
+            "Name": "WBM_120_v01-/out",
+            "Task_name": "WBM_120_v01 - /out/vol_L1",
+            "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(47/83)",
+            "Progress": "74%",
+            "Tasks": "(101/135)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "08:13:38",
+            "Render": "vol_L1",
+            "est.": "04:09:24",
             "Priority": "60"
         },
         {
@@ -46,20 +30,20 @@
         },
         {
             "Task_Progress": "100%",
-            "Name": "WBM_120_v01-/out",
-            "Task_name": "WBM_120_v01 - /out/vol_L1",
-            "User": "mochalova",
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/vol",
+            "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(100/135)",
+            "Progress": "57%",
+            "Tasks": "(48/83)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_L1",
-            "est.": "04:18:52",
+            "Render": "vol",
+            "est.": "08:02:40",
             "Priority": "60"
         },
         {
-            "Task_Progress": "37%",
+            "Task_Progress": "45%",
             "Name": "WBC_100_v30-/out",
             "Task_name": "WBC_100_v30 - /out/floor",
             "User": "mochalova",
@@ -75,17 +59,17 @@
     ],
     "AUTODESK_PRLM": [
         {
-            "Task_Progress": "0%",
+            "Task_Progress": "100%",
             "Name": "BND_0040_v33-/ob",
             "Task_name": "BND_0040_v33 - /obj/lopnet1/BND_0050/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "0%",
-            "Tasks": "(0/44)",
-            "Status": "Rendering (16)",
+            "Progress": "31%",
+            "Tasks": "(14/44)",
+            "Status": "Rendering (17)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "unknown",
+            "est.": "00:04:22",
             "Priority": "60"
         }
     ]
