@@ -2,41 +2,13 @@
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
-            "Name": "WBC_100_v29-/out",
-            "Task_name": "WBC_100_v29 - /out/vol",
-            "User": "ushakova",
-            "Plugin": "Houdini",
-            "Progress": "83%",
-            "Tasks": "(69/83)",
-            "Status": "Rendering (10)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol",
-            "est.": "00:47:45",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBC_100_v30-/out",
-            "Task_name": "WBC_100_v30 - /out/floor",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "27%",
-            "Tasks": "(23/83)",
-            "Status": "Rendering (10)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "floor",
-            "est.": "08:10:36",
-            "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
             "Name": "WBM_120_v01-/out",
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "97%",
-            "Tasks": "(131/135)",
-            "Status": "Rendering (4)",
+            "Tasks": "(132/135)",
+            "Status": "Rendering (3)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
             "est.": "00:00:01",
@@ -54,6 +26,34 @@
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
             "est.": "01:56:29",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v29-/out",
+            "Task_name": "WBC_100_v29 - /out/vol",
+            "User": "ushakova",
+            "Plugin": "Houdini",
+            "Progress": "83%",
+            "Tasks": "(69/83)",
+            "Status": "Rendering (11)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "vol",
+            "est.": "00:32:33",
+            "Priority": "60"
+        },
+        {
+            "Task_Progress": "100%",
+            "Name": "WBC_100_v30-/out",
+            "Task_name": "WBC_100_v30 - /out/floor",
+            "User": "mochalova",
+            "Plugin": "Houdini",
+            "Progress": "27%",
+            "Tasks": "(23/83)",
+            "Status": "Rendering (10)",
+            "Project": "WBW_KRYPTO_DEJAVU",
+            "Render": "floor",
+            "est.": "08:10:36",
             "Priority": "60"
         }
     ]
