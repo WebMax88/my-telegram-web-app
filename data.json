@@ -6,12 +6,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L1",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "74%",
-            "Tasks": "(101/135)",
+            "Progress": "75%",
+            "Tasks": "(102/135)",
             "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "04:09:24",
+            "est.": "03:59:48",
             "Priority": "60"
         },
         {
@@ -20,12 +20,12 @@
             "Task_name": "WBM_120_v01 - /out/vol_L3",
             "User": "mochalova",
             "Plugin": "Houdini",
-            "Progress": "56%",
-            "Tasks": "(76/135)",
-            "Status": "Rendering (9)",
+            "Progress": "59%",
+            "Tasks": "(80/135)",
+            "Status": "Rendering (8)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
-            "est.": "07:59:37",
+            "est.": "08:21:17",
             "Priority": "60"
         },
         {
@@ -43,14 +43,14 @@
             "Priority": "60"
         },
         {
-            "Task_Progress": "45%",
+            "Task_Progress": "46%",
             "Name": "WBC_100_v30-/out",
             "Task_name": "WBC_100_v30 - /out/floor",
             "User": "mochalova",
             "Plugin": "Houdini",
             "Progress": "0%",
             "Tasks": "(0/83)",
-            "Status": "Rendering (5)",
+            "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "floor",
             "est.": "unknown",
@@ -64,12 +64,12 @@
             "Task_name": "BND_0040_v33 - /obj/lopnet1/BND_0050/usdrender_rop",
             "User": "glavatskih",
             "Plugin": "Houdini",
-            "Progress": "31%",
-            "Tasks": "(14/44)",
-            "Status": "Rendering (17)",
+            "Progress": "75%",
+            "Tasks": "(33/44)",
+            "Status": "Rendering (11)",
             "Project": "AUTODESK_PRLM",
             "Render": "usdrender_rop",
-            "est.": "00:04:22",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
