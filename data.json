@@ -1,34 +1,4 @@
 {
-    "XFINITY_ZOMBIE_PRLM": [
-        {
-            "Task_Progress": "100%",
-            "Name": "DRN_002_v005-/st",
-            "Task_name": "DRN_002_v005 - /stage/main/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "60%",
-            "Tasks": "(29/48)",
-            "Status": "Rendering (5)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:06:20",
-            "Priority": "75"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "DRN_002_v005-/st",
-            "Task_name": "DRN_002_v005 - /stage/shadow/usdrender_rop",
-            "User": "veber",
-            "Plugin": "Houdini",
-            "Progress": "75%",
-            "Tasks": "(36/48)",
-            "Status": "Rendering (5)",
-            "Project": "XFINITY_ZOMBIE_PRLM",
-            "Render": "usdrender_rop",
-            "est.": "00:02:53",
-            "Priority": "75"
-        }
-    ],
     "WBW_KRYPTO_DEJAVU": [
         {
             "Task_Progress": "100%",
@@ -38,21 +8,21 @@
             "Plugin": "Houdini",
             "Progress": "80%",
             "Tasks": "(109/135)",
-            "Status": "Rendering (1)",
+            "Status": "Rendering (5)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "03:15:05",
+            "est.": "04:34:41",
             "Priority": "60"
         },
         {
-            "Task_Progress": "20%",
+            "Task_Progress": "60%",
             "Name": "WBM_120_comp_v01",
             "Task_name": "WBM_120_comp_v01.nk",
             "User": "stavile",
             "Plugin": "Nuke",
-            "Progress": "35%",
-            "Tasks": "(6/17)",
-            "Status": "Rendering (11)",
+            "Progress": "64%",
+            "Tasks": "(11/17)",
+            "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "WBM_120_comp_v01.nk",
             "est.": "00:00:01",
@@ -78,12 +48,12 @@
             "Task_name": "WBC_100_v29 - /out/vol",
             "User": "ushakova",
             "Plugin": "Houdini",
-            "Progress": "59%",
-            "Tasks": "(49/83)",
+            "Progress": "60%",
+            "Tasks": "(50/83)",
             "Status": "Rendering (6)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "09:21:42",
+            "est.": "09:00:35",
             "Priority": "60"
         },
         {
@@ -94,41 +64,27 @@
             "Plugin": "Houdini",
             "Progress": "60%",
             "Tasks": "(82/135)",
-            "Status": "Rendering (6)",
+            "Status": "Rendering (7)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L3",
-            "est.": "11:11:14",
+            "est.": "09:23:06",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBM_120_comp_v01",
-            "Task_name": "WBM_120_comp_v01.nk",
-            "User": "stavile",
-            "Plugin": "Nuke",
-            "Progress": "96%",
-            "Tasks": "(26/27)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "WBM_120_comp_v01.nk",
-            "est.": "00:00:01",
-            "Priority": "90"
         }
     ],
-    "AUTODESK_PRLM": [
+    "XFINITY_ZOMBIE_PRLM": [
         {
             "Task_Progress": "100%",
-            "Name": "BND_0040_v34-/ob",
-            "Task_name": "BND_0040_v34 - /obj/lopnet1/BND_240/usdrender_rop",
-            "User": "glavatskih",
+            "Name": "DRN_002_v005-/st",
+            "Task_name": "DRN_002_v005 - /stage/main/usdrender_rop",
+            "User": "veber",
             "Plugin": "Houdini",
-            "Progress": "88%",
-            "Tasks": "(48/54)",
-            "Status": "Rendering (6)",
-            "Project": "AUTODESK_PRLM",
+            "Progress": "89%",
+            "Tasks": "(43/48)",
+            "Status": "Rendering (5)",
+            "Project": "XFINITY_ZOMBIE_PRLM",
             "Render": "usdrender_rop",
             "est.": "00:00:01",
-            "Priority": "60"
+            "Priority": "75"
         }
     ]
 }
