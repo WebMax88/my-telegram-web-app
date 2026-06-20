@@ -8,10 +8,10 @@
             "Plugin": "Houdini",
             "Progress": "98%",
             "Tasks": "(82/83)",
-            "Status": "Queued",
+            "Status": "Rendering (1)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "60"
         },
         {
@@ -22,10 +22,10 @@
             "Plugin": "Houdini",
             "Progress": "98%",
             "Tasks": "(133/135)",
-            "Status": "Queued",
+            "Status": "Rendering (2)",
             "Project": "WBW_KRYPTO_DEJAVU",
             "Render": "vol_L1",
-            "est.": "unknown",
+            "est.": "00:00:01",
             "Priority": "60"
         }
     ]
