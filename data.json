@@ -13,20 +13,6 @@
             "Render": "vol",
             "est.": "00:00:01",
             "Priority": "60"
-        },
-        {
-            "Task_Progress": "100%",
-            "Name": "WBM_120_v01-/out",
-            "Task_name": "WBM_120_v01 - /out/vol_L1",
-            "User": "mochalova",
-            "Plugin": "Houdini",
-            "Progress": "99%",
-            "Tasks": "(134/135)",
-            "Status": "Rendering (1)",
-            "Project": "WBW_KRYPTO_DEJAVU",
-            "Render": "vol_L1",
-            "est.": "00:00:01",
-            "Priority": "60"
         }
     ]
 }
