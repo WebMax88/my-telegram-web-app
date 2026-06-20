@@ -70,7 +70,7 @@
         "user": "Mary Mochalova"
     },
     {
-        "status": "Offline",
+        "status": "Rendering",
         "machine": "ws55",
         "user": "Alexey Golovatskiy"
     },
@@ -95,7 +95,7 @@
         "user": "Max Weber"
     },
     {
-        "status": "Offline",
+        "status": "HouseCleaning",
         "machine": "ws69",
         "user": "Dmitrii Kovtoenko"
     },
@@ -125,7 +125,7 @@
         "user": "Kostya Loktev"
     },
     {
-        "status": "Offline",
+        "status": "Idle",
         "machine": "ws120",
         "user": "Misha Tabratov   IT disabled"
     },
@@ -175,7 +175,7 @@
         "user": "---"
     },
     {
-        "status": "Offline",
+        "status": "Rendering",
         "machine": "ws155",
         "user": "Freelancer - Denis Pokhodyaev"
     },
@@ -230,7 +230,7 @@
         "user": "Pavel Kufterin"
     },
     {
-        "status": "HouseCleaning",
+        "status": "Idle",
         "machine": "ws203",
         "user": "Olesya Sidenina"
     },
