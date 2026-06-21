@@ -736,38 +736,37 @@
 
     async function loadData() {
       try {
-        const ts = Date.now();
-
-        const [projectsResponse, machinesResponse] = await Promise.all([
-          fetch("./data.json?_=" + ts, { cache: "no-store" }),
-          fetch("./machines_status.json?_=" + ts, { cache: "no-store" })
-        ]);
-
-        if (!projectsResponse.ok) {
-          throw new Error("data.json HTTP " + projectsResponse.status);
-        }
-
-        if (!machinesResponse.ok) {
-          throw new Error("machines.json HTTP " + machinesResponse.status);
-        }
-
-        const lastModified =
-          projectsResponse.headers.get("last-modified") ||
-          projectsResponse.headers.get("Last-Modified");
-
-        const projectsData = await projectsResponse.json();
-        const machinesData = await machinesResponse.json();
-
-        latestProjectsData = projectsData;
-        latestMachinesData = machinesData;
-
-        renderAllProjects(projectsData, machinesData);
-        enableRowSelection();
-        setLastUpdated(lastModified || new Date().toISOString());
+          const ts = Date.now();
+          const GIST_ID         = "7b20410b977a2b092c6c66fe377e6a4c";
+          const GIST_ID_MACHINES = "d4742ef179b2134236cec5d1ceddab90";
+  
+          const [gistResp1, gistResp2] = await Promise.all([
+              fetch(`https://api.github.com/gists/${GIST_ID}?_=${ts}`, { cache: "no-store" }),
+              fetch(`https://api.github.com/gists/${GIST_ID_MACHINES}?_=${ts}`, { cache: "no-store" })
+          ]);
+  
+          if (!gistResp1.ok) throw new Error("Gist data API "     + gistResp1.status);
+          if (!gistResp2.ok) throw new Error("Gist machines API " + gistResp2.status);
+  
+          const [gist1, gist2] = await Promise.all([
+              gistResp1.json(),
+              gistResp2.json()
+          ]);
+  
+          const projectsData = JSON.parse(gist1.files["data.json"].content);
+          const machinesData = JSON.parse(gist2.files["machines_status.json"].content);
+  
+          latestProjectsData = projectsData;
+          latestMachinesData = machinesData;
+  
+          renderAllProjects(projectsData, machinesData);
+          enableRowSelection();
+          setLastUpdated(gist1.updated_at || new Date().toISOString());
+  
       } catch (e) {
-        console.error("Failed to load json", e);
+          console.error("Failed to load json", e);
       }
-    }
+  }
 
     loadData();
     setInterval(loadData, 15000);
