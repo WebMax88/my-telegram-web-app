@@ -16,7 +16,7 @@ jobs:
 
       - name: Inject Gist token
         run: |
-          sed -i 's/GIST_TOKEN_PLACEHOLDER/${{ secrets.GIST_READ_TOKEN }}/g' my-telegram-web-app.html
+          sed -i 's/GIST_TOKEN_PLACEHOLDER/${{ secrets.GIST_READ_TOKEN }}/g' index.html
 
       - uses: actions/upload-pages-artifact@v3
         with:
