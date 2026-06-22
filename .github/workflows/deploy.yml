@@ -16,8 +16,9 @@ jobs:
 
       - name: Inject Gist token
         run: |
-          sed -i 's/GIST_TOKEN_PLACEHOLDER/${{ secrets.GIST_READ_TOKEN }}/g' index.html
-
+          sed -i "s|GIST_TOKEN_PLACEHOLDER|${{ secrets.GIST_READ_TOKEN }}|g" index.html
+          grep -q "GIST_TOKEN_PLACEHOLDER" index.html && echo "❌ PLACEHOLDER STILL EXISTS" || echo "✅ Token injected"
+      
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
