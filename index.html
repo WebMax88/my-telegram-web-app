@@ -739,25 +739,24 @@
           const ts = Date.now();
           const GIST_ID          = "7b20410b977a2b092c6c66fe377e6a4c";
           const GIST_ID_MACHINES = "d4742ef179b2134236cec5d1ceddab90";
-          const READ_ONLY        = "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";
 
           console.log("1. Fetching gists...");
   
-          //const [gistResp1, gistResp2] = await Promise.all([
-          //    fetch(`https://api.github.com/gists/${GIST_ID}?_=${ts}`, { cache: "no-store" }),
-          //    fetch(`https://api.github.com/gists/${GIST_ID_MACHINES}?_=${ts}`, { cache: "no-store" })
-          //]);
-        
           const [gistResp1, gistResp2] = await Promise.all([
-              fetch(`https://api.github.com/gists/${GIST_ID}?_=${ts}`, {
-                  cache: "no-store",
-                  headers: { "Authorization": `Bearer ${READ_ONLY}` }
-              }),
-              fetch(`https://api.github.com/gists/${GIST_ID_MACHINES}?_=${ts}`, {
-                  cache: "no-store",
-                  headers: { "Authorization": `Bearer ${READ_ONLY}` }
-              }),
+              fetch(`https://api.github.com/gists/${GIST_ID}?_=${ts}`, { cache: "no-store" }),
+              fetch(`https://api.github.com/gists/${GIST_ID_MACHINES}?_=${ts}`, { cache: "no-store" })
           ]);
+        
+          //const [gistResp1, gistResp2] = await Promise.all([
+          //    fetch(`https://api.github.com/gists/${GIST_ID}?_=${ts}`, {
+          //        cache: "no-store",
+          //        headers: { "Authorization": `Bearer ${READ_ONLY}` }
+          //    }),
+          //    fetch(`https://api.github.com/gists/${GIST_ID_MACHINES}?_=${ts}`, {
+          //        cache: "no-store",
+          //        headers: { "Authorization": `Bearer ${READ_ONLY}` }
+          //    }),
+          //]);
                   
           console.log("2. resp1:", gistResp1.status, "resp2:", gistResp2.status);
         
@@ -792,7 +791,7 @@
   }
 
     loadData();
-    setInterval(loadData, 90000);
+    setInterval(loadData, 180000);
 
   </script>
 </body>
